@@ -28,3 +28,11 @@ https://twitter.com/O_Kandpalleiro/status/1402536901773496322
 https://www.juntadeandalucia.es/servicioandaluzdeempleo/web/argos/web/es/ARGOS/Mas_servicios/observatorios_de_empleo.html
 http://www.iteweb.es/extremadura
 …y todos los resultados de «observatorio municipal de…» en Google
+
+Añadir: observatorio de tecnología y sociedad
+
+
+Observatorio de  Emprendimiento Digital > https://twitter.com/SEDIAgob/status/1405493405233434626
+https://twitter.com/GEM_es
+
+https://www.google.com/search?client=firefox-b-d&q=intitle%3A%22Observatorio+Municipal%22
