@@ -1,0 +1,41 @@
+:root{
+    --primary-color: rgb(50, 124, 159);
+    color-scheme: light;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+html, body{
+    height: 100%;
+}
+
+header{
+    background-color: var(--primary-color);
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+main{
+    padding: 20px;
+}
+
+h2{
+    margin-top: 0.5rem;
+}
+
+a{
+    color: var(--primary-color);
+}
+
+li.card{
+    list-style: none;
+    padding: 0.5rem;
+    border: 0.1rem solid #ccc;
+    border-radius: 0.2rem;
+    margin-bottom: 0.5rem;
+}

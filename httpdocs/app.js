@@ -1,7 +1,5 @@
 import observatories from './assets/observatories.json' assert { type: 'json' }
 
-console.log(observatories)
-
 const types = [
   {
     key: 'public',
@@ -31,8 +29,8 @@ console.log(ul)
 ul.innerHTML = observatories
   .map(
     ({ name, parent, description, type, scope }) => `
-    <li>
-      <h2>${name}</h2>
+    <li class="card">
+      <h3>${name}</h2>
       <p>${parent}</p>
       <p>${description ?? '…'}</p>
       <p>Tipo: ${types.find(({ key }) => key === type).name}</p>
