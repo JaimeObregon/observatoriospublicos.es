@@ -19,8 +19,16 @@ const scopes = [
     name: 'Estatal',
   },
   {
+    key: 'ayuntamiento',
+    name: 'Ayuntamiento',
+  },
+  {
     key: 'cataluna',
     name: 'Cataluña',
+  },
+  {
+    key: 'madrid',
+    name: 'Madrid',
   },
 ]
 
@@ -332,6 +340,42 @@ const observatories = [
   },
   {
     name: 'Observatorio Global del Español',
+  },
+  {
+    name: 'Observatorio Urbano de Alcalá de Henares',
+    parents: [
+      'Ayuntamiento de Alcalá de Henares',
+    ],
+    website: 'https://www.ayto-alcaladehenares.es/el-salon-de-plenos-acoge-el-acto-ejecutivo-del-plan-de-accion-de-la-agenda-urbana-de-alcala/',
+    scope: 'ayuntamiento',
+    type: 'public',
+  },
+  {
+    name: 'Observatorio de violencia de género de Alcalá',
+    parents: [
+      'Ayuntamiento de Alcalá de Henares',
+    ],
+    website: 'https://www.ayto-alcaladehenares.es/el-observatorio-de-violencia-de-genero-de-alcala-ha-atendido-a-mas-de-1500-mujeres-desde-2004-2/',
+    scope: 'ayuntamiento',
+    type: 'public',
+  },
+  {
+    name: 'Observatorio Sociodemográfico del Ayuntamiento de Alcalá de Henares',
+    parents: [
+      'Ayuntamiento de Alcalá de Henares',
+    ],
+    website: 'https://urbanismo.ayto-alcaladehenares.es/observatorio-sociodemografico-2/',
+    scope: 'ayuntamiento',
+    type: 'public',
+  },
+  {
+    name: 'Observatorio Alcalá en cifras',
+    parents: [
+      'Ayuntamiento de Alcalá de Henares',
+    ],
+    website: 'https://www.ayto-alcaladehenares.es/presentacion-del-observatorio-urbano-alcala-en-cifras/',
+    scope: 'ayuntamiento',
+    type: 'public',
   },
 ]
 
