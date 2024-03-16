@@ -1,3 +1,7 @@
+const html = (strings, ...values) => {
+  return String.raw({ raw: strings }, ...values)
+}
+
 const types = [
   {
     key: 'public',
@@ -22,25 +26,63 @@ const scopes = [
 
 const observatories = [
   {
+    name: '', // Nombre del observatorio
+    url: '', // Sitio web
+    parents: [], // Organismos públicos de los que depende
+    scope: '', // Ámbito territorial: estatal, comunidad autónoma o ayuntamiento,
+    type: '', // Si es público o público-privado
+    docs: [], // Muestra de algunos de sus últimos informes publicados
+    members: [], // Algunos Organismos que lo componen, si es el caso
+    comment: '', //
+  },
+
+  {
     name: 'Observatorio contra el Fraude y la Corrupción Sanitaria',
-    parent: 'Ministerio de Sanidad',
-    description:
-      '<a href="https://twitter.com/Monica_Garcia_G/status/1768227454223565199">Anunciado</a> por la ministra de Sanidad el 14 de marzo de 2024',
+    parents: ['Ministerio de Sanidad'],
+    description: html`<a
+        href="https://twitter.com/Monica_Garcia_G/status/1768227454223565199"
+        >Anunciado</a
+      >
+      por la ministra de Sanidad el 14 de marzo de 2024.`,
     scope: 'estatal',
     type: 'public',
   },
   {
     name: 'Observatorio de Salud de las Mujeres',
-    parent:
-      'Secretaría de Estado de Sanidad | Dirección General de Salud Pública | Ministerio de Sanidad',
+    parents: [
+      'Ministerio de Sanidad',
+      'Secretaría de Estado de Sanidad',
+      'Dirección General de Salud Pública',
+    ],
     website: 'https://www.observatoriosaludmujeres.es',
     scope: 'estatal',
     type: 'public',
   },
   {
     name: 'Observatorio del ferrocarril en España',
-    parent: 'Ministerio de Transportes y Movilidad Sostenible',
-
+    parents: ['Ministerio de Transportes y Movilidad Sostenible'],
+    docs: [
+      {
+        name: 'Informe 2022',
+        url: 'https://cdn.transportes.gob.es/portal-web-transportes/ferroviario/observatorio/ofe_2022_feb2024_v3.3_prot.pdf',
+      },
+      {
+        name: 'Informe 2021',
+        url: 'https://cdn.mitma.gob.es/portal-web-drupal/ferroviario/observatorio/ofe_2021_feb2023_v2.pdf',
+      },
+      {
+        name: 'Informe 2020',
+        url: 'https://cdn.mitma.gob.es/portal-web-drupal/ferroviario/observatorio/ofe_2020.pdf',
+      },
+      {
+        name: 'Informe 2019',
+        url: 'https://cdn.mitma.gob.es/portal-web-drupal/ferroviario/observatorio/ofe_2019_mar2021.pdf',
+      },
+      {
+        name: 'Informe 2018',
+        url: 'https://cdn.mitma.gob.es/portal-web-drupal/ferroviario/observatorio/ofe2018_rev.pdf',
+      },
+    ],
     website:
       'https://www.transportes.gob.es/ferrocarriles/observatorios/observatorio-del-ferrocarril-en-espana',
     scope: 'estatal',
@@ -126,6 +168,7 @@ const observatories = [
   },
   {
     name: 'Observatorio del Transporte y la Logística en España',
+    website: 'https://otle.transportes.gob.es',
   },
   {
     name: 'Observatorio do Sector Lácteo de Galicia',
@@ -291,24 +334,25 @@ const observatories = [
   },
 ]
 
-const ul = document.getElementsByTagName('section')[0]
+const container = document.getElementsByTagName('section')[0]
+const count = document.getElementsByTagName('mark')[0]
 
-console.log(ul)
+count.innerHTML = observatories.length
 
-ul.innerHTML = observatories
+container.innerHTML = observatories
   .map(
-    ({ name, website, parent, description, type, scope }) => `
-    <article>
-      <h2>${name}</h2>
-      <p>${parent ?? ''}</p>
-      <p><a href="${website}">${website ?? ''}</a></p>
-      <p>${description ?? '…'}</p>
-      <p>Tipo: ${type ? types.find(({ key }) => key === type).name : '…'}</p>
-      <p>Ámbito: ${
-        scope ? scopes.find(({ key }) => key === scope).name : '…'
-      }</p>
-    </article>
-`
+    ({ name, website, parent, description, type, scope }) => html`
+      <article>
+        <h2>${name}</h2>
+        <p>${parent ?? ''}</p>
+        <p><a href="${website}">${website ?? ''}</a></p>
+        <p>${description ?? '…'}</p>
+        <p>Tipo: ${type ? types.find(({ key }) => key === type).name : '…'}</p>
+        <p>
+          Ámbito: ${scope ? scopes.find(({ key }) => key === scope).name : '…'}
+        </p>
+      </article>
+    `
   )
   .join('')
 
