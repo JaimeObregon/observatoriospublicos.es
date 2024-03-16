@@ -1,0 +1,22 @@
+body {
+  max-width: 56em;
+  margin: auto;
+}
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+section article {
+  flex: 1;
+  padding: 1em;
+  min-width: 18em;
+}
+
+@media (max-width: 960px) {
+  section article {
+    /* flex: 100%; */
+  }
+}
