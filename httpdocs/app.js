@@ -27,7 +27,8 @@ const scopes = [
 const observatories = [
   // {
   //   name: '', // Nombre del observatorio
-  //   url: '', // Sitio web
+  //   website: '', // Sitio web
+  //   email: '', // Correo electrónico,
   //   parents: [], // Organismos públicos de los que depende
   //   scope: '', // Ámbito territorial: estatal, comunidad autónoma o ayuntamiento,
   //   type: '', // Si es público o público-privado
@@ -39,7 +40,7 @@ const observatories = [
   {
     name: 'Observatorio contra el Fraude y la Corrupción Sanitaria',
     parents: ['Ministerio de Sanidad'],
-    description: html`<a
+    comment: html`<a
         href="https://twitter.com/Monica_Garcia_G/status/1768227454223565199"
         >Anunciado</a
       >
@@ -341,16 +342,24 @@ count.innerHTML = observatories.length
 
 container.innerHTML = observatories
   .map(
-    ({ name, website, parent, description, type, scope }) => html`
+    ({
+      name,
+      website,
+      email,
+      parents,
+      scope,
+      type,
+      docs,
+      members,
+      comment,
+    }) => html`
       <article>
         <h2>${name}</h2>
-        <p>${parent ?? ''}</p>
-        <p><a href="${website}">${website ?? ''}</a></p>
-        <p>${description ?? '…'}</p>
-        <p>Tipo: ${type ? types.find(({ key }) => key === type).name : '…'}</p>
-        <p>
-          Ámbito: ${scope ? scopes.find(({ key }) => key === scope).name : '…'}
-        </p>
+        ${parents ? `<div>${parents.join(', ')}</div>` : ''}
+        ${website ? `<p><a href="${website}">Sitio web</a></p>` : ''}
+        ${comment ? `<div>${comment}</div>` : ''}
+        ${type ? `<p>${types.find(({ key }) => key === type).name}` : ''}
+        ${scope ? `<p>${scopes.find(({ key }) => key === scope).name}` : ''}
       </article>
     `
   )
