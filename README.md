@@ -31,8 +31,7 @@ http://www.iteweb.es/extremadura
 
 Añadir: observatorio de tecnología y sociedad
 
-
-Observatorio de  Emprendimiento Digital > https://twitter.com/SEDIAgob/status/1405493405233434626
+Observatorio de Emprendimiento Digital > https://twitter.com/SEDIAgob/status/1405493405233434626
 https://twitter.com/GEM_es
 
 https://www.google.com/search?client=firefox-b-d&q=intitle%3A%22Observatorio+Municipal%22
