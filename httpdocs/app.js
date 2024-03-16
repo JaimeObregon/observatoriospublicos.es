@@ -25,16 +25,16 @@ const scopes = [
 ]
 
 const observatories = [
-  {
-    name: '', // Nombre del observatorio
-    url: '', // Sitio web
-    parents: [], // Organismos públicos de los que depende
-    scope: '', // Ámbito territorial: estatal, comunidad autónoma o ayuntamiento,
-    type: '', // Si es público o público-privado
-    docs: [], // Muestra de algunos de sus últimos informes publicados
-    members: [], // Algunos Organismos que lo componen, si es el caso
-    comment: '', //
-  },
+  // {
+  //   name: '', // Nombre del observatorio
+  //   url: '', // Sitio web
+  //   parents: [], // Organismos públicos de los que depende
+  //   scope: '', // Ámbito territorial: estatal, comunidad autónoma o ayuntamiento,
+  //   type: '', // Si es público o público-privado
+  //   docs: [], // Muestra de algunos de sus últimos informes publicados
+  //   members: [], // Algunos Organismos que lo componen, si es el caso
+  //   comment: '', //
+  // },
 
   {
     name: 'Observatorio contra el Fraude y la Corrupción Sanitaria',

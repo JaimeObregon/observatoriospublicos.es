@@ -1,16 +1,10 @@
 video {
-  float: left;
-  max-width: 24em;
-  margin: 0 1em 1em 0;
-
-  @media (max-width: 1024px) {
-    float: none;
-    max-width: 100%;
+  width: 100%;
+  @media (min-width: 1024px) {
+    float: left;
+    max-width: 24em;
+    margin-right: 1em;
   }
-}
-
-h2 {
-  clear: left;
 }
 
 section {
