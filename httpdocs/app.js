@@ -48,20 +48,20 @@ const observatories = [
   },
 ]
 
-const ul = document.getElementsByTagName('ul')[0]
+const ul = document.getElementsByTagName('main')[0]
 
 console.log(ul)
 
 ul.innerHTML = observatories
   .map(
     ({ name, parent, description, type, scope }) => `
-    <li>
+    <article>
       <h2>${name}</h2>
       <p>${parent}</p>
       <p>${description ?? '…'}</p>
       <p>Tipo: ${types.find(({ key }) => key === type).name}</p>
       <p>Ámbito: ${scopes.find(({ key }) => key === scope).name}</p>
-    </li>
+    </article>
 `
   )
   .join('')
