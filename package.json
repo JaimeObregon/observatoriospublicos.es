@@ -1,0 +1,28 @@
+{
+  "name": "observatoriospublicos.es",
+  "version": "1.0.0",
+  "description": "Observatorio de los observatorios públicos de España",
+  "homepage": "https://observatoriospublicos.es",
+  "bugs": {
+    "url": "https://github.com/JaimeObregon/observatoriospublicos.es/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaimeObregon/observatoriospublicos.es.git"
+  },
+  "license": "AGPL-3.0-or-later",
+  "author": "Jaime Gómez-Obregón",
+  "type": "module",
+  "main": "httpdocs/index.html",
+  "scripts": {
+    "serve": "bin/serve.js"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "prettier": "^2.8.2"
+  }
+}

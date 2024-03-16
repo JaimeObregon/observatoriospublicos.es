@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "isBackground": true,
+      "label": "Arranca el servidor de desarrollo",
+      "runOptions": {
+        "runOn": "folderOpen"
+      },
+      "script": "serve",
+      "type": "npm"
+    }
+  ],
+  "version": "2.0.0"
+}
