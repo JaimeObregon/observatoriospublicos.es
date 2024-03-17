@@ -21,6 +21,8 @@ section {
     display: flex;
     flex-direction: column;
 
+    cursor: pointer;
+
     h2 {
       font-size: 1.15em;
     }
@@ -40,22 +42,23 @@ section {
     color: rgb(255, 255, 255);
 
     &:hover {
-      box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2),
+        0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
 
-    &.estatal{
+    &.estatal {
       background-color: rgba(0, 0, 255, 0.75);
     }
 
-    &.cataluna{
+    &.cataluna {
       background-color: rgba(232, 141, 33, 0.75);
     }
 
-    &.mixed{
+    &.mixed {
       background-color: rgba(255, 0, 0, 0.75);
     }
 
-    &.public{
+    &.public {
       background-color: rgba(213, 213, 22, 0.75);
     }
   }
