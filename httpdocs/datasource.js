@@ -369,8 +369,8 @@ const observatories = [
         url: 'https://cervantes.org/es/sobre-nosotros/sala-prensa/notas-prensa/observatorio-global-espanol-materializa-su-puesta-marcha',
       },
     ],
-    from_date: '2022-06'
-    is_active: 'Sí'
+    from_date: '2022-06',
+    is_active: 'Sí',
   },
   {
     name: 'Observatorio Permanente de la Inmigración (OPI) ',
