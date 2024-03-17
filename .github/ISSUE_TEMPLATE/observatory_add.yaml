@@ -1,0 +1,76 @@
+name: "Agregar un nuevo observatorio"
+description: Use esta plantilla para agregar un nuevo observatorio a la base de datos.
+title: "[NUEVO OBSERVATORIO]"
+labels: ["new-observatory"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: "Nombre del observatorio (OBLIGATORIO)"
+      description: Por favor, proporciona el nombre del observatorio.
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: "Sitio web"
+      description: Si el observatorio tiene un sitio web, por favor proporciona el enlace aquí.
+    validations:
+      required: true
+  - type: input
+    id: email
+    attributes:
+      label: "Correo electrónico"
+      description: Si el observatorio tiene un correo electrónico de contacto, por favor proporciona el correo electrónico aquí.
+    validations:
+      required: false
+  - type: textarea
+    id: public_organisms
+    attributes:
+      label: "Organismos públicos de los que depende"
+      description: Por favor, proporciona una lista de los organismos públicos de los que depende el observatorio.
+    validations:
+      required: false
+  - type: dropdown
+    id: territorial_scope
+    attributes:
+      label: "Ámbito territorial"
+      description: Por favor, selecciona el ámbito territorial del observatorio.
+      options:
+        - estatal
+        - autonómico
+        - provincial
+        - local
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: "Tipo"
+      description: Por favor, selecciona si el observatorio es público o mixto.
+      options:
+        - publico
+        - mixto
+    validations:
+      required: true
+  - type: textarea
+    id: published_reports
+    attributes:
+      label: "Informes publicados"
+      description: Por favor, proporciona una lista de algunos de los últimos informes publicados por el observatorio.
+    validations:
+      required: false
+  - type: textarea
+    id: composing_organisms
+    attributes:
+      label: "Organismos que lo componen"
+      description: Por favor, proporciona una lista de algunos de los organismos que componen el observatorio, si es el caso.
+    validations:
+      required: false
+  - type: textarea
+    id: comments
+    attributes:
+      label: "Comentarios"
+      description: Si tienes algún comentario adicional sobre el observatorio, por favor proporciona esa información aquí.
+    validations:
+      required: false
