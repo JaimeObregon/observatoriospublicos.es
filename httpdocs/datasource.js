@@ -118,9 +118,35 @@ const observatories = [
   },
   {
     name: 'Observatorio de Igualdad de Oportunidades entre Mujeres y Hombres',
+    website:
+      'https://www.inmujeres.gob.es/observatorios/observIgualdad/home.htm',
+    type: 'public',
+    scope: 'estatal',
+    parents: ['Ministerio de Igualdad', 'Instituto de las Mujeres'],
+    docs: [
+      {
+        name: 'Real Decreto 1686/2000, de 6 de octubre, por el que se crea el Observatorio de la Igualdad de Oportunidades entre mujeres y hombres',
+        url: 'https://www.inmujeres.gob.es/observatorios/observIgualdad/docs/realDecreto.pdf',
+      },
+    ],
+  },
+  {
+    name: 'Observatorio de la Imagen de las Mujeres',
+    website: 'https://www.inmujeres.gob.es/observatorios/observImg/home.htm',
+    type: 'public',
+    scope: 'estatal',
+    parents: ['Ministerio de Igualdad', 'Instituto de las Mujeres'],
   },
   {
     name: 'Observatorio de la Cadena Alimentaria',
+    website:
+      'https://www.mapa.gob.es/es/alimentacion/temas/observatorio-cadena/organizacion-y-estructura/',
+    parents: [
+      'Dirección General de la Industria Alimentaria',
+      'Ministerio de Agricultura, Pesca y Alimentación',
+    ],
+    scope: 'estatal',
+    type: 'public',
   },
   {
     name: 'Observatorio de la Ciencia Ciudadana',
