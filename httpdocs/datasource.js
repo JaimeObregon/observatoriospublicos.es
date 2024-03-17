@@ -330,7 +330,7 @@ const observatories = [
     name: 'Observatorio Galego Contra a Discriminación por Orientación Sexual e Identidade de Xénero',
   },
   {
-    name: 'observatorio Galego da biodiversidade',
+    name: 'Observatorio Galego da biodiversidade',
   },
   {
     name: 'Observatorio Galego da Violencia de Xénero',
