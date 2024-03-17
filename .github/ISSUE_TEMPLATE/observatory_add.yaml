@@ -89,7 +89,7 @@ body:
     validations:
       required: false
   - type: dropdown
-    id: type
+    id: is_active
     attributes:
       label: "En activo"
       description: Si el observatorio está en activo, si no, dejar en blanco.
