@@ -130,6 +130,8 @@ const observatories = [
   },
   {
     name: 'Observatorio de la Infancia de España',
+    website:
+      'https://observatoriodelainfancia.mdsocialesa2030.gob.es/queEs/home.htm',
   },
   {
     name: 'Observatorio de la Infancia de Andalucía',
@@ -311,7 +313,28 @@ const observatories = [
     name: 'Observatorio Profesional del Instituto Nacional de las Cualificaciones',
   },
   {
+    name: 'Observatorio Tecnológico',
+    website: 'http://educalab.es/intef/tecnologia/observatorio-tecnologico',
+  },
+  {
     name: 'Observatorio Territorial de Andalucía',
+  },
+  {
+    name: 'Observatorio para la Cibersociedad',
+    // Kaputt
+  },
+  {
+    name: 'Sociedad de la Información en Navarra',
+    scope: 'navarra',
+    // Kaputt ?
+  },
+  {
+    name: 'Observatorio de Prospectiva Tecnológica Industrial',
+    website: 'http://www.opti.org',
+  },
+  {
+    name: 'Observatorio de formación en red Scopeo',
+    website: 'https://scopeo.usal.es',
   },
   {
     name: 'Observatorio Mujeres, Ciencia e Innovación',
@@ -407,6 +430,7 @@ const observatories = [
     scope: 'estatal',
     website:
       'https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Accesibilidad/pae_Observatorio_de_Accesibilidad.html',
+    // https://www.discapnet.es/innovacion/observatorio-accesibilidad-tic
   },
   {
     name: 'Observatorio de Innovación de Navarra',
