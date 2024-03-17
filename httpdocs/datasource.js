@@ -153,7 +153,12 @@ const observatories = [
     name: 'Observatorio de la Realidad Social',
   },
   {
-    name: 'Observatorio de las Ocupaciones del SEPE',
+    name: 'Observatorio de las Ocupaciones del Servicio Público de Empleo Estatal',
+    website:
+      'https://www.sepe.es/HomeSepe/que-es-el-sepe/comunicacion-institucional/publicaciones/publicaciones-oficiales/listado-pub-mercado-trabajo/observatorio-ocupaciones.html',
+    email: 'observatorio.ocupacional@sepe.es',
+    type: 'public',
+    scope: 'estatal',
   },
   {
     name: 'Observatorio de Museos de España',
@@ -338,6 +343,25 @@ const observatories = [
   },
   {
     name: 'Observatorio sobre Drogas de la Región de Murcia',
+  },
+  {
+    name: 'Observatorio Urbano de A Coruña',
+    parents: ['Concello de A Coruña'],
+    website:
+      'https://www.coruna.gal/encifras/es/observatorios-municipales/observatorio-urbano-de-a-coruna',
+    scope: 'A Coruña',
+  },
+  {
+    name: 'Observatorio municipal de igualdade e diversidade',
+    parents: ['Concello de A Coruña'],
+    website: 'https://www.coruna.gal/igualdade/es/servicios/observatorio',
+    scope: 'A Coruña',
+  },
+  {
+    name: 'Observatorio turístico de A Coruña',
+    parents: ['Concello de A Coruña', 'Universidade da Coruña'],
+    website: 'https://acorunaot.udc.es',
+    scope: 'A Coruña',
   },
   {
     name: 'Observatorio de Accesibilidad Web',
