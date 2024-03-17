@@ -349,6 +349,8 @@ const observatories = [
   },
   {
     name: 'Observatorio Nacional 5G',
+    parents: ['Ministerio de Economía'],
+    is_active: 'No',
   },
   {
     name: 'Observatorio Nacional contra el Despoblamiento',
