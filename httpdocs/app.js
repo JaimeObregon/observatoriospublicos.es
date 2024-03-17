@@ -346,7 +346,7 @@ const observatories = [
         'Consejo de Gobierno de la Comunidad Autónoma de La Rioja',
         ],
     scope: 'estatal',
-    type: 'público',
+    type: 'public',
     docs: [
         {
          name: 'Creación en el BOE, junio de 2022',
