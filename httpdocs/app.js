@@ -19,8 +19,20 @@ const scopes = [
     name: 'Estatal',
   },
   {
+    key: 'ayuntamiento',
+    name: 'Ayuntamiento',
+  },
+  {
     key: 'cataluna',
     name: 'Cataluña',
+  },
+  {
+    key: 'madrid',
+    name: 'Madrid',
+  },
+  {
+    key: 'pais-vasco',
+    name: 'País Vasco',
   },
 ]
 
@@ -355,6 +367,131 @@ const observatories = [
       }
     ],
   },
+  {
+    name: 'Observatorio Estatal de Violencia sobre la Mujer',
+    website: 'https://violenciagenero.igualdad.gob.es/instituciones/observatorioEstatal/home.htm',
+    parents: [
+      'Ministerio de Igualdad',
+      'Secretaría de Estado de Igualdad y contra la Violencia de Género',
+      'Delegación del Gobierno contra la Violencia de Género'
+      ],
+    docs: [
+      {
+        name: 'Informe Ejecutivo del XV Informe Anual del Observatorio Estatal de Violencia sobre la Mujer 2021',
+        url: 'https://violenciagenero.igualdad.gob.es/violenciaEnCifras/observatorio/informesEjecutivos/informes/Informe_Ejecutivo_2021.htm',
+      },
+      {
+        name: 'Informe del Grupo de Trabajo de Investigación sobre la Infancia Víctima de la Violencia de Género. Año 2011',
+        url: 'https://violenciagenero.igualdad.gob.es/violenciaEnCifras/observatorio/gruposTrabajo/informes/informe2011.htm',
+      },
+      {
+        name: 'XV Informe Anual del Observatorio Estatal de Violencia sobre la Mujer. Año 2021',
+        url: 'https://violenciagenero.igualdad.gob.es/violenciaEnCifras/observatorio/informesAnuales/informes/XV_Informe_2021.htm',
+      }
+    ]
+  },
+  {
+    name: 'Observatorio Urbano de Alcalá de Henares',
+    parents: [
+      'Ayuntamiento de Alcalá de Henares',
+    ],
+    website: 'https://www.ayto-alcaladehenares.es/el-salon-de-plenos-acoge-el-acto-ejecutivo-del-plan-de-accion-de-la-agenda-urbana-de-alcala/',
+    scope: 'ayuntamiento',
+    type: 'public',
+  },
+  {
+    name: 'Observatorio de violencia de género de Alcalá',
+    parents: [
+      'Ayuntamiento de Alcalá de Henares',
+    ],
+    website: 'https://www.ayto-alcaladehenares.es/el-observatorio-de-violencia-de-genero-de-alcala-ha-atendido-a-mas-de-1500-mujeres-desde-2004-2/',
+    scope: 'ayuntamiento',
+    type: 'public',
+  },
+  {
+    name: 'Observatorio Sociodemográfico del Ayuntamiento de Alcalá de Henares',
+    parents: [
+      'Ayuntamiento de Alcalá de Henares',
+    ],
+    website: 'https://urbanismo.ayto-alcaladehenares.es/observatorio-sociodemografico-2/',
+    scope: 'ayuntamiento',
+    type: 'public',
+  },
+  {
+    name: 'Observatorio Alcalá en cifras',
+    parents: [
+      'Ayuntamiento de Alcalá de Henares',
+    ],
+    website: 'https://www.ayto-alcaladehenares.es/presentacion-del-observatorio-urbano-alcala-en-cifras/',
+    scope: 'ayuntamiento',
+    type: 'public',
+  },
+  {
+    name: "Observatorio de Comercio del Gobierno Vasco",
+    website: "https://www.euskadi.eus/gobierno-vasco/observatorio-comercio",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio Vasco del Emprendimiento",
+    website: "https://eeb-ove.eus/inicio/",
+    twitter: "@eeb_ove",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio Vasco de Vivienda",
+    website: "https://www.euskadi.eus/observatoriovivienda/",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio Vasco del Juego",
+    website: "https://www.euskadi.eus/gobierno-vasco/observatorio-vasco-juego/",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio de Periodismo Machista",
+    website: "https://periodismomachista.com/",
+    twitter: "@pemachista",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio Vasco sobre Acoso y Discriminación",
+    website: "https://www.observatoriovascosobreacoso.com/",
+    twitter: "@ObservVascoAcos",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio Vasco de la Juventud - Gobierno Vasco",
+    website: "https://www.gazteaukera.euskadi.eus/hasiera/",
+    twitter: "@gaztebehatokia",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio de Coyuntura Industrial",
+    website: "https://www.irekia.euskadi.eus/es/tags/observatoriodecoyunturaindustrial?uid=5196",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio Vasco de Inmigración",
+    website: "https://www.ikuspegi.eus/",
+    twitter: "@ikuspegi_eus",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio Vasco LGTBI+",
+    website: "https://lgtbi-behatokia.eus/",
+    twitter: "@BehatokiaLGTBI",
+    scope: "pais-vasco",
+    type: "public"
+  }
 ]
 
 const container = document.getElementsByTagName('section')[0]
