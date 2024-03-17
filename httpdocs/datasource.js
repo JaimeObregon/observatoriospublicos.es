@@ -168,6 +168,12 @@ const observatories = [
   },
   {
     name: 'Observatorio de Museos de España',
+    website:
+      'https://www.cultura.gob.es/observatorio-museos-espana/el-observatorio-de-museos-de-espana.html',
+    parents: ['Ministerio de Cultura'],
+    scope: 'estatal',
+    type: 'public',
+    email: 'observatorio.museos@cultura.gob.es',
   },
   {
     name: 'Observatorio de Precios y Mercados de la Junta de Andalucía',
@@ -193,12 +199,23 @@ const observatories = [
   },
   {
     name: 'Observatorio do Sector Lácteo de Galicia',
+    website:
+      'https://fogga.xunta.gal/es/sector_lacteo/observatorio_del_sector_lacteo',
+    scope: 'galicia',
+    type: 'public',
+    docs: [
+      {
+        name: 'Creación en el DOG, 9 de abril de 2007',
+        url: 'https://fogga.xunta.gal/sites/w_fogga/files/ficheiros/pdf/d_61_2007.pdf',
+      },
+    ],
   },
   {
     name: 'Observatorio Español contra la LGBTfobia',
   },
   {
     name: 'Observatorio Español de Acuicultura',
+    website: 'https://www.mapa.gob.es/es/pesca/temas/acuicultura/observatorio/',
   },
   {
     name: 'Observatorio Español de I+D+I (ICONO)',
@@ -208,12 +225,18 @@ const observatories = [
   },
   {
     name: 'Observatorio Español de las Drogas y las Adicciones',
-  },
-  {
-    name: 'Observatorio Español del Mercado del Vino',
+    type: 'public',
+    scope: 'estatal',
+    parents: ['Ministerio de Sanidad'],
+    website:
+      'https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/home.htm',
   },
   {
     name: 'Observatorio Español del Racismo y la Xenofobia',
+    website: 'https://www.inclusion.gob.es/oberaxe/',
+    parents: ['Ministerio de Inclusión, Seguridad Social y Migraciones'],
+    type: 'public',
+    scope: 'estatal',
   },
   {
     name: 'Observatorio Estatal de Condiciones de Trabajo',
@@ -486,7 +509,7 @@ const observatories = [
     is_active: 'Sí',
   },
   {
-    name: 'Observatorio Permanente de la Inmigración (OPI) ',
+    name: 'Observatorio Permanente de la Inmigración (OPI)',
     website:
       'https://www.inclusion.gob.es/web/opi/estadisticas/observatorio_permanente_inmigracion',
     email: 'sgam@inclusion.gob.es',
