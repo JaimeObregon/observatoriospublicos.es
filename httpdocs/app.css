@@ -1,5 +1,6 @@
 video {
   width: 100%;
+
   @media (min-width: 1024px) {
     float: left;
     max-width: 24em;

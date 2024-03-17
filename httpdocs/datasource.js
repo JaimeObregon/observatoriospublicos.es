@@ -1,4 +1,38 @@
-export const observatories = [
+const types = [
+  {
+    key: 'public',
+    name: 'Público',
+  },
+  {
+    key: 'mixed',
+    name: 'Público-privado',
+  },
+]
+
+const scopes = [
+  {
+    key: 'estatal',
+    name: 'Estatal',
+  },
+  {
+    key: 'ayuntamiento',
+    name: 'Ayuntamiento',
+  },
+  {
+    key: 'cataluna',
+    name: 'Cataluña',
+  },
+  {
+    key: 'madrid',
+    name: 'Madrid',
+  },
+  {
+    key: 'pais-vasco',
+    name: 'País Vasco',
+  },
+]
+
+const observatories = [
   // {
   //   name: '', // Nombre del observatorio
   //   website: '', // Sitio web
@@ -14,7 +48,11 @@ export const observatories = [
   {
     name: 'Observatorio contra el Fraude y la Corrupción Sanitaria',
     parents: ['Ministerio de Sanidad'],
-    comment: '<a href="https://twitter.com/Monica_Garcia_G/status/1768227454223565199">Anunciado</a>por la ministra de Sanidad el 14 de marzo de 2024.',
+    comment: `<a
+        href="https://twitter.com/Monica_Garcia_G/status/1768227454223565199"
+        >Anunciado</a
+      >
+      por la ministra de Sanidad el 14 de marzo de 2024.`,
     scope: 'estatal',
     type: 'public',
   },
@@ -305,33 +343,35 @@ export const observatories = [
   },
   {
     name: 'Observatorio Permanente de la Inmigración (OPI) ',
-    website: 'https://www.inclusion.gob.es/web/opi/estadisticas/observatorio_permanente_inmigracion',
+    website:
+      'https://www.inclusion.gob.es/web/opi/estadisticas/observatorio_permanente_inmigracion',
     email: 'sgam@inclusion.gob.es',
     parents: [
       'Ministerio de Inclusión, Seguridad Social y Migraciones',
       'Secretaría de Estado de Migraciones',
-      'Subdirección General de Análisis Migratorio'
+      'Subdirección General de Análisis Migratorio',
     ],
     scope: 'estatal',
     type: 'public',
     docs: [
       {
         name: 'Ciudadanos ucranianos en España con documentación de residencia en vigor',
-        url: 'https://www.inclusion.gob.es/web/opi/estadisticas/catalogo/ucranianos'
+        url: 'https://www.inclusion.gob.es/web/opi/estadisticas/catalogo/ucranianos',
       },
       {
         name: 'Menores no acompañados y jóvenes extutelados con autorización de residencia',
-        url: 'https://www.inclusion.gob.es/web/opi/estadisticas/catalogo/Menores'
-      }
+        url: 'https://www.inclusion.gob.es/web/opi/estadisticas/catalogo/Menores',
+      },
     ],
   },
   {
     name: 'Observatorio Estatal de Violencia sobre la Mujer',
-    website: 'https://violenciagenero.igualdad.gob.es/instituciones/observatorioEstatal/home.htm',
+    website:
+      'https://violenciagenero.igualdad.gob.es/instituciones/observatorioEstatal/home.htm',
     parents: [
       'Ministerio de Igualdad',
       'Secretaría de Estado de Igualdad y contra la Violencia de Género',
-      'Delegación del Gobierno contra la Violencia de Género'
+      'Delegación del Gobierno contra la Violencia de Género',
     ],
     docs: [
       {
@@ -345,109 +385,108 @@ export const observatories = [
       {
         name: 'XV Informe Anual del Observatorio Estatal de Violencia sobre la Mujer. Año 2021',
         url: 'https://violenciagenero.igualdad.gob.es/violenciaEnCifras/observatorio/informesAnuales/informes/XV_Informe_2021.htm',
-      }
-    ]
+      },
+    ],
   },
   {
     name: 'Observatorio Urbano de Alcalá de Henares',
-    parents: [
-      'Ayuntamiento de Alcalá de Henares',
-    ],
-    website: 'https://www.ayto-alcaladehenares.es/el-salon-de-plenos-acoge-el-acto-ejecutivo-del-plan-de-accion-de-la-agenda-urbana-de-alcala/',
+    parents: ['Ayuntamiento de Alcalá de Henares'],
+    website:
+      'https://www.ayto-alcaladehenares.es/el-salon-de-plenos-acoge-el-acto-ejecutivo-del-plan-de-accion-de-la-agenda-urbana-de-alcala/',
     scope: 'ayuntamiento',
     type: 'public',
   },
   {
     name: 'Observatorio de violencia de género de Alcalá',
-    parents: [
-      'Ayuntamiento de Alcalá de Henares',
-    ],
-    website: 'https://www.ayto-alcaladehenares.es/el-observatorio-de-violencia-de-genero-de-alcala-ha-atendido-a-mas-de-1500-mujeres-desde-2004-2/',
+    parents: ['Ayuntamiento de Alcalá de Henares'],
+    website:
+      'https://www.ayto-alcaladehenares.es/el-observatorio-de-violencia-de-genero-de-alcala-ha-atendido-a-mas-de-1500-mujeres-desde-2004-2/',
     scope: 'ayuntamiento',
     type: 'public',
   },
   {
     name: 'Observatorio Sociodemográfico del Ayuntamiento de Alcalá de Henares',
-    parents: [
-      'Ayuntamiento de Alcalá de Henares',
-    ],
-    website: 'https://urbanismo.ayto-alcaladehenares.es/observatorio-sociodemografico-2/',
+    parents: ['Ayuntamiento de Alcalá de Henares'],
+    website:
+      'https://urbanismo.ayto-alcaladehenares.es/observatorio-sociodemografico-2/',
     scope: 'ayuntamiento',
     type: 'public',
   },
   {
     name: 'Observatorio Alcalá en cifras',
-    parents: [
-      'Ayuntamiento de Alcalá de Henares',
-    ],
-    website: 'https://www.ayto-alcaladehenares.es/presentacion-del-observatorio-urbano-alcala-en-cifras/',
+    parents: ['Ayuntamiento de Alcalá de Henares'],
+    website:
+      'https://www.ayto-alcaladehenares.es/presentacion-del-observatorio-urbano-alcala-en-cifras/',
     scope: 'ayuntamiento',
     type: 'public',
   },
   {
-    name: "Observatorio de Comercio del Gobierno Vasco",
-    website: "https://www.euskadi.eus/gobierno-vasco/observatorio-comercio",
-    scope: "pais-vasco",
-    type: "public"
+    name: 'Observatorio de Comercio del Gobierno Vasco',
+    website: 'https://www.euskadi.eus/gobierno-vasco/observatorio-comercio',
+    scope: 'pais-vasco',
+    type: 'public',
   },
   {
-    name: "Observatorio Vasco del Emprendimiento",
-    website: "https://eeb-ove.eus/inicio/",
-    twitter: "@eeb_ove",
-    scope: "pais-vasco",
-    type: "public"
+    name: 'Observatorio Vasco del Emprendimiento',
+    website: 'https://eeb-ove.eus/inicio/',
+    twitter: '@eeb_ove',
+    scope: 'pais-vasco',
+    type: 'public',
   },
   {
-    name: "Observatorio Vasco de Vivienda",
-    website: "https://www.euskadi.eus/observatoriovivienda/",
-    scope: "pais-vasco",
-    type: "public"
+    name: 'Observatorio Vasco de Vivienda',
+    website: 'https://www.euskadi.eus/observatoriovivienda/',
+    scope: 'pais-vasco',
+    type: 'public',
   },
   {
-    name: "Observatorio Vasco del Juego",
-    website: "https://www.euskadi.eus/gobierno-vasco/observatorio-vasco-juego/",
-    scope: "pais-vasco",
-    type: "public"
+    name: 'Observatorio Vasco del Juego',
+    website: 'https://www.euskadi.eus/gobierno-vasco/observatorio-vasco-juego/',
+    scope: 'pais-vasco',
+    type: 'public',
   },
   {
-    name: "Observatorio de Periodismo Machista",
-    website: "https://periodismomachista.com/",
-    twitter: "@pemachista",
-    scope: "pais-vasco",
-    type: "public"
+    name: 'Observatorio de Periodismo Machista',
+    website: 'https://periodismomachista.com/',
+    twitter: '@pemachista',
+    scope: 'pais-vasco',
+    type: 'public',
   },
   {
-    name: "Observatorio Vasco sobre Acoso y Discriminación",
-    website: "https://www.observatoriovascosobreacoso.com/",
-    twitter: "@ObservVascoAcos",
-    scope: "pais-vasco",
-    type: "public"
+    name: 'Observatorio Vasco sobre Acoso y Discriminación',
+    website: 'https://www.observatoriovascosobreacoso.com/',
+    twitter: '@ObservVascoAcos',
+    scope: 'pais-vasco',
+    type: 'public',
   },
   {
-    name: "Observatorio Vasco de la Juventud - Gobierno Vasco",
-    website: "https://www.gazteaukera.euskadi.eus/hasiera/",
-    twitter: "@gaztebehatokia",
-    scope: "pais-vasco",
-    type: "public"
+    name: 'Observatorio Vasco de la Juventud - Gobierno Vasco',
+    website: 'https://www.gazteaukera.euskadi.eus/hasiera/',
+    twitter: '@gaztebehatokia',
+    scope: 'pais-vasco',
+    type: 'public',
   },
   {
-    name: "Observatorio de Coyuntura Industrial",
-    website: "https://www.irekia.euskadi.eus/es/tags/observatoriodecoyunturaindustrial?uid=5196",
-    scope: "pais-vasco",
-    type: "public"
+    name: 'Observatorio de Coyuntura Industrial',
+    website:
+      'https://www.irekia.euskadi.eus/es/tags/observatoriodecoyunturaindustrial?uid=5196',
+    scope: 'pais-vasco',
+    type: 'public',
   },
   {
-    name: "Observatorio Vasco de Inmigración",
-    website: "https://www.ikuspegi.eus/",
-    twitter: "@ikuspegi_eus",
-    scope: "pais-vasco",
-    type: "public"
+    name: 'Observatorio Vasco de Inmigración',
+    website: 'https://www.ikuspegi.eus/',
+    twitter: '@ikuspegi_eus',
+    scope: 'pais-vasco',
+    type: 'public',
   },
   {
-    name: "Observatorio Vasco LGTBI+",
-    website: "https://lgtbi-behatokia.eus/",
-    twitter: "@BehatokiaLGTBI",
-    scope: "pais-vasco",
-    type: "public"
-  }
+    name: 'Observatorio Vasco LGTBI+',
+    website: 'https://lgtbi-behatokia.eus/',
+    twitter: '@BehatokiaLGTBI',
+    scope: 'pais-vasco',
+    type: 'public',
+  },
 ]
+
+export { observatories, types, scopes }

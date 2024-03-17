@@ -1,38 +1,4 @@
-const types = [
-  {
-    key: 'public',
-    name: 'Público'
-  },
-  {
-    key: 'mixed',
-    name: 'Público-privado'
-  }
-]
-
-const scopes = [
-  {
-    key: 'estatal',
-    name: 'Estatal',
-  },
-  {
-    key: 'ayuntamiento',
-    name: 'Ayuntamiento',
-  },
-  {
-    key: 'cataluna',
-    name: 'Cataluña',
-  },
-  {
-    key: 'madrid',
-    name: 'Madrid',
-  },
-  {
-    key: 'pais-vasco',
-    name: 'País Vasco',
-  },
-]
-
-import { observatories } from './observatories.js'
+import { types, scopes, observatories } from './datasource.js'
 
 const container = document.getElementsByTagName('section')[0]
 const count = document.getElementsByTagName('mark')[0]
@@ -43,7 +9,7 @@ container.innerHTML = observatories
   .map(createObservatoryComponent)
   .join('')
 
-function createObservatoryComponent({ name, website, email, parents, scope, type, docs, members, comment }) {
+function createObservatoryComponent({ name, website, email,twitter, parents, scope, type, docs, members, comment }) {
   const typeObj = types.find(({ key }) => key === type)
   const scopeObj = scopes.find(({ key }) => key === scope)
 
