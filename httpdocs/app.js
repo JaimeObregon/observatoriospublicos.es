@@ -333,6 +333,31 @@ const observatories = [
   {
     name: 'Observatorio Global del Español',
   },
+  {
+    name: 'Observatorio Estatal de Violencia sobre la Mujer',
+    website: 'https://violenciagenero.igualdad.gob.es/instituciones/observatorioEstatal/home.htm',
+    parents: [
+      'Ministerio de Igualdad',
+      'Secretaría de Estado de Igualdad y contra la Violencia de Género',
+      'Delegación del Gobierno contra la Violencia de Género'
+    ],
+    scope: 'estatal',
+    type: 'public',
+    docs: [
+      {
+        name: 'Informe Ejecutivo del XV Informe Anual del Observatorio Estatal de Violencia sobre la Mujer 2021',
+        url: 'https://violenciagenero.igualdad.gob.es/violenciaEnCifras/observatorio/informesEjecutivos/informes/Informe_Ejecutivo_2021.htm',
+      },
+      {
+        name: 'Informe del Grupo de Trabajo de Investigación sobre la Infancia Víctima de la Violencia de Género. Año 2011',
+        url: 'https://violenciagenero.igualdad.gob.es/violenciaEnCifras/observatorio/gruposTrabajo/informes/informe2011.htm',
+      },
+      {
+        name: 'XV Informe Anual del Observatorio Estatal de Violencia sobre la Mujer. Año 2021',
+        url: 'https://violenciagenero.igualdad.gob.es/violenciaEnCifras/observatorio/informesAnuales/informes/XV_Informe_2021.htm',
+      }
+    ]
+  },
 ]
 
 const container = document.getElementsByTagName('section')[0]
