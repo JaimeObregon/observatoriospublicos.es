@@ -333,6 +333,28 @@ const observatories = [
   {
     name: 'Observatorio Global del Español',
   },
+  {
+    name: 'Observatorio Permanente de la Inmigración (OPI) ',
+    website: 'https://www.inclusion.gob.es/web/opi/estadisticas/observatorio_permanente_inmigracion',
+    email: 'sgam@inclusion.gob.es',
+    parents: [
+      'Ministerio de Inclusión, Seguridad Social y Migraciones',
+      'Secretaría de Estado de Migraciones',
+      'Subdirección General de Análisis Migratorio'
+    ],
+    scope: 'estatal',
+    type: 'public',
+    docs: [
+      {
+        name: 'Ciudadanos ucranianos en España con documentación de residencia en vigor',
+        url: 'https://www.inclusion.gob.es/web/opi/estadisticas/catalogo/ucranianos'
+      },
+      {
+        name: 'Menores no acompañados y jóvenes extutelados con autorización de residencia',
+        url: 'https://www.inclusion.gob.es/web/opi/estadisticas/catalogo/Menores'
+      }
+    ],
+  },
 ]
 
 const container = document.getElementsByTagName('section')[0]
