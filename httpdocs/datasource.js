@@ -44,6 +44,9 @@ const observatories = [
   //   docs: [], // Muestra de algunos de sus últimos informes publicados
   //   members: [], // Algunos Organismos que lo componen, si es el caso
   //   comment: '', //
+  //   from_date: '', // Inicio de actividad. Fecha de creación o fecha del anuncio
+  //   to_date: '', // Cese de actividad. Fecha de última actividad conocida
+  //   is_active: '', // 'Sí' si está en activo. Si no está en activo, no especificar esta propiedad
   // },
 
   {
@@ -366,6 +369,8 @@ const observatories = [
         url: 'https://cervantes.org/es/sobre-nosotros/sala-prensa/notas-prensa/observatorio-global-espanol-materializa-su-puesta-marcha',
       },
     ],
+    from_date: '2022-06'
+    is_active: 'Sí'
   },
   {
     name: 'Observatorio Permanente de la Inmigración (OPI) ',

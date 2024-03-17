@@ -18,6 +18,9 @@ function createObservatoryComponent({
   docs,
   members,
   comment,
+  from_date,
+  to_date,
+  is_active,
 }) {
   const typeObj = types.find(({ key }) => key === type)
   const scopeObj = scopes.find(({ key }) => key === scope)
@@ -28,6 +31,9 @@ function createObservatoryComponent({
       ${parents ? `<div>${parents.join(', ')}</div>` : ''}
       ${website ? `<p><a href="${website}">Sitio web</a></p>` : ''}
       ${comment ? `<div>${comment}</div>` : ''}
+      ${from_date ? `<div>${from_date}</div>` : ''}
+      ${to_date ? `<div>${to_date}</div>` : ''}
+      ${is_active ? `<div>En activo: ${is_active}</div>` : ''}
       <div class="badges">
         ${typeObj ? `<div class="${typeObj.key}">${typeObj.name}</div>` : ''}
         ${scopeObj ? `<div class="${scopeObj.key}">${scopeObj.name}</div>` : ''}
