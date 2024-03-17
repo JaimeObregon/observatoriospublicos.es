@@ -781,6 +781,15 @@ const observatories = [
     scope: 'murcia',
     type: 'public',
     },
+{
+    name: 'Observatori Agroalimentari de Preus',
+    website: 'https://agricultura.gencat.cat/ca/departament/estadistiques/observatori-agroalimentari-preus/',
+    email: 'estudis_prospectiva.daam@gencat.cat',
+    parents: 'Gencat',
+    scope: 'cataluna',
+    type: 'public',
+    is_active: 'Sí',
+    },
 ]
 
 export { observatories, types, scopes }
