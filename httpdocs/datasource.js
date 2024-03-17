@@ -806,6 +806,34 @@ const observatories = [
     type: 'public',
     is_active: 'Sí',
   },
+  {
+    name: 'Observatorio Vasco de la Cultura',
+    website: 'https://www.euskadi.eus/observatorio-vasco-cultura/',
+    email: 'kulturabehatokia@euskadi.eus',
+    parents: [
+      'Gobierno Vasco',
+      'Departamento de Cultura y Política Lingüística',
+      'Viceconsejería de Cultura',
+      'Dirección de Promoción de la Cultura',
+    ],
+    scope: 'pais-vasco',
+    type: 'public',
+    docs: [
+      {
+        name: 'Edición del libro en euskera 2022',
+        url: 'https://www.euskadi.eus/2024/edicion-del-libro-en-euskera-2022/web01-a3kebarg/eu/',
+      },
+      {
+        name: 'Comercio interior del libro en la CAE 2022',
+        url: 'https://www.euskadi.eus/2024/comercio-interior-del-libro-en-la-cae-2022/web01-a3kebarg/eu/',
+      },
+      {
+        name: 'Análisis de la programación cultural de la CAE. Año 2023',
+        url: 'https://www.euskadi.eus/2023/analisis-de-la-programacion-cultural-de-la-cae-ano-2023/web01-a3kebarg/eu/',
+      },
+    ],
+    from_date: '14/02/2006',
+  },
 ]
 
 export { observatories, types, scopes }
