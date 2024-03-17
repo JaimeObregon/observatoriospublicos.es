@@ -1,3 +1,4 @@
+// Tipo de observatorio según su origen, financiación y/o composición
 const types = [
   {
     key: 'public',
@@ -340,6 +341,31 @@ const observatories = [
   },
   {
     name: 'Observatorio Global del Español',
+    parents: [
+      'Ministerio de Asuntos Exteriores, Unión Europea y Cooperación',
+      'Secretaría de Estado para Iberoamérica y el Caribe',
+      'Secretaría de Estado de Digitalización e Inteligencia Artificial',
+      'Dirección del Instituto Cervantes',
+      'Comisionado Especial para la Alianza por la Nueva Economía de la Lengua',
+      'Ministerio de Educación y Formación Profesional',
+      'Ministerio de Política Territorial',
+      'Ministerio de Cultura y Deporte',
+      'Ministerio de Ciencia e Innovación',
+      'Ministerio de Universidades',
+      'Consejo de Gobierno de la Comunidad Autónoma de La Rioja',
+    ],
+    scope: 'estatal',
+    type: 'public',
+    docs: [
+      {
+        name: 'Creación en el BOE, junio de 2022',
+        url: 'https://www.boe.es/eli/es/rd/2022/06/07/431/con',
+      },
+      {
+        name: 'Primera comisión ejecutiva, marzo de 2024',
+        url: 'https://cervantes.org/es/sobre-nosotros/sala-prensa/notas-prensa/observatorio-global-espanol-materializa-su-puesta-marcha',
+      },
+    ],
   },
   {
     name: 'Observatorio Permanente de la Inmigración (OPI) ',
