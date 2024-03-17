@@ -28,8 +28,10 @@ container.innerHTML = observatories
         ${parents ? `<div>${parents.join(', ')}</div>` : ''}
         ${website ? `<p><a href="${website}">Sitio web</a></p>` : ''}
         ${comment ? `<div>${comment}</div>` : ''}
-        ${type ? `<p>${types.find(({ key }) => key === type).name}` : ''}
-        ${scope ? `<p>${scopes.find(({ key }) => key === scope).name}` : ''}
+        <div class="badges">
+          ${type ? `<div>${types.find(({ key }) => key === type).name}</div>` : ''}
+          ${scope ? `<div>${scopes.find(({ key }) => key === scope).name}</div>` : ''}
+        </div>
       </article>
     `
   )
