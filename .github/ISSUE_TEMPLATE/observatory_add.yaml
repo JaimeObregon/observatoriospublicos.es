@@ -74,3 +74,26 @@ body:
       description: Si tienes algún comentario adicional sobre el observatorio, por favor proporciona esa información aquí.
     validations:
       required: false
+  - type: textarea
+    id: from_date
+    attributes:
+      label: "Fecha de inicio"
+      description: Fecha en la que el observatorio fue anunciado o empezó a funcionar.
+    validations:
+      required: false
+  - type: textarea
+    id: to_date
+    attributes:
+      label: "Cese de actividad"
+      description: Fecha en la que el observatorio dejó de funcionar.
+    validations:
+      required: false
+  - type: dropdown
+    id: type
+    attributes:
+      label: "En activo"
+      description: Si el observatorio está en activo, si no, dejar en blanco.
+      options:
+        - Sí
+    validations:
+      required: false
