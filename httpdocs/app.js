@@ -23,7 +23,7 @@ function createObservatoryComponent({
   const scopeObj = scopes.find(({ key }) => key === scope)
 
   return `
-    <article class="contrast" target="modal-example" data-observatory="${name}">
+    <article class="contrast" data-target="modal-example" data-observatory="${name}">
       <h2>${name}</h2>
       ${parents ? `<div>${parents.join(', ')}</div>` : ''}
       ${website ? `<p><a href="${website}">Sitio web</a></p>` : ''}
