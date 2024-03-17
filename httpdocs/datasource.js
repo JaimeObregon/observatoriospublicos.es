@@ -153,7 +153,8 @@ const observatories = [
     name: 'Observatorio de la Lectura y el Libro',
   },
   {
-    name: 'Observatorio de la Realidad Social',
+    name: 'Observatorio de la Realidad Social de Navarra',
+    website: 'https://www.observatoriorealidadsocial.es/es/',
   },
   {
     name: 'Observatorio de las Ocupaciones del Servicio Público de Empleo Estatal',
@@ -229,6 +230,40 @@ const observatories = [
   },
   {
     name: 'Observatorio Estatal de los Servicios Deportivos a las Administraciones Públicas',
+  },
+  {
+    name: 'Observatorio de la Comunidad de Castilla y León (Sección de Género)',
+    website:
+      'https://familia.jcyl.es/web/es/mujer/observatorio-comunidad-seccion-genero.html',
+    type: 'public',
+    scope: 'castilla-y-leon',
+  },
+  {
+    name: 'Observatorio de la Convivencia Escolar',
+    website:
+      'https://www.educa.jcyl.es/convivenciaescolar/es/observatorio-convivencia-escolar',
+    type: 'public',
+    scope: 'castilla-y-leon',
+  },
+  {
+    name: 'Observatorio TransfomAcción y ParticipAcción',
+    website: 'https://www.observatoriotransformacion.com',
+    type: 'public',
+    scope: 'castilla-y-leon',
+  },
+  {
+    name: 'Observatorio Regional de la Sociedad de la Información de Castilla y León (ORSI)',
+    website:
+      'https://www.aytoburgos.es/-/observatorio-regional-de-la-sociedad-de-la-informacion-de-castilla-y-leon-orsi-',
+    type: 'public',
+    scope: 'castilla-y-leon',
+  },
+  {
+    name: 'Observatorio de Agresiones',
+    website:
+      'https://www.saludcastillayleon.es/profesionales/es/prevencion-riesgos-laborales/plan-integral-frente-agresiones/observatorio-agresiones',
+    type: 'public',
+    scope: 'castilla-y-leon',
   },
   {
     name: 'Observatorio Estatal de Violencia sobre la Mujer',
