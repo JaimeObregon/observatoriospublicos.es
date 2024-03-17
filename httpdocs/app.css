@@ -17,9 +17,45 @@ section {
     flex: 1;
     padding: 1em;
     min-width: 18em;
+    display: flex;
+    flex-direction: column;
 
     h2 {
       font-size: 1.15em;
+    }
+  }
+}
+
+.badges {
+  display: flex;
+  margin-top: auto;
+  justify-content: space-around;
+  > * {
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgba(255, 152, 0, 0.75);
+    color: rgb(255, 255, 255);
+
+    &:hover {
+      box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    &.estatal{
+      background-color: rgba(0, 0, 255, 0.75);
+    }
+
+    &.cataluna{
+      background-color: rgba(232, 141, 33, 0.75);
+    }
+
+    &.mixed{
+      background-color: rgba(255, 0, 0, 0.75);
+    }
+
+    &.public{
+      background-color: rgba(213, 213, 22, 0.75);
     }
   }
 }
