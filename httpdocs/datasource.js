@@ -28,6 +28,10 @@ const scopes = [
     name: 'Madrid',
   },
   {
+    key: 'murcia',
+    name: 'Murcia',
+  },
+  {
     key: 'pais-vasco',
     name: 'País Vasco',
   },
@@ -689,6 +693,94 @@ const observatories = [
     scope: 'pais-vasco',
     type: 'public',
   },
+  {
+    name: 'OBSERVATORIO PARA LA CONVIVENCIA ESCOLAR',
+    website: 'https://www.carm.es/web/pagina?IDCONTENIDO=5316&RASTRO=c792$m4001&IDTIPO=100',
+    email: 'observatorio.convivencia@murciaeduca.es',
+    parents: ['Subdirección General de Evaluación Educativa y Ordenación Académica',
+    'Dirección General de Recursos Humanos, Planificación Educativa e Innovación',
+    'Consejería de Educación, Formación Profesional y Empleo',
+    'Gobierno de la Región de Murcia'],
+    scope: 'murcia',
+    type: 'public',
+    docs: [{name: 'Informe 2022', url: 'https://www.carm.es/web/descarga?ARCHIVO=INFORME%20CONVIVENCIA%202022.pdf&ALIAS=ARCH&IDCONTENIDO=187826&IDTIPO=60&RASTRO=c792$m4001,5316,8320'},
+    {name: 'Informe 2021'},
+    {name: 'Informe 2020'},
+    {name: 'Informe 2019'},
+    {name: 'Informe 2018'},
+    {name: 'Informe 2017'},
+    {name: 'Informe 2016'},
+    {name: 'Informe 2015'},
+    {name: 'Informe 2014'},
+    {name: 'Informe 2013'},
+    {name: 'Informe 2012'},
+    {name: 'Informe 2011'},
+    {name: 'Informe 2010'},
+    {name: 'Informe 2009'},
+    {name: 'Informe 2008'},
+    {name: 'Informe 2007'},],
+},
+{
+    name: 'OBSERVATORIO DE PREVENCIÓN DE RIESGOS LABORALES',
+    website: 'https://www.carm.es/web/pagina?IDCONTENIDO=740&IDTIPO=140',
+    parents: 'Gobierno de la Región de Murcia',
+    scope: 'murcia',
+    type: 'public',
+    },
+{
+    name: 'Observatorio Ocupacional',
+    website: 'https://www.carm.es/web/pagina?IDCONTENIDO=227&IDTIPO=200&__PLANT_PERSONALIZADA=/JSP/CARM/carm2018/organigramas/plantillaDetalleOrganigrama.jsp&IDESTRUCTURAJERARQUICA=473&RASTRO=c77$m5782',
+    parents: [
+        'Dirección General del Servicio Regional de Empleo y Formación > Servicio Regional de Empleo y Formación > Organismo Autónomo > Consejería de Educación, Formación Profesional y Empleo > Comunidad Autónoma de la Región de Murcia'],
+    scope: 'murcia',
+    type: 'public',
+    docs: [
+        {
+        name: 'Último mes publicado de 2024: Paro', 
+        url: 'https://www.sefcarm.es/web/servlet/descarga?ARCHIVO=Paro%20Febrero%202024.xlsx&ALIAS=ARCH&&IDCONTENIDO=189145'
+        },
+        {
+        name: 'Último mes publicado de 2024: Contratos', 
+        url: 'https://www.sefcarm.es/web/servlet/descarga?ARCHIVO=Contratos%20Febrero%202024.xlsx&ALIAS=ARCH&&IDCONTENIDO=189144'
+        },
+        ],
+    },
+{
+    name: 'OBSERVATORIO VIRTUAL DEL PAISAJE MEDITERRÁNEO',
+    website: 'https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828',
+    scope: 'murcia',
+    type: 'public',
+    },
+{
+    name: 'OBSERVATORIO REGIONAL DE LA DISCAPACIDAD',
+    website: 'https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828',
+    scope: 'murcia',
+    type: 'public',
+    },
+{
+    name: 'OBSERVATORIO DE LA CALIDAD DE LOS SERVICIOS DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA',
+    website: 'https://transparencia.carm.es/-/observatorio-de-la-calidad-de-los-servicios#gsc.tab=0',
+    scope: 'murcia',
+    type: 'public',
+    docs: [
+        {
+        name: 'Acta 2022', 
+        url: 'https://transparencia.carm.es/wres/transparencia/doc/Organos-colegiados/observatorio_calidad/2022-07-18/20220718_ACTA_SESION_CONSTITUTIVA_OCS_C.pdf'
+        },
+        ],
+    },
+{
+    name: 'Observatorio de Igualdad',
+    website: 'https://transparencia.carm.es/-/observatorio-de-igualdad#gsc.tab=0',
+    scope: 'murcia',
+    type: 'public',
+    },
+{
+    name: 'Observatorio Regional contra la Discriminación por Orientación Sexual e Identidad de Género',
+    website: 'https://transparencia.carm.es/-/observatorio-regional-contra-la-discriminacion-por-orientacion-sexual-e-identidad-de-genero-en-la-comunidad-autonoma-de-la-region-de-murcia#gsc.tab=0',
+    scope: 'murcia',
+    type: 'public',
+    },
 ]
 
 export { observatories, types, scopes }
