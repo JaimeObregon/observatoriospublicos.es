@@ -221,6 +221,13 @@ const observatories = [
     name: 'Observatorio Español de I+D+I (ICONO)',
   },
   {
+    name: 'Observatorio de Salud y Medio Ambiente de Andalucía',
+    website: 'https://www.osman.es',
+    scope: 'andalucia',
+    type: 'public',
+    parents: ['Junta de Andalucía', 'Consejería de Salud y Consumo'],
+  },
+  {
     name: 'Observatorio Español de la Economía Social',
   },
   {
