@@ -346,15 +346,35 @@ const observatories = [
     name: 'Observatorio Global del Español',
   },
   {
+    name: 'Observatorio Permanente de la Inmigración (OPI) ',
+    website: 'https://www.inclusion.gob.es/web/opi/estadisticas/observatorio_permanente_inmigracion',
+    email: 'sgam@inclusion.gob.es',
+    parents: [
+      'Ministerio de Inclusión, Seguridad Social y Migraciones',
+      'Secretaría de Estado de Migraciones',
+      'Subdirección General de Análisis Migratorio'
+    ],
+    scope: 'estatal',
+    type: 'public',
+    docs: [
+      {
+        name: 'Ciudadanos ucranianos en España con documentación de residencia en vigor',
+        url: 'https://www.inclusion.gob.es/web/opi/estadisticas/catalogo/ucranianos'
+      },
+      {
+        name: 'Menores no acompañados y jóvenes extutelados con autorización de residencia',
+        url: 'https://www.inclusion.gob.es/web/opi/estadisticas/catalogo/Menores'
+      }
+    ],
+  },
+  {
     name: 'Observatorio Estatal de Violencia sobre la Mujer',
     website: 'https://violenciagenero.igualdad.gob.es/instituciones/observatorioEstatal/home.htm',
     parents: [
       'Ministerio de Igualdad',
       'Secretaría de Estado de Igualdad y contra la Violencia de Género',
       'Delegación del Gobierno contra la Violencia de Género'
-    ],
-    scope: 'estatal',
-    type: 'public',
+      ],
     docs: [
       {
         name: 'Informe Ejecutivo del XV Informe Anual del Observatorio Estatal de Violencia sobre la Mujer 2021',
