@@ -20,7 +20,7 @@
 
     <link
       rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.classless.min.css"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
     />
     <link rel="stylesheet" href="/app.css" />
 
@@ -46,7 +46,7 @@
     <title>Observatorio de los observatorios públicos de España</title>
   </head>
 
-  <body>
+  <body class="container">
     <header>
       <hgroup>
         <h1>🧐 Observatorio de los observatorios públicos de España</h1>
@@ -125,5 +125,31 @@
         >
       </p>
     </footer>
+
+    <dialog id="modal-example">
+      <article>
+        <header>
+          <button
+            aria-label="Close"
+            rel="prev"
+            data-target="modal-example"
+            onclick="toggleModal(event)"
+          ></button>
+          <h3></h3>
+        </header>
+
+        <div></div>
+
+        <footer>
+          <button
+            autofocus
+            data-target="modal-example"
+            onclick="toggleModal(event)"
+          >
+            Chachi
+          </button>
+        </footer>
+      </article>
+    </dialog>
   </body>
 </html>
