@@ -340,6 +340,36 @@ const observatories = [
     name: 'Observatorio sobre Drogas de la Región de Murcia',
   },
   {
+    name: 'Observatorio de Accesibilidad Web',
+    type: 'public',
+    scope: 'estatal',
+    website:
+      'https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Accesibilidad/pae_Observatorio_de_Accesibilidad.html',
+  },
+  {
+    name: 'Observatorio de Innovación de Navarra',
+    type: 'public',
+    scope: 'navarra',
+    website: 'https://observatorioinnovacion.navarra.es/es/el-observatorio',
+    docs: [
+      {
+        name: 'Memoria 2022',
+        url: 'https://www.navarra.es/documents/18551208/23439727/Infografia-memoria-2022.pdf/263da2df-efcd-0054-3007-26d0c4a692f5?t=1677834556413',
+      },
+    ],
+  },
+  {
+    name: 'Observatorio de la Movilidad Metropolitana (OMM)',
+    parents: [
+      'Ministerio para la Transición Ecológica y el Reto Demográfico',
+      'Vicepresidencia Tercera del Gobierno',
+    ],
+    type: 'public',
+    scope: 'estatal',
+    website:
+      'https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/movilidad/omm.html',
+  },
+  {
     name: 'Observatorio Global del Español',
     parents: [
       'Ministerio de Asuntos Exteriores, Unión Europea y Cooperación',
