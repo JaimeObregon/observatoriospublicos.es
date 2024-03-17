@@ -23,7 +23,7 @@ function createObservatoryComponent({
   const scopeObj = scopes.find(({ key }) => key === scope)
 
   return `
-    <article>
+    <article data-target="modal-example" data-observatory="${name}">
       <h2>${name}</h2>
       ${parents ? `<div>${parents.join(', ')}</div>` : ''}
       ${website ? `<p><a href="${website}">Sitio web</a></p>` : ''}
@@ -51,23 +51,12 @@ const toggleModal = (event) => {
   event.preventDefault()
   const modal = document.getElementById(event.currentTarget.dataset.target)
 
-  const div = modal.getElementsByTagName('div')[0]
-  const h3 = modal.getElementsByTagName('h3')[0]
-  const observatory = observatories.find(
-    ({ name }) => name === event.currentTarget.dataset.observatory
-  )
-  console.log(observatory)
-  const json = JSON.stringify(observatory, null, 2)
-
-  div.innerHTML = `<pre>${json}</pre>`
-  h3.innerText = observatory.name
-
   if (!modal) return
-  modal && (modal.open ? closeModal(modal) : openModal(modal))
+  modal && (modal.open ? closeModal(modal) : openModal(modal, event))
 }
 
 // Open modal
-const openModal = (modal) => {
+const openModal = (modal, event) => {
   const { documentElement: html } = document
   const scrollbarWidth = getScrollbarWidth()
   if (scrollbarWidth) {
@@ -78,6 +67,18 @@ const openModal = (modal) => {
     visibleModal = modal
     html.classList.remove(openingClass)
   }, animationDuration)
+
+  const div = modal.getElementsByTagName('div')[0]
+  const h3 = modal.getElementsByTagName('h3')[0]
+
+  const observatory = observatories.find(
+    ({ name }) => name === event.currentTarget.dataset.observatory
+  )
+  const json = JSON.stringify(observatory, null, 2)
+
+  div.innerHTML = `<pre>${json}</pre>`
+  h3.innerText = observatory.name
+
   modal.showModal()
 }
 
@@ -123,5 +124,9 @@ const isScrollbarVisible = () => {
 // -----------------------------------------------------------------------------
 
 document.querySelectorAll('article').forEach((article) => {
+  article.addEventListener('click', toggleModal)
+})
+
+document.querySelectorAll('dialog button').forEach((article) => {
   article.addEventListener('click', toggleModal)
 })
