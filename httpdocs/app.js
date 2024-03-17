@@ -12,12 +12,24 @@ const types = [
 const scopes = [
   {
     key: 'estatal',
-    name: 'Estatal'
+    name: 'Estatal',
+  },
+  {
+    key: 'ayuntamiento',
+    name: 'Ayuntamiento',
   },
   {
     key: 'cataluna',
-    name: 'Cataluña'
-  }
+    name: 'Cataluña',
+  },
+  {
+    key: 'madrid',
+    name: 'Madrid',
+  },
+  {
+    key: 'pais-vasco',
+    name: 'País Vasco',
+  },
 ]
 
 import { observatories } from './observatories.js'
