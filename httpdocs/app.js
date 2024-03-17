@@ -22,6 +22,10 @@ const scopes = [
     key: 'cataluna',
     name: 'Cataluña',
   },
+  {
+    key: 'pais-vasco',
+    name: 'País Vasco',
+  },
 ]
 
 const observatories = [
@@ -333,6 +337,72 @@ const observatories = [
   {
     name: 'Observatorio Global del Español',
   },
+  {
+    name: "Observatorio de Comercio del Gobierno Vasco",
+    website: "https://www.euskadi.eus/gobierno-vasco/observatorio-comercio",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio Vasco del Emprendimiento",
+    website: "https://eeb-ove.eus/inicio/",
+    twitter: "@eeb_ove",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio Vasco de Vivienda",
+    website: "https://www.euskadi.eus/observatoriovivienda/",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio Vasco del Juego",
+    website: "https://www.euskadi.eus/gobierno-vasco/observatorio-vasco-juego/",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio de Periodismo Machista",
+    website: "https://periodismomachista.com/",
+    twitter: "@pemachista",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio Vasco sobre Acoso y Discriminación",
+    website: "https://www.observatoriovascosobreacoso.com/",
+    twitter: "@ObservVascoAcos",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio Vasco de la Juventud - Gobierno Vasco",
+    website: "https://www.gazteaukera.euskadi.eus/hasiera/",
+    twitter: "@gaztebehatokia",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio de Coyuntura Industrial",
+    website: "https://www.irekia.euskadi.eus/es/tags/observatoriodecoyunturaindustrial?uid=5196",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio Vasco de Inmigración",
+    website: "https://www.ikuspegi.eus/",
+    twitter: "@ikuspegi_eus",
+    scope: "pais-vasco",
+    type: "public"
+  },
+  {
+    name: "Observatorio Vasco LGTBI+",
+    website: "https://lgtbi-behatokia.eus/",
+    twitter: "@BehatokiaLGTBI",
+    scope: "pais-vasco",
+    type: "public"
+  }
 ]
 
 const container = document.getElementsByTagName('section')[0]
