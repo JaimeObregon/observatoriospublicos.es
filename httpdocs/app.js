@@ -31,8 +31,8 @@ function createObservatoryComponent({
       ${parents ? `<div>${parents.join(', ')}</div>` : ''}
       ${website ? `<p><a href="${website}">Sitio web</a></p>` : ''}
       ${comment ? `<div>${comment}</div>` : ''}
-      ${from_date ? `<div>${from_date}</div>` : ''}
-      ${to_date ? `<div>${to_date}</div>` : ''}
+      ${from_date ? `<div>Inicio: ${from_date}</div>` : ''}
+      ${to_date ? `<div>Fin: ${to_date}</div>` : ''}
       ${is_active ? `<div>En activo: ${is_active}</div>` : ''}
       <div class="badges">
         ${typeObj ? `<div class="${typeObj.key}">${typeObj.name}</div>` : ''}
