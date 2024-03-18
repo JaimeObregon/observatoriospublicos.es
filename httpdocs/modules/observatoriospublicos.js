@@ -1,7 +1,7 @@
-import { types, scopes, observatories } from './datasource.js'
+import { types, scopes, observatories } from '../datasource.js'
 
-const container = document.getElementsByTagName('section')[0]
-const count = document.getElementsByTagName('mark')[0]
+const container = document.querySelector('x-catalog')
+const count = document.querySelector('mark')
 
 count.innerHTML = observatories.length.toString()
 
@@ -26,7 +26,7 @@ function createObservatoryComponent({
   const scopeObj = scopes.find(({ key }) => key === scope)
 
   return `
-    <article class="contrast" data-target="modal-example" data-observatory="${name}">
+    <article class="contrast" data-target="observatory" data-observatory="${name}">
       <h2>${name}</h2>
       ${parents ? `<div>${parents.join(', ')}</div>` : ''}
       ${website ? `<p><a href="${website}">Sitio web</a></p>` : ''}
@@ -34,10 +34,10 @@ function createObservatoryComponent({
       ${from_date ? `<div>Inicio: ${from_date}</div>` : ''}
       ${to_date ? `<div>Fin: ${to_date}</div>` : ''}
       ${is_active ? `<div>En activo: ${is_active}</div>` : ''}
-      <div class="badges">
+      <footer>
         ${typeObj ? `<div class="${typeObj.key}">${typeObj.name}</div>` : ''}
         ${scopeObj ? `<div class="${scopeObj.key}">${scopeObj.name}</div>` : ''}
-      </div>
+      </footer>
     </article>
   `
 }
@@ -74,8 +74,8 @@ const openModal = (modal, event) => {
     html.classList.remove(openingClass)
   }, animationDuration)
 
-  const div = modal.getElementsByTagName('div')[0]
-  const h3 = modal.getElementsByTagName('h3')[0]
+  const div = modal.querySelector('div')
+  const h3 = modal.querySelector('h3')
 
   const observatory = observatories.find(
     ({ name }) => name === event.currentTarget.dataset.observatory

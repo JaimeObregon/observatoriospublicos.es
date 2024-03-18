@@ -4,13 +4,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="author" content="Jaime Gómez-Obregón" />
     <meta name="color-scheme" content="light dark" />
-    <meta name="description" content="" />
+    <meta
+      name="description"
+      content="Porque nadie sabe cuántos hay ni cuáles son."
+    />
 
     <meta
       property="og:title"
       content="Observatorio de los observatorios públicos de España"
     />
-    <meta property="og:description" content="" />
+    <meta
+      property="og:description"
+      content="Porque nadie sabe cuántos hay ni cuáles son."
+    />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://observatoriospublicos.es" />
     <meta
@@ -22,12 +28,13 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
     />
-    <link rel="stylesheet" href="/app.css" />
+    <link rel="stylesheet" href="/stylesheets/typography.css" />
+    <link rel="stylesheet" href="/stylesheets/observatoriospublicos.css" />
 
     <link rel="icon" type="image/svg+xml" href="/assets/icon.svg" />
     <link rel="apple-touch-icon" href="/assets/icon.png" />
 
-    <script type="module" src="/app.js"></script>
+    <script type="module" src="/modules/observatoriospublicos.js"></script>
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@JaimeObregon" />
@@ -36,102 +43,122 @@
       name="twitter:title"
       content="Observatorio de los observatorios públicos de España"
     />
-    <meta name="twitter:description" content="" />
+    <meta
+      name="twitter:description"
+      content="Porque nadie sabe cuántos hay ni cuáles son."
+    />
     <meta
       name="twitter:image"
       content="https://observatoriospublicos.es/assets/social.jpg"
     />
-    <meta name="twitter:image:alt" content="" />
+    <meta
+      name="twitter:image:alt"
+      content="Kim Jong Un, observando atentamente con unos prismáticos."
+    />
 
     <title>Observatorio de los observatorios públicos de España</title>
   </head>
 
   <body class="container">
     <header>
+      <img src="/assets/icon.svg" alt="Emoji con monóculo" />
       <hgroup>
-        <h1>🧐 Observatorio de los observatorios públicos de España</h1>
+        <h1>Observatorio de los observatorios públicos de España</h1>
         <p>Porque nadie sabe cuántos hay ni cuáles son</p>
       </hgroup>
     </header>
 
     <main>
-      <h2>Saludo del presidente</h2>
+      <section id="greeting">
+        <h2>Saludo del presidente</h2>
 
-      <video controls preload="none" poster="/assets/poster.webp">
-        <source src="/assets/presentacion.mp4" type="video/mp4" />
-      </video>
+        <video controls preload="none" poster="/assets/poster.webp">
+          <source src="/assets/presentacion.mp4" type="video/mp4" />
+        </video>
 
-      <p>
-        El 14 de marzo de 2024 la ministra de Sanidad de España anuncia la
-        creación del Observatorio contra el Fraude y la Corrupción Sanitaria.
-        Como nadie parece estar controlando el sindiós de los observatorios
-        públicos, ese mismo día yo, Jaime Gómez-Obregón, solemnemente he
-        anunciado la creación del Observatorio de los Observatorios públicos.
-        ¡Sé bienvenido! Cuando llegue la financiación pública aquí pondremos un
-        texto
-        <i>random</i> generado con ChatGPT lleno de palabras molonas en consuñol
-        como <q>sinergia</q>, <q>cambio de paradigma</q> y
-        <q>enfoque holístico</q>…
-      </p>
+        <p>
+          El 14 de marzo de 2024 la ministra de Sanidad de España anuncia la
+          creación del
+          <cite>Observatorio contra el Fraude y la Corrupción Sanitaria</cite>.
+          Como nadie parece estar controlando el sindiós de los observatorios
+          públicos, ese mismo día yo, Jaime Gómez-Obregón, solemnemente he
+          anunciado la creación del
+          <strong>Observatorio de los Observatorios públicos</strong>. ¡Sé
+          bienvenido! Cuando llegue la financiación que me ha prometido
+          pondremos aquí un texto <i>random</i> generado con ChatGPT lleno de
+          palabras molonas en consuñol como <q>sinergia</q>,
+          <q>cambio de paradigma</q>, <q>enfoque holístico</q>… 😂
+        </p>
+      </section>
 
-      <h2>Catálogo</h2>
+      <section>
+        <h2>Catálogo de observatorios</h2>
 
-      <p>
-        Estamos catalogando todos los observatorios públicos y público-privados
-        de España. De momento hemos cazado <mark>estos</mark>.
-      </p>
+        <p>
+          Estamos catalogando todos los observatorios públicos y
+          público-privados de España. De momento hemos identificado
+          <mark>estos</mark>.
+        </p>
 
-      <section></section>
+        <x-catalog></x-catalog>
 
-      <p>
-        ¿Echas alguno de menos?
-        <a
-          href="https://github.com/JaimeObregon/observatoriospublicos.es/issues/new/choose"
-          >Envía tus aportaciones al catálogo</a
-        >. ¡Importante! Solo observatorios con financiación pública o
-        público-privada.
-      </p>
+        <p>
+          <small
+            >ℹ️ ¿Echas alguno de menos?
+            <a
+              href="https://github.com/JaimeObregon/observatoriospublicos.es/issues/new/choose"
+              >Envía tu aportación al catálogo</a
+            >.
+          </small>
+        </p>
+      </section>
 
-      <h2>Organigrama</h2>
+      <section>
+        <h2>Organigrama</h2>
 
-      <p>
-        Necesitamos un organigrama chachi (¡me pido <em>Emperador</em>!).
-        También necesitamos asesores (¡muchos!) y variados comités de expertos.
-      </p>
+        <p>
+          Necesitamos un organigrama chachi (¡me pido <em>Emperador</em>!).
+          También necesitamos asesores (¡muchos!) y variados comités de
+          expertos.
+        </p>
+      </section>
 
-      <h2>Informes anuales</h2>
+      <section>
+        <h2>Informes anuales</h2>
 
-      <p>
-        Tenemos que generar memorias gigantes que nadie leerá. Lo único
-        importante es el resumen ejecutivo y el apartado de conclusiones. Todo
-        lo del medio simplemente se rellena con paja, volcados a tablas de datos
-        que ya tengamos, y gráficas absurdas de Excel.
-      </p>
+        <p>
+          Tenemos que generar memorias gigantes que nadie leerá. Lo único
+          importante es el resumen ejecutivo y el apartado de conclusiones. Todo
+          lo del medio simplemente se rellena con paja, volcados a tablas de
+          datos que ya tengamos, y gráficas absurdas de Excel.
+        </p>
+      </section>
     </main>
 
     <footer>
       <p>
         <small
-          >Una absurda iniciativa de
-          <a href="https://twitter.com/JaimeObregon">Jaime Gómez-Obregón</a>.
-          Publicado como
+          >Una iniciativa de
+          <a href="https://twitter.com/JaimeObregon">Jaime Gómez-Obregón</a> ·
+          Es
           <a href="https://github.com/jaimeobregon/observatoriospublicos.es"
             >código abierto en GitHub</a
-          >. Con cero euros de tus impuestos.
-          <a href="https://patreon.com/jaime_gomez_obregon"
+          >
+          · Con cero euros de tus impuestos ·
+          <a href="https//patreon.com/jaime_gomez_obregon"
             >Ayúdame a hacer más</a
           >.</small
         >
       </p>
     </footer>
 
-    <dialog id="modal-example">
+    <dialog id="observatory">
       <article>
         <header>
           <button
-            aria-label="Close"
+            aria-label="Cerrar"
             rel="prev"
-            data-target="modal-example"
+            data-target="observatory"
           ></button>
           <h3></h3>
         </header>
@@ -139,7 +166,7 @@
         <div></div>
 
         <footer>
-          <button autofocus data-target="modal-example">Chachi</button>
+          <button autofocus data-target="observatory">Chachi</button>
         </footer>
       </article>
     </dialog>
