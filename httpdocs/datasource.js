@@ -252,6 +252,7 @@ const observatories = [
   {
     id: '18',
     name: 'Observatorio de Infancia del País Vasco',
+    scope: 'pais_vasco',
   },
   {
     id: '19',
@@ -264,6 +265,26 @@ const observatories = [
   {
     id: '21',
     name: 'Observatorio de la Lectura y el Libro',
+    parents: [
+      'Ministerio de Cultura',
+      'Dirección General del Libro y Fomento de la Lectura',
+    ],
+    type: 'public',
+    description:
+      'Para <q>analizar permanentemente la situación del libro, la lectura y las bibliotecas en su conjunto, tal y como se establece en la disposición adicional segunda de la Ley 10/2007, de 22 de junio, de la Lectura, el Libro y las Bibliotecas</q>.',
+    scope: 'estatal',
+    docs: [
+      {
+        name: 'Real Decreto 1574/2007, de 30 de noviembre, por el que se regula el Observatorio de la Lectura y el Libro',
+        url: 'https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3',
+      },
+      {
+        name: 'Ley 10/2007, de 22 de junio, de la lectura, del libro y de las bibliotecas',
+        url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2007-12351',
+      },
+    ],
+    website:
+      'https://www.cultura.gob.es/cultura/libro/observatorio-de-la-lectura-y-el-libro/que-es-el-observatorio.html',
   },
   {
     id: '22',
@@ -1110,6 +1131,93 @@ const observatories = [
     scope: 'cataluna',
     type: 'publico',
     is_active: 'Sí',
+  },
+  {
+    id: '126',
+    name: 'Observatorio contra la Violencia Doméstica y de Género',
+    website:
+      'https://www.poderjudicial.es/cgpj/es/Temas/Violencia-domestica-y-de-genero/El-Observatorio-contra-la-violencia-domestica-y-de-genero/',
+    parents: [
+      'Consejo General del Poder Judicial',
+      'Ministerio de Justicia',
+      'Ministerio de Sanidad',
+      'Ministerio del Interior',
+      'Fiscalía General del Estado',
+      'Comunidades autónomas con competencias transferidas en Justicia',
+      'Consejo General de la Abogacía Española',
+      'Consejo General de Procuradores de España',
+    ],
+    description:
+      'Es <q>un instrumento de análisis y de actuación que, en el ámbito de la Administración de la Justicia, promueve iniciativas y medidas dirigidas a erradicar el problema social de la violencia doméstica y de género</q>.',
+    scope: 'estatal',
+    docs: [
+      {
+        name: 'Convenio de creación del Observatorio',
+        url: 'https://www.poderjudicial.es/stfls/CGPJ/OBSERVATORIO%20DE%20VIOLENCIA%20DOM%C3%89STICA/FICHERO/Convenio%20creaci%C3%B3n%20Observatorio.pdf',
+      },
+      {
+        name: 'Folleto conmemorativo del 20 aniversario del Observatorio contra la Violencia Doméstica y de Género',
+        url: 'https://www.poderjudicial.es/stfls/CGPJ/OBSERVATORIO%20DE%20VIOLENCIA%20DOM%C3%89STICA/FICHEROS/20221123%20Folleto%20conmemorativo%20del%2020%20aniversario%20del%20Observatorio%20contra%20la%20Violencia%20Dom%C3%A9stica.pdf',
+      },
+    ],
+    type: 'publico',
+    is_active: 'Sí',
+    from_date: '2002',
+  },
+  {
+    id: '127',
+    scope: 'estatal',
+    name: 'Observatorio de seguridad y eficiencia de las operaciones aéreas',
+    parents: ['ENAIRE', 'Colegio Oficial de Pilotos de la Aviación Comercial'],
+    from_date: '2019',
+    docs: [
+      {
+        name: 'Resolución de 27 de junio de 2022, de la Entidad Pública Empresarial ENAIRE, por la que se publica el Convenio con el Colegio Oficial de Pilotos, para la operación del Observatorio de seguridad y eficiencia de las operaciones aéreas',
+        url: 'https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-13358',
+      },
+    ],
+  },
+  {
+    id: '128',
+    name: 'Observatorio Permanente del Mercado de los Servicios Portuarios',
+    website: 'https://observatorio.puertos.es/Paginas/Observatorio.aspx',
+    email: 'observatorio@puertos.es',
+    parents: ['Puertos del Estado'],
+    scope: 'estatal',
+    type: 'publico',
+    description:
+      'Nace <q>para analizar las condiciones de competitividad en relación con los precios y calidad de los servicios portuarios, y acordar las variables de competitividad sobre las que establecer recomendaciones</q>.',
+    from_date: '2012-12-11',
+    is_active: 'Sí',
+  },
+  {
+    id: '129',
+    name: 'Observatorio de Salud Pública de Galicia',
+    parents: ['Dirección General de Salud Pública', 'Xunta de Galicia'],
+    email: 'Observatorio.SP@sergas.gal',
+    website: 'https://observatoriosaudepublica.sergas.gal/es',
+    scope: 'galicia',
+    type: 'publico',
+    description:
+      'Para <q>generar, analizar, reunir, organizar y comunicar información relevante y de calidad en el ámbito de la salud pública de Galicia, con el objetivo de proporcionar información basada en la evidencia científica, y ponerla a disposición de profesionales de la salud, de personal investigador, así como de la sociedad en general</q>.',
+    is_active: 'Sí',
+  },
+  {
+    id: '130',
+    name: 'Observatorio de la Sostenibilidad del Regadío',
+    scope: 'estatal',
+    type: 'publico',
+    website:
+      'https://www.mapa.gob.es/es/desarrollo-rural/temas/gestion-sostenible-regadios/regadio-espanya/default_1.2.2.aspx',
+    docs: [
+      {
+        name: 'Real Decreto 854/2022, de 11 de octubre, por el que se crean la Mesa Nacional del Regadío y el Observatorio de la Sostenibilidad del Regadío',
+        url: 'https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-16583',
+      },
+    ],
+    from_date: '2022-10-12',
+    description:
+      'Para <q>informar sobre la evolución de los principales indicadores relativos a la sostenibilidad económica, social y medioambiental de la agricultura de regadío en España</q>.',
   },
 ]
 
