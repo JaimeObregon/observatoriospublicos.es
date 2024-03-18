@@ -1,5 +1,20 @@
 import { scopes, observatories } from '../datasource.js'
 
+const errors = [
+  ...observatories
+    .filter(({ scope }) => !scope)
+    .map(({ scope }) => `Ámbito desconocido: "${scope}"`),
+  ...observatories
+    .filter(
+      ({ scope }) => scope && !scopes.map(({ key }) => key).includes(scope)
+    )
+    .map(({ scope }) => `Ámbito desconocido: "${scope}"`),
+]
+
+if (errors.length) {
+  // alert(`Hay errores en el catálogo:\n` + errors.join('\n'))
+}
+
 const container = document.querySelector('x-catalog')
 const count = document.querySelector('mark')
 
@@ -7,12 +22,18 @@ count.innerHTML = observatories.length.toString()
 
 container.innerHTML = observatories.map(createObservatoryComponent).join('')
 
-function createObservatoryComponent({ name, scope, description }) {
+function createObservatoryComponent({ name, scope, description, location }) {
   const scopeObj = scopes.find(({ key }) => key === scope)
 
   return `
     <article class="contrast" data-target="observatory" data-observatory="${name}">
-      ${scopeObj ? `<small>${scopeObj.name}</small>` : ''}
+      ${
+        scopeObj
+          ? `<small>${
+              scopeObj.key === 'municipal' ? location : scopeObj.name
+            }</small>`
+          : ''
+      }
       <h2>${name}</h2>
       ${description ? `<div>${description}</div>` : ''}
     </article>`
@@ -87,10 +108,6 @@ const getScrollbarWidth = () => {
   const scrollbarWidth =
     window.innerWidth - document.documentElement.clientWidth
   return scrollbarWidth
-}
-
-const isScrollbarVisible = () => {
-  return document.body.scrollHeight > screen.height
 }
 
 document.querySelectorAll('article').forEach((article) => {
