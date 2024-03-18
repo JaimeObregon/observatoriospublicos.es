@@ -7,22 +7,7 @@ count.innerHTML = observatories.length.toString()
 
 container.innerHTML = observatories.map(createObservatoryComponent).join('')
 
-function createObservatoryComponent({
-  name,
-  website,
-  email,
-  twitter,
-  parents,
-  scope,
-  type,
-  docs,
-  members,
-  description,
-  from_date,
-  to_date,
-  is_active,
-}) {
-  const typeObj = types.find(({ key }) => key === type)
+function createObservatoryComponent({ name, scope, description }) {
   const scopeObj = scopes.find(({ key }) => key === scope)
 
   return `
