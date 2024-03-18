@@ -1163,10 +1163,22 @@ const observatories = [
     email: 'observatorio@puertos.es',
     parents: ['Puertos del Estado'],
     scope: 'estatal',
-    type: 'public',
+    type: 'publico',
     description:
       'Nace <q>para analizar las condiciones de competitividad en relación con los precios y calidad de los servicios portuarios, y acordar las variables de competitividad sobre las que establecer recomendaciones</q>.',
     from_date: '2012-12-11',
+    is_active: 'Sí',
+  },
+  {
+    id: '129',
+    name: 'Observatorio de Salud Pública de Galicia',
+    parents: ['Dirección General de Salud Pública', 'Xunta de Galicia'],
+    email: 'Observatorio.SP@sergas.gal',
+    website: 'https://observatoriosaudepublica.sergas.gal/es',
+    scope: 'galicia',
+    type: 'publico',
+    description:
+      'Para <q>generar, analizar, reunir, organizar y comunicar información relevante y de calidad en el ámbito de la salud pública de Galicia, con el objetivo de proporcionar información basada en la evidencia científica, y ponerla a disposición de profesionales de la salud, de personal investigador, así como de la sociedad en general</q>.',
     is_active: 'Sí',
   },
 ]
