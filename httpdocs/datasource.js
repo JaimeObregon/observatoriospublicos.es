@@ -35,6 +35,10 @@ const scopes = [
     key: 'pais-vasco',
     name: 'País Vasco',
   },
+  {
+    key: 'comunitat-valenciana',
+    name: 'Comunitat Valenciana',
+  },
 ]
 
 const observatories = [
@@ -92,6 +96,19 @@ const observatories = [
   },
   {
     name: "Observatori Municipal de l'Habitatge d'Alcoi",
+    url: "https://www.omha.alcoi.org/",
+    scope: "ayuntamiento",
+    type: "public",
+    docs: [
+        {
+            name: "Plan General de Ordenación Urbana",
+            url: "https://www.alcoi.org/export/sites/default/es/areas/urbanismo/transparencia/descargas_planeam/20200714-Normativa-Urbanistica-del-PGOU-completa.pdf",
+        },
+        {
+            name: "Que es el OMHA?",
+            url: "https://www.omha.alcoi.org/es/que-es-omha/",
+        },
+    ]
   },
   {
     name: 'Observatorio Autonómico dos Ríos de Galicia',
