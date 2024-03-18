@@ -1143,6 +1143,19 @@ const observatories = [
     is_active: 'Sí',
     from_date: '2002',
   },
+  {
+    id: '127',
+    scope: 'estatal',
+    name: 'Observatorio de seguridad y eficiencia de las operaciones aéreas',
+    parents: ['ENAIRE', 'Colegio Oficial de Pilotos de la Aviación Comercial'],
+    from_date: '2019',
+    docs: [
+      {
+        name: 'Resolución de 27 de junio de 2022, de la Entidad Pública Empresarial ENAIRE, por la que se publica el Convenio con el Colegio Oficial de Pilotos, para la operación del Observatorio de seguridad y eficiencia de las operaciones aéreas',
+        url: 'https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-13358',
+      },
+    ],
+  },
 ]
 
 export { observatories, types, scopes }
