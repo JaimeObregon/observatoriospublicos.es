@@ -104,8 +104,7 @@ const observatories = [
     description: `<a
         href="https://twitter.com/Monica_Garcia_G/status/1768227454223565199"
         >Anunciado</a
-      >
-      por la ministra de Sanidad el 14 de marzo de 2024.`,
+      > en rueda de prensa por la ministra de Sanidad el 14 de marzo de 2024.`,
     scope: 'estatal',
     type: 'publico',
   },
@@ -349,21 +348,27 @@ const observatories = [
   },
   {
     name: 'Observatorio Estatal de Condiciones de Trabajo',
+    scope: 'estatal',
   },
   {
     name: 'Observatorio Estatal de Familias',
+    scope: 'estatal',
   },
   {
     name: 'Observatorio Estatal de la Convivencia Escolar',
+    scope: 'estatal',
   },
   {
     name: 'Observatorio Estatal de la Dependencia',
+    scope: 'estatal',
   },
   {
     name: 'Observatorio Estatal de la Discapacidad',
+    scope: 'estatal',
   },
   {
     name: 'Observatorio Estatal de los Servicios Deportivos a las Administraciones Públicas',
+    scope: 'estatal',
   },
   {
     name: 'Observatorio de la Comunidad de Castilla y León (Sección de Género)',
@@ -398,9 +403,6 @@ const observatories = [
       'https://www.saludcastillayleon.es/profesionales/es/prevencion-riesgos-laborales/plan-integral-frente-agresiones/observatorio-agresiones',
     type: 'publico',
     scope: 'castilla_y_leon',
-  },
-  {
-    name: 'Observatorio Estatal de Violencia sobre la Mujer',
   },
   {
     name: 'Observatorio Galego Contra a Discriminación por Orientación Sexual e Identidade de Xénero',
@@ -487,57 +489,73 @@ const observatories = [
   },
   {
     name: 'Observatorio Gallego de la Familia y de la Infancia',
+    scope: 'galicia',
   },
   {
     name: 'Observatorio da Vivenda de Galicia',
+    scope: 'galicia',
   },
   {
     name: 'Observatorio da Lingua Galega',
   },
   {
     name: 'Observatorio Argos de la Junta de Andalucía',
+    scope: 'andalucia',
   },
   {
     name: 'Observatorio del Mercado de Trabajo del Instituto Aragonés de Empleo',
+    scope: 'aragon',
   },
   {
     name: 'Observatorio del Mercado de Trabajo del Servicio Público de Empleo del Principado de Asturias',
+    scope: 'asturias',
   },
   {
     name: 'Observatorio del Trabajo del Servicio de Ocupación de las Illes Balears',
+    scope: 'islas_baleares',
   },
   {
     name: 'Observatorio de Empleo y Formación del Servicio Cántabro de Empleo',
+    scope: 'cantabria',
   },
   {
     name: 'Observatorio Canario del Empleo y la Formación Profesional',
+    scope: 'canarias',
   },
   {
     name: 'Observatorio Socioeconómico de la Provincia de Badajoz',
   },
   {
     name: 'Observatorio del Sector TIC en Extremadura',
+    scope: 'extremadura',
   },
   {
     name: 'Observatorio de las Familias y la Infancia de Extremadura',
+    scope: 'extremadura',
   },
   {
     name: 'Observatorio para la Convivencia Escolar de Extremadura',
+    scope: 'extremadura',
   },
   {
     name: 'Observatorio de Prevención de Riesgos Laborales de la Comunidad Autónoma de la Región de Murcia',
+    scope: 'region_de_murcia',
   },
   {
     name: 'Observatorio de Turismo de Extremadura',
+    scope: 'extremadura',
   },
   {
     name: 'Observatorio Extremeño de la Cultura',
+    scope: 'extremadura',
   },
   {
     name: 'Observatorio de Responsabilidad Social de Extremadura',
+    scope: 'extremadura',
   },
   {
     name: 'Observatorio sobre Drogas de la Región de Murcia',
+    scope: 'region_de_murcia',
   },
   {
     name: 'Observatorio Urbano de A Coruña',
@@ -647,6 +665,7 @@ const observatories = [
   },
   {
     name: 'Observatorio Estatal de Violencia sobre la Mujer',
+    scope: 'estatal',
     website:
       'https://violenciagenero.igualdad.gob.es/instituciones/observatorioEstatal/home.htm',
     parents: [
@@ -675,11 +694,13 @@ const observatories = [
     website:
       'https://www.ayto-alcaladehenares.es/el-salon-de-plenos-acoge-el-acto-ejecutivo-del-plan-de-accion-de-la-agenda-urbana-de-alcala/',
     scope: 'municipal',
+    location: 'Alcalá de Henares',
     type: 'publico',
   },
   {
     name: 'Observatorio de violencia de género de Alcalá',
     parents: ['Ayuntamiento de Alcalá de Henares'],
+    location: 'Alcalá de Henares',
     website:
       'https://www.ayto-alcaladehenares.es/el-observatorio-de-violencia-de-genero-de-alcala-ha-atendido-a-mas-de-1500-mujeres-desde-2004-2/',
     scope: 'municipal',
@@ -688,6 +709,7 @@ const observatories = [
   {
     name: 'Observatorio Sociodemográfico del Ayuntamiento de Alcalá de Henares',
     parents: ['Ayuntamiento de Alcalá de Henares'],
+    location: 'Alcalá de Henares',
     website:
       'https://urbanismo.ayto-alcaladehenares.es/observatorio-sociodemografico-2/',
     scope: 'municipal',
@@ -696,6 +718,7 @@ const observatories = [
   {
     name: 'Observatorio Alcalá en cifras',
     parents: ['Ayuntamiento de Alcalá de Henares'],
+    location: 'Alcalá de Henares',
     website:
       'https://www.ayto-alcaladehenares.es/presentacion-del-observatorio-urbano-alcala-en-cifras/',
     scope: 'municipal',
@@ -769,7 +792,7 @@ const observatories = [
     type: 'publico',
   },
   {
-    name: 'OBSERVATORIO PARA LA CONVIVENCIA ESCOLAR',
+    name: 'Observatorio para la Convivencia Escolar',
     website:
       'https://www.carm.es/web/pagina?IDCONTENIDO=5316&RASTRO=c792$m4001&IDTIPO=100',
     email: 'observatorio.convivencia@murciaeduca.es',
@@ -804,7 +827,7 @@ const observatories = [
     ],
   },
   {
-    name: 'OBSERVATORIO DE PREVENCIÓN DE RIESGOS LABORALES',
+    name: 'Observatorio de Prevención de Riesgos Laborales',
     website: 'https://www.carm.es/web/pagina?IDCONTENIDO=740&IDTIPO=140',
     parents: ['Gobierno de la Región de Murcia'],
     scope: 'region_de_murcia',
@@ -831,21 +854,21 @@ const observatories = [
     ],
   },
   {
-    name: 'OBSERVATORIO VIRTUAL DEL PAISAJE MEDITERRÁNEO',
+    name: 'Observatorio Virtual del Paisaje Mediterráneo',
     website:
       'https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828',
     scope: 'region_de_murcia',
     type: 'publico',
   },
   {
-    name: 'OBSERVATORIO REGIONAL DE LA DISCAPACIDAD',
+    name: 'Observatorio Regional de la Discapacidad',
     website:
       'https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828',
     scope: 'region_de_murcia',
     type: 'publico',
   },
   {
-    name: 'OBSERVATORIO DE LA CALIDAD DE LOS SERVICIOS DE LA COMUNIDAD AUTÓNOMA DE LA REGIÓN DE MURCIA',
+    name: 'Observatorio de la Calidad de los Servicios de la Comunidad Autónoma de la Región de Murcia',
     website:
       'https://transparencia.carm.es/-/observatorio-de-la-calidad-de-los-servicios#gsc.tab=0',
     scope: 'region_de_murcia',

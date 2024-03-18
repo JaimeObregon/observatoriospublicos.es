@@ -65,6 +65,12 @@ x-catalog {
     h2 {
       --pico-font-family: 'Fira Sans Condensed', system-ui;
       font-size: 1.15em;
+      margin: 0;
+    }
+
+    div {
+      margin-top: 1em;
+      font-size: 0.8em;
     }
   }
 }
