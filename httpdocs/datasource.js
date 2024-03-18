@@ -252,6 +252,7 @@ const observatories = [
   {
     id: '18',
     name: 'Observatorio de Infancia del País Vasco',
+    scope: 'pais_vasco',
   },
   {
     id: '19',
@@ -264,6 +265,26 @@ const observatories = [
   {
     id: '21',
     name: 'Observatorio de la Lectura y el Libro',
+    parents: [
+      'Ministerio de Cultura',
+      'Dirección General del Libro y Fomento de la Lectura',
+    ],
+    type: 'public',
+    description:
+      'Para <q>analizar permanentemente la situación del libro, la lectura y las bibliotecas en su conjunto, tal y como se establece en la disposición adicional segunda de la Ley 10/2007, de 22 de junio, de la Lectura, el Libro y las Bibliotecas</q>.',
+    scope: 'estatal',
+    docs: [
+      {
+        name: 'Real Decreto 1574/2007, de 30 de noviembre, por el que se regula el Observatorio de la Lectura y el Libro',
+        url: 'https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3',
+      },
+      {
+        name: 'Ley 10/2007, de 22 de junio, de la lectura, del libro y de las bibliotecas',
+        url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2007-12351',
+      },
+    ],
+    website:
+      'https://www.cultura.gob.es/cultura/libro/observatorio-de-la-lectura-y-el-libro/que-es-el-observatorio.html',
   },
   {
     id: '22',
@@ -1180,6 +1201,23 @@ const observatories = [
     description:
       'Para <q>generar, analizar, reunir, organizar y comunicar información relevante y de calidad en el ámbito de la salud pública de Galicia, con el objetivo de proporcionar información basada en la evidencia científica, y ponerla a disposición de profesionales de la salud, de personal investigador, así como de la sociedad en general</q>.',
     is_active: 'Sí',
+  },
+  {
+    id: '130',
+    name: 'Observatorio de la Sostenibilidad del Regadío',
+    scope: 'estatal',
+    type: 'publico',
+    website:
+      'https://www.mapa.gob.es/es/desarrollo-rural/temas/gestion-sostenible-regadios/regadio-espanya/default_1.2.2.aspx',
+    docs: [
+      {
+        name: 'Real Decreto 854/2022, de 11 de octubre, por el que se crean la Mesa Nacional del Regadío y el Observatorio de la Sostenibilidad del Regadío',
+        url: 'https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-16583',
+      },
+    ],
+    from_date: '2022-10-12',
+    description:
+      'Para <q>informar sobre la evolución de los principales indicadores relativos a la sostenibilidad económica, social y medioambiental de la agricultura de regadío en España</q>.',
   },
 ]
 
