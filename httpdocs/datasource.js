@@ -1111,6 +1111,38 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
   },
+  {
+    id: '126',
+    name: 'Observatorio contra la Violencia Doméstica y de Género',
+    website:
+      'https://www.poderjudicial.es/cgpj/es/Temas/Violencia-domestica-y-de-genero/El-Observatorio-contra-la-violencia-domestica-y-de-genero/',
+    parents: [
+      'Consejo General del Poder Judicial',
+      'Ministerio de Justicia',
+      'Ministerio de Sanidad',
+      'Ministerio del Interior',
+      'Fiscalía General del Estado',
+      'Comunidades autónomas con competencias transferidas en Justicia',
+      'Consejo General de la Abogacía Española',
+      'Consejo General de Procuradores de España',
+    ],
+    description:
+      'Es <q>un instrumento de análisis y de actuación que, en el ámbito de la Administración de la Justicia, promueve iniciativas y medidas dirigidas a erradicar el problema social de la violencia doméstica y de género</q>.',
+    scope: 'estatal',
+    docs: [
+      {
+        name: 'Convenio de creación del Observatorio',
+        url: 'https://www.poderjudicial.es/stfls/CGPJ/OBSERVATORIO%20DE%20VIOLENCIA%20DOM%C3%89STICA/FICHERO/Convenio%20creaci%C3%B3n%20Observatorio.pdf',
+      },
+      {
+        name: 'Folleto conmemorativo del 20 aniversario del Observatorio contra la Violencia Doméstica y de Género',
+        url: 'https://www.poderjudicial.es/stfls/CGPJ/OBSERVATORIO%20DE%20VIOLENCIA%20DOM%C3%89STICA/FICHEROS/20221123%20Folleto%20conmemorativo%20del%2020%20aniversario%20del%20Observatorio%20contra%20la%20Violencia%20Dom%C3%A9stica.pdf',
+      },
+    ],
+    type: 'publico',
+    is_active: 'Sí',
+    from_date: '2002',
+  },
 ]
 
 export { observatories, types, scopes }
