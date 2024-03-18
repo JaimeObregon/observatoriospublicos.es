@@ -1156,6 +1156,19 @@ const observatories = [
       },
     ],
   },
+  {
+    id: '128',
+    name: 'Observatorio Permanente del Mercado de los Servicios Portuarios',
+    website: 'https://observatorio.puertos.es/Paginas/Observatorio.aspx',
+    email: 'observatorio@puertos.es',
+    parents: ['Puertos del Estado'],
+    scope: 'estatal',
+    type: 'public',
+    description:
+      'Nace <q>para analizar las condiciones de competitividad en relación con los precios y calidad de los servicios portuarios, y acordar las variables de competitividad sobre las que establecer recomendaciones</q>.',
+    from_date: '2012-12-11',
+    is_active: 'Sí',
+  },
 ]
 
 export { observatories, types, scopes }
