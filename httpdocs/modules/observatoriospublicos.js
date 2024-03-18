@@ -1,4 +1,4 @@
-import { types, scopes, observatories } from '../datasource.js'
+import { scopes, observatories } from '../datasource.js'
 
 const container = document.querySelector('x-catalog')
 const count = document.querySelector('mark')
@@ -12,16 +12,12 @@ function createObservatoryComponent({ name, scope, description }) {
 
   return `
     <article class="contrast" data-target="observatory" data-observatory="${name}">
-    ${scopeObj ? `<small>${scopeObj.name}</small>` : ''}
-    <h2>${name}</h2>
+      ${scopeObj ? `<small>${scopeObj.name}</small>` : ''}
+      <h2>${name}</h2>
       ${description ? `<div>${description}</div>` : ''}
-      </article>
-  `
+    </article>`
 }
 
-// -----------------------------------------------------------------------------
-
-// Config
 const isOpenClass = 'modal-is-open'
 const openingClass = 'modal-is-opening'
 const closingClass = 'modal-is-closing'
@@ -29,7 +25,6 @@ const scrollbarWidthCssVar = '--pico-scrollbar-width'
 const animationDuration = 400 // ms
 let visibleModal = null
 
-// Toggle modal
 const toggleModal = (event) => {
   event.preventDefault()
   const modal = document.getElementById(event.currentTarget.dataset.target)
@@ -38,7 +33,6 @@ const toggleModal = (event) => {
   modal && (modal.open ? closeModal(modal) : openModal(modal, event))
 }
 
-// Open modal
 const openModal = (modal, event) => {
   const { documentElement: html } = document
   const scrollbarWidth = getScrollbarWidth()
@@ -65,7 +59,6 @@ const openModal = (modal, event) => {
   modal.showModal()
 }
 
-// Close modal
 const closeModal = (modal) => {
   visibleModal = null
   const { documentElement: html } = document
@@ -77,7 +70,6 @@ const closeModal = (modal) => {
   }, animationDuration)
 }
 
-// Close with a click outside
 document.addEventListener('click', (event) => {
   if (visibleModal === null) return
   const modalContent = visibleModal.querySelector('article')
@@ -85,26 +77,21 @@ document.addEventListener('click', (event) => {
   !isClickInside && closeModal(visibleModal)
 })
 
-// Close with Esc key
 document.addEventListener('keydown', (event) => {
   if (event.key === 'Escape' && visibleModal) {
     closeModal(visibleModal)
   }
 })
 
-// Get scrollbar width
 const getScrollbarWidth = () => {
   const scrollbarWidth =
     window.innerWidth - document.documentElement.clientWidth
   return scrollbarWidth
 }
 
-// Is scrollbar visible
 const isScrollbarVisible = () => {
   return document.body.scrollHeight > screen.height
 }
-
-// -----------------------------------------------------------------------------
 
 document.querySelectorAll('article').forEach((article) => {
   article.addEventListener('click', toggleModal)
