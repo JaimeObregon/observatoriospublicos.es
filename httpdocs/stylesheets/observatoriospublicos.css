@@ -62,6 +62,12 @@ x-catalog {
     hyphens: auto;
     cursor: pointer;
 
+    small {
+      display: flex;
+      justify-content: space-between;
+      color: var(--pico-muted-color);
+    }
+
     h2 {
       --pico-font-family: 'Fira Sans Condensed', system-ui;
       font-size: 1.15em;
@@ -77,4 +83,5 @@ x-catalog {
 
 dialog h3 {
   --pico-font-family: 'Fira Sans Condensed', system-ui;
+  color: var(--pico-h1-color);
 }

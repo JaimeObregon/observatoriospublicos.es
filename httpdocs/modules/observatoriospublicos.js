@@ -22,18 +22,29 @@ count.innerHTML = observatories.length.toString()
 
 container.innerHTML = observatories.map(createObservatoryComponent).join('')
 
-function createObservatoryComponent({ name, scope, description, location }) {
+function createObservatoryComponent({
+  id,
+  name,
+  scope,
+  description,
+  location,
+}) {
   const scopeObj = scopes.find(({ key }) => key === scope)
 
   return `
     <article class="contrast" data-target="observatory" data-observatory="${name}">
-      ${
-        scopeObj
-          ? `<small>${
-              scopeObj.key === 'municipal' ? location : scopeObj.name
-            }</small>`
-          : ''
-      }
+      <small>
+        <span>
+          ${
+            scopeObj
+              ? scopeObj.key === 'municipal'
+                ? location
+                : scopeObj.name
+              : ''
+          }
+          </span>
+          <span>#${id}</span>
+      </small>
       <h2>${name}</h2>
       ${description ? `<div>${description}</div>` : ''}
     </article>`

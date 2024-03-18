@@ -99,6 +99,7 @@ const scopes = [
 
 const observatories = [
   {
+    id: '1',
     name: 'Observatorio contra el Fraude y la Corrupción Sanitaria',
     parents: ['Ministerio de Sanidad'],
     description: `<a
@@ -109,6 +110,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '2',
     name: 'Observatorio de Salud de las Mujeres',
     parents: [
       'Ministerio de Sanidad',
@@ -120,6 +122,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '3',
     name: 'Observatorio del ferrocarril en España',
     parents: ['Ministerio de Transportes y Movilidad Sostenible'],
     docs: [
@@ -150,6 +153,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '4',
     name: "Observatori Municipal de l'Habitatge d'Alcoi",
     url: 'https://www.omha.alcoi.org/',
     scope: 'municipal',
@@ -167,18 +171,23 @@ const observatories = [
     ],
   },
   {
+    id: '5',
     name: 'Observatorio Autonómico dos Ríos de Galicia',
   },
   {
+    id: '6',
     name: 'Observatorio da Sociedade da Información e a Modernización de Galicia',
   },
   {
+    id: '7',
     name: 'Observatorio da Violencia no Contorno Laboral',
   },
   {
+    id: '8',
     name: 'Observatorio de Administración Electrónica',
   },
   {
+    id: '9',
     name: 'Observatorio de Igualdad de Oportunidades entre Mujeres y Hombres',
     website:
       'https://www.inmujeres.gob.es/observatorios/observIgualdad/home.htm',
@@ -193,6 +202,7 @@ const observatories = [
     ],
   },
   {
+    id: '10',
     name: 'Observatorio de la Imagen de las Mujeres',
     website: 'https://www.inmujeres.gob.es/observatorios/observImg/home.htm',
     type: 'publico',
@@ -200,6 +210,7 @@ const observatories = [
     parents: ['Ministerio de Igualdad', 'Instituto de las Mujeres'],
   },
   {
+    id: '11',
     name: 'Observatorio de la Cadena Alimentaria',
     website:
       'https://www.mapa.gob.es/es/alimentacion/temas/observatorio-cadena/organizacion-y-estructura/',
@@ -211,42 +222,54 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '12',
     name: 'Observatorio de la Ciencia Ciudadana',
   },
   {
+    id: '13',
     name: 'Observatorio de la Gestión Empresarial en Biodiversidad',
   },
   {
+    id: '14',
     name: 'Observatorio de la Infancia de España',
     website:
       'https://observatoriodelainfancia.mdsocialesa2030.gob.es/queEs/home.htm',
   },
   {
+    id: '15',
     name: 'Observatorio de la Infancia de Andalucía',
   },
   {
+    id: '16',
     name: 'Observatorio de la Infancia de Cataluña / Observatori dels Drets dels Infants',
   },
   {
+    id: '17',
     name: 'Observatorio de la Infancia y la Adolescencia de Asturias',
   },
   {
+    id: '18',
     name: 'Observatorio de Infancia del País Vasco',
   },
   {
+    id: '19',
     name: 'Observatorio de Infancia de Cantabria',
   },
   {
+    id: '20',
     name: 'Observatorio de la Infancia y la Adolescencia de les Illes Balears',
   },
   {
+    id: '21',
     name: 'Observatorio de la Lectura y el Libro',
   },
   {
+    id: '22',
     name: 'Observatorio de la Realidad Social de Navarra',
     website: 'https://www.observatoriorealidadsocial.es/es/',
   },
   {
+    id: '23',
     name: 'Observatorio de las Ocupaciones del Servicio Público de Empleo Estatal',
     website:
       'https://www.sepe.es/HomeSepe/que-es-el-sepe/comunicacion-institucional/publicaciones/publicaciones-oficiales/listado-pub-mercado-trabajo/observatorio-ocupaciones.html',
@@ -255,6 +278,7 @@ const observatories = [
     scope: 'estatal',
   },
   {
+    id: '24',
     name: 'Observatorio de Museos de España',
     website:
       'https://www.cultura.gob.es/observatorio-museos-espana/el-observatorio-de-museos-de-espana.html',
@@ -264,14 +288,17 @@ const observatories = [
     email: 'observatorio.museos@cultura.gob.es',
   },
   {
+    id: '25',
     name: 'Observatorio de Precios y Mercados de la Junta de Andalucía',
     scope: 'andalucia',
   },
   {
+    id: '26',
     name: 'Observatorio de Salud Pública de Cantabria',
     scope: 'cantabria',
   },
   {
+    id: '27',
     name: 'Observatorio de Salud y Cambio Climático',
     scope: 'estatal',
     parents: ['Ministerio de Ciencia e Innovación'],
@@ -283,22 +310,27 @@ const observatories = [
     ],
   },
   {
+    id: '28',
     name: 'Observatorio de Vivienda y Suelo',
     scope: 'estatal',
     parents: ['Ministerio de Transportes y Movilidad Sostenible'],
   },
   {
+    id: '29',
     name: 'Observatorio del Ferrocarril en España',
     scope: 'estatal',
   },
   {
+    id: '30',
     name: 'Observatorio del Medio Ambiente Urbano',
   },
   {
+    id: '31',
     name: 'Observatorio del Transporte y la Logística en España',
     website: 'https://otle.transportes.gob.es',
   },
   {
+    id: '32',
     name: 'Observatorio do Sector Lácteo de Galicia',
     website:
       'https://fogga.xunta.gal/es/sector_lacteo/observatorio_del_sector_lacteo',
@@ -312,16 +344,20 @@ const observatories = [
     ],
   },
   {
+    id: '33',
     name: 'Observatorio Español contra la LGBTfobia',
   },
   {
+    id: '34',
     name: 'Observatorio Español de Acuicultura',
     website: 'https://www.mapa.gob.es/es/pesca/temas/acuicultura/observatorio/',
   },
   {
+    id: '35',
     name: 'Observatorio Español de I+D+I (ICONO)',
   },
   {
+    id: '36',
     name: 'Observatorio de Salud y Medio Ambiente de Andalucía',
     website: 'https://www.osman.es',
     scope: 'andalucia',
@@ -329,9 +365,11 @@ const observatories = [
     parents: ['Junta de Andalucía', 'Consejería de Salud y Consumo'],
   },
   {
+    id: '37',
     name: 'Observatorio Español de la Economía Social',
   },
   {
+    id: '38',
     name: 'Observatorio Español de las Drogas y las Adicciones',
     type: 'publico',
     scope: 'estatal',
@@ -340,6 +378,7 @@ const observatories = [
       'https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/home.htm',
   },
   {
+    id: '39',
     name: 'Observatorio Español del Racismo y la Xenofobia',
     website: 'https://www.inclusion.gob.es/oberaxe/',
     parents: ['Ministerio de Inclusión, Seguridad Social y Migraciones'],
@@ -347,30 +386,37 @@ const observatories = [
     scope: 'estatal',
   },
   {
+    id: '40',
     name: 'Observatorio Estatal de Condiciones de Trabajo',
     scope: 'estatal',
   },
   {
+    id: '41',
     name: 'Observatorio Estatal de Familias',
     scope: 'estatal',
   },
   {
+    id: '42',
     name: 'Observatorio Estatal de la Convivencia Escolar',
     scope: 'estatal',
   },
   {
+    id: '43',
     name: 'Observatorio Estatal de la Dependencia',
     scope: 'estatal',
   },
   {
+    id: '44',
     name: 'Observatorio Estatal de la Discapacidad',
     scope: 'estatal',
   },
   {
+    id: '45',
     name: 'Observatorio Estatal de los Servicios Deportivos a las Administraciones Públicas',
     scope: 'estatal',
   },
   {
+    id: '46',
     name: 'Observatorio de la Comunidad de Castilla y León (Sección de Género)',
     website:
       'https://familia.jcyl.es/web/es/mujer/observatorio-comunidad-seccion-genero.html',
@@ -378,6 +424,7 @@ const observatories = [
     scope: 'castilla_y_leon',
   },
   {
+    id: '47',
     name: 'Observatorio de la Convivencia Escolar',
     website:
       'https://www.educa.jcyl.es/convivenciaescolar/es/observatorio-convivencia-escolar',
@@ -385,12 +432,14 @@ const observatories = [
     scope: 'castilla_y_leon',
   },
   {
+    id: '48',
     name: 'Observatorio TransfomAcción y ParticipAcción',
     website: 'https://www.observatoriotransformacion.com',
     type: 'publico',
     scope: 'castilla_y_leon',
   },
   {
+    id: '49',
     name: 'Observatorio Regional de la Sociedad de la Información de Castilla y León (ORSI)',
     website:
       'https://www.aytoburgos.es/-/observatorio-regional-de-la-sociedad-de-la-informacion-de-castilla-y-leon-orsi-',
@@ -398,6 +447,7 @@ const observatories = [
     scope: 'castilla_y_leon',
   },
   {
+    id: '50',
     name: 'Observatorio de Agresiones',
     website:
       'https://www.saludcastillayleon.es/profesionales/es/prevencion-riesgos-laborales/plan-integral-frente-agresiones/observatorio-agresiones',
@@ -405,159 +455,221 @@ const observatories = [
     scope: 'castilla_y_leon',
   },
   {
+    id: '51',
     name: 'Observatorio Galego Contra a Discriminación por Orientación Sexual e Identidade de Xénero',
+    scope: 'galicia',
   },
   {
+    id: '52',
     name: 'Observatorio Galego da biodiversidade',
+    scope: 'galicia',
   },
   {
+    id: '53',
     name: 'Observatorio Galego da Violencia de Xénero',
+    scope: 'galicia',
   },
   {
+    id: '54',
     name: 'Observatorio Galego de Acción Voluntaria',
+    scope: 'galicia',
   },
   {
+    id: '55',
     name: 'Observatorio Galego de Convivencia Escolar',
+    scope: 'galicia',
   },
   {
+    id: '56',
     name: 'Observatorio Galego de Dinamización Demográfica',
+    scope: 'galicia',
   },
   {
+    id: '57',
     name: 'Observatorio Galego de Educación Ambiental',
+    scope: 'galicia',
   },
   {
+    id: '58',
     name: 'Observatorio Nacional 5G',
     parents: ['Ministerio de Economía'],
+    scope: 'estatal',
     is_active: 'No',
   },
   {
+    id: '59',
     name: 'Observatorio Nacional contra el Despoblamiento',
+    scope: 'estatal',
   },
   {
+    id: '60',
     name: 'Observatorio Nacional de la Calidad de los Servicios Públicos',
+    scope: 'estatal',
   },
   {
+    id: '61',
     name: 'Observatorio Nacional de las Telecomunicaciones y de la Sociedad de la Información',
+    scope: 'estatal',
   },
   {
+    id: '62',
     name: 'Observatorio Nacional de Seguridad Vial',
+    scope: 'estatal',
   },
   {
+    id: '63',
     name: 'Observatorio Nacional de Sequías e Inundaciones',
+    scope: 'estatal',
   },
   {
+    id: '64',
     name: 'Observatorio Profesional del Instituto Nacional de las Cualificaciones',
   },
   {
+    id: '65',
     name: 'Observatorio Tecnológico',
     website: 'http://educalab.es/intef/tecnologia/observatorio-tecnologico',
   },
   {
+    id: '66',
     name: 'Observatorio Territorial de Andalucía',
+    scope: 'andalucia',
   },
   {
+    id: '67',
     name: 'Observatorio para la Cibersociedad',
     // Kaputt
   },
   {
+    id: '68',
     name: 'Sociedad de la Información en Navarra',
     scope: 'navarra',
     // Kaputt ?
   },
   {
+    id: '69',
     name: 'Observatorio de Prospectiva Tecnológica Industrial',
     website: 'http://www.opti.org',
   },
   {
+    id: '70',
     name: 'Observatorio de formación en red Scopeo',
     website: 'https://scopeo.usal.es',
   },
   {
+    id: '71',
     name: 'Observatorio Mujeres, Ciencia e Innovación',
   },
   {
+    id: '72',
     name: 'Observatorio da Mobilidade de Terras de Galicia',
+    scope: 'galicia',
   },
   {
+    id: '73',
     name: 'Observatorio Galego da Xuventude',
+    scope: 'galicia',
   },
   {
+    id: '74',
     name: 'Observatorio Coruñés contra a LGTBIfobia',
   },
   {
+    id: '75',
     name: 'Observatorio de costes de transportes de mercancías por carretera de Galicia',
+    scope: 'galicia',
   },
   {
+    id: '76',
     name: 'Observatorio Gallego de la Familia y de la Infancia',
     scope: 'galicia',
   },
   {
+    id: '77',
     name: 'Observatorio da Vivenda de Galicia',
     scope: 'galicia',
   },
   {
+    id: '78',
     name: 'Observatorio da Lingua Galega',
+    scope: 'galicia',
   },
   {
+    id: '79',
     name: 'Observatorio Argos de la Junta de Andalucía',
     scope: 'andalucia',
   },
   {
+    id: '80',
     name: 'Observatorio del Mercado de Trabajo del Instituto Aragonés de Empleo',
     scope: 'aragon',
   },
   {
+    id: '81',
     name: 'Observatorio del Mercado de Trabajo del Servicio Público de Empleo del Principado de Asturias',
     scope: 'asturias',
   },
   {
+    id: '82',
     name: 'Observatorio del Trabajo del Servicio de Ocupación de las Illes Balears',
     scope: 'islas_baleares',
   },
   {
+    id: '83',
     name: 'Observatorio de Empleo y Formación del Servicio Cántabro de Empleo',
     scope: 'cantabria',
   },
   {
+    id: '84',
     name: 'Observatorio Canario del Empleo y la Formación Profesional',
     scope: 'canarias',
   },
   {
+    id: '85',
     name: 'Observatorio Socioeconómico de la Provincia de Badajoz',
   },
   {
+    id: '86',
     name: 'Observatorio del Sector TIC en Extremadura',
     scope: 'extremadura',
   },
   {
+    id: '87',
     name: 'Observatorio de las Familias y la Infancia de Extremadura',
     scope: 'extremadura',
   },
   {
+    id: '88',
     name: 'Observatorio para la Convivencia Escolar de Extremadura',
     scope: 'extremadura',
   },
   {
+    id: '89',
     name: 'Observatorio de Prevención de Riesgos Laborales de la Comunidad Autónoma de la Región de Murcia',
     scope: 'region_de_murcia',
   },
   {
+    id: '90',
     name: 'Observatorio de Turismo de Extremadura',
     scope: 'extremadura',
   },
   {
+    id: '91',
     name: 'Observatorio Extremeño de la Cultura',
     scope: 'extremadura',
   },
   {
+    id: '92',
     name: 'Observatorio de Responsabilidad Social de Extremadura',
     scope: 'extremadura',
   },
   {
+    id: '93',
     name: 'Observatorio sobre Drogas de la Región de Murcia',
     scope: 'region_de_murcia',
   },
   {
+    id: '94',
     name: 'Observatorio Urbano de A Coruña',
     parents: ['Concello de A Coruña'],
     website:
@@ -566,6 +678,7 @@ const observatories = [
     location: 'A Coruña',
   },
   {
+    id: '95',
     name: 'Observatorio municipal de igualdade e diversidade',
     parents: ['Concello de A Coruña'],
     website: 'https://www.coruna.gal/igualdade/es/servicios/observatorio',
@@ -573,6 +686,7 @@ const observatories = [
     location: 'A Coruña',
   },
   {
+    id: '96',
     name: 'Observatorio turístico de A Coruña',
     parents: ['Concello de A Coruña', 'Universidade da Coruña'],
     website: 'https://acorunaot.udc.es',
@@ -580,6 +694,7 @@ const observatories = [
     location: 'A Coruña',
   },
   {
+    id: '97',
     name: 'Observatorio de Accesibilidad Web',
     type: 'publico',
     scope: 'estatal',
@@ -588,6 +703,7 @@ const observatories = [
     // https://www.discapnet.es/innovacion/observatorio-accesibilidad-tic
   },
   {
+    id: '98',
     name: 'Observatorio de Innovación de Navarra',
     type: 'publico',
     scope: 'navarra',
@@ -600,6 +716,7 @@ const observatories = [
     ],
   },
   {
+    id: '99',
     name: 'Observatorio de la Movilidad Metropolitana (OMM)',
     parents: [
       'Ministerio para la Transición Ecológica y el Reto Demográfico',
@@ -611,6 +728,7 @@ const observatories = [
       'https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/movilidad/omm.html',
   },
   {
+    id: '100',
     name: 'Observatorio Global del Español',
     parents: [
       'Ministerio de Asuntos Exteriores, Unión Europea y Cooperación',
@@ -641,6 +759,7 @@ const observatories = [
     is_active: 'Sí',
   },
   {
+    id: '101',
     name: 'Observatorio Permanente de la Inmigración (OPI)',
     website:
       'https://www.inclusion.gob.es/web/opi/estadisticas/observatorio_permanente_inmigracion',
@@ -664,6 +783,7 @@ const observatories = [
     ],
   },
   {
+    id: '102',
     name: 'Observatorio Estatal de Violencia sobre la Mujer',
     scope: 'estatal',
     website:
@@ -689,6 +809,7 @@ const observatories = [
     ],
   },
   {
+    id: '103',
     name: 'Observatorio Urbano de Alcalá de Henares',
     parents: ['Ayuntamiento de Alcalá de Henares'],
     website:
@@ -698,6 +819,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '104',
     name: 'Observatorio de violencia de género de Alcalá',
     parents: ['Ayuntamiento de Alcalá de Henares'],
     location: 'Alcalá de Henares',
@@ -707,6 +829,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '105',
     name: 'Observatorio Sociodemográfico del Ayuntamiento de Alcalá de Henares',
     parents: ['Ayuntamiento de Alcalá de Henares'],
     location: 'Alcalá de Henares',
@@ -716,6 +839,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '106',
     name: 'Observatorio Alcalá en cifras',
     parents: ['Ayuntamiento de Alcalá de Henares'],
     location: 'Alcalá de Henares',
@@ -725,12 +849,14 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '107',
     name: 'Observatorio de Comercio del Gobierno Vasco',
     website: 'https://www.euskadi.eus/gobierno-vasco/observatorio-comercio',
     scope: 'pais_vasco',
     type: 'publico',
   },
   {
+    id: '108',
     name: 'Observatorio Vasco del Emprendimiento',
     website: 'https://eeb-ove.eus/inicio/',
     twitter: '@eeb_ove',
@@ -738,18 +864,21 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '109',
     name: 'Observatorio Vasco de Vivienda',
     website: 'https://www.euskadi.eus/observatoriovivienda/',
     scope: 'pais_vasco',
     type: 'publico',
   },
   {
+    id: '110',
     name: 'Observatorio Vasco del Juego',
     website: 'https://www.euskadi.eus/gobierno-vasco/observatorio-vasco-juego/',
     scope: 'pais_vasco',
     type: 'publico',
   },
   {
+    id: '111',
     name: 'Observatorio de Periodismo Machista',
     website: 'https://periodismomachista.com/',
     twitter: '@pemachista',
@@ -757,6 +886,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '112',
     name: 'Observatorio Vasco sobre Acoso y Discriminación',
     website: 'https://www.observatoriovascosobreacoso.com/',
     twitter: '@ObservVascoAcos',
@@ -764,6 +894,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '113',
     name: 'Observatorio Vasco de la Juventud - Gobierno Vasco',
     website: 'https://www.gazteaukera.euskadi.eus/hasiera/',
     twitter: '@gaztebehatokia',
@@ -771,6 +902,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '114',
     name: 'Observatorio de Coyuntura Industrial',
     website:
       'https://www.irekia.euskadi.eus/es/tags/observatoriodecoyunturaindustrial?uid=5196',
@@ -778,6 +910,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '115',
     name: 'Observatorio Vasco de Inmigración',
     website: 'https://www.ikuspegi.eus/',
     twitter: '@ikuspegi_eus',
@@ -785,6 +918,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '116',
     name: 'Observatorio Vasco LGTBI+',
     website: 'https://lgtbi-behatokia.eus/',
     twitter: '@BehatokiaLGTBI',
@@ -792,6 +926,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '117',
     name: 'Observatorio para la Convivencia Escolar',
     website:
       'https://www.carm.es/web/pagina?IDCONTENIDO=5316&RASTRO=c792$m4001&IDTIPO=100',
@@ -827,6 +962,7 @@ const observatories = [
     ],
   },
   {
+    id: '118',
     name: 'Observatorio de Prevención de Riesgos Laborales',
     website: 'https://www.carm.es/web/pagina?IDCONTENIDO=740&IDTIPO=140',
     parents: ['Gobierno de la Región de Murcia'],
@@ -834,6 +970,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '119',
     name: 'Observatorio Ocupacional',
     website:
       'https://www.carm.es/web/pagina?IDCONTENIDO=227&IDTIPO=200&__PLANT_PERSONALIZADA=/JSP/CARM/carm2018/organigramas/plantillaDetalleOrganigrama.jsp&IDESTRUCTURAJERARQUICA=473&RASTRO=c77$m5782',
@@ -854,6 +991,7 @@ const observatories = [
     ],
   },
   {
+    id: '120',
     name: 'Observatorio Virtual del Paisaje Mediterráneo',
     website:
       'https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828',
@@ -861,6 +999,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '121',
     name: 'Observatorio Regional de la Discapacidad',
     website:
       'https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828',
@@ -868,6 +1007,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '122',
     name: 'Observatorio de la Calidad de los Servicios de la Comunidad Autónoma de la Región de Murcia',
     website:
       'https://transparencia.carm.es/-/observatorio-de-la-calidad-de-los-servicios#gsc.tab=0',
@@ -881,6 +1021,7 @@ const observatories = [
     ],
   },
   {
+    id: '123',
     name: 'Observatorio de Igualdad',
     website:
       'https://transparencia.carm.es/-/observatorio-de-igualdad#gsc.tab=0',
@@ -888,6 +1029,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '124',
     name: 'Observatorio Regional contra la Discriminación por Orientación Sexual e Identidad de Género',
     website:
       'https://transparencia.carm.es/-/observatorio-regional-contra-la-discriminacion-por-orientacion-sexual-e-identidad-de-genero-en-la-comunidad-autonoma-de-la-region-de-murcia#gsc.tab=0',
@@ -895,6 +1037,7 @@ const observatories = [
     type: 'publico',
   },
   {
+    id: '125',
     name: 'Observatori Agroalimentari de Preus',
     website:
       'https://agricultura.gencat.cat/ca/departament/estadistiques/observatori-agroalimentari-preus/',
@@ -905,6 +1048,7 @@ const observatories = [
     is_active: 'Sí',
   },
   {
+    id: '126',
     name: 'Observatorio Vasco de la Cultura',
     website: 'https://www.euskadi.eus/observatorio-vasco-cultura/',
     email: 'kulturabehatokia@euskadi.eus',
