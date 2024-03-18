@@ -38,25 +38,10 @@ const scopes = [
 ]
 
 const observatories = [
-  // {
-  //   name: '', // Nombre del observatorio
-  //   website: '', // Sitio web
-  //   email: '', // Correo electrónico,
-  //   parents: [], // Organismos públicos de los que depende
-  //   scope: '', // Ámbito territorial: estatal, comunidad autónoma o ayuntamiento,
-  //   type: '', // Si es público o público-privado
-  //   docs: [], // Muestra de algunos de sus últimos informes publicados
-  //   members: [], // Algunos Organismos que lo componen, si es el caso
-  //   comment: '', //
-  //   from_date: '', // Inicio de actividad. Fecha de creación o fecha del anuncio
-  //   to_date: '', // Cese de actividad. Fecha de última actividad conocida
-  //   is_active: '', // 'Sí' si está en activo. Si no está en activo, no especificar esta propiedad
-  // },
-
   {
     name: 'Observatorio contra el Fraude y la Corrupción Sanitaria',
     parents: ['Ministerio de Sanidad'],
-    comment: `<a
+    description: `<a
         href="https://twitter.com/Monica_Garcia_G/status/1768227454223565199"
         >Anunciado</a
       >

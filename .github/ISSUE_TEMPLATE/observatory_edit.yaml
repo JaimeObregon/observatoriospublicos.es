@@ -1,40 +1,40 @@
-name: "Editar un observatorio existente"
+name: 'Editar un observatorio existente'
 description: Use esta plantilla para solicitar cambios en un observatorio ya publicado.
-title: "[EDITAR OBSERVATORIO]"
-labels: ["edit-observatory"]
+title: '[EDITAR OBSERVATORIO]'
+labels: ['edit-observatory']
 body:
   - type: input
     id: name
     attributes:
-      label: "Nombre del observatorio (OBLIGATORIO)"
+      label: 'Nombre del observatorio (OBLIGATORIO)'
       description: Por favor, proporciona el nombre del observatorio que deseas editar. Este nombre debe coincidir con el nombre del observatorio en el archivo JSON.
     validations:
       required: true
   - type: input
     id: website
     attributes:
-      label: "Sitio web"
+      label: 'Sitio web'
       description: Si el sitio web del observatorio ha cambiado, por favor proporciona el nuevo enlace aquí.
     validations:
       required: false
   - type: input
     id: email
     attributes:
-      label: "Correo electrónico"
+      label: 'Correo electrónico'
       description: Si el correo electrónico de contacto del observatorio ha cambiado, por favor proporciona el nuevo correo electrónico aquí.
     validations:
       required: false
   - type: textarea
     id: public_organisms
     attributes:
-      label: "Organismos públicos de los que depende"
+      label: 'Organismos públicos de los que depende'
       description: Si la lista de organismos públicos de los que depende el observatorio ha cambiado, por favor proporciona la nueva lista aquí.
     validations:
       required: false
   - type: dropdown
     id: territorial_scope
     attributes:
-      label: "Ámbito territorial"
+      label: 'Ámbito territorial'
       description: Si el ámbito territorial del observatorio ha cambiado, por favor selecciona el nuevo ámbito aquí.
       options:
         - estatal
@@ -46,7 +46,7 @@ body:
   - type: dropdown
     id: type
     attributes:
-      label: "Tipo"
+      label: 'Tipo'
       description: Si el tipo de observatorio ha cambiado, por favor selecciona el nuevo tipo aquí.
       options:
         - publico
@@ -56,42 +56,42 @@ body:
   - type: textarea
     id: published_reports
     attributes:
-      label: "Informes publicados"
+      label: 'Informes publicados'
       description: Si la lista de informes publicados por el observatorio ha cambiado, por favor proporciona la nueva lista aquí.
     validations:
       required: false
   - type: textarea
     id: composing_organisms
     attributes:
-      label: "Organismos que lo componen"
+      label: 'Organismos que lo componen'
       description: Si la lista de organismos que componen el observatorio ha cambiado, por favor proporciona la nueva lista aquí.
     validations:
       required: false
   - type: textarea
-    id: comments
+    id: description
     attributes:
-      label: "Comentarios"
+      label: 'Descripción'
       description: Si tienes algún comentario adicional sobre los cambios en el observatorio, por favor proporciona esa información aquí.
     validations:
       required: false
   - type: textarea
     id: from_date
     attributes:
-      label: "Fecha de inicio"
+      label: 'Fecha de inicio'
       description: Fecha en la que el observatorio fue anunciado o empezó a funcionar.
     validations:
       required: false
   - type: textarea
     id: to_date
     attributes:
-      label: "Cese de actividad"
+      label: 'Cese de actividad'
       description: Fecha en la que el observatorio dejó de funcionar.
     validations:
       required: false
   - type: dropdown
     id: is_active
     attributes:
-      label: "En activo"
+      label: 'En activo'
       description: Si el observatorio está en activo, si no, dejar en blanco.
       options:
         - Sí

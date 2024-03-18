@@ -50,6 +50,7 @@ x-catalog {
   display: flex;
   flex-wrap: wrap;
   gap: 1em;
+  margin: 1em 0;
 
   article {
     display: flex;
@@ -58,46 +59,12 @@ x-catalog {
     font-size: 0.85em;
     margin: 0;
     min-width: 18em;
+    hyphens: auto;
     cursor: pointer;
 
     h2 {
       --pico-font-family: 'Fira Sans Condensed', system-ui;
       font-size: 1.15em;
-    }
-
-    footer {
-      display: flex;
-      margin-top: auto;
-      justify-content: space-around;
-      > * {
-        padding-left: 8px;
-        padding-right: 8px;
-        text-align: center;
-        border-radius: 10px;
-        background-color: rgba(255, 152, 0, 0.75);
-        color: rgb(255, 255, 255);
-
-        &:hover {
-          box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2),
-            0 6px 20px 0 rgba(0, 0, 0, 0.19);
-        }
-
-        &.estatal {
-          background-color: rgba(0, 0, 255, 0.75);
-        }
-
-        &.cataluna {
-          background-color: rgba(232, 141, 33, 0.75);
-        }
-
-        &.mixed {
-          background-color: rgba(255, 0, 0, 0.75);
-        }
-
-        &.public {
-          background-color: rgba(213, 213, 22, 0.75);
-        }
-      }
     }
   }
 }

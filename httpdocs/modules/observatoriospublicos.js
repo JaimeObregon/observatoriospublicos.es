@@ -17,7 +17,7 @@ function createObservatoryComponent({
   type,
   docs,
   members,
-  comment,
+  description,
   from_date,
   to_date,
   is_active,
@@ -27,18 +27,10 @@ function createObservatoryComponent({
 
   return `
     <article class="contrast" data-target="observatory" data-observatory="${name}">
-      <h2>${name}</h2>
-      ${parents ? `<div>${parents.join(', ')}</div>` : ''}
-      ${website ? `<p><a href="${website}">Sitio web</a></p>` : ''}
-      ${comment ? `<div>${comment}</div>` : ''}
-      ${from_date ? `<div>Inicio: ${from_date}</div>` : ''}
-      ${to_date ? `<div>Fin: ${to_date}</div>` : ''}
-      ${is_active ? `<div>En activo: ${is_active}</div>` : ''}
-      <footer>
-        ${typeObj ? `<div class="${typeObj.key}">${typeObj.name}</div>` : ''}
-        ${scopeObj ? `<div class="${scopeObj.key}">${scopeObj.name}</div>` : ''}
-      </footer>
-    </article>
+    ${scopeObj ? `<small>${scopeObj.name}</small>` : ''}
+    <h2>${name}</h2>
+      ${description ? `<div>${description}</div>` : ''}
+      </article>
   `
 }
 
