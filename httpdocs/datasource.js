@@ -117,6 +117,8 @@ const observatories = [
       'Secretaría de Estado de Sanidad',
       'Dirección General de Salud Pública',
     ],
+    description:
+      'Para <q>la disminución de las desigualdades de género en salud, mediante la participación y colaboración entre el conjunto de agentes implicados, generando y difundiendo conocimiento que permita el análisis de género y promueva la inclusión del enfoque de género y la equidad en las políticas públicas de salud</q>.',
     website: 'https://www.observatoriosaludmujeres.es',
     scope: 'estatal',
     type: 'publico',
@@ -296,12 +298,24 @@ const observatories = [
     id: '26',
     name: 'Observatorio de Salud Pública de Cantabria',
     scope: 'cantabria',
+    type: 'publico',
+    description:
+      'Su misión es <q>Generar información relevante y de calidad a políticos, gestores, investigadores, profesionales de la salud y a la sociedad civil en general con el fin de mejorar las políticas, programas y servicios sanitarios-sociosanitarios de forma que respondan equitativa y eficientemente a las necesidades de salud de la población y a la reducción de las desigualdades en salud en Cantabria</Q>.',
+    parents: [
+      'Consejería de Sanidad',
+      'Gobierno de Cantabria',
+      'Fundación Marques de Valdecilla',
+    ],
+    website:
+      'https://fmvaldecilla.es/unidad/observatorio-de-salud-publica-de-cantabria/',
   },
   {
     id: '27',
     name: 'Observatorio de Salud y Cambio Climático',
     scope: 'estatal',
     parents: ['Ministerio de Ciencia e Innovación'],
+    description:
+      'Nace <q>como un órgano colegiado intersectorial para apoyar el análisis, diagnóstico, evaluación y seguimiento de los efectos de la emergencia climática en la salud, al tiempo que ofrece apoyo científico-técnico a las Administraciones públicas</q>.',
     docs: [
       {
         name: 'Nota de prensa de la creación',
@@ -367,6 +381,12 @@ const observatories = [
   {
     id: '37',
     name: 'Observatorio Español de la Economía Social',
+    website: 'http://www.observatorioeconomiasocial.es',
+    parents: [
+      'Ministerio de Trabajo y Economía Social',
+      'Instituto Universitario de Economía Social y Cooperativa',
+      'Universidad de Valencia',
+    ],
   },
   {
     id: '38',
@@ -399,6 +419,8 @@ const observatories = [
     id: '42',
     name: 'Observatorio Estatal de la Convivencia Escolar',
     scope: 'estatal',
+    website:
+      'https://www.educacionyfp.gob.es/mc/sgctie/convivencia-escolar/observatorio.html',
   },
   {
     id: '43',
@@ -500,11 +522,53 @@ const observatories = [
     id: '59',
     name: 'Observatorio Nacional contra el Despoblamiento',
     scope: 'estatal',
+    parents: ['Gobierno de Cantabria', 'Ayuntamiento de Valderredible'],
+    description:
+      'Iniciativa del Ayuntamiento de Valderredible con el Gobierno de Cantabria, presentada en 2021 y 2022. A fecha de la primavera de 2024 no consta que se haya puesto en marcha.',
+    docs: [
+      {
+        name: 'Marcano valora de forma “muy positiva” la propuesta de crear en Valderredible un Observatorio Nacional y Centro de Iniciativas contra el despoblamiento',
+        url: 'https://www.cantabria.es/web/gobierno/detalle/-/journal_content/56_INSTANCE_DETALLE/16413/14868508',
+      },
+      {
+        name: 'Valderredible quiere acoger un Observatorio Nacional contra el despoblamiento rural',
+        url: 'https://www.eldiario.es/cantabria/ultimas-noticias/valderredible-quiere-acoger-observatorio-nacional-despoblamiento-rural_1_8004681.html',
+      },
+      {
+        name: 'El Plan de Dinamización de Valderredible desarrollará un plan de actuaciones con el apoyo del Gobierno para potenciar su desarrollo y sus valores patrimoniales',
+        url: 'https://www.cantabria.es/web/comunicados/w/el-plan-de-dinamizaci%C3%B3n-de-valderredible-desarrollar%C3%A1-un-plan-de-actuaciones-con-el-apoyo-del-gobierno-para-potenciar-su-desarrollo-y-sus-valores-patrimoniales',
+      },
+    ],
+    is_active: 'No',
   },
   {
     id: '60',
-    name: 'Observatorio Nacional de la Calidad de los Servicios Públicos',
-    scope: 'estatal',
+    name: 'Observatorio Vasco de la Cultura',
+    website: 'https://www.euskadi.eus/observatorio-vasco-cultura/',
+    email: 'kulturabehatokia@euskadi.eus',
+    parents: [
+      'Gobierno Vasco',
+      'Departamento de Cultura y Política Lingüística',
+      'Viceconsejería de Cultura',
+      'Dirección de Promoción de la Cultura',
+    ],
+    scope: 'pais_vasco',
+    type: 'publico',
+    docs: [
+      {
+        name: 'Edición del libro en euskera 2022',
+        url: 'https://www.euskadi.eus/2024/edicion-del-libro-en-euskera-2022/web01-a3kebarg/eu/',
+      },
+      {
+        name: 'Comercio interior del libro en la CAE 2022',
+        url: 'https://www.euskadi.eus/2024/comercio-interior-del-libro-en-la-cae-2022/web01-a3kebarg/eu/',
+      },
+      {
+        name: 'Análisis de la programación cultural de la CAE. Año 2023',
+        url: 'https://www.euskadi.eus/2023/analisis-de-la-programacion-cultural-de-la-cae-ano-2023/web01-a3kebarg/eu/',
+      },
+    ],
+    from_date: '14/02/2006',
   },
   {
     id: '61',
@@ -1046,35 +1110,6 @@ const observatories = [
     scope: 'cataluna',
     type: 'publico',
     is_active: 'Sí',
-  },
-  {
-    id: '126',
-    name: 'Observatorio Vasco de la Cultura',
-    website: 'https://www.euskadi.eus/observatorio-vasco-cultura/',
-    email: 'kulturabehatokia@euskadi.eus',
-    parents: [
-      'Gobierno Vasco',
-      'Departamento de Cultura y Política Lingüística',
-      'Viceconsejería de Cultura',
-      'Dirección de Promoción de la Cultura',
-    ],
-    scope: 'pais_vasco',
-    type: 'publico',
-    docs: [
-      {
-        name: 'Edición del libro en euskera 2022',
-        url: 'https://www.euskadi.eus/2024/edicion-del-libro-en-euskera-2022/web01-a3kebarg/eu/',
-      },
-      {
-        name: 'Comercio interior del libro en la CAE 2022',
-        url: 'https://www.euskadi.eus/2024/comercio-interior-del-libro-en-la-cae-2022/web01-a3kebarg/eu/',
-      },
-      {
-        name: 'Análisis de la programación cultural de la CAE. Año 2023',
-        url: 'https://www.euskadi.eus/2023/analisis-de-la-programacion-cultural-de-la-cae-ano-2023/web01-a3kebarg/eu/',
-      },
-    ],
-    from_date: '14/02/2006',
   },
 ]
 
