@@ -17,4 +17,4 @@ El repositorio incluye una tarea configurada para que esto suceda automáticamen
 
 # Catálogo de observatorios
 
-El inventario de observatorios es una estructura de datos en [httpdocs/datasource.js](`datasource.js`). Puedes sugerir nuevos observatorios o cambios en los existentes [abriendo un _issue_ en GitHub](https://github.com/JaimeObregon/observatoriospublicos.es/issues/new/choose).
+El inventario de observatorios es una estructura de datos en [httpdocs/observatories.json](`httpdocs/observatories.json`). Puedes sugerir nuevos observatorios o cambios en los existentes [abriendo un _issue_ en GitHub](https://github.com/JaimeObregon/observatoriospublicos.es/issues/new/choose).
