@@ -157,9 +157,9 @@ const observatories = [
   {
     id: '4',
     name: "Observatori Municipal de l'Habitatge d'Alcoi",
+    description: 'El <a href="https://www.omha.alcoi.org/" alt="Website OMHA" title="Website OMHA">OMHA</a> se <a href="https://www.omha.alcoi.org/wp-content/uploads/2022/03/TEXT-BOP-NUM-137-DE-220720-APROVACIO-DEFINITIVA.pdf" alt="BOPA Constitutción OMHA" title="BOPA Contitutción OMHA">constituyó el 22-07-2020</a>, sólo se ha reunido en <a href="https://www.omha.alcoi.org/es/que-es-omha/" alt="Actas de plenos" title="Actas de plenos">tres ocasiones</a>; lamentablemente, las actas de sus tres plenos no se pueden descargar. <br/> Tras las elecciones municipales de 2023, parece que el OMHA no ha tenido ninguna <a href="https://www.omha.alcoi.org/es/novedades/" alt="Novedades OMHA" title="Novedades OMHA">actividad</a>.',
     url: 'https://www.omha.alcoi.org/',
-    scope: 'municipal',
-    location: 'Alcoy',
+    scope: 'comunidad_valenciana',
     type: 'publico',
     docs: [
       {
@@ -1288,6 +1288,14 @@ const observatories = [
       'Consejería de Fomento, Ordenación del Territorio y Medio Ambiente',
       'Gobierno de Cantabria',
     ],
+  },
+  {
+    id: '133',
+    name: 'Observatorio Ocupacional UMH',
+    scope: 'comunitat_valenciana',
+    website: 'https://observatorio.umh.es/',
+    email: 'observatorio@umh.es',
+    description: '<a href="https://observatorio.umh.es/" alt="Website Observatorio Ocupacional Universidad Miguel Hernandez" title="">Observatorio Ocupacional Universidad Miguel Hernández</a>'
   },
 ]
 
