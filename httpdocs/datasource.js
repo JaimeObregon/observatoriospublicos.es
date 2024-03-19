@@ -1302,6 +1302,21 @@ const observatories = [
     description:
       'Para <q>aumentar el nivel de “empleabilidad” de nuestro estudiantado y colectivo <i>alumni</i></q>.',
   },
+  {
+    id: '134',
+    name: 'Observatorio Tributario Andaluz',
+    scope: 'local',
+    location: 'Málaga',
+    parents: [
+      'Ayuntamiento de Málaga',
+      'Subdirección de Presupuestos, Control y Estudios',
+    ],
+    website: 'https://ota.malaga.eu',
+    email: 'ota@malaga.eu',
+    type: 'publico',
+    description:
+      'Para <q>Constituir un instrumento de transparencia orientado a la investigación de la tributación local, la financiación a través de transferencias de otras administraciones, y en general, cualquier información de naturaleza económica con incidencia en el ámbito de la Administración Municipal</q>.',
+  },
 ]
 
 export { observatories, types, scopes }
