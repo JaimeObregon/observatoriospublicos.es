@@ -352,11 +352,49 @@ const observatories = [
   },
   {
     id: '29',
-    name: 'Observatorio Nacional de Medicamentos Peligrosos',
-    scope: 'estatal',
-    website: 'https://www.consejogeneralenfermeria.org/observatorio-nacional/observatorio-nacional-de-medicamentos-peligrosos',
+    name: 'Observatorio Aragonés de la Juventud',
+    website: 'https://www.aragon.es/-/presentacion-1',
+    description:
+      'Para <q>conocer la realidad de la juventud aragonesa desde un enfoque integral, con el fin de orientar las políticas de juventud adecuándolas a sus necesidades reales, así como plantear actuaciones eficaces dirigidas a dicho colectivo, lo que implica obtener información relevante, sistemática y actualizada, sobre la situación actual de los jóvenes aragoneses, así como su evolución a lo largo del tiempo y los principales factores que inciden en la misma</q>.',
+    scope: 'aragon',
+    parents: ['Instituto Aragonés de la Juventud'],
     type: 'publico',
     is_active: 'Sí',
+    from_date: '25 de marzo de 2015',
+    docs: [
+      {
+        name: 'Informe-IAJ-paginas-sinlogos.pdf',
+        url: 'https://www.aragon.es/documents/20127/2555757/Informe-IAJ-paginas-sinlogos.pdf/d0078bfc-5a3e-b099-1b2b-fd9fd16230d9?t=1624345162241',
+      },
+      {
+        name: 'estudio+poblaci%C3%B3n+joven+2017.pdf',
+        url: 'https://www.aragon.es/documents/20127/2555757/estudio+poblaci%C3%B3n+joven+2017.pdf/6737909d-73a0-2108-54ed-f61681b78672?t=1564133166888',
+      },
+      {
+        name: 'estudio+poblacion+joven+2015.pdf',
+        url: 'https://www.aragon.es/documents/20127/2555757/estudio+poblacion+joven+2015.pdf/5b72de7a-57c9-4466-f583-df71f91ab852?t=1564133102597',
+      },
+      {
+        name: 'estudio+poblacion+joven+2013.pdf',
+        url: 'https://www.aragon.es/documents/20127/2555757/estudio+poblacion+joven+2013.pdf/50359e1c-6c93-d649-369e-2eef4c0f2e7c?t=1564132952115',
+      },
+      {
+        name: 'informe+sobre+las+actividades+juveniles+2018.pdf',
+        url: 'https://www.aragon.es/documents/20127/2555757/informe+sobre+las+actividades+juveniles+2018.pdf/56765c1f-76ab-cc90-f35d-446dc4089cca?t=1564133341013',
+      },
+      {
+        name: 'Informe+final+%2B+anexo_nuevo+%281%29.pdf',
+        url: 'https://www.aragon.es/documents/20127/2555757/Informe+final+%2B+anexo_nuevo+%281%29.pdf/263d9298-49c2-d118-464c-1be388dcff6b?t=1592307413095',
+      },
+      {
+        name: 'estuido+vivienda+joven+teruel.pdf',
+        url: 'https://www.aragon.es/documents/20127/2555757/estuido+vivienda+joven+teruel.pdf/729d9573-f3e7-8836-4ab1-df674df4dd5b?t=1564133522455',
+      },
+      {
+        name: 'estudio+violencia+en+el+lenguaje.pdf',
+        url: 'https://www.aragon.es/documents/20127/2555757/estudio+violencia+en+el+lenguaje.pdf/ffb47bb0-7e97-be8c-4bd8-8bfcc8214c72?t=1564133700506',
+      },
+    ],
   },
   {
     id: '30',
