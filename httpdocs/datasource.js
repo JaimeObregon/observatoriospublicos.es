@@ -1277,6 +1277,18 @@ const observatories = [
     description:
       'Para <q>la obtención y análisis sistemático de información y datos objetivos del sector necesario para conocer su historia, estructura, impacto económico y realidad actual del arte jondo, así como una herramienta para su evaluación</q>.',
   },
+  {
+    id: '132',
+    name: 'Observatorio de Vivienda y Suelo',
+    scope: 'cantabria',
+    website: 'https://www.observatoriovivienda.cantabria.es',
+    email: 'bobsvivi@cantabria.es',
+    parents: [
+      'Dirección General de Vivienda',
+      'Consejería de Fomento, Ordenación del Territorio y Medio Ambiente',
+      'Gobierno de Cantabria',
+    ],
+  },
 ]
 
 export { observatories, types, scopes }
