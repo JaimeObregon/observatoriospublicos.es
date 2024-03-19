@@ -1,0 +1,29 @@
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  create-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: stefanbuck/github-issue-parser@v3
+        id: issue-parser
+        with:
+          template-path: .github/ISSUE_TEMPLATE/observatory_add.yaml
+      - uses: actions/github-script@v7
+        env:
+          ISSUE_TEMPLATE_DATA_JSON_STRING: ${{ steps.issue-parser.outputs.jsonString }}
+        with:
+          script: |
+            const { default: main } = await import('${{ github.workspace }}/.github/workflows/create-pr-for-new-issues.js')
+            await main({
+              context,
+              core,
+              github,
+              exec,
+              glob,
+              io,
+              require,
+              __original_require__,
+            })
