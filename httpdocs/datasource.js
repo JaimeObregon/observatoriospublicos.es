@@ -1219,7 +1219,7 @@ const observatories = [
     description:
       'Para <q>informar sobre la evolución de los principales indicadores relativos a la sostenibilidad económica, social y medioambiental de la agricultura de regadío en España</q>.',
   },
-  {id: = 131
+  {id: 131,
     name: 'Observatori Agroalimentari de Preus',
     website: 'https://agricultura.gencat.cat/ca/departament/estadistiques/observatori-agroalimentari-preus/',
     email: 'estudis_prospectiva.daam@gencat.cat',
@@ -1228,7 +1228,7 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 132
+    {id: 132,
     name: 'Observatorio Vasco de la Cultura',
     website: 'https://www.euskadi.eus/observatorio-vasco-cultura/',
     email: 'kulturabehatokia@euskadi.eus',
@@ -1239,11 +1239,11 @@ const observatories = [
     from_date: '14/02/2006',
     is_active: 'Sí',
     },
-    {id: = 133
+    {id: 133
     },
-    {id: = 134
+    {id: 134
     },
-    {id: = 135
+    {id: 135,
     name: 'Observatorio de la Vida Militar',
     website: 'www.observatoriodelavidamilitar.es/',
     email: 'info@observatoriodelavidamilitar.es',
@@ -1252,7 +1252,7 @@ const observatories = [
     from_date: '14 de enero de 2014.',
     is_active: 'Sí',
     },
-    {id: = 136
+    {id: 136,
     name: 'Observatorio del Comercio 4.0',
     website: 'https://comercio.gob.es/ComercioInterior/Observatorio/Paginas/default.aspx',
     email: 'sgfomon.sscc@mincotur.es',
@@ -1261,35 +1261,35 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 137
+    {id: 137,
     name: 'Observatorio de la Nutrición y de Estudio de la Obesidad AESAN',
     website: 'https://www.aesan.gob.es/AECOSAN/web/nutricion/seccion/observatorio.htm',
     parents: ['Ministerio de Derechos Sociales, Consumo y Agenda 2030'],
     scope: 'estatal',
     type: 'publico',
     },
-    {id: = 138
+    {id: 138,
     name: 'Observatorio de uso de medicamentos',
     website: 'https://www.aemps.gob.es/medicamentos-de-uso-humano/observatorio-de-uso-de-medicamentos/',
     parents: ['Ministerio de Sanidad'],
     scope: 'estatal',
     type: 'publico',
     },
-    {id: = 139
+    {id: 139,
     name: 'Observatorio de la Muerte Digna',
     website: 'http://www.nafarroa.gob.es/home_es/Temas/Portal+de+la+Salud/Ciudadania/Me+cuido/Al+final+de+la+vida/Observatorio+de+la+Muerte+Digna/',
     parents: ['Gobierno de Navarra. Departamento de Salud'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 140
+    {id: 140,
     name: 'Observatorio de Precios de los Alimentos',
     website: 'https://www.mapa.gob.es/es/alimentacion/servicios/observatorio-de-precios-de-los-alimentos/estudios-e-informes/default.aspx',
     parents: ['Ministerio de Agricultura, Pesca y Alimentación'],
     scope: 'estatal',
     type: 'publico',
     },
-    {id: = 141
+    {id: 141,
     name: 'Observatorio de márgenes empresariales',
     website: 'https://sede.agenciatributaria.gob.es/Sede/estadisticas/observatorio-margenes-empresariales/observatorio-margenes-empresariales.html',
     parents: ['Es un proyecto conjunto del Ministerio de Asuntos Económicos y Transformación Digital, el Banco de España y la Agencia Estatal de Administración Tributaria'],
@@ -1298,7 +1298,7 @@ const observatories = [
     comment: 'Dentro de este proyecto en esta web se ofrecen varias bases de datos, anuales y trimestrales, procedentes del Impuesto sobre Sociedades y de los modelos de IVA y retenciones sobre rendimientos del trabajo. La población objeto de estudio en cada año son todas aquellas empresas no financieras que tengan declaraciones de estos tres impuestos, con la única exclusión de empresas en actividades con un alto porcentaje de operaciones exentas a efectos del IVA.',
     is_active: 'Sí',
     },
-    {id: = 142
+    {id: 142,
     name: 'Observatorio militar para la igualdad entre mujeres y hombres en las Fuerzas Armadas',
     website: 'https://www.defensa.gob.es/ministerio/organigrama/subdef/omi/',
     email: 'omigualdad@oc.mde.es',
@@ -1306,7 +1306,7 @@ const observatories = [
     scope: 'estatal',
     type: 'publico',
     },
-    {id: = 143
+    {id: 143,
     name: 'Observatorio de la Cadena Alimentaria y de la Madera de Euskadi',
     website: 'https://behatoki.eus/',
     parents: ['Gobierno Vasco','Hazi'],
@@ -1314,7 +1314,7 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 144
+    {id: 144,
     name: 'Observatorio de Salud Pública de Navarra',
     website: 'https://portalsalud.navarra.es/es/observatorio',
     email: 'oscn@navarra.es',
@@ -1322,7 +1322,7 @@ const observatories = [
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 145
+    {id: 145,
     name: 'Observatorio Aragonés de la Sociedad de la Información (OASI)',
     website: 'https://www.aragon.es/-/estudios-1',
     email: 'oasi@aragon.es',
@@ -1331,119 +1331,119 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 146
+    {id: 146,
     name: 'Observatorio Fiscal de la Comunitat Valenciana',
     website: 'https://atv.gva.es/es/observatori-fiscal',
     parents: ['Agència Tributària Valenciana'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 147
+    {id: 147,
     name: 'Observatorio de la montaña de Aragón',
     website: 'https://observatoriomontanaragon.com/',
     scope: 'autonómico',
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 148
+    {id: 148,
     name: 'Observatorio del Hábitat y Segregación Urbana de la Comunitat Valenciana',
     website: 'https://habitatge.gva.es/es/web/vivienda-y-calidad-en-la-edificacion/observatori-de-l-habitat-i-segregacio-urbana-de-la-cv',
     parents: ['Generalitat Valenciana. Consellería de Servicios Sociales, Igualdad y Vivienda'],
     scope: 'estatal',
     type: 'publico',
     },
-    {id: = 149
+    {id: 149,
     name: 'Observatorio de la escuela rural de Aragón',
     website: 'https://educa.aragon.es/-/innovacion/observatorio-rural',
     scope: 'autonómico',
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 150
+    {id: 150,
     name: 'Observatorio Valenciano del Trabajo Decente',
     website: 'https://ceice.gva.es/va/web/dg-trabajo/observatori-valencia-del-treball-decent',
     parents: ['Generalitat Valenciana. Consellería de Educación, Universidades y Ocupación'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 151
+    {id: 151,
     name: 'Observatorio de precios de la Comunitat Valenciana',
     website: 'https://argos.gva.es/es/web/prospectiva/observatori',
     parents: ['Generalitat Valenciana'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 152
+    {id: 152,
     name: 'Observatorio Valenciano de la Cultura',
     website: 'https://ovc.gva.es/es/observatori',
     parents: ['Generalitat Valenciana. Consellería de Cultura y Deporte'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 153
+    {id: 153,
     name: 'Observatorio de Brecha Digital',
     website: 'https://brechadigital.gva.es/es',
     parents: ['Generalitat Valenciana. Consellería de Innovación, Industria, Comercio y Turismo'],
     scope: 'estatal',
     type: 'publico',
     },
-    {id: = 154
+    {id: 154,
     name: 'Observatorio para la Convivencia Escolar',
     website: 'https://ceice.gva.es/es/web/inclusioeducativa/observatori-per-a-la-convivencia',
     parents: ['Generalitat Valenciana. Conselleria de Educación, Universidades y Empleo'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 155
+    {id: 155,
     name: 'Observatorio valenciano para la igualdad de trato, la no discriminación y la prevención de los delitos de odio.',
     website: 'https://inclusio.gva.es/es/web/igualdad-diversidad/observatori-valencia-per-a-la-igualtat-de-trace-la-no-discriminacio-i-la-prevencio-dels-delictes-d-odi',
     parents: ['Generalitat Valenciana. Conselleria de Servicios Sociales, Igualdad y Vivienda'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 156
+    {id: 156,
     name: 'Observatorio de la IA',
     website: 'https://observatorioia.gva.es/es/',
     parents: ['Generalitat Valenciana. Conselleria de Innovación, Industria, Comercio y Turismo'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 157
+    {id: 157,
     name: 'Observatorio normativa electoral valenciana',
     website: 'https://cjusticia.gva.es/es/web/processos-electorals/observatori-electoral',
     parents: ['Generalitat Valenciana. Conselleria de Justicia e Interior'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 158
+    {id: 158,
     name: 'Observatorio de la Industria y de los sectores económicos valencianos',
     website: 'https://portalindustria.gva.es/es/observatorio-de-la-industria',
     parents: ['Generalitat Valenciana. Conselleria de Innovación, Industria, Comercio y Turismo'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 159
+    {id: 159,
     name: 'Observatorio Ciudadano del Agua de la Comunidad Valenciana',
     website: 'https://mediambient.gva.es/es/web/agua/novedades/-/asset_publisher/cYq5fnvdHYwT/content/observatorio-ciudadano-del-agua-de-la-comunitat-valenciana',
     parents: ['Generalitat Valenciana. Conselleria de Medio Ambiente, Agua, Infraestructuras y Territorio'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 160
+    {id: 160,
     name: 'https://www.comunidad.madrid/servicios/salud/observatorio-resultados-servicio-madrileno-salud',
     website: 'https://www.comunidad.madrid/servicios/salud/observatorio-resultados-servicio-madrileno-salud',
     parents: ['Comunidad de Madrid. Consejería de Sanidad'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 161
+    {id: 161,
     name: 'Observatorio de la Comunidad de Madrid de Víctimas del Delito',
     website: 'https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-comunidad-madrid-victimas-del-delito',
     parents: ['Comunidad de Madrid. Consejería de Presidencia, Justicia y Administración Local'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 162
+    {id: 162,
     name: 'Observatorio Socioeconómico de la Marina Alta',
     website: 'https://observatorimarinaalta.org/',
     email: 'observatori@creama.org',
@@ -1453,7 +1453,7 @@ const observatories = [
     from_date: '2018',
     is_active: 'Sí',
     },
-    {id: = 163
+    {id: 163,
     name: 'Observatori de la Mort',
     website: 'https://observatorisalut.gencat.cat/ca/observatori_mort/index.html',
     parents: ['autonómico'],
@@ -1463,7 +1463,7 @@ const observatories = [
     from_date: '3 de Septiembre de 2019',
     is_active: 'Sí',
     },
-    {id: = 164
+    {id: 164,
     name: 'Observatorio de Precios y Mercados de la Junta de Andalucía',
     website: 'https://www.juntadeandalucia.es/agriculturaypesca/observatorio',
     parents: ['Consejeria de Agricultura y Pesca de la Junta de Andalucia'],
@@ -1472,7 +1472,7 @@ const observatories = [
     docs: ['Informes de precios agrícolas y ganaderos'],
     is_active: 'Sí',
     },
-    {id: = 165
+    {id: 165,
     name: 'Observatorio Canario de Empleo',
     website: 'https://obecan.es/',
     email: 'info@obecan.es',
@@ -1483,7 +1483,7 @@ const observatories = [
     from_date: 'Diciembre 1998',
     is_active: 'Sí',
     },
-    {id: = 166
+    {id: 166,
     name: 'Observatorio de residuos de Bizkaia',
     website: 'https://bizkaikohirihondakinenbehatokia.com/es/observatorio-de-residuos/',
     parents: ['Garbiker, empresa pública 100% perteneciente a la Diputación Foral de Bizkaia y adscrita al Departamento de Medio Natural y Agricultura.'],
@@ -1492,7 +1492,7 @@ const observatories = [
     docs: ['Informe Anual del Observatorio de Residuos de Bizkaia 2022','En teoría, hay histórico hasta 2010: https://bizkaikohirihondakinenbehatokia.com/es/en-numeros/#historico'],
     from_date: '2011',
     },
-    {id: = 167
+    {id: 167,
     name: 'Observatorio Canario de la Juventud',
     website: 'https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/',
     parents: ['Gobierno de Canarias - Dirección general de juventud'],
@@ -1502,33 +1502,33 @@ const observatories = [
     comment: 'Se entremezcla con la dirección general de juventud. No tiene un correo propio sino que remite a la dirección general',
     is_active: 'Sí',
     },
-    {id: = 168
+    {id: 168,
     name: 'Observatorio Aragonés del Arte en la Esfera Pública',
     website: 'https://oaaep.unizar.es/',
     parents: ['Universidad de Zaragoza'],
     scope: 'estatal',
     type: 'publico',
     },
-    {id: = 169
+    {id: 169,
     name: 'Observatorio Aragonés por la convivencia y contra el acoso escolar',
     website: 'https://educa.aragon.es/-/convivencia-web-basico-enlaces',
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 170
+    {id: 170,
     name: 'Observatorio Regional de la Violencia de Género',
     website: 'https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-regional-violencia-genero',
     parents: ['Consejería de Presidencia, justicia y Administración Local'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 171
+    {id: 171,
     name: 'Observatorio Aragonés de Dinamización Demográfica y Poblacional',
     website: 'https://observatoriopoblacion.aragon.es/',
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 172
+    {id: 172,
     name: 'Observatorio de precios en consumo JCCM',
     website: 'https://consumo.castillalamancha.es/node/23956',
     parents: ['Consejería de Sanidad de Castilla La Mancha'],
@@ -1538,7 +1538,7 @@ const observatories = [
     from_date: 'Febrero 2022',
     is_active: 'Sí',
     },
-    {id: = 173
+    {id: 173,
     name: 'OBSERVATORIO PRECIOS CADENA AGROALIMENTARIA CASTILLA LA MANCHA',
     website: 'https://www.castillalamancha.es/gobierno/agriaguaydesrur/estructura/dgalimentacion/titular/observatorio-precios-cadena-agroalimentaria',
     email: 'observatoriocadena@jccm.es',
@@ -1549,7 +1549,7 @@ const observatories = [
     from_date: 'Decreto 94/2021, de 21 de septiembre, por el que se crea el Observatorio de Precios de la Cadena Agroalimentaria de Castilla-La Mancha. (D.O.C.M nº 186 de 27 de septiembre de 2021)',
     is_active: 'Sí',
     },
-    {id: = 174
+    {id: 174,
     name: 'Observatorio de Seguridad y Eficiencia de las Operaciones Aéreas',
     website: 'https://www.google.com/search?q=Observatorio+de+Seguridad+y+Eficiencia+de+las+Operaciones+A%C3%A9reas',
     parents: ['estatal'],
@@ -1557,29 +1557,29 @@ const observatories = [
     type: 'publico',
     from_date: '2 de julio de 2019',
     },
-    {id: = 175
+    {id: 175
     },
-    {id: = 176
+    {id: 176
     },
-    {id: = 177
+    {id: 177
     },
-    {id: = 178
+    {id: 178
     },
-    {id: = 179
+    {id: 179
     },
-    {id: = 180
+    {id: 180
     },
-    {id: = 181
+    {id: 181
     },
-    {id: = 182
+    {id: 182
     },
-    {id: = 183
+    {id: 183
     },
-    {id: = 184
+    {id: 184
     },
-    {id: = 185
+    {id: 185
     },
-    {id: = 186
+    {id: 186,
     name: 'Observatorio de Accesibilidad de Euskadi',
     website: 'https://isek.euskadi.eus/webisek00-isekquees/es/',
     email: 'accesibilidad@euskadi.eus',
@@ -1590,16 +1590,16 @@ const observatories = [
     from_date: '21 de julio de 2021',
     is_active: 'Sí',
     },
-    {id: = 187
+    {id: 187
     },
-    {id: = 188
+    {id: 188,
     name: 'Observatorio Nacional de Agresiones',
     website: 'https://www.consejogeneralenfermeria.org/observatorio-nacional/observatorio-de-agresiones',
     scope: 'estatal',
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 189
+    {id: 189,
     name: 'De la realidad social de Navarra / análisis y prospección de la realidad de Navarra',
     website: 'https://www.observatoriorealidadsocial.es/es/estudios/',
     parents: ['Servicios sociales , empleo y vivienda'],
@@ -1609,7 +1609,7 @@ const observatories = [
     from_date: 'Aproximadamente 2016 (primeros estudios publicados como observatorio)',
     is_active: 'Sí',
     },
-    {id: = 190
+    {id: 190,
     name: 'Observatorio Municipal para la Inclusión Social',
     website: 'https://observatoriosocial.malaga.eu',
     email: 'observatorio.social@malaga.eu',
@@ -1619,7 +1619,7 @@ const observatories = [
     docs: ['https://observatoriosocial.malaga.eu/publicaciones/'],
     is_active: 'Sí',
     },
-    {id: = 191
+    {id: 191,
     name: 'Observatorio Municipal para la Inclusión Social',
     website: 'https://observatoriosocial.malaga.eu/',
     email: 'observatorio.social@malaga.eu',
@@ -1629,7 +1629,7 @@ const observatories = [
     docs: ['https://observatoriosocial.malaga.eu/publicaciones/'],
     from_date: '2011',
     },
-    {id: = 192
+    {id: 192,
     name: 'Observatori de la Bretxa Digital',
     website: 'https://brechadigital.gva.es/',
     email: 'observatorio_dglbd@gva.es',
@@ -1640,7 +1640,7 @@ const observatories = [
     from_date: '18 de marzo de 2021, mediante el DECRETO 43/2021, de 18 de marzo, del Consell, de creación del Observatorio de Brecha Digital.',
     is_active: 'Sí',
     },
-    {id: = 193
+    {id: 193,
     name: 'Observatorio Tributario Andaluz',
     website: 'https://ota.malaga.eu/',
     email: 'ota@malaga.eu',
@@ -1650,7 +1650,7 @@ const observatories = [
     docs: ['https://ota.malaga.eu/informes/'],
     is_active: 'Sí',
     },
-    {id: = 194
+    {id: 194,
     name: 'Observatorio de la participación ciudadana en Navarra',
     website: 'https://gobiernoabierto.navarra.es/es/participacion/enviar-aportacion/1587/observatorio-participacion-ciudadana-navarra',
     parents: ['Gobierno abierto..presidencia'],
@@ -1660,7 +1660,7 @@ const observatories = [
     from_date: '2016',
     to_date: 'No parece tener actividad.',
     },
-    {id: = 195
+    {id: 195,
     name: 'Observatorio de la Violencia de Género',
     website: 'https://observatorioviolencia.org',
     email: 'observatorioviolencia@fundacionmujeres.es',
@@ -1669,7 +1669,7 @@ const observatories = [
     docs: ['https://observatorioviolencia.org/informes-e-investigaciones/'],
     from_date: '2005',
     },
-    {id: = 196
+    {id: 196,
     name: 'Observatorio Turístico',
     website: 'https://visita.malaga.eu/profesional/es/observatorio-turistico',
     email: 'visita@malaga.eu',
@@ -1679,14 +1679,14 @@ const observatories = [
     docs: ['https://visita.malaga.eu/profesional/es/observatorio-turistico/informes'],
     is_active: 'Sí',
     },
-    {id: = 197
+    {id: 197,
     name: 'Observatorio Nacional de Enfermería',
     website: 'https://www.consejogeneralenfermeria.org/observatorio-nacional',
     scope: 'estatal',
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 198
+    {id: 198,
     name: 'Observatorio de la Movilidad Viaria de Málaga (MOVIMA)',
     website: 'https://movilidad.malaga.eu/es/lineas-de-trabajo/movima/',
     email: 'movilidad@malaga.eu',
@@ -1695,14 +1695,14 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 199
+    {id: 199,
     name: 'Observatorio Nacional de Enfermería Escolar',
     website: 'https://www.consejogeneralenfermeria.org/observatorio-nacional/observatorio-nacional-de-enfermeria-escolar',
     scope: 'estatal',
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 200
+    {id: 200,
     name: 'Observatori d'IA per a l'Administració Pública',
     website: 'https://observatorioia.gva.es/',
     parents: ['Generalitat Valenciana - Conselleria d'Innovació, Indústria, Comerç i Turisme'],
@@ -1711,7 +1711,7 @@ const observatories = [
     from_date: '9 de junio de 2023, según el DECRETO 85/2023, de 9 de junio, del Consell, de creación del Observatorio de la Inteligencia Artificial de la Comunitat Valenciana.',
     is_active: 'Sí',
     },
-    {id: = 201
+    {id: 201,
     name: 'Observatorio Permanente del Mercado de los Servicios Portuarios',
     website: 'https://observatorio.puertos.es/Paginas/Observatorio.aspx',
     email: 'observatorio@puertos.es',
@@ -1721,7 +1721,7 @@ const observatories = [
     from_date: '11-12-2012',
     is_active: 'Sí',
     },
-    {id: = 202
+    {id: 202,
     name: 'Observatori Socioambiental de Menorca',
     website: 'https://www.obsam.cat/',
     email: 'smn.obsam@cime.es',
@@ -1729,7 +1729,7 @@ const observatories = [
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 203
+    {id: 203,
     name: 'Observatori de preus de la Comunitat Valenciana',
     website: 'https://argos.gva.es/va/web/prospectiva/observatori',
     parents: ['Generalitat Valenciana - Consellería de Economía Sostenible, Sectores Productivos, Comercio y Trabajo'],
@@ -1737,14 +1737,14 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 204
+    {id: 204,
     name: 'Observatorio Nacional de Medicamentos Peligrosos',
     website: 'https://www.consejogeneralenfermeria.org/observatorio-nacional/observatorio-nacional-de-medicamentos-peligrosos',
     scope: 'estatal',
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 205
+    {id: 205,
     name: 'OBSERVATORIO DE PRECIOS DE LOS PRODUCTOS AGROALIMETARIOS DE LA COMUNITAT VALENCIANA',
     website: 'https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851',
     scope: 'autonómico',
@@ -1752,9 +1752,9 @@ const observatories = [
     from_date: '6 de octubre de 2006, según el DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana.',
     is_active: 'Sí',
     },
-    {id: = 206
+    {id: 206
     },
-    {id: = 207
+    {id: 207,
     name: 'Observatorio de Contratación Pública Responsable de Canarias',
     website: 'https://contratacionresponsablecanarias.org/',
     email: 'info@contratacionresponsablecanarias.org',
@@ -1763,7 +1763,7 @@ const observatories = [
     type: 'publico',
     from_date: '2023',
     },
-    {id: = 208
+    {id: 208,
     name: 'Observatori del Canvi Climàtic',
     website: 'https://climaienergia.com/observatori/',
     email: 'observatori@climaienergia.com',
@@ -1772,14 +1772,14 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 209
+    {id: 209,
     name: 'Observatorio de la Muerte Digna y de las Comisiones de Mortalidad de las Áreas de Salud.',
     website: 'https://www.astursalud.es/noticias/-/noticias/omd',
     parents: ['https://sede.asturias.es/bopa-disposiciones?p_p_id=pa_sede_bopa_web_portlet_SedeBopaDispositionWeb&p_p_lifecycle=0&_pa_sede_bopa_web_portlet_SedeBopaDispositionWeb_mvcRenderCommandName=%2Fdisposition%2Fdetail&p_r_p_dispositionText=2020-06176&p_r_p_dispositionReference=2020-06176&p_r_p_dispositionDate=03%2F08%2F2020'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 210
+    {id: 210,
     name: 'Observatori de Civisme i Valors',
     website: 'https://dretssocials.gencat.cat/ca/ambits_tematics/civisme_i_valors/observatori/',
     parents: ['Departament de Drets Socials (Generalitat)'],
@@ -1787,7 +1787,7 @@ const observatories = [
     type: 'publico',
     docs: ['Informe monogràfic 2021: Dimensió comunitària als barris de Catalunya'],
     },
-    {id: = 211
+    {id: 211,
     name: 'Observatorio contra la LGTBIfobia de Castilla - La Mancha',
     website: 'https://observatoriolgtbiclm.com/',
     parents: ['Desconocido por el momento.'],
@@ -1797,7 +1797,7 @@ const observatories = [
     from_date: '7 de Septiembre de 2021 (07-09-2021)',
     is_active: 'Sí',
     },
-    {id: = 212
+    {id: 212,
     name: 'Observatori del Treball i Model Productiu',
     website: 'https://observatoritreball.gencat.cat/ca/inici',
     parents: ['Departament d'Empresa i Treball (Generalitat)'],
@@ -1806,7 +1806,7 @@ const observatories = [
     docs: ['https://www.idescat.cat/pec/2017-2020/?id=020202&paae=2024'],
     is_active: 'Sí',
     },
-    {id: = 213
+    {id: 213,
     name: 'Observatorio de Transformación y Participación de Castilla y León',
     website: 'https://www.observatoriotransformacion.com/',
     email: 'observatoriotransformacion@gmail.com',
@@ -1815,24 +1815,24 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 214
+    {id: 214,
     name: 'Observatori del Sistema de Salut de Catalunya',
     website: 'https://observatorisalut.gencat.cat/ca/inici',
     parents: ['Agència de Qualitat i Avaluació Sanitàries de Catalunya (Generalitat)'],
     scope: 'estatal',
     type: 'publico',
     },
-    {id: = 215
+    {id: 215,
     name: 'Observatorio de ferrocarril en España',
     },
-    {id: = 216
+    {id: 216,
     name: 'Observatori de la Mort',
     website: 'https://observatorisalut.gencat.cat/ca/observatori_mort/',
     parents: ['Departament de Salut (Generalitat)'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 217
+    {id: 217,
     name: 'Observatorio de Drogodependencias de Castilla - La Mancha',
     website: 'https://sanidad.castillalamancha.es/ciudadanos/observatorio-de-drogodependencias-clm/que-es-el-od',
     parents: ['Consejería de Sanidad de Castilla - La Mancha','Servicio de Salud de Castilla-La Mancha (SESCAM)'],
@@ -1842,7 +1842,7 @@ const observatories = [
     from_date: 'Desconocido.',
     is_active: 'Sí',
     },
-    {id: = 218
+    {id: 218,
     name: 'Observatorio del Mercado de Trabajo de Castilla - La Mancha',
     website: 'https://empleoyformacion.castillalamancha.es/observatorio',
     parents: ['Junta de Comunidades de Castilla - La Mancha','Oficina de Orientación, Formación y Empleo'],
@@ -1851,7 +1851,7 @@ const observatories = [
     from_date: 'Desconocido.',
     is_active: 'Sí',
     },
-    {id: = 219
+    {id: 219,
     name: 'Observatorio del Cambio',
     website: 'https://www.aytobadajoz.es/es/empleo/estudios-y-estadisticas/observatorio-del-cambio',
     email: 'paborrego@alumnos.unex.es',
@@ -1862,7 +1862,7 @@ const observatories = [
     from_date: 'El Observatorio del Cambio inició su andadura entre los años 2003 y 2004, años en los que se celebraron 20 sesiones temáticas que abarcaron cuestiones relacionadas con diferentes sectores y materias específicas de la ciudad. Posteriormente, del 2009  al 2011 se llevaron a cabo 13 nuevas sesiones. Todas estas sesiones están recogidas en sus correspondientes actas.',
     to_date: 'El último informe es de 2015',
     },
-    {id: = 220
+    {id: 220,
     name: 'Observatorio de precios en consumo de Castilla - La Mancha',
     website: 'https://consumo.castillalamancha.es/node/23956',
     parents: ['Consejería de Sanidad de Castilla - La Mancha.'],
@@ -1870,7 +1870,7 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 221
+    {id: 221,
     name: 'Observatori SmartCatalonia',
     website: 'https://observatori.smartcatalonia.gencat.cat/about',
     email: 'smartcatalonia@gencat.cat',
@@ -1878,7 +1878,7 @@ const observatories = [
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 222
+    {id: 222,
     name: 'Observatorio Regional de la Convivencia Escolar de Castilla - La Mancha',
     website: 'https://www.educa.jccm.es/educa-jccm/cm/educa_jccm/tkContent?idContent=62664&locale=en_UK&textOnly=false',
     parents: ['Junta de Comunidades de Castilla - La Mancha.'],
@@ -1887,7 +1887,7 @@ const observatories = [
     from_date: '1 de abril de 2008
     1 de febrero de 2016',
     },
-    {id: = 223
+    {id: 223,
     name: 'Observatorio de Promoción Industrial de Castilla - La Mancha',
     website: 'NaN',
     parents: ['Junta de Comunidades de Castilla - La Mancha'],
@@ -1896,14 +1896,14 @@ const observatories = [
     from_date: '30 de agosto de 2022 (30/08/2022)',
     is_active: 'Sí',
     },
-    {id: = 224
+    {id: 224,
     name: 'Observatorio sobre el BREXIT de Castilla - La Mancha',
     website: 'https://ipex.es/global-news/articulos-de-interes/observatorio-de-castilla-la-mancha-sobre-el-brexit/',
     parents: ['Junta de Comunidades de Castilla - La Mancha','Consejería de Economía, Empresas y Empleo de Castilla - La Mancha','IPEX'],
     scope: 'estatal',
     type: 'publico',
     },
-    {id: = 225
+    {id: 225,
     name: 'Observatorio de la Actividad Física (OBAFI) de Castilla - La Mancha',
     website: 'https://obafi.es/',
     parents: ['Junta de Comunidades de Castilla - La Mancha'],
@@ -1912,9 +1912,9 @@ const observatories = [
     docs: ['https://obafi.es/informes-de-centro/ (NO ACCESIBLES)'],
     is_active: 'Sí',
     },
-    {id: = 226
+    {id: 226
     },
-    {id: = 227
+    {id: 227,
     name: 'Observatorio de la Vivienda Colaborativa de Castilla - La Mancha',
     website: 'https://coacmto.com/observatorio-vivienda-colaborativa-toledo',
     parents: ['Empresa Municipal de Suelo y Vivienda de Toledo.','Colegio de Arquitectos de Castilla - La Mancha. Demarcación de Toledo.'],
@@ -1923,7 +1923,7 @@ const observatories = [
     from_date: '8 de Mayo de 2023',
     is_active: 'Sí',
     },
-    {id: = 228
+    {id: 228,
     name: 'Observatorio de Plagas y Enfermedades Agrícolas de Castilla y León',
     website: 'https://plagas.itacyl.es/',
     email: 'observatorio.plagas@itacyl.es',
@@ -1933,13 +1933,13 @@ const observatories = [
     from_date: '2009',
     is_active: 'Sí',
     },
-    {id: = 229
+    {id: 229,
     name: 'Observatorio de Derechos Humanos para el Sáhara Occidental de Castilla - La Mancha',
     website: 'NaN',
     scope: 'autonómico',
     type: 'mixto',
     },
-    {id: = 230
+    {id: 230,
     name: 'Observatorio de la Emancipación Juvenil en España',
     website: 'https://www.observatorioemancipacion.org/la-emancipacion-juvenil-en-espana-datos-generales/',
     email: 'info@fepa18.org',
@@ -1949,7 +1949,7 @@ const observatories = [
     docs: ['Parece que los últimos datos son de 2021 pero la página figura actualizada a 2024'],
     is_active: 'Sí',
     },
-    {id: = 231
+    {id: 231,
     name: 'Observatorio de Servicios Sociales y Dependencia de Castilla - La Mancha',
     website: 'NaN',
     parents: ['Junta de Comunidades de Castilla - La Mancha'],
@@ -1957,7 +1957,7 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 232
+    {id: 232,
     name: 'Observatorio de Digitalización en el sector agroalimentario',
     website: 'https://www.boe.es/buscar/doc.php?id=BOE-A-2024-323',
     parents: ['Ministerio de Agricultura, Pesca y Alimentación'],
@@ -1965,7 +1965,7 @@ const observatories = [
     type: 'mixto',
     docs: ['https://www.mapa.gob.es/es/desarrollo-rural/temas/innovacion-medio-rural/estudio_3def_tcm30-655779.pdf'],
     },
-    {id: = 233
+    {id: 233,
     name: 'Observatorio del Comercio de Castilla - La Mancha',
     website: 'https://comercio.castillalamancha.es/observatorio-comercio',
     parents: ['Junta de Comunidades de Castilla - La Mancha.','Consejería de Economía, Empresas y Empleo de Castilla - La Mancha.','Dirección General de Turismo, Comercio y Artesanía'],
@@ -1974,25 +1974,25 @@ const observatories = [
     from_date: '29 de Junio de 2021',
     is_active: 'Sí',
     },
-    {id: = 234
+    {id: 234,
     name: 'OBSERVATORIO ANDALUZ DE VIOLENCIA DE GÉNERO',
     website: 'https://www.juntadeandalucia.es/institutodelamujer/index.php/2013-08-08-10-31-21/observatorio-andaluz-de-violencia-de-genero',
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 235
+    {id: 235,
     name: 'OBSERVATORIO ANDALUZ DE LA PUBLICIDAD  NO SEXISTA',
     website: 'https://www.juntadeandalucia.es/institutodelamujer/index.php/observatorio-andaluz-de-publicidad-no-sexista',
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 236
+    {id: 236,
     name: 'Observatorio de la Infancia y Adolescencia de Andalucía',
     website: 'https://www.observatoriodelainfancia.es/oia/esp/index.aspx',
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 237
+    {id: 237,
     name: 'OBSERVATORIO PARA LA CONVIVENCIA ESCOLAR EN ANDALUCÍA',
     website: 'https://www.juntadeandalucia.es/educacion/portals/web/convivencia-escolar/estructura-y-funcionamiento',
     email: 'convivenciaescolar.ced@juntadeandalucia.es',
@@ -2001,7 +2001,7 @@ const observatories = [
     type: 'publico',
     from_date: 'Febrero 2007 (BOJA Nº 25, 2-2-2007)',
     },
-    {id: = 238
+    {id: 238,
     name: 'Obervatorio de Contratación Pública (ObCP)',
     website: 'https://www.obcp.es/',
     parents: ['estatal'],
@@ -2010,7 +2010,7 @@ const observatories = [
     from_date: 'Octubre de 2011',
     is_active: 'Sí',
     },
-    {id: = 239
+    {id: 239,
     name: 'Observatorio para la Convivencia Escolar en Andalucía',
     website: 'https://www.juntadeandalucia.es/educacion/portals/web/convivencia-escolar/estructura-y-funcionamiento',
     parents: ['Consejería de Desarrollo Educativo y Formación Profesional'],
@@ -2018,7 +2018,7 @@ const observatories = [
     type: 'publico',
     from_date: '2 de febrero 2007',
     },
-    {id: = 240
+    {id: 240,
     name: 'Observatorio CIBIM',
     website: 'https://cibim.transportes.gob.es/observatorio-cibim',
     parents: ['Ministerio de Transportes, Movilidad y Agenda Urbana'],
@@ -2028,7 +2028,7 @@ const observatories = [
     from_date: 'Mayo 2017',
     is_active: 'Sí',
     },
-    {id: = 241
+    {id: 241,
     name: 'observatorio territorial de navarra',
     website: 'https://www.nasuvinsa.es/es/servicios/lursarea/observatorio',
     parents: ['Nasuvinsa I(empresa publcia 100%) Y presidencia del gobierno de Navarra'],
@@ -2038,7 +2038,7 @@ const observatories = [
     from_date: '2017 .- Conforme al  Decreto Foral Legislativo 1/2017, de 26 de julio, por el que se aprueba el Texto Refundido de la Ley Foral de Ordenación del Territorio y Urbanismo.',
     to_date: 'no consta cese',
     },
-    {id: = 242
+    {id: 242,
     name: 'OBSERVATORIO DE SALUD PUBLICA DE NAVARRA',
     website: 'https://portalsalud.navarra.es/es/observatorio',
     parents: ['Deapartamento de Salud/Osasumbidea, Gobierno de Navarra'],
@@ -2049,7 +2049,7 @@ const observatories = [
     to_date: 'a dìa de hoy sigue funcionando. Publica algunas excel con datos hasta al menos 2023',
     is_active: 'Sí',
     },
-    {id: = 243
+    {id: 243,
     name: 'OBSERVATORIO DE TRANSFORMACION DIGITAL DE NAVARRA',
     website: 'https://observatoriotransformaciondigital.navarra.es/es/',
     email: 'https://observatoriotransformaciondigital.navarra.es/es/contacto',
@@ -2060,7 +2060,7 @@ const observatories = [
     https://www.lexnavarra.navarra.es/detalle.asp?r=56512',
     is_active: 'Sí',
     },
-    {id: = 244
+    {id: 244,
     name: 'OBSERVATORIO JOVEEN',
     website: 'https://www.juventudnavarra.es/es/observatorio-joven',
     parents: ['cONSEJO DE LA JUVENTUD'],
@@ -2071,7 +2071,7 @@ const observatories = [
     to_date: 'no cesa',
     is_active: 'Sí',
     },
-    {id: = 245
+    {id: 245,
     name: 'OBSERVATORIO TURÍSTICO DE NAVARRA',
     website: 'https://turismoprofesional.navarra.es/es/observatorio-turistico',
     email: 'EN LA WEB',
@@ -2082,7 +2082,7 @@ const observatories = [
     from_date: '2023',
     is_active: 'Sí',
     },
-    {id: = 246
+    {id: 246,
     name: 'BANDA ANCHA DE NAVARRA',
     website: 'https://bandaancha.navarra.es/es/inicio',
     email: 'bandaanchanavarra@navarra.es',
@@ -2092,7 +2092,7 @@ const observatories = [
     from_date: '2023',
     is_active: 'Sí',
     },
-    {id: = 247
+    {id: 247,
     name: 'Observatorio de precios agrarios',
     website: 'https://www.larioja.org/agricultura/es/estadistica-agraria/observatorio-precios-agrarios',
     email: 'estadistica.agri@larioja.org',
@@ -2103,7 +2103,7 @@ const observatories = [
     from_date: '2010',
     is_active: 'Sí',
     },
-    {id: = 248
+    {id: 248,
     name: 'Observatorio Económico de Melilla',
     website: 'https://elfarodemelilla.es/echa-a-andar-el-observatorio-economico-de-melilla/',
     parents: ['Consejería de Presidencia'],
@@ -2112,7 +2112,7 @@ const observatories = [
     from_date: '11/12/2023',
     is_active: 'Sí',
     },
-    {id: = 249
+    {id: 249,
     name: 'Observatorio del pluralismo religioso en España',
     website: 'https://www.observatorioreligion.es/',
     parents: ['Fundación Pluralismo y Convivencia'],
@@ -2122,7 +2122,7 @@ const observatories = [
     from_date: '2011',
     is_active: 'Sí',
     },
-    {id: = 250
+    {id: 250,
     name: 'Observatori Català de l’Esport',
     website: 'https://inefc.gencat.cat/ca/inefc/projectes_institucionals/observatori-de-lesport/index.html',
     email: 'observatori@gencat.cat',
@@ -2131,7 +2131,7 @@ const observatories = [
     docs: ['https://inefc.gencat.cat/ca/inefc/projectes_institucionals/observatori-de-lesport/publicacions/projectes/arxivem-esport-temps-covid19/'],
     is_active: 'Sí',
     },
-    {id: = 251
+    {id: 251,
     name: 'Observatori Català de la Joventut',
     website: 'https://dretssocials.gencat.cat/ca/ambits_tematics/joventut/observatori_catala_de_la_joventut/index.html',
     email: 'ocj.dretssocials@gencat.cat',
@@ -2139,7 +2139,7 @@ const observatories = [
     scope: 'estatal',
     type: 'publico',
     },
-    {id: = 252
+    {id: 252,
     name: 'Observatorio da Lusofonía Valentín Paz Andrade',
     website: 'No',
     parents: ['Xunta de Galicia.'],
@@ -2148,7 +2148,7 @@ const observatories = [
     from_date: '10/10/2023',
     is_active: 'Sí',
     },
-    {id: = 253
+    {id: 253,
     name: 'Observatorio da Industria Aeroespacial',
     website: 'https://www.consorcioaeronautico.com/observatorio-aeroespacial/gl/',
     parents: ['El Observatorio de la industria Aeroespacial es una iniciativa que se desarrolla en el marco de la Civil UAVs Initiative, promovida por la Xunta de Galicia a través da Vicepresidencia Primera y Consellería de Economía, Empleo e Innovación, y llevado a cabo por el Consorcio Aeronáutico Gallego.'],
@@ -2157,7 +2157,7 @@ const observatories = [
     docs: ['financiamento da I+D no sector dos UAVs','Análise da cadea de valor do sector aeroespacial','Instrumentos de apoio á internacionalización','Análise da evolución das empresas do sector aeronáutico e aeroespacial en Galicia','Informe das contas anuais do sector'],
     is_active: 'Sí',
     },
-    {id: = 254
+    {id: 254,
     name: 'Observatorio da Eólica Mariña de Galicia',
     website: 'https://www.inega.gal/es/inega/puntos-de-encuentro-energeticos/observatorios',
     parents: ['Xunta de Galicia'],
@@ -2165,14 +2165,14 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 255
+    {id: 255,
     name: 'Observatorio Galego da Biomasa',
     website: 'http://www.observatoriobiomasa.gal/',
     scope: 'autonómico',
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 256
+    {id: 256,
     name: 'Observatorio do Comercio de Galicia',
     website: 'No',
     parents: ['Adscrito a la dirección xeral competente en materia de comercio de la Xunta de Galicia'],
@@ -2180,14 +2180,14 @@ const observatories = [
     type: 'publico',
     from_date: '17/12/2010',
     },
-    {id: = 257
+    {id: 257,
     name: 'Observatorio do Solo Empresarial de Galicia',
     website: 'https://www.observatoriodosoloempresarial.gal',
     parents: ['Instituto Galego da vivenda e solo'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 258
+    {id: 258,
     name: 'OBSERVATORIO DE LA VIVIENDA Y EL SUELO DE CANTABRIA',
     website: 'https://www.observatoriovivienda.cantabria.es/',
     email: 'bobsvivi@cantabria.es',
@@ -2196,7 +2196,7 @@ const observatories = [
     type: 'publico',
     docs: ['https://www.observatoriovivienda.cantabria.es/informes-de-instituciones-observatorio'],
     },
-    {id: = 259
+    {id: 259,
     name: 'Observatorio da Vivenda de Galicia',
     website: 'https://www.observatoriodavivenda.gal',
     email: 'https://www.observatoriodavivenda.gal/gl/contact',
@@ -2205,7 +2205,7 @@ const observatories = [
     type: 'publico',
     docs: ['Zonas tensionadas por municipios 2023'],
     },
-    {id: = 260
+    {id: 260,
     name: 'Observatorio Andaluz de la Publicidad no sexista',
     website: 'https://www.juntadeandalucia.es/institutodelamujer/index.php/observatorio-andaluz-de-publicidad-no-sexista',
     parents: ['Junta de Andalucía'],
@@ -2214,7 +2214,7 @@ const observatories = [
     docs: [''Estereotipos sexistas en la publicidad de juguetes: situación y evolución'. Análisis de las campañas de Navidad 2020-2023. AUC (PDF)',''Código de autorregulación de la publicidad infantil de juguetes' (PDF)',''El Libro Blanco de la Influencia Responsable'. iCmedia (PDF)',''Manual de tratamiento periodístico del deporte femenino y las mujeres deportistas'. (PDF)',''Manual para un lenguaje administrativo no sexista'. IAM (PDF)',''Un lenguaje neutral en cuanto al género'. Parlamento Europeo (PDF)',''Lectura fácil y lenguaje no sexista'. Plena Inclusión (PDF)',''Mujeres sin nombre. Presencia de la mujer en los medios de comunicación. 2023' (PDF)',''La violencia digital de género: Una realidad invisible'. Observatorio Nacional de la Tecnología y Sociedad. Políticas públicas contra la violencia de género 2022 (PDF)',''Manual Práctico Comunicación e Imagen con Perspectiva de Género 2022' (PDF)',''Cuaderno Nº13 La salud de las mujeres en los medios, la publicidad y las redes sociales'. IAM (PDF)',''Libertad para jugar. Guía para la elección de juguetes sin estereotipos sexistas'. Ministerio de Consumo (PDF)',''Guía de buenas prácticas para impulsar la igualdad de la mujer en los medios audiovisuales y el adecuado tratamiento de la violencia de género”. Consejo Audiovisual de Andalucía y Plataforma de Reguladores del Sector Audiovisual de Iberoamérica (PDF)',''Violencia contra las mujeres y medios de comunicación”. Edición Ministerio de Igualdad',''Hola, tú a mí no me conoces'. Diccionario visual sobre las mujeres del siglo XXI. Instituto de las Mujeres. Club de Creativos/as'],
     is_active: 'Sí',
     },
-    {id: = 261
+    {id: 261,
     name: 'Observatorio de precios de la Comunitat Valenciana',
     website: 'https://argos.gva.es/es/web/prospectiva/observatori',
     parents: ['Consellería de Economía Sostenible, Sectores Productivos, Comercio y Trabajo de la Comunitat Valenciana'],
@@ -2224,7 +2224,7 @@ const observatories = [
     from_date: 'Abril de 2022',
     is_active: 'Sí',
     },
-    {id: = 262
+    {id: 262,
     name: 'Observatorio Municipal Galego',
     website: 'http://www.observatorioredlocalis.com/',
     email: 'infogen@uvigo.es',
@@ -2233,7 +2233,7 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
     },
-    {id: = 263
+    {id: 263,
     name: 'Observatorio Aragonés de la Juventud',
     website: 'https://www.aragon.es/-/presentacion-1#anchor1',
     parents: ['autonómico'],
@@ -2242,7 +2242,7 @@ const observatories = [
     from_date: '25 de marzo de 2015',
     is_active: 'Sí',
     },
-    {id: = 264
+    {id: 264,
     name: 'Observatorio de Literatura Infantil y Juvenil de Zaragoza',
     website: 'https://www.zaragoza.es/sede/portal/organizacion/gruposmunicipales/servicio/noticia/225698',
     email: 'observatoriolij@cmalasarmas.com',
@@ -2250,7 +2250,7 @@ const observatories = [
     scope: 'local',
     type: 'publico',
     },
-    {id: = 265
+    {id: 265,
     name: 'Observatorio del Flamenco',
     website: 'https://www.juntadeandalucia.es/cultura/flamenco/content/observatorio-del-flamenco',
     email: 'institutoandaluz.flamenco@juntadeandalucia.es',
@@ -2261,97 +2261,97 @@ const observatories = [
     from_date: '21 de marzo de 2007',
     is_active: 'Sí',
     },
-    {id: = 266
+    {id: 266,
     name: 'Observatorio de la I+D+i de Canarias',
     website: 'https://www.obidic.es/',
     parents: ['Gobierno de Canarias'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 267
+    {id: 267,
     name: 'Observatorio de la Energia de Canarias',
     website: 'https://www3.gobiernodecanarias.org/ceic/energia/oecan/',
     parents: ['Gobierno de Canarias'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 268
+    {id: 268,
     name: 'Observatorio Canario de la Salud',
     website: 'https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=ba5d4671-60dc-11ed-9e04-cd68079ec7ca&idCarpeta=61e907e3-d473-11e9-9a19-e5198e027117',
     parents: ['Gobierno de Canarias'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 269
+    {id: 269,
     name: 'Observatorio Canario de Empleo',
     website: 'https://obecan.es/',
     parents: ['Gobierno de Canarias'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 270
+    {id: 270
     },
-    {id: = 271
+    {id: 271,
     name: 'Observatorio Turístico de Canarias',
     website: 'https://www.gobiernodecanarias.org/turismo/estadisticas_y_estudios/',
     parents: ['Gobierno de Canarias'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 272
+    {id: 272,
     name: 'Observatorio Canario de las Telecomunicaciones y de la Sociedad de la Información',
     website: 'https://www.octsi.es/',
     parents: ['Gobierno de Canarias'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 273
+    {id: 273,
     name: 'Observatorio Industrial de Canarias',
     website: 'https://oic.itccanarias.org/',
     parents: ['Gobierno de Canarias'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 274
+    {id: 274,
     name: 'Observatorio de Precios de Canarias',
     website: 'https://www.gobiernodecanarias.org/agp/sgt/temas/estadistica/CM-observatorio.html',
     parents: ['Gobierno de Canarias'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 275
+    {id: 275,
     name: 'Observatorio de Contratación Pública Responsable de Canarias',
     website: 'https://contratacionresponsablecanarias.org/',
     parents: ['Gobierno de Canarias'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 276
+    {id: 276,
     name: 'Observatorio Canario de la Juventud',
     website: 'https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/',
     parents: ['Gobierno de Canarias'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 277
+    {id: 277,
     name: 'Observatorio Canario del Cambio Climático',
     website: 'https://www.gobiernodecanarias.org/medioambiente/organos/observatorio-canario-del-cambio-climatico/',
     parents: ['Gobierno de Canarias'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 278
+    {id: 278,
     name: 'Observatorio Canario de la Economía Azul',
     website: 'https://www.gobiernodecanarias.org/economia/ocea/',
     parents: ['Gobierno de Canarias'],
     scope: 'autonómico',
     type: 'publico',
     },
-    {id: = 279
+    {id: 279
     },
-    {id: = 280
+    {id: 280
     },
-    
+                
 ]
 
 export { observatories, types, scopes }
