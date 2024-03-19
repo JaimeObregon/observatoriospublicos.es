@@ -352,8 +352,11 @@ const observatories = [
   },
   {
     id: '29',
-    name: 'Observatorio del Ferrocarril en España',
+    name: 'Observatorio Nacional de Medicamentos Peligrosos',
     scope: 'estatal',
+    website: 'https://www.consejogeneralenfermeria.org/observatorio-nacional/observatorio-nacional-de-medicamentos-peligrosos',
+    type: 'publico',
+    is_active: 'Sí',
   },
   {
     id: '30',
