@@ -8,31 +8,27 @@ function getParentsSection(parents) {
       <p>
         <strong>Depende de</strong>:
         <ul>
-          ${parents.map(parent => `<li>${parent}</li>`).join('')}
+          ${parents.map((parent) => `<li>${parent}</li>`).join('')}
        </ul>
       </p>
     `
 }
 
 export function createObservatoryDetailsComponent(observatory) {
-  const {
-    scope,
-    type,
-    description,
-    location,
-    website,
-    docs,
-    parents
-  } = observatory
+  const { scope, type, description, location, website, docs, parents } =
+    observatory
 
   const scopeObj = scopes.find(({ key }) => key === scope)
 
   const typeText = type && types.find(({ key }) => key === type).name
-  console.log("🚀 ~ createObservatoryDetailsComponent ~ observatory:", observatory)
+
   return `
       <section>
         ${location ? `<small>📍 ${location}</small>` : ''}
-        ${description ? `<p>${description}</p>` : `
+        ${
+          description
+            ? `<p>${description}</p>`
+            : `
         <p>
           <small
             >Debido al retraso en los fondos que nos ha prometido la ministra
@@ -42,14 +38,14 @@ export function createObservatoryDetailsComponent(observatory) {
             >.</small
           >
         </p>
-        `}
+        `
+        }
         ${getParentsSection(parents)}
         ${website ? `<p><a href="${website}">🌐 Sitio web</a></p>` : ''}
         ${scopeObj ? `<span class="badge">${scopeObj.name}</span>` : ''}
         ${typeText ? `<span class="badge">${typeText}</span>` : ''}
       </section>`
 }
-
 
 // Helpers para crear las cards de observatorios
 
@@ -75,7 +71,6 @@ function observatoryDescription(description) {
   if (!description) return ''
   return `<div>${description}</div>`
 }
-
 
 export function createObservatoryCardComponent({
   id,

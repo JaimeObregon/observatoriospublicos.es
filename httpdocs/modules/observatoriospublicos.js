@@ -1,5 +1,8 @@
 import { scopes, observatories } from '../datasource.js'
-import { createObservatoryDetailsComponent, createObservatoryCardComponent } from './observatorioContent.js'
+import {
+  createObservatoryDetailsComponent,
+  createObservatoryCardComponent,
+} from './observatorioContent.js'
 
 const errors = [
   ...observatories
@@ -101,16 +104,15 @@ document.querySelectorAll('dialog button').forEach((article) => {
   article.addEventListener('click', toggleModal)
 })
 
-
 // Para que hacer click en los links dentro de las cards de observatiorios no abra el modal
 document.addEventListener('DOMContentLoaded', function () {
-  const modalLinks = document.querySelectorAll('x-catalog article a');
+  const modalLinks = document.querySelectorAll('x-catalog article a')
 
-  modalLinks.forEach(link => {
+  modalLinks.forEach((link) => {
     link.addEventListener('click', function (event) {
-      event.preventDefault();
-      event.stopPropagation();
-      window.open(link.href, '_self');
-    });
-  });
-});
+      event.preventDefault()
+      event.stopPropagation()
+      window.open(link.href, '_self')
+    })
+  })
+})
