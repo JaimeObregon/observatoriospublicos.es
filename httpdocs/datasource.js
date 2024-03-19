@@ -717,6 +717,48 @@ const observatories = [
     id: '77',
     name: 'Observatorio da Vivenda de Galicia',
     scope: 'galicia',
+    website: 'https://www.observatoriodavivenda.gal',
+    email: 'https://www.observatoriodavivenda.gal/gl/contact',
+    docs: [
+      { 
+        name: 'Zonas tensionadas por municipios 2023', 
+        url: 'http://www.observatoriodavivenda.gal/sites/w_igvobs/files/ovg_zonastension_fianzas_e_iav_xconcello-d_v3.00.pdf'
+      },
+      { 
+        name: 'La vivienda vacía en Galicia 2023', 
+        url: 'http://www.observatoriodavivenda.gal/sites/w_igvobs/files/ovg_vivenda_baleira_2023d_v1.00.pdf'
+      },
+      { 
+        name: 'Ocupaciones de viviendas en Galicia 2023', 
+        url: 'http://www.observatoriodavivenda.gal/sites/w_igvobs/files/ovg_ocupacionsdevivendas2023_d_v2.00.pdf'
+      },
+      { 
+        name: 'Pacto de Vivienda de Galicia 2021-2025. Seguimiento 2022.', 
+        url: 'http://www.observatoriodavivenda.gal/sites/w_igvobs/files/ovg_pactovivenda_seguimento_2022_d_v1.00.pdf'
+      },
+      { 
+        name: 'Pacto de vivienda de Galicia 2021-2025. Presentación del seguimiento 2021-2022', 
+        url: 'http://www.observatoriodavivenda.gal/sites/w_igvobs/files/ovg_pacto_seguimento2022_presentaciond_v1.00.pdf'
+      },
+      { 
+        name: 'La población de Galicia según el Censo de población 2021', 
+        url: 'http://www.observatoriodavivenda.gal/sites/w_igvobs/files/ovg_censopoboacion_v2.00.pdf'
+      },
+      { 
+        name: 'Vivienda y emancipación de la juventud en Galicia. 2020', 
+        url: 'http://www.observatoriodavivenda.gal/sites/w_igvobs/files/ovg-mocidadepw-1.00.pdf'
+      },
+      { 
+        name: 'Estadística del alquiler segundo las fianzas en el año 2019. 2020', 
+        url: 'http://www.observatoriodavivenda.gal/sites/w_igvobs/files/ovg_estatistica_alugueiro_fianzas_anual_2019pw_v1.00.pdf'
+      },
+    ],
+    parents: [
+      'Instituto Galego da Vivenda'
+    ],
+    description: 'A través del Observatorio pretendemos facilitar el acceso a la información y al conocimiento de todos los aspectos relacionados con el mundo de la vivienda, de manera que administraciones, empresas públicas y personales y cualquier interesado en este mundo estén en las mejores condiciones para adoptar decisiones eficaces y adaptadas a las necesidades del país. Del trabajo de unos y otros saldrá la información, estudios y trabajos que periódicamente verano a luz a través de esta web y de los boletines y publicaciones del Observatorio que estarán la disposición de los interesados en las diferentes secciones de este sitio.',
+    type: 'publico',
+    is_active: 'Sí'
   },
   {
     id: '78',
