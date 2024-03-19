@@ -1383,6 +1383,16 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
   },
+  {
+    id: '137',
+    name: 'Observatorio de Precios de Canarias',
+    scope: 'canarias',
+    website: 'https://www.gobiernodecanarias.org/agp/sgt/temas/estadistica/CM-observatorio.html',
+    parents: [
+      'Gobierno de Canarias',
+    ],
+    type: 'publico',
+  },
 ]
 
 export { observatories, types, scopes }
