@@ -1383,6 +1383,32 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
   },
+  {
+    id: '137',
+    name: 'Observatorio de Márgenes Empresariales',
+    scope: 'estatal',
+    website: 'https://www.bde.es/wbe/es/inicio/observatorio-margenes-empresariales/',
+    email: 'cultura@navarra.es',
+    docs: [
+      {
+        name: 'Objetivo del Observatorio y primer informe trimestral (Julio 2023)',
+        url: 'https://www.bde.es/f/webbe/INF/MenuHorizontal/Observatorio_margenes_empresariales/20230703_OME_Briefing.pdf',
+      },
+      {
+        name: 'Informe Trimestral 2023 T3',
+        url: 'https://www.bde.es/f/webbe/INF/MenuHorizontal/Observatorio_margenes_empresariales/20231218_OME_T3.pdf',
+      },
+    ],
+    parents: [
+      'Ministerio de Asuntos Económicos y Transformación Digital (MINECO)',
+      'Banco de España (BdE)',
+      'Agencia Estatal de Administración Tributaria (AEAT)',
+    ],
+    description: 'El Observatorio de márgenes empresariales es un proyecto conjunto del Ministerio de Asuntos Económicos y Transformación Digital, el Banco de España y la Agencia Tributaria que tiene como objetivo disponer de información para el seguimiento y el análisis de los márgenes empresariales y de mejorar el conocimiento sobre su evolución y sus implicaciones para el conjunto de la economía.',
+    type: 'publico',
+    is_active: 'Sí',
+    from_date: '2023-07-03',
+  }, 
 ]
 
 export { observatories, types, scopes }
