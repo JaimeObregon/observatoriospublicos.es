@@ -1385,6 +1385,16 @@ const observatories = [
   },
   {
     id: '137',
+    name: 'Observatorio de Precios de Canarias',
+    scope: 'canarias',
+    website: 'https://www.gobiernodecanarias.org/agp/sgt/temas/estadistica/CM-observatorio.html',
+    parents: [
+      'Gobierno de Canarias',
+    ],
+    type: 'publico',
+  },
+  {
+    id: '138',
     name: 'Observatorio de Márgenes Empresariales',
     scope: 'estatal',
     website: 'https://www.bde.es/wbe/es/inicio/observatorio-margenes-empresariales/',
@@ -1408,7 +1418,7 @@ const observatories = [
     type: 'publico',
     is_active: 'Sí',
     from_date: '2023-07-03',
-  }, 
+  },
 ]
 
 export { observatories, types, scopes }
