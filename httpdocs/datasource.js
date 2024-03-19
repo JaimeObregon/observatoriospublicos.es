@@ -1419,6 +1419,36 @@ const observatories = [
     is_active: 'Sí',
     from_date: '2023-07-03',
   },
+  {
+    id: '139',
+    name: 'Observatorio para la Convivencia Escolar en Andalucía',
+    scope: 'andalucia',
+    website: 'https://www.juntadeandalucia.es/educacion/portals/web/convivencia-escolar/estructura-y-funcionamiento',
+    email: '',
+    docs: [
+      {
+        name: 'Reglamento interno de funcionamiento del consejo rector del observatorio para la convivencia escolar en Andalucía',
+        url: 'https://www.juntadeandalucia.es/educacion/portals/delegate/content/cc3532a7-b334-4c83-8bac-ff849126c54e/Reglamento%20interno%20Observatorio',
+      },
+      {
+        name: 'BOJA 2007',
+        url: 'https://www.juntadeandalucia.es/educacion/portals/delegate/content/c8141896-dedb-4bb8-8e49-ef67e4050bd0/Estructura%20organizativa%20Observatorio%20Andaluz%20Convivencia',
+      },
+      {
+        name: 'Composición del Observatorio Andaluz de la Convivencia',
+        url: 'https://www.juntadeandalucia.es/educacion/portals/delegate/content/2bd0810f-0a0a-486f-bbfc-1e9eb37771fe/Composici%C3%B3n%20del%20Observatorio%20Andaluz%20de%20la%20Convivencia',
+      },
+    ],
+    parents: [
+      'Ministerio de Asuntos Económicos y Transformación Digital (MINECO)',
+      'Banco de España (BdE)',
+      'Agencia Estatal de Administración Tributaria (AEAT)',
+    ],
+    description: 'Entre las medidas y actuaciones, dirigidas a la promoción de la cultura de paz y a la mejora de la convivencia en el ámbito de los centros educativos andaluces, expuestas en el Decreto 19/2007 (Art 3.), aparece la de impulsar la coordinación y colaboración de las distintas Administraciones y entidades públicas, asociaciones, medios de comunicación y otras entidades mediante la creación de un Observatorio sobre la convivencia Escolar en Andalucía.\nLa Presidencia del Observatorio será ostentada por la persona titular de la Consejera de Educación. En mayo de 2007 quedó constituido dicho Observatorio, contando con la representación y participación de diversos órganos de la administración, representantes de todos los sectores de la Comunidad Educativa, representación sindical, y personalidades de reconocido prestigio en el ámbito educativo a nivel nacional e internacional.\nLa creación de este Observatorio para la Convivencia Escolar en Andalucía constituye una apuesta firme de contribuir a generar una forma de abordar la convivencia escolar en Andalucía basada en el respeto y el diálogo, en la que el tratamiento constructivo del conflicto forme parte del proceso educativo.',
+    type: 'publico',
+    is_active: 'Sí',
+    from_date: '2007-02-02',
+  },
 ]
 
 export { observatories, types, scopes }
