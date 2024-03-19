@@ -1307,6 +1307,48 @@ const observatories = [
     name: 'Observatorio Tributario Andaluz',
     scope: 'local',
     location: 'Málaga',
+    docs: [
+      {
+        name: 'Evolutivo Deuda 2018-2022 (ultimos 5 años)',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Deuda-2018-2022-ultimos-5-anos.pdf',
+      },
+      {
+        name: 'Evolutivo Ingresos tributarios (2018-2022)',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Ingresos-tributarios-2018-2022.pdf',
+      },
+      {
+        name: 'Evolutivo Ingresos tributarios (2017-2021)',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Ingresos-tributarios-2017-2021.pdf',
+      },
+      {
+        name: 'Evolutivo Deuda 2017-2021 (ultimos 5 años)',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Deuda-2017-2021-ultimos-5-anos.pdf',
+      },
+      {
+        name: 'Evolutivo Deuda 2016-2020 (ultimos 5 años)',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Deuda-2016-2020-ultimos-5-anos.pdf',
+      },
+      {
+        name: 'Evolutivo Ingresos tributarios (2016-2020)',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Ingresos-tributarios-2016-2020.pdf',
+      },
+      {
+        name: 'Evolutivo Deuda 2015-2019',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Deuda-2015-2019.pdf',
+      },
+      {
+        name: 'Evolutivo Deuda 2014-2018',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Deuda.pdf',
+      },
+      {
+        name: 'Evolutivo Ingresos tributarios 2015-2019',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Ingresos-tributarios-2015-2019.pdf',
+      },
+      {
+        name: 'Evolutivo Ingresos tributarios 2014-2018',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Ingresos-tributarios.pdf',
+      },
+    ],
     parents: [
       'Ayuntamiento de Málaga',
       'Subdirección de Presupuestos, Control y Estudios',
@@ -1321,13 +1363,26 @@ const observatories = [
     id: '135',
     name: 'Observatorio Galego da Biomasa',
     scope: 'galicia',
-    parents: ['Universidad Miguel Hernández'],
-    website: 'http://www.observatoriobiomasa.gal/',
+    parents: ['Xunta de Galicia'],
+    website: 'http://www.observatoriobiomasa.gal',
     type: 'publico',
     description:
       'Para <q>proporcionar información relacionada con el sector que facilite su conocimiento, potencial, alternativas de aplicación, principales indicadores de impacto y difusión de casos de éxito</q>.',
   },
-  
+  {
+    id: '136',
+    name: 'Observatorio Navarro de la Cultura',
+    scope: 'navarra',
+    website: 'https://www.culturanavarra.es/es/presentacion-8',
+    email: 'cultura@navarra.es',
+    parents: [
+      'Dirección General de Cultura - Institución Príncipe de Viana',
+      'Departamento de Cultura, Deporte y Juventud del Gobierno de Navarra',
+    ],
+    description: 'Profundizar <q>en el conocimiento sobre los sectores culturales y creativos, y sistematizar la información cuantitativa y cualitativa en el ámbito de la cultura y la creatividad en Navarra que ayude en la elaboración de las políticas culturales y la toma de decisiones, investigue en tendencias, conexiones con otros sectores, etc., identifique las buenas prácticas y experiencias que se desarrollan dentro y fuera de Navarra, y fomente el conocimiento de los públicos de la cultura y la creatividad</q>.',
+    type: 'publico',
+    is_active: 'Sí',
+  },
 ]
 
 export { observatories, types, scopes }
