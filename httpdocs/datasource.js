@@ -1317,6 +1317,17 @@ const observatories = [
     description:
       'Para <q>Constituir un instrumento de transparencia orientado a la investigación de la tributación local, la financiación a través de transferencias de otras administraciones, y en general, cualquier información de naturaleza económica con incidencia en el ámbito de la Administración Municipal</q>.',
   },
+  {
+    id: '135',
+    name: 'Observatorio Galego da Biomasa',
+    scope: 'galicia',
+    parents: ['Universidad Miguel Hernández'],
+    website: 'http://www.observatoriobiomasa.gal/',
+    type: 'publico',
+    description:
+      'Para <q>proporcionar información relacionada con el sector que facilite su conocimiento, potencial, alternativas de aplicación, principales indicadores de impacto y difusión de casos de éxito</q>.',
+  },
+  
 ]
 
 export { observatories, types, scopes }
