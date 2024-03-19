@@ -1,4 +1,5 @@
 import { scopes, observatories } from '../datasource.js'
+import { createObservatoryDetailsComponent, createObservatoryCardComponent } from './observatorioContent.js'
 
 const errors = [
   ...observatories
@@ -20,35 +21,7 @@ const count = document.querySelector('mark')
 
 count.innerHTML = observatories.length.toString()
 
-container.innerHTML = observatories.map(createObservatoryComponent).join('')
-
-function createObservatoryComponent({
-  id,
-  name,
-  scope,
-  description,
-  location,
-}) {
-  const scopeObj = scopes.find(({ key }) => key === scope)
-
-  return `
-    <article class="contrast" data-target="observatory" data-observatory="${name}">
-      <small>
-        <span>
-          ${
-            scopeObj
-              ? scopeObj.key === 'municipal'
-                ? location
-                : scopeObj.name
-              : ''
-          }
-          </span>
-          <span>#${id}</span>
-      </small>
-      <h2>${name}</h2>
-      ${description ? `<div>${description}</div>` : ''}
-    </article>`
-}
+container.innerHTML = observatories.map(createObservatoryCardComponent).join('')
 
 const isOpenClass = 'modal-is-open'
 const openingClass = 'modal-is-opening'
@@ -77,15 +50,14 @@ const openModal = (modal, event) => {
     html.classList.remove(openingClass)
   }, animationDuration)
 
-  const div = modal.querySelector('div')
-  const h3 = modal.querySelector('h3')
+  const div = modal.querySelector('#observatory-content')
+  const h3 = modal.querySelector('#observatory-title')
 
   const observatory = observatories.find(
     ({ name }) => name === event.currentTarget.dataset.observatory
   )
   const json = JSON.stringify(observatory, null, 2)
-
-  div.innerHTML = `<pre>${json}</pre>`
+  div.innerHTML = createObservatoryDetailsComponent(observatory)
   h3.innerText = observatory.name
 
   modal.showModal()
@@ -128,3 +100,17 @@ document.querySelectorAll('x-catalog article').forEach((article) => {
 document.querySelectorAll('dialog button').forEach((article) => {
   article.addEventListener('click', toggleModal)
 })
+
+
+// Para que hacer click en los links dentro de las cards de observatiorios no abra el modal
+document.addEventListener('DOMContentLoaded', function () {
+  const modalLinks = document.querySelectorAll('x-catalog article a');
+
+  modalLinks.forEach(link => {
+    link.addEventListener('click', function (event) {
+      event.preventDefault();
+      event.stopPropagation();
+      window.open(link.href, '_self');
+    });
+  });
+});

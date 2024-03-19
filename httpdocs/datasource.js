@@ -272,7 +272,7 @@ const observatories = [
       'Ministerio de Cultura',
       'Dirección General del Libro y Fomento de la Lectura',
     ],
-    type: 'public',
+    type: 'publico',
     description:
       'Para <q>analizar permanentemente la situación del libro, la lectura y las bibliotecas en su conjunto, tal y como se establece en la disposición adicional segunda de la Ley 10/2007, de 22 de junio, de la Lectura, el Libro y las Bibliotecas</q>.',
     scope: 'estatal',

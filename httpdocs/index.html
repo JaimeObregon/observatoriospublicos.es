@@ -98,7 +98,7 @@
         <p>
           Estamos catalogando todos los observatorios públicos y
           público-privados de España. De momento hemos identificado
-          <mark>estos</mark>.
+          <mark data-tooltip="Y los que quedan...">estos</mark>.
         </p>
 
         <x-catalog></x-catalog>
@@ -161,23 +161,11 @@
             rel="prev"
             data-target="observatory"
           ></button>
-          <h3></h3>
+          <h3 id="observatory-title"></h3>
         </header>
-
-        <div></div>
-
-        <p>
-          <small
-            >Debido al retraso en los fondos que nos ha prometido la ministra
-            esta sección está temporalmente en construcción.
-            <a href="https://www.youtube.com/watch?v=FSJFTa2jvhk"
-              >Estamos trabajando en ellou</a
-            >.</small
-          >
-        </p>
-
+        <div id="observatory-content"></div>
         <footer>
-          <button autofocus data-target="observatory">Chachi</button>
+          <button autofocus data-target="observatory">Chachi 💸</button>
         </footer>
       </article>
     </dialog>
