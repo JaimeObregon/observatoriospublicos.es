@@ -1260,6 +1260,35 @@ const observatories = [
     description:
       'Para <q>informar sobre la evolución de los principales indicadores relativos a la sostenibilidad económica, social y medioambiental de la agricultura de regadío en España</q>.',
   },
+  {
+    id: '131',
+    name: 'Observatorio del flamenco',
+    scope: 'andalucia',
+    type: 'publico',
+    website:
+      'https://www.juntadeandalucia.es/cultura/flamenco/content/observatorio-del-flamenco',
+    email: 'institutoandaluz.flamenco@juntadeandalucia.es',
+    parents: [
+      'Agencia Andaluza de Instituciones Culturales',
+      'Instituto Andaluz del Flamenco',
+      'Junta de Andalucía',
+    ],
+    from_date: '21 de marzo de 2007',
+    description:
+      'Para <q>la obtención y análisis sistemático de información y datos objetivos del sector necesario para conocer su historia, estructura, impacto económico y realidad actual del arte jondo, así como una herramienta para su evaluación</q>.',
+  },
+  {
+    id: '132',
+    name: 'Observatorio de Vivienda y Suelo',
+    scope: 'cantabria',
+    website: 'https://www.observatoriovivienda.cantabria.es',
+    email: 'bobsvivi@cantabria.es',
+    parents: [
+      'Dirección General de Vivienda',
+      'Consejería de Fomento, Ordenación del Territorio y Medio Ambiente',
+      'Gobierno de Cantabria',
+    ],
+  },
 ]
 
 export { observatories, types, scopes }
