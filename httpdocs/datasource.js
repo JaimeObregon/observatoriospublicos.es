@@ -157,7 +157,7 @@ const observatories = [
   {
     id: '4',
     name: "Observatori Municipal de l'Habitatge d'Alcoi",
-    comment: 'El <a href="https://www.omha.alcoi.org/" alt="Website OMHA" title="Website OMHA">OMHA</a> se <a href="" alt="BOPA Constitutción OMHA" title="BOPA Contitutción OMHA">constituyó el 22-07-2020</a>, sólo se ha reunido sólo en <a href="https://www.omha.alcoi.org/es/que-es-omha/" alt="Actas de plenos" title="Actas de plenos">tres ocasiones</a> (lamentablemente, las actas de sus tres plenos no se pueden descargar.',
+    description: 'El <a href="https://www.omha.alcoi.org/" alt="Website OMHA" title="Website OMHA">OMHA</a> se <a href="" alt="BOPA Constitutción OMHA" title="BOPA Contitutción OMHA">constituyó el 22-07-2020</a>, sólo se ha reunido sólo en <a href="https://www.omha.alcoi.org/es/que-es-omha/" alt="Actas de plenos" title="Actas de plenos">tres ocasiones</a> (lamentablemente, las actas de sus tres plenos no se pueden descargar.',
     url: 'https://www.omha.alcoi.org/',
     scope: 'comunidad_valenciana',
     type: 'publico',
