@@ -1359,6 +1359,20 @@ const observatories = [
     description:
       'Para <q>Constituir un instrumento de transparencia orientado a la investigación de la tributación local, la financiación a través de transferencias de otras administraciones, y en general, cualquier información de naturaleza económica con incidencia en el ámbito de la Administración Municipal</q>.',
   },
+  {
+    id: '135',
+    name: 'Observatorio Navarro de la Cultura',
+    scope: 'navarra',
+    website: 'https://www.culturanavarra.es/es/presentacion-8',
+    email: 'cultura@navarra.es',
+    parents: [
+      'Dirección General de Cultura - Institución Príncipe de Viana',
+      'Departamento de Cultura, Deporte y Juventud del Gobierno de Navarra',
+    ],
+    description: 'Profundizar <q>en el conocimiento sobre los sectores culturales y creativos, y sistematizar la información cuantitativa y cualitativa en el ámbito de la cultura y la creatividad en Navarra que ayude en la elaboración de las políticas culturales y la toma de decisiones, investigue en tendencias, conexiones con otros sectores, etc., identifique las buenas prácticas y experiencias que se desarrollan dentro y fuera de Navarra, y fomente el conocimiento de los públicos de la cultura y la creatividad</q>.',
+    type: 'publico',
+    is_active: 'Sí',
+  },
 ]
 
 export { observatories, types, scopes }
