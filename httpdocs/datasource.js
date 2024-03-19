@@ -1307,6 +1307,48 @@ const observatories = [
     name: 'Observatorio Tributario Andaluz',
     scope: 'local',
     location: 'Málaga',
+    docs: [
+      {
+        name: 'Evolutivo Deuda 2018-2022 (ultimos 5 años)',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Deuda-2018-2022-ultimos-5-anos.pdf',
+      },
+      {
+        name: 'Evolutivo Ingresos tributarios (2018-2022)',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Ingresos-tributarios-2018-2022.pdf',
+      },
+      {
+        name: 'Evolutivo Ingresos tributarios (2017-2021)',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Ingresos-tributarios-2017-2021.pdf',
+      },
+      {
+        name: 'Evolutivo Deuda 2017-2021 (ultimos 5 años)',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Deuda-2017-2021-ultimos-5-anos.pdf',
+      },
+      {
+        name: 'Evolutivo Deuda 2016-2020 (ultimos 5 años)',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Deuda-2016-2020-ultimos-5-anos.pdf',
+      },
+      {
+        name: 'Evolutivo Ingresos tributarios (2016-2020)',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Ingresos-tributarios-2016-2020.pdf',
+      },
+      {
+        name: 'Evolutivo Deuda 2015-2019',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Deuda-2015-2019.pdf',
+      },
+      {
+        name: 'Evolutivo Deuda 2014-2018',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Deuda.pdf',
+      },
+      {
+        name: 'Evolutivo Ingresos tributarios 2015-2019',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Ingresos-tributarios-2015-2019.pdf',
+      },
+      {
+        name: 'Evolutivo Ingresos tributarios 2014-2018',
+        url: 'https://ota.malaga.eu/export/sites/ota/.galleries/Elaboracion-propia-OTA/Evolutivo-Ingresos-tributarios.pdf',
+      },
+    ],
     parents: [
       'Ayuntamiento de Málaga',
       'Subdirección de Presupuestos, Control y Estudios',
