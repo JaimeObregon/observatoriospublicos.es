@@ -121,7 +121,7 @@ const getScrollbarWidth = () => {
   return scrollbarWidth
 }
 
-document.querySelectorAll('article').forEach((article) => {
+document.querySelectorAll('x-catalog article').forEach((article) => {
   article.addEventListener('click', toggleModal)
 })
 
