@@ -1289,6 +1289,14 @@ const observatories = [
       'Gobierno de Cantabria',
     ],
   },
+  {
+    id: '133',
+    name: 'Observatorio Ocupacional UMH',
+    scope: 'comunitat_valenciana',
+    website: 'https://observatorio.umh.es/',
+    email: 'observatorio@umh.es',
+    description: '<a href="https://observatorio.umh.es/" alt="Website Observatorio Ocupacional Universidad Miguel Hernandez" title="">Observatorio Ocupacional Universidad Miguel Hernández</a>'
+  },
 ]
 
 export { observatories, types, scopes }
