@@ -1,39 +1,24 @@
 # observatoriospublicos.es
 
-[https://observatoriospublicos.es/](https://observatoriospublicos.es/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+<span class="badge-patreon"><a href="https://patreon.com/jaime_gomez_obregon" title="Apoya este proyecto en Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Botón para donar en Patreon" /></a></span>
 
-# Censo provisional de observatorios públicos
+¡Vamos a combatir con humor e inteligencia el absurdo de los políticos!
 
-https://gist.github.com/JaimeObregon/768b3c4065cb6f30d0231f76e7cce63a
+¿Cuántos observatorios públicos hay en España? El 14 de marzo de 2024 la ministra de Sanidad de España [anunció](https://twitter.com/Monica_Garcia_G/status/1768227454223565199) la creación de otro más: el <cite>Observatorio contra el Fraude y la Corrupción Sanitaria</cite>.
 
-https://twitter.com/angelyolgado/status/1401198639771422728
-https://twitter.com/angelyolgado/status/1401200470442614789
-https://twitter.com/angelyolgado/status/1401200114774024197
-https://twitter.com/angelyolgado/status/1401199114285617152
-https://twitter.com/angelyolgado/status/1401198185624870915
-https://twitter.com/angelyolgado/status/1401197918695141381
-https://twitter.com/angelyolgado/status/1401197715913162752
-https://twitter.com/angelyolgado/status/1401197211573264391
-https://twitter.com/medicolactancia/status/1401197156128673800
-https://twitter.com/medicolactancia/status/1401196968521744388
-https://twitter.com/medicolactancia/status/1401196911990874112
-https://twitter.com/angelyolgado/status/1401196881997447172
-https://twitter.com/medicolactancia/status/1401196747930718215
-https://twitter.com/medicolactancia/status/1401196657908195328
-https://twitter.com/medicolactancia/status/1401196584004632579
-https://twitter.com/medicolactancia/status/1401196394531196934
-https://twitter.com/medicolactancia/status/1401196057267220483
-https://twitter.com/O_Kandpalleiro/status/1402536901773496322
+Como nadie parece estar controlando este sindiós, ese mismo día yo, Jaime Gómez-Obregón, [solemnemente anuncié](https://twitter.com/JaimeObregon/status/1768560520183816530) la creación de uno para observarlos a todos: el <strong>Observatorio de los Observatorios públicos</strong>. 🙃
 
-…y todas las respuestas a https://twitter.com/JaimeObregon/status/1401183395514888198
+Y estamos catalogándolos en [observatoriospublicos.es](https://observatoriospublicos.es/).
 
-https://www.juntadeandalucia.es/servicioandaluzdeempleo/web/argos/web/es/ARGOS/Mas_servicios/observatorios_de_empleo.html
-http://www.iteweb.es/extremadura
-…y todos los resultados de «observatorio municipal de…» en Google
+# Desarrollo
 
-Añadir: observatorio de tecnología y sociedad
+Arranca el servidor de desarrollo con `yarn serve` o `npm run serve`.
 
-Observatorio de Emprendimiento Digital > https://twitter.com/SEDIAgob/status/1405493405233434626
-https://twitter.com/GEM_es
+El repositorio incluye una tarea configurada para que esto suceda automáticamente al abrir el proyecto en Visual Studio Code.
 
-https://www.google.com/search?client=firefox-b-d&q=intitle%3A%22Observatorio+Municipal%22
+# Catálogo de observatorios
+
+Puedes sugerir nuevos observatorios o cambios en los existentes [abriendo un _issue_ en GitHub](https://github.com/JaimeObregon/observatoriospublicos.es/issues/new/choose).
+
+El inventario de observatorios es una estructura de datos en [httpdocs/datasource.js](`datasource.js`).

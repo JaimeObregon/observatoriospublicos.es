@@ -15,7 +15,7 @@
   "type": "module",
   "main": "httpdocs/index.html",
   "scripts": {
-    "serve": "node bin/serve.js"
+    "serve": "bin/serve.js"
   },
   "prettier": {
     "semi": false,
