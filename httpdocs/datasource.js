@@ -1361,6 +1361,16 @@ const observatories = [
   },
   {
     id: '135',
+    name: 'Observatorio Galego da Biomasa',
+    scope: 'galicia',
+    parents: ['Xunta de Galicia'],
+    website: 'http://www.observatoriobiomasa.gal',
+    type: 'publico',
+    description:
+      'Para <q>proporcionar información relacionada con el sector que facilite su conocimiento, potencial, alternativas de aplicación, principales indicadores de impacto y difusión de casos de éxito</q>.',
+  },
+  {
+    id: '136',
     name: 'Observatorio Navarro de la Cultura',
     scope: 'navarra',
     website: 'https://www.culturanavarra.es/es/presentacion-8',
