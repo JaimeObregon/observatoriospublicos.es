@@ -53,13 +53,12 @@ function observatoryId(id) {
   return `<span>#${id}</span>`
 }
 
-function observatoryTitle({ scope, location }) {
+function observatoryTitle(scope, location) {
   if (!scope) return ''
   return `
       <span>
         ${scope.key === 'municipal' ? location : scope.name}
-      </span>
-      `
+      </span>`
 }
 
 function observatoryName(name) {
@@ -80,11 +79,10 @@ export function createObservatoryCardComponent({
   location,
 }) {
   const scopeObj = scopes.find(({ key }) => key === scope)
-
   return `
       <article class="contrast" data-target="observatory" data-observatory="${name}">
         <small>
-          ${observatoryTitle({ scopeObj, location })}
+          ${observatoryTitle(scopeObj, location)}
           ${observatoryId(id)}
         </small>
         ${observatoryName(name)}
