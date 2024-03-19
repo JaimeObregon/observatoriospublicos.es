@@ -85,3 +85,12 @@ dialog h3 {
   --pico-font-family: 'Fira Sans Condensed', system-ui;
   color: var(--pico-h1-color);
 }
+
+.badge {
+  border-radius: 0.5em;
+  background-color: #0172ad;
+  color: white;
+  padding: 0.25em 0.5em;
+  text-transform: capitalize;
+  margin: 0 .25rem;
+}
