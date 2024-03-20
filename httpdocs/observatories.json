@@ -610,7 +610,10 @@
   },
   {
     "name": "Observatorio de Prevención de Riesgos Laborales de la Comunidad Autónoma de la Región de Murcia",
-    "scope": "region_de_murcia"
+    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=740&IDTIPO=140",
+    "parents": ["Gobierno de la Región de Murcia"],
+    "scope": "region_de_murcia",
+    "type": "publico"
   },
   {
     "name": "Observatorio de Turismo de Extremadura",
@@ -914,13 +917,6 @@
         "name": "Informe 2007"
       }
     ]
-  },
-  {
-    "name": "Observatorio de Prevención de Riesgos Laborales",
-    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=740&IDTIPO=140",
-    "parents": ["Gobierno de la Región de Murcia"],
-    "scope": "region_de_murcia",
-    "type": "publico"
   },
   {
     "name": "Observatorio Ocupacional",
@@ -2508,12 +2504,6 @@
         "url": "https://www.sefcarm.es/web/servlet/descarga?ARCHIVO=Contratos%20Febrero%202024.xlsx&ALIAS=ARCH&&IDCONTENIDO=189144"
       }
     ]
-  },
-  {
-    "name": "Observatorio de prevención de riesgos laborales",
-    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=740&IDTIPO=140",
-    "parents": ["Gobierno de la Región de Murcia"],
-    "type": "publico"
   },
   {
     "name": "Observatorio para la convivencia escolar",
