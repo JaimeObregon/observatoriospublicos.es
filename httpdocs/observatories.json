@@ -519,10 +519,16 @@
     "scope": "galicia"
   },
   {
-    "name": "Observatorio da Vivenda de Galicia",
-    "scope": "galicia",
+    "name": "Observatorio da Vivenda de galicia",
     "website": "https://www.observatoriodavivenda.gal",
     "email": "https://www.observatoriodavivenda.gal/gl/contact",
+    "parents": [
+      "Instituto Galego da Vivenda",
+      "Esta web es la cara pública de un organismo en el que, del lado de la Xunta de Galicia, participan los ayuntamientos gallegos a través de la Fegamp, las empresas promotoras, inmobiliarias y constructoras, los colegios profesionales de arquitectos, ingenieros y arquitectos técnicos, asociaciones del ámbito profesional y también las dedicadas al trabajo social, sindicatos y, en general, todas aquellas administraciones, colegios y asociaciones relacionados de una u otro manera con el ámbito de la vivienda."
+    ],
+    "scope": "galicia",
+    "type": "publico",
+    "description": "A través del Observatorio pretendemos facilitar el acceso a la información y al conocimiento de todos los aspectos relacionados con el mundo de la vivienda, de manera que administraciones, empresas públicas y personales y cualquier interesado en este mundo estén en las mejores condiciones para adoptar decisiones eficaces y adaptadas a las necesidades del país. Del trabajo de unos y otros saldrá la información, estudios y trabajos que periódicamente verano a luz a través de esta web y de los boletines y publicaciones del Observatorio que estarán la disposición de los interesados en las diferentes secciones de este sitio.",
     "docs": [
       {
         "name": "Zonas tensionadas por municipios 2023",
@@ -557,9 +563,6 @@
         "url": "http://www.observatoriodavivenda.gal/sites/w_igvobs/files/ovg_estatistica_alugueiro_fianzas_anual_2019pw_v1.00.pdf"
       }
     ],
-    "parents": ["Instituto Galego da Vivenda"],
-    "description": "A través del Observatorio pretendemos facilitar el acceso a la información y al conocimiento de todos los aspectos relacionados con el mundo de la vivienda, de manera que administraciones, empresas públicas y personales y cualquier interesado en este mundo estén en las mejores condiciones para adoptar decisiones eficaces y adaptadas a las necesidades del país. Del trabajo de unos y otros saldrá la información, estudios y trabajos que periódicamente verano a luz a través de esta web y de los boletines y publicaciones del Observatorio que estarán la disposición de los interesados en las diferentes secciones de este sitio.",
-    "type": "publico",
     "is_active": "Sí"
   },
   {
@@ -1427,24 +1430,6 @@
       }
     ],
     "is_active": "Sí"
-  },
-  {
-    "name": "Observatorio da vivenda de galicia",
-    "website": "https://www.observatoriodavivenda.gal",
-    "email": "https://www.observatoriodavivenda.gal/gl/contact",
-    "parents": ["Instituto Galego da Vivenda e solo"],
-    "type": "publico",
-    "docs": [
-      {
-        "name": "Estadística del alquiler segundo las fianzas en el año 2019. 2020",
-        "url": "https://www.observatoriodavivenda.gal/gl/documentos/estatistica-do-alugueiro-segundo-fianzas-no-ano-2019-2020"
-      }
-    ],
-    "parents": [
-      "Esta web es la cara pública de un organismo en el que, del lado de la Xunta de Galicia, participan los ayuntamientos gallegos a través de la Fegamp, las empresas promotoras, inmobiliarias y constructoras, los colegios profesionales de arquitectos, ingenieros y arquitectos técnicos, asociaciones del ámbito profesional y también las dedicadas al trabajo social, sindicatos y, en general, todas aquellas administraciones, colegios y asociaciones relacionados de una u otro manera con el ámbito de la vivienda."
-    ],
-    "description": "Del trabajo de unos y otros saldrá la información, estudios y trabajos que periódicamente verano a luz a través de esta web y de los boletines y publicaciones del Observatorio que estarán la disposición de los interesados en las diferentes secciones de este sitio.",
-    "is_active": "None"
   },
   {
     "name": "Observatorio do solo empresarial de galicia",
