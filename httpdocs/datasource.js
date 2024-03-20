@@ -1419,6 +1419,16 @@ const observatories = [
     is_active: 'Sí',
     from_date: '2023-07-03',
   },
+  {
+    id: '139',
+    name: 'Observatorio de Contratación Pública Responsable de Canarias',
+    scope: 'canarias',
+    website: 'https://contratacionresponsablecanarias.org/',
+    parents: [
+      'Gobierno de Canarias',
+    ],
+    type: 'publico',
+  },
 ]
 
 export { observatories, types, scopes }
