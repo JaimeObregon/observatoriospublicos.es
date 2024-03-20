@@ -1191,7 +1191,7 @@
       "Banco de España (BdE)",
       "Agencia Estatal de Administración Tributaria (AEAT)"
     ],
-    "description": "El Observatorio de márgenes empresariales es un proyecto conjunto del Ministerio de Asuntos Económicos y Transformación Digital, el Banco de España y la Agencia Tributaria que tiene como objetivo disponer de información para el seguimiento y el análisis de los márgenes empresariales y de mejorar el conocimiento sobre su evolución y sus implicaciones para el conjunto de la economía.",
+    "description": "Tiene como objetivo <q>disponer de información para el seguimiento y el análisis de los márgenes empresariales y de mejorar el conocimiento sobre su evolución y sus implicaciones para el conjunto de la economía</q>.",
     "type": "publico",
     "is_active": "Sí",
     "from_date": "2023-07-03"
@@ -1265,7 +1265,7 @@
       "Banco de España (BdE)",
       "Agencia Estatal de Administración Tributaria (AEAT)"
     ],
-    "description": "Entre las medidas y actuaciones, dirigidas a la promoción de la cultura de paz y a la mejora de la convivencia en el ámbito de los centros educativos andaluces, expuestas en el Decreto 19/2007 (Art 3.), aparece la de impulsar la coordinación y colaboración de las distintas Administraciones y entidades públicas, asociaciones, medios de comunicación y otras entidades mediante la creación de un Observatorio sobre la convivencia Escolar en Andalucía.\nLa Presidencia del Observatorio será ostentada por la persona titular de la Consejera de Educación. En mayo de 2007 quedó constituido dicho Observatorio, contando con la representación y participación de diversos órganos de la administración, representantes de todos los sectores de la Comunidad Educativa, representación sindical, y personalidades de reconocido prestigio en el ámbito educativo a nivel nacional e internacional.\nLa creación de este Observatorio para la Convivencia Escolar en Andalucía constituye una apuesta firme de contribuir a generar una forma de abordar la convivencia escolar en Andalucía basada en el respeto y el diálogo, en la que el tratamiento constructivo del conflicto forme parte del proceso educativo.",
+    "description": "Actuaciones <q>dirigidas a la promoción de la cultura de paz y a la mejora de la convivencia en el ámbito de los centros educativos andaluces</q>.",
     "type": "publico",
     "is_active": "Sí",
     "from_date": "2007-02-02"
@@ -1276,5 +1276,1332 @@
     "website": "https://contratacionresponsablecanarias.org/",
     "parents": ["Gobierno de Canarias"],
     "type": "publico"
+  },
+  {
+    "name": "Observatori del sistema penal i els drets humans (ospdh)",
+    "website": "https://www.ub.edu/portal/web/observatori-sistema-penal/presentacio",
+    "email": "observatori.ospdh@ub.edu",
+    "parents": ["Universitat de Barcelona"],
+    "type": "publico",
+    "docs": {
+      "name": "Idioma Publicació: Castellà, català i anglès",
+      "url": null
+    },
+    "parents": ["Universitat de Barcelona"],
+    "description": "El Observatorio del Sistema Penal y los Derechos Humanos (OSPDH) de la Universidad de Barcelona es un Centro de Investigación, creado en el mes de mayo de 2001, integrado por profesores/as universitarios de la UB y otras Universidades nacionales, de Europa y de América Latina, así como por profesionales de instituciones y organizaciones de defensa de derechos humanos, estudiantes avanzados de programas de postgrado y doctorados y activistas que se desempeñan en la lucha por la promoción de derechos y garantías básicas.",
+    "from_date": "A principios del mes de mayo de 2001, el OSPDH se creó formalmente.",
+    "is_active": "Sí"
+  },
+  {
+    "name": "L'observatori social, ambiental i de salut de la diputació de girona",
+    "website": "https://observatori.dipsalut.cat/es",
+    "parents": ["Dioutación de Girona"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio estatal de la dependencia",
+    "email": "info@fedea.es",
+    "scope": "Estatal",
+    "type": "publico",
+    "from_date": "2007",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de emancipación cje",
+    "website": "https://www.cje.org/observatorio-de-emancipacion/",
+    "parents": ["Consejo de la Juventud de España"],
+    "scope": "Estatal",
+    "docs": {
+      "name": "Observatorio de Emancipación del Consejo de la Juventud de España - Estatal",
+      "url": null
+    },
+    "parents": ["Consejo de la Juventud de España"],
+    "description": "Seguimiento periódico y exhaustivo de algunos elementos objetivables relacionados con el empleo y la vivienda que definen las condiciones de vida y los procesos de transición hacia la vida adulta de la población joven en España.",
+    "from_date": "Septiembre de 2013",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio canario de la economía azul",
+    "website": "https://www.gobiernodecanarias.org/economia/ocea/",
+    "parents": ["Gobierno de Canarias"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio canario del cambio climático",
+    "website": "https://www.gobiernodecanarias.org/medioambiente/organos/observatorio-canario-del-cambio-climatico/",
+    "parents": ["Gobierno de Canarias"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio canario de la juventud",
+    "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/",
+    "parents": ["Gobierno de Canarias"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de contratación pública responsable de canarias",
+    "website": "https://contratacionresponsablecanarias.org/",
+    "parents": ["Gobierno de Canarias"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio industrial de canarias",
+    "website": "https://oic.itccanarias.org/",
+    "parents": ["Gobierno de Canarias"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio canario de las telecomunicaciones y de la sociedad de la información",
+    "website": "https://www.octsi.es/",
+    "parents": ["Gobierno de Canarias"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio turístico de canarias",
+    "website": "https://www.gobiernodecanarias.org/turismo/estadisticas_y_estudios/",
+    "parents": ["Gobierno de Canarias"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio canario de empleo",
+    "website": "https://obecan.es/",
+    "parents": ["Gobierno de Canarias"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio canario de la salud",
+    "website": "https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=ba5d4671-60dc-11ed-9e04-cd68079ec7ca&idCarpeta=61e907e3-d473-11e9-9a19-e5198e027117",
+    "parents": ["Gobierno de Canarias"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de la energia de canarias",
+    "website": "https://www3.gobiernodecanarias.org/ceic/energia/oecan/",
+    "parents": ["Gobierno de Canarias"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de la i+d+i de canarias",
+    "website": "https://www.obidic.es/",
+    "parents": ["Gobierno de Canarias"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio municipal galego",
+    "website": "http://www.observatorioredlocalis.com/",
+    "email": "infogen@uvigo.es",
+    "parents": ["Universidade de Vigo"],
+    "type": "publico",
+    "parents": ["[Xunta de Galicia](http://www.xunta.gal/)"],
+    "description": "Imposto sobre Bens Inmobles, Imposto sobre Actividades Económicas, Imposto sobre Vehiculos de Tracción Mecánica, Imposto sobre o Incremento do Valor dos Terreos de Natureza Urbana (Plusvalía muncipal) e o Imposto sobre Instalacións, Construccións e Obras.",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de precios de la comunitat valenciana",
+    "website": "https://argos.gva.es/es/web/prospectiva/observatori",
+    "parents": [
+      "Consellería de Economía Sostenible, Sectores Productivos, Comercio y Trabajo de la Comunitat Valenciana"
+    ],
+    "type": "publico",
+    "docs": [
+      {
+        "name": "11_noviembre_23.pdf",
+        "url": "https://github.com/JaimeObregon/observatoriospublicos.es/files/14648255/11_noviembre_23.pdf"
+      }
+    ],
+    "description": "de precios de venta al público.",
+    "from_date": "Abril de 2022",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio andaluz de la publicidad no sexista",
+    "website": "https://www.juntadeandalucia.es/institutodelamujer/index.php/observatorio-andaluz-de-publicidad-no-sexista",
+    "parents": ["Junta de Andalucía"],
+    "type": "publico",
+    "docs": [
+      {
+        "name": "\"Hola, tú a mí no me conoces\". Diccionario visual sobre las mujeres del siglo XXI. Instituto de las Mujeres. Club de Creativos/as",
+        "url": "https://www.inmujeres.gob.es/areasTematicas/comunicacion/programas/docs/TU_A_MI_NO_ME_CONOCES.pdf"
+      }
+    ],
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio da vivenda de galicia",
+    "website": "https://www.observatoriodavivenda.gal",
+    "email": "https://www.observatoriodavivenda.gal/gl/contact",
+    "parents": ["Instituto Galego da Vivenda e solo"],
+    "type": "publico",
+    "docs": [
+      {
+        "name": "Estadística del alquiler segundo las fianzas en el año 2019. 2020",
+        "url": "https://www.observatoriodavivenda.gal/gl/documentos/estatistica-do-alugueiro-segundo-fianzas-no-ano-2019-2020"
+      }
+    ],
+    "parents": [
+      "Esta web es la cara pública de un organismo en el que, del lado de la Xunta de Galicia, participan los ayuntamientos gallegos a través de la Fegamp, las empresas promotoras, inmobiliarias y constructoras, los colegios profesionales de arquitectos, ingenieros y arquitectos técnicos, asociaciones del ámbito profesional y también las dedicadas al trabajo social, sindicatos y, en general, todas aquellas administraciones, colegios y asociaciones relacionados de una u otro manera con el ámbito de la vivienda."
+    ],
+    "description": "Del trabajo de unos y otros saldrá la información, estudios y trabajos que periódicamente verano a luz a través de esta web y de los boletines y publicaciones del Observatorio que estarán la disposición de los interesados en las diferentes secciones de este sitio.",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio do solo empresarial de galicia",
+    "website": "https://www.observatoriodosoloempresarial.gal",
+    "parents": ["Instituto Galego da vivenda e solo"],
+    "type": "publico",
+    "parents": [
+      "Al lado de la Xunta de Galicia, participan en este portal web del Observatorio promotores, inversores patrimoniales, entidades gestoras de áreas empresariales, asociaciones y clústeres  empresariales, así como profesionales de la arquitectura o personal técnico de planificación urbanística y, en general, todas las administraciones (ayuntamientos y diputaciones), colegios y asociaciones vinculados de alguna manera al suelo empresarial."
+    ],
+    "description": "Mediante el Observatorio se busca, pues, suministrar información de todos los aspectos relativos al suelo empresarial, con el objetivo de que administraciones, empresas públicas y privadas, y cualquier persona interesada en este ámbito se encuentren en las condiciones idóneas para adoptar decisiones eficaces y adaptadas a las necesidades del país.",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio do comercio de galicia",
+    "parents": [
+      "Adscrito a la dirección xeral competente en materia de comercio de la Xunta de Galicia"
+    ],
+    "type": "publico",
+    "description": "5. Promover la participación de la sociedad en la mejora y desarrollo de la actividad comercial en Galicia.",
+    "from_date": "17/12/2010",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio da eólica mariña de galicia",
+    "website": "https://www.inega.gal/es/inega/puntos-de-encuentro-energeticos/observatorios",
+    "parents": ["Xunta de Galicia"],
+    "type": "publico",
+    "parents": [
+      "El Instituto Enerxético de Galicia coordina la secretaría técnica del Observatorio."
+    ],
+    "description": "- Y la elaboración de estudios sobre oportunidades, impacto y potencial industrial en Galicia.",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio da industria aeroespacial",
+    "website": "https://www.consorcioaeronautico.com/observatorio-aeroespacial/gl/",
+    "parents": [
+      "El Observatorio de la industria Aeroespacial es una iniciativa que se desarrolla en el marco de la Civil UAVs Initiative, promovida por la Xunta de Galicia a través da Vicepresidencia Primera y Consellería de Economía, Empleo e Innovación, y llevado a cabo por el Consorcio Aeronáutico Gallego."
+    ],
+    "type": "publico",
+    "docs": [
+      {
+        "name": "Informe das contas anuais do sector",
+        "url": "https://www.consorcioaeronautico.com/observatorio-aeroespacial/gl/informe-das-contas-anuais-do-sector/"
+      }
+    ],
+    "parents": [
+      "El Observatorio de la industria Aeroespacial es una iniciativa que se desarrolla en el marco de la Civil UAVs Initiative, promovida por la Xunta de Galicia a través da Vicepresidencia Primera y Consellería de Economía, Empleo e Innovación, y llevado a cabo por el Consorcio Aeronáutico Gallego."
+    ],
+    "description": "Realización de eventos y actos de difusión de los resultados de los estudios realizados.",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio da lusofonía valentín paz andrade",
+    "parents": [
+      "Decreto 134/2023, de 28 de septiembre, por el que se crea y se regula el Observatorio de la Lusofonía Valentín Paz Andrade (DOG de 10 de octubre de 2023)."
+    ],
+    "type": "publico",
+    "parents": [
+      "El Observatorio se adscribe a la consellería competente en materia de acción exterior y para alcanzar sus objetivos contará con el apoyo y soporte de la Secretaría General de Política Lingüística"
+    ],
+    "description": "El Observatorio tendrá como finalidad asesorar al Gobierno, formular planes de acción y programar actividades de conocimiento, intercambio y programación. Atendiendo a su finalidad, servirá de foro de diálogo permanente entre las distintas administraciones públicas y otras organizaciones representativas de intereses en el ámbito de la lusofonía, a fin de asegurar su participación activa en el abordaje de las relaciones de Galicia en dicho ámbito, así como aglutinará esfuerzos, coordinará las actuaciones público-privadas y procurará la consolidación en el tiempo de Galicia en el mundo de la lusofonía.",
+    "from_date": "10/10/2023",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatori català de la joventut",
+    "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/joventut/observatori_catala_de_la_joventut/index.html",
+    "email": "ocj.dretssocials@gencat.cat",
+    "parents": ["Agència Catalana de la Joventut"],
+    "scope": "Estatal",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatori català de l’esport",
+    "website": "https://inefc.gencat.cat/ca/inefc/projectes_institucionals/observatori-de-lesport/index.html",
+    "email": "observatori@gencat.cat",
+    "type": "publico",
+    "docs": {
+      "name": "Enlace",
+      "url": "https:///inefc/projectes_institucionals/observatori-de-lesport/publicacions/projectes/arxivem-esport-temps-covid19/"
+    },
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio del pluralismo religioso en españa",
+    "website": "https://www.observatorioreligion.es/",
+    "parents": ["Fundación Pluralismo y Convivencia"],
+    "scope": "Estatal",
+    "type": "publico",
+    "docs": {
+      "name": "Diciembre 22",
+      "url": null
+    },
+    "description": "El Observatorio del pluralismo religioso en España aporta datos y diagnósticos sobre la diversidad de creencias y las necesidades vinculadas al ejercicio efectivo de la libertad religiosa para contribuir a la mejora de la gestión pública.",
+    "from_date": "2011",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio económico de melilla",
+    "website": "https://elfarodemelilla.es/echa-a-andar-el-observatorio-economico-de-melilla/",
+    "parents": ["Consejería de Presidencia"],
+    "from_date": "11/12/2023",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de precios agrarios",
+    "website": "https://www.larioja.org/agricultura/es/estadistica-agraria/observatorio-precios-agrarios",
+    "email": "estadistica.agri@larioja.org",
+    "parents": ["Gobierno de la Rioja"],
+    "type": "publico",
+    "docs": {
+      "name": "Publica uno por semana desde 2010",
+      "url": null
+    },
+    "description": "El Observatorio de precios agrarios muestra semanalmente la evolución del precio que percibe el productor (origen) y el que paga el consumidor (destino). También incorpora costes de producción de diferentes cultivos y especies ganaderas que se irán completando semana a semana.",
+    "from_date": "2010",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Banda ancha de navarra",
+    "website": "https://bandaancha.navarra.es/es/inicio",
+    "email": "bandaanchanavarra@navarra.es",
+    "type": "publico",
+    "docs": {
+      "name": "NO PARECE QEU FACILITE inrmes sino que es un instrumento de desarrollo del plan director de banda ancha de navarra , recopilando información sobre la red, de forma que permita \"identificar de manera preliminar las zonas que reúnen las condiciones para ser consideradas como elegibles en actuaciones según los términos de la normativa de ayudas de Estado\"",
+      "url": null
+    },
+    "parents": ["se ignora"],
+    "description": "objetivo es el impulso del despliegue de servicios de banda ancha por parte de operadores de telecomunicaciones. Esta convocatoria financia a operadores con hasta un 80% de subvención el despliegue de servicios de banda ancha de más de 300Mbps en zonas donde no existen servicios de banda ancha de más de 100Mbps. Cada operador presenta una solicitud única para cada una de las comunidades autónomas asignándose la ayuda para cada una de ellas al operador que mejor oferta presente.",
+    "from_date": "2023",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio turístico de navarra",
+    "website": "https://turismoprofesional.navarra.es/es/observatorio-turistico",
+    "email": "EN LA WEB",
+    "parents": ["departamento de turismo"],
+    "type": "publico",
+    "docs": {
+      "name": "estudios de caracterizaciòn de turistas de otros países, como francia   p ej.. https://turismoprofesional.navarra.es/documents/8257989/28313355/inspektour%28DB22%29_Profile+study_Module+1_Report_Source+market+France_Destination+Région+de+Navarre.pdf/2707f26c-e7cb-8580-5a29-1cec0f401b78?t=1694420417005",
+      "url": null
+    },
+    "parents": [
+      "Depende del servicio de desarrollo sostenible (art 26 y ss de l DF 256/23 que regula este departamento de turismo"
+    ],
+    "description": "facilita diversos estudios, directivas, información de y para operadores turísticos regionales",
+    "from_date": "2023",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio joveen",
+    "website": "https://www.juventudnavarra.es/es/observatorio-joven",
+    "parents": ["cONSEJO DE LA JUVENTUD"],
+    "type": "publico",
+    "docs": {
+      "name": "hAY INFORMES en diversas aspectos DESDE  2012 en adelante. entre los últimos,  una encusta sobre emancipacion de la población joven de 2023 y un estudio de  Juventud y cuidados de 2024",
+      "url": null
+    },
+    "description": "es el órgano encargado de analizar y estudiar la situación de la población joven de la Comunidad Foral de Navarra. El trabajo que realizamos desde el observatorio joven permite analizar y evaluar la situación, demandas y necesidades de la juventud Navarra, para, de esta manera, poder diseñar, elaborar y evaluar diferentes iniciativas, políticas y estrategias destinadas a mejorar las condiciones de vida del colectivo joven.",
+    "from_date": "2012",
+    "stop_date": "no cesa",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de salud publica de navarra",
+    "website": "https://portalsalud.navarra.es/es/observatorio",
+    "parents": ["Deapartamento de Salud/Osasumbidea, Gobierno de Navarra"],
+    "type": "publico",
+    "docs": {
+      "name": "Mortalidad https://portalsalud.navarra.es/documents/11746728/14014754/Indicadores+Navarra+Mortalidad+2023.pdf/e1f02986-2443-625a-5a86-56a0e314abb4?t=1678092314189",
+      "url": null
+    },
+    "parents": ["Dpto de Salud"],
+    "description": "Facilitar la acción intersectorial y comunitaria en salud, adaptando la información a cada contexto y cada uno de los sectores",
+    "from_date": "desconocido.",
+    "stop_date": "a dìa de hoy sigue funcionando. Publica algunas excel con datos hasta al menos 2023",
+    "is_active": "Sí"
+  },
+  {
+    "name": "observatorio territorial de navarra",
+    "website": "https://www.nasuvinsa.es/es/servicios/lursarea/observatorio",
+    "parents": [
+      "El resultado obtenido es útil para orientar políticas sectoriales desde la perspectiva de la ordenación del territorio y la sostenibilidad. También para el seguimiento y la evaluación de la [Estrategia Territorial de Navarra (ETN).](http://www.navarra.es/home_es/Temas/Territorio/Urbanismo/Instrumentos/Instrumentos+OT/ETN/DEFAULT.htm)"
+    ],
+    "type": "publico",
+    "docs": {
+      "name": "No constan",
+      "url": null
+    },
+    "parents": [
+      "En su web dice que asiste alConsejo Social de politica  territorial  https://participa.navarra.es/assemblies/organo-41?locale=es aque a su vez es una de las herramientas del departamento de Gobierno Abierto (d elos que te gustan, Jaime) y su vocaciòn es ser un espacio de encuentro e interlocución estable..  Lo preside el Vicepresisdente del Gobierno de Navarra, por tanto depende de PRESIDENCIA."
+    ],
+    "description": "[Centro de Recursos Territoriales](https://www.nasuvinsa.es/servicios/lursarea/observatorio/centro)",
+    "from_date": "2017 .- Conforme al  Decreto Foral Legislativo 1/2017, de 26 de julio, por el que se aprueba el [Texto Refundido de la Ley Foral de Ordenación del Territorio y Urbanismo](http://www.lexnavarra.navarra.es/detalle.asp?r=39197).",
+    "stop_date": "no consta cese",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio cibim",
+    "website": "https://cibim.transportes.gob.es/observatorio-cibim",
+    "parents": ["Ministerio de Transportes, Movilidad y Agenda Urbana"],
+    "scope": "Estatal",
+    "type": "publico",
+    "docs": {
+      "name": "Enero 2017 a septiembre 2017 - Informe nº1",
+      "url": null
+    },
+    "description": "El Observatorio CIBIM revisa periódicamente la publicación de licitaciones públicas en la Plataforma de Contratación del Sector Público y plataformas existentes en Comunidades Autónomas, para identificar la incorporación de requisitos BIM y llevar a cabo un análisis cuantitativo y cualitativo de licitaciones con BIM publicadas en España a lo largo de los últimos años, según distintas clasificaciones.",
+    "from_date": "Mayo 2017",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio para la convivencia escolar en andalucía",
+    "website": "https://www.juntadeandalucia.es/educacion/portals/web/convivencia-escolar/estructura-y-funcionamiento",
+    "parents": ["Consejería de Desarrollo Educativo y Formación Profesional"],
+    "type": "publico",
+    "description": "La finalidad del Observatorio es la de contribuir a generar una forma de abordar la convivencia escolar en Andalucía basada en el respeto y el diálogo, en la que el tratamiento constructivo del conflicto forme parte del proceso educativo.",
+    "from_date": "2 de febrero 2007",
+    "is_active": "None"
+  },
+  {
+    "name": "Obervatorio de contratación pública (obcp)",
+    "website": "https://www.obcp.es/",
+    "parents": ["- NTT Data"],
+    "scope": "Estatal",
+    "type": "publico",
+    "parents": [
+      "- Cátedra de Proyectos e Inversiones Estratégicas de Aragón - Universidad de Zaragoza"
+    ],
+    "description": "El Observatorio de Contratación Pública es un lugar de encuentro para los profesionales de la materia desde el que proceder al debate y análisis de las novedades introducidas en su ordenación jurídica, así como para la realización de nuevas propuestas de actuación para la modernización de la contratación pública y materializar en la misma los principios de eficiencia, integridad y buena administración.",
+    "from_date": "Octubre de 2011",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio para la convivencia escolar en andalucía",
+    "website": "https://www.juntadeandalucia.es/educacion/portals/web/convivencia-escolar/estructura-y-funcionamiento",
+    "email": "convivenciaescolar.ced@juntadeandalucia.es",
+    "parents": [
+      "Consejería de desarrollo educativo y formación profesional de la Junta de Andalucía"
+    ],
+    "type": "publico",
+    "parents": ["Dirección General competente materia de convivencia escolar"],
+    "description": "h) Publicar y difundir estudios, materiales y experiencias de educación para la convivencia y cultura de paz. i) Elaborar un informe anual sobre el estado de la convivencia y la conflictividad en los centros educativos, para lo que requerirá el apoyo informativo, documental y técnico de otras Administraciones Públicas con competencia en la materia y de los propios órganos y entidades de la Consejería competente en materia de educación, así como de entidades e instituciones privadas. j) Cualquier otra función de apoyo y asesoramiento vinculada a la recogida, análisis, difusión de la información y la investigación y la promoción de actuaciones en todas las materias relacionadas con la mejora de la convivencia en el ámbito de los centros educativos.",
+    "from_date": "Febrero 2007 (BOJA Nº 25, 2-2-2007)",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de la infancia y adolescencia de andalucía",
+    "website": "https://www.observatoriodelainfancia.es/oia/esp/index.aspx",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio andaluz de la publicidad  no sexista",
+    "website": "https://www.juntadeandalucia.es/institutodelamujer/index.php/observatorio-andaluz-de-publicidad-no-sexista",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio andaluz de violencia de género",
+    "website": "https://www.juntadeandalucia.es/institutodelamujer/index.php/2013-08-08-10-31-21/observatorio-andaluz-de-violencia-de-genero",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio del comercio de castilla - la mancha",
+    "website": "https://comercio.castillalamancha.es/observatorio-comercio",
+    "parents": ["Dirección General de Turismo, Comercio y Artesanía"],
+    "type": "publico",
+    "description": "Observatorio del Comercio de Castilla-La Mancha es un grupo de trabajo, consultivo, asesor y de colaboración entre la administración de la Junta de Comunidades de Castilla-La Mancha y las organizaciones representativas del comercio, del ámbito de la economía digital, y las organizaciones más representativas de las personas trabajadoras del sector, que servirá para dar apoyo a los actores implicados en la comprensión de las dinámicas del comercio regional y afrontar nuevos retos.",
+    "from_date": "29 de Junio de 2021",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de digitalización en el sector agroalimentario",
+    "website": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-323",
+    "parents": ["Ministerio de Agricultura, Pesca y Alimentación"],
+    "scope": "Estatal",
+    "docs": {
+      "name": "Enlace",
+      "url": "https://www./desarrollo-rural/temas/innovacion-medio-rural/estudio_3def_tcm30-655779.pdf"
+    },
+    "parents": ["Grupo Cooperativo Cajamar"],
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de servicios sociales y dependencia de castilla - la mancha",
+    "parents": ["> Consejería de Bienestar Social de Castilla - La Mancha"],
+    "type": "publico",
+    "parents": ["Universidad de Castilla - La Mancha"],
+    "description": "El Observatorio de Servicios Sociales y Dependencia se configura como un órgano colegiado, de composición interdepartamental, con funciones asesoras, de investigación, formación y trasferencia del conocimiento en materia de servicios sociales y dependencia; que ejercerá sus funciones con plena autonomía y sin dependencia funcional de ningún órgano. El Observatorio pretende contribuir también a la reflexión y mejora de la práctica profesional, promoviendo el trabajo interdisciplinar, un buen clima laboral que cuide a las personas cuidadoras, la agilización y simplificación de trámites, la formación continua, así como la evaluación de procesos y resultados.",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de la emancipación juvenil en españa",
+    "website": "https://www.observatorioemancipacion.org/la-emancipacion-juvenil-en-espana-datos-generales/",
+    "email": "info@fepa18.org",
+    "parents": ["Ministerio de Derecho Sociales y Agenda 030"],
+    "scope": "Estatal",
+    "type": "publico",
+    "docs": {
+      "name": "Parece que los últimos datos son de 2021 pero la página figura actualizada a 2024",
+      "url": null
+    },
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de derechos humanos para el sáhara occidental de castilla - la mancha",
+    "description": "https://es-la.facebook.com/people/Observatorio-Derechos-Humanos-Castilla-La-Mancha-para-Sahara-Occidental/100068780931028/",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de plagas y enfermedades agrícolas de castilla y león",
+    "website": "https://plagas.itacyl.es/",
+    "email": "observatorio.plagas@itacyl.es",
+    "parents": ["Junta de Castilla y León"],
+    "type": "publico",
+    "description": "El objetivo final es aportar información útil al agricultor como apoyo en sus procesos de toma de decisiones.",
+    "from_date": "2009",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de la vivienda colaborativa de castilla - la mancha",
+    "website": "https://coacmto.com/observatorio-vivienda-colaborativa-toledo",
+    "parents": [
+      "Colegio de Arquitectos de Castilla - La Mancha. Demarcación de Toledo."
+    ],
+    "parents": [
+      "Colegio de Arquitectos de Castilla - La Mancha. Demarcación de Toledo."
+    ],
+    "description": "El Observatorio dispondrá de una página en la web del Colegio de arquitectos [www.coacmto.com](https://coacmto.com/coacmto-sede-y-horario-colegio-oficial-de-arquitectos-castilla-la-mancha) donde se informará de las actividades, noticias o jornadas que se programen y dispondrá de un sencillo formulario de inscripción abierto a ciudadanos, profesionales, asociaciones, entidades públicas o privadas que estén interesados en participar en esta iniciativa.",
+    "from_date": "8 de Mayo de 2023",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de la actividad física (obafi) de castilla - la mancha",
+    "website": "https://obafi.es/",
+    "parents": ["Universidad de Castilla - La Mancha (UCLM)"],
+    "type": "publico",
+    "docs": [
+      {
+        "name": "https://obafi.es/informes-de-centro/ **(NO ACCESIBLES)**"
+      }
+    ],
+    "description": "OBAFI es un proyecto compartido entre la Dirección General de Juventud y Deportes de la JCCM y la UCLM, que pretende constituir una herramienta de utilidad pública para conocer los hábitos físico-deportivos y la condición física relacionada con la salud de los escolares castellano-manchegos.",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio sobre el brexit de castilla - la mancha",
+    "website": "https://ipex.es/global-news/articulos-de-interes/observatorio-de-castilla-la-mancha-sobre-el-brexit/",
+    "parents": ["IPEX"],
+    "scope": "Estatal",
+    "type": "publico",
+    "description": "El IPEX, como organismo dependiente de la Consejería de Economía, Empresas y Empleo, encargado de la promoción internacional de las empresas de Castilla-La Mancha, pone en marcha esta oficina de atención virtual que atiende a las empresas de la región para resolver tus dudas sobre el Brexit.",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de promoción industrial de castilla - la mancha",
+    "parents": ["> Consejería de Economía, Empresas y Empleo"],
+    "type": "publico",
+    "parents": ["> Consejería de Desarrollo Sostenible y Fomento."],
+    "description": "Este Observatorio tiene sobre la mesa los retos identificados para la industria en la región: el crecimiento de la internacionalización de un sector que es responsable de uno de cada tres euros de las exportaciones de la Comunidad Autónoma, así como la digitalización, la sostenibilidad y la innovación en la industria.",
+    "from_date": "30 de agosto de 2022 (30/08/2022)",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio regional de la convivencia escolar de castilla - la mancha",
+    "website": "https://www.educa.jccm.es/educa-jccm/cm/educa_jccm/tkContent?idContent=62664&locale=en_UK&textOnly=false",
+    "parents": ["> Consejería de Educación, Cultura y Deportes."],
+    "type": "publico",
+    "description": "- Elaboración de propuestas para la mejora de la convivencia.",
+    "from_date": "1 de febrero de 2016",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatori smartcatalonia",
+    "website": "https://observatori.smartcatalonia.gencat.cat/about",
+    "email": "smartcatalonia@gencat.cat",
+    "parents": ["Administració Oberta de Catalunya (Generalitat)"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de precios en consumo de castilla - la mancha",
+    "website": "https://consumo.castillalamancha.es/node/23956",
+    "parents": ["> Dirección General de Salud Pública."],
+    "type": "publico",
+    "docs": [
+      {
+        "name": "- Evolución precios tipos alimentos Navidad 2023 (2ª actualización)",
+        "url": "https://consumo.castillalamancha.es/sites/default/files/2024-01/%28ALEJ%29EVOLUCION%20PRECIO%20TIPOS%20ALIMENTOS%20%28NAVIDAD%202023%29.pdf) (753.17 KB"
+      }
+    ],
+    "description": "El Observatorio de Precios en consumo facilita que las personas consumidoras tomen decisiones de compra informadas con arreglo a criterios económicos.",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio del cambio",
+    "website": "https://www.aytobadajoz.es/es/empleo/estudios-y-estadisticas/observatorio-del-cambio",
+    "email": "paborrego@alumnos.unex.es",
+    "parents": ["Ayuntamiento de Badajoz"],
+    "type": "publico",
+    "docs": {
+      "name": "Y muchos más!",
+      "url": null
+    },
+    "parents": [
+      "El Observatorio del Cambio es un foro impulsado por el Ayuntamiento de Badajoz, dentro del [Plan Estratégico de la Ciudad de Badajoz](http://www.aytobadajoz.es/es/ayto/con-b-de-badajoz-s0/7940/plan-estrategico), desde marco del [Pacto Local por el empleo](http://www.aytobadajoz.es/es/empleo/pacto-local-por-el-empleo)."
+    ],
+    "description": "-    Promover innovación social y empresarial",
+    "from_date": "El Observatorio del Cambio inició su andadura entre los años 2003 y 2004, años en los que se celebraron 20 sesiones temáticas que abarcaron cuestiones relacionadas con diferentes sectores y materias específicas de la ciudad. Posteriormente, del 2009  al 2011 se llevaron a cabo 13 nuevas sesiones. Todas estas sesiones están recogidas en sus correspondientes actas.",
+    "stop_date": "El último informe es de 2015",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio del mercado de trabajo de castilla - la mancha",
+    "website": "https://empleoyformacion.castillalamancha.es/observatorio",
+    "parents": ["Oficina de Orientación, Formación y Empleo"],
+    "type": "publico",
+    "docs": [
+      {
+        "name": "- Estadísticas de paro registrado",
+        "url": "https://empleoyformacion.castillalamancha.es/observatorio/estadisticas-de-paro-registrado"
+      }
+    ],
+    "description": "Es una herramienta de información permanente y actual sobre el mercado de trabajo de la región, que nace con el objetivo de orientar sobre las demandas de empleo y formativas que surjan en determinados momentos y puntos de la comunidad autónoma.",
+    "from_date": "Desconocido.",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de drogodependencias de castilla - la mancha",
+    "website": "https://sanidad.castillalamancha.es/ciudadanos/observatorio-de-drogodependencias-clm/que-es-el-od",
+    "parents": ["Servicio de Salud de Castilla-La Mancha (SESCAM)"],
+    "type": "publico",
+    "docs": [
+      {
+        "name": "- INFORME SOBRE DROGODEPENDENCIAS EN CASTILLA-LA MANCHA 2009 (Archivo PDF, abre en nueva página)",
+        "url": "https://sanidad.castillalamancha.es/sites/sescam.castillalamancha.es/files/documentos/paginas/archivos/informe_drogas_2009.pdf"
+      }
+    ],
+    "parents": ["Servicio de Salud de Castilla-La Mancha (SESCAM)"],
+    "description": "- Mantenimiento de un sistema de indicadores que permita el seguimiento de la evolución del consumo de drogas en Castilla-La Mancha.",
+    "from_date": "Desconocido.",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatori de la mort",
+    "website": "https://observatorisalut.gencat.cat/ca/observatori_mort/",
+    "parents": ["Departament de Salut (Generalitat)"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatori del sistema de salut de catalunya",
+    "website": "https://observatorisalut.gencat.cat/ca/inici",
+    "parents": [
+      "Agència de Qualitat i Avaluació Sanitàries de Catalunya (Generalitat)"
+    ],
+    "scope": "Estatal",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de transformación y participación de castilla y león",
+    "website": "https://www.observatoriotransformacion.com/",
+    "email": "observatoriotransformacion@gmail.com",
+    "parents": ["Junta de Castilla y León"],
+    "type": "publico",
+    "description": "El Observatorio Tranformación y Participación es un órgano que se constituye para actuar como soporte a la docencia, a la investigación y la participación social. Asentado a nivel autonómico en Castilla y León pretende crear una Red Estatal que aporte soluciones desde la participación social al ámbito de la investigación e innovación aplicada",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatori del treball i model productiu",
+    "website": "https://observatoritreball.gencat.cat/ca/inici",
+    "parents": ["Departament d'Empresa i Treball (Generalitat)"],
+    "type": "publico",
+    "docs": {
+      "name": "Enlace",
+      "url": "https://www./2017-2020/?id=020202&paae=2024"
+    },
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio contra la lgtbifobia de castilla - la mancha",
+    "website": "https://observatoriolgtbiclm.com/",
+    "parents": ["Desconocido por el momento."],
+    "type": "publico",
+    "docs": {
+      "name": "Desconocido por el momento.",
+      "url": null
+    },
+    "parents": ["- Ayuntamiento de Guadalajara"],
+    "description": "Como Observatorio la visión es poder tener varios objetivos fijados a largo plazo como concienciar la LGTBIfobia en la existente actual y erradicar contra la LGTBIfobia.",
+    "from_date": "7 de Septiembre de 2021 (07-09-2021)",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatori de civisme i valors",
+    "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/civisme_i_valors/observatori/",
+    "parents": ["Departament de Drets Socials (Generalitat)"],
+    "type": "publico",
+    "docs": [
+      {
+        "name": "Informe monogràfic 2021: Dimensió comunitària als barris de Catalunya",
+        "url": "https://dretssocials.gencat.cat/web/.content/03ambits_tematics/19_civisme_i_valors/observatori/informes/Monografic-dinamiques-comunitaries-als-barris_1121_febrer-2022.pdf"
+      }
+    ],
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de la muerte digna y de las comisiones de mortalidad de las áreas de salud.",
+    "website": "https://www.astursalud.es/noticias/-/noticias/omd",
+    "parents": [
+      "https://sede.asturias.es/bopa-disposiciones?p_p_id=pa_sede_bopa_web_portlet_SedeBopaDispositionWeb&p_p_lifecycle=0&_pa_sede_bopa_web_portlet_SedeBopaDispositionWeb_mvcRenderCommandName=%2Fdisposition%2Fdetail&p_r_p_dispositionText=2020-06176&p_r_p_dispositionReference=2020-06176&p_r_p_dispositionDate=03%2F08%2F2020"
+    ],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatori del canvi climàtic",
+    "website": "https://climaienergia.com/observatori/",
+    "email": "observatori@climaienergia.com",
+    "parents": ["Ayuntamiento de Valencia"],
+    "type": "publico",
+    "description": "El Observatori del Canvi Climàtic es el centro educativo y divulgativo de Valencia para formar, concienciar y sensibilizar frente al cambio climático.",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de contratación pública responsable de canarias",
+    "website": "https://contratacionresponsablecanarias.org/",
+    "email": "info@contratacionresponsablecanarias.org",
+    "parents": [
+      "Dirección General de Derechos Sociales e Inmigración del Gobierno de Canarias a través del proyecto Integra Responsable"
+    ],
+    "type": "publico",
+    "parents": ["https://eapncanarias.org/"],
+    "description": "El Observatorio de CPR de Canarias es un órgano de asesoramiento, control y estudio respecto a la contratación pública para la sociedad civil y agentes involucrados.",
+    "from_date": "2023",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de precios de los productos agroalimetarios de la comunitat valenciana",
+    "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851",
+    "type": "publico",
+    "from_date": "6 de octubre de 2006, según el [DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2006/11596).",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatori de preus de la comunitat valenciana",
+    "website": "https://argos.gva.es/va/web/prospectiva/observatori",
+    "parents": [
+      "Generalitat Valenciana - Consellería de Economía Sostenible, Sectores Productivos, Comercio y Trabajo"
+    ],
+    "type": "publico",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatori socioambiental de menorca",
+    "website": "https://www.obsam.cat/",
+    "email": "smn.obsam@cime.es",
+    "parents": ["Instituto Menorquín de Estudios"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatori d'ia per a l'administració pública",
+    "website": "https://observatorioia.gva.es/",
+    "parents": [
+      "Generalitat Valenciana - Conselleria d'Innovació, Indústria, Comerç i Turisme"
+    ],
+    "type": "publico",
+    "description": "Para conocer un poco más sobre la historia de la Inteligencia Artificial, identificar a los [agentes implicados](https://observatorioia.gva.es/es/imprescindibles#p_p_id_56_INSTANCE_cRDjJJr6WlEu_) y comenzar a manejarse con los términos más habituales empleados en este campo, existen diversas iniciativas como el [Léxico del Correo de la UNESCO](https://es.unesco.org/courier/2018-3/lexico-inteligencia-artificial), el diccionario tecnológico [Datapedia](http://luca-d3.com/es/diccionario-tecnologico/index.html) de Telefónica o los [Cuadernos de la Fundación General CSIC](http://www.fgcsic.es/lychnos/es_es/articulos/inteligencia_artificial), entre muchas otras.",
+    "from_date": "9 de junio de 2023, según el [DECRETO 85/2023, de 9 de junio, del Consell, de creación del Observatorio de la Inteligencia Artificial de la Comunitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2023/6578&L=1).",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de la movilidad viaria de málaga (movima)",
+    "website": "https://movilidad.malaga.eu/es/lineas-de-trabajo/movima/",
+    "email": "movilidad@malaga.eu",
+    "parents": ["Ayuntamiento de Málaga."],
+    "type": "publico",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio turístico",
+    "website": "https://visita.malaga.eu/profesional/es/observatorio-turistico",
+    "email": "visita@malaga.eu",
+    "parents": [
+      "El Ayuntamiento de Málaga, la Universidad de Málaga y el Área de Turismo de Málaga."
+    ],
+    "type": "publico",
+    "docs": {
+      "name": "Enlace",
+      "url": "https:///es/observatorio-turistico/informes"
+    },
+    "description": "El objetivo de este informe estadístico, de carácter anual, es conocer de una forma completa e integrada las pautas de la visita y el perfil del visitante, tanto turistas como excursionistas, entre otros aspectos. Es decir, se trata de determinar los perfiles del visitante que llega a la ciudad de Málaga: cuáles son sus motivaciones iniciales, cómo organizan su viaje, qué tipo de actividades realizan durante su estancia, cómo valoran la oferta disponible y el viaje en función de sus expectativas iniciales, entre otros aspectos relevantes.",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de la violencia de género",
+    "website": "https://observatorioviolencia.org",
+    "email": "observatorioviolencia@fundacionmujeres.es",
+    "scope": "Estatal",
+    "docs": {
+      "name": "Enlace",
+      "url": "https://-e-investigaciones/"
+    },
+    "description": "De este modo en el año 2005 surge el Observatorio de la Violencia de Género, donde diariamente recopilamos, a través de los medios de comunicación, y fuentes oficiales e institucionales relacionadas con la violencia de género, noticias, opiniones e informes que puedan ser de interés no sólo para profesionales en la materia, sino para la población en su conjunto.",
+    "from_date": "2005",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de la participación ciudadana en navarra",
+    "website": "https://gobiernoabierto.navarra.es/es/participacion/enviar-aportacion/1587/observatorio-participacion-ciudadana-navarra",
+    "parents": ["Gobierno abierto..presidencia"],
+    "docs": {
+      "name": "Enlace",
+      "url": "https:///participacion/1587/impulso-participacion-ciudadana-navarra-2016-2019"
+    },
+    "parents": [
+      "Presidencia del Gobierno en colaboración con el Departamento de Sociología de la UPNa y del Colegio de Sociología y Politología de Navarra"
+    ],
+    "description": "Navarra.Las funciones de este Observatorio de nueva creación serían la de identificar y servir de intercambio de información sobre experiencias participativas consideradas de un especial interés, tanto en Navarra como fuera de ella, para su divulgación y gestión de buenas y malas prácticas en esta materia. Asimismo, se pretende poner en marcha un seminario de personas expertas que coadyuven al desarrollo del Plan de Impulso de la Participación Ciudadana, así como la presentación de un proyecto innovador en esta materia",
+    "from_date": "2016",
+    "stop_date": "No parece tener actividad.",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatori de la bretxa digital",
+    "website": "https://brechadigital.gva.es/",
+    "email": "observatorio_dglbd@gva.es",
+    "parents": [
+      "Generalitat Valenciana - Conselleria de Innovación, Industria, Comercio y Turismo"
+    ],
+    "type": "publico",
+    "docs": {
+      "name": "Enlace",
+      "url": "https:///publicacions"
+    },
+    "description": "Es un órgano colegiado y consultivo que dependiendo de la Dirección General competente en materia de lucha contra la brecha digital trata de ser un foro de participación que permita el impulso compartido entre las administraciones públicas, los agentes económicos y sociales y la sociedad civil organizada en la lucha contra la brecha digital. Servirá de plataforma para planificar, estudiar y analizar el entorno y la realidad socioeconómica valenciana en materia de brecha digital.",
+    "from_date": "18 de marzo de 2021, mediante el [DECRETO 43/2021, de 18 de marzo, del Consell, de creación del Observatorio de Brecha Digital.](https://dogv.gva.es/es/resultat-dogv?signatura=2021/3198&L=1)",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio municipal para la inclusión social",
+    "website": "https://observatoriosocial.malaga.eu/",
+    "email": "observatorio.social@malaga.eu",
+    "parents": ["Área de Derechos Sociales"],
+    "type": "publico",
+    "docs": {
+      "name": "Enlace",
+      "url": "https:///"
+    },
+    "description": "Realiza estudios e investigaciones encaminadas a mantener actualizado el Diagnóstico Social de la ciudad, entendiendo este, como un proceso permanente de análisis social de la ciudad, en el que se enmarcan todas las publicaciones.",
+    "from_date": "2011",
+    "is_active": "None"
+  },
+  {
+    "name": "De la realidad social de navarra / análisis y prospección de la realidad de navarra",
+    "website": "https://www.observatoriorealidadsocial.es/es/estudios/",
+    "parents": ["Servicios sociales , empleo y vivienda"],
+    "type": "publico",
+    "docs": {
+      "name": "Evolución del empleo en Navarra. Diciembre 2023. Informe mensual. Gobierno de Navarra , Pamplona, 2023, 29 p.",
+      "url": null
+    },
+    "description": "Evaluación de políticas públicas.",
+    "from_date": "Aproximadamente 2016 (primeros estudios publicados como observatorio)",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de accesibilidad de euskadi",
+    "website": "https://isek.euskadi.eus/webisek00-isekquees/es/",
+    "email": "accesibilidad@euskadi.eus",
+    "parents": ["- Dirección de Vivienda, Suelo y Arquitectónica"],
+    "type": "publico",
+    "docs": [
+      {
+        "name": "I PLAN DE ACCIÓN DE LA ESTRATEGIA DE ACCESIBILIDAD UNIVERSAL DE EUSKADI Informe anual de Evaluación 2022",
+        "url": "https://isek.euskadi.eus/media/informes/webisek00-Informe-Evaluacion-2022-Plan-de-Accion-Accesibilidad.pdf"
+      }
+    ],
+    "description": "El Observatorio de la Accesibilidad de Euskadi es una herramienta para centralizar la información sobre accesibilidad en el País Vasco y que esté a disposición de todas las personas interesadas.",
+    "from_date": "[21 de julio de 2021](https://www.irekia.euskadi.eus/es/news/70861-euskadi-contara-con-observatorio-accesibilidad-para-obtener-imagen-real-este-derecho-comunidad-autonoma)",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de seguridad y eficiencia de las operaciones aéreas",
+    "website": "https://www.google.com/search?q=Observatorio+de+Seguridad+y+Eficiencia+de+las+Operaciones+A%C3%A9reas",
+    "parents": ["- **ENAIRE** - https://www.enaire.es"],
+    "scope": "Estatal",
+    "type": "publico",
+
+    "from_date": "2 de julio de 2019",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio precios cadena agroalimentaria castilla la mancha",
+    "website": "https://www.castillalamancha.es/gobierno/agriaguaydesrur/estructura/dgalimentacion/titular/observatorio-precios-cadena-agroalimentaria",
+    "email": "observatoriocadena@jccm.es",
+    "parents": ["Consejería de agricultura y ganadería de castilla la mancha"],
+    "type": "publico",
+    "parents": [
+      "https://www.castillalamancha.es/gobierno/agriaguaydesrur/estructura/dgalimentacion/titular/observatorio-precios-cadena-agroalimentaria"
+    ],
+    "from_date": "**https://docm.jccm.es/portaldocm/descargarArchivo.do?ruta=2021/09/27/pdf/2021_10496.pdf&tipo=rutaDocm**",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de precios en consumo jccm",
+    "website": "https://consumo.castillalamancha.es/node/23956",
+    "parents": ["Consejería de Sanidad de Castilla La Mancha"],
+    "type": "publico",
+    "docs": [
+      {
+        "name": "Evolución precios tipos alimentos Navidad 2023 (2ª actualización)",
+        "url": "https://consumo.castillalamancha.es/sites/default/files/2024-01/%28ALEJ%29EVOLUCION%20PRECIO%20TIPOS%20ALIMENTOS%20%28NAVIDAD%202023%29.pdf) (753.17 KB"
+      }
+    ],
+
+    "from_date": "Febrero 2022",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio aragonés de dinamización demográfica y poblacional",
+    "website": "https://observatoriopoblacion.aragon.es/",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio regional de la violencia de género",
+    "website": "https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-regional-violencia-genero",
+    "parents": ["Consejería de Presidencia, justicia y Administración Local"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio aragonés por la convivencia y contra el acoso escolar",
+    "website": "https://educa.aragon.es/-/convivencia-web-basico-enlaces",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio aragonés del arte en la esfera pública",
+    "website": "https://oaaep.unizar.es/",
+    "parents": ["Universidad de Zaragoza"],
+    "scope": "Estatal",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio canario de la juventud",
+    "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/",
+    "parents": ["Gobierno de Canarias - Dirección general de juventud"],
+    "type": "publico",
+    "docs": {
+      "name": "Enlace",
+      "url": "https://www./export/sites/juventud/multimedia/documentos/programas/publicaciones/encuesta_jovenes_canarias_2012/ejc2012_diagnostico_juventud_canarias_2012_completo_13"
+    },
+    "parents": [
+      "Se entremezcla con la dirección general de juventud. No tiene un correo propio sino que remite a la dirección general"
+    ],
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de residuos de bizkaia",
+    "website": "https://bizkaikohirihondakinenbehatokia.com/es/observatorio-de-residuos/",
+    "parents": [
+      "Garbiker, empresa pública 100% perteneciente a la Diputación Foral de Bizkaia y adscrita al Departamento de Medio Natural y Agricultura."
+    ],
+    "type": "publico",
+    "docs": {
+      "name": "En teoría, hay histórico hasta 2010: https://bizkaikohirihondakinenbehatokia.com/es/en-numeros/#historico",
+      "url": null
+    },
+
+    "from_date": "2011",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio canario de empleo",
+    "website": "https://obecan.es/",
+    "email": "info@obecan.es",
+    "parents": [
+      "Gobierno de Canarias - Consejería de empleo y asuntos sociales"
+    ],
+    "type": "publico",
+    "parents": ["https://www.gobiernodecanarias.org/boc/1998/160/003.html"],
+    "from_date": "Diciembre 1998",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de precios y mercados de la junta de andalucía",
+    "website": "https://www.juntadeandalucia.es/agriculturaypesca/observatorio",
+    "parents": ["Consejeria de Agricultura y Pesca de la Junta de Andalucia"],
+    "type": "publico",
+    "docs": {
+      "name": "Informes de precios agrícolas y ganaderos",
+      "url": null
+    },
+
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatori de la mort",
+    "website": "https://observatorisalut.gencat.cat/ca/observatori_mort/index.html",
+    "parents": [
+      "- Agència de Qualitat i Avaluació Sanitàries de Catalunya (AQuAS)"
+    ],
+    "type": "publico",
+    "docs": [
+      {
+        "name": "Listado de documentos publicados: Documentos e informes",
+        "url": "https://observatorisalut.gencat.cat/ca/observatori_mort/bibliografia_recomanada_obseravtori_mort/"
+      }
+    ],
+
+    "from_date": "3 de Septiembre de 2019",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio socioeconómico de la marina alta",
+    "website": "https://observatorimarinaalta.org/",
+    "email": "observatori@creama.org",
+    "parents": [
+      "y de la Actividad de la Marina Alta, Ayuntamiento de Dénia y otros municipios de la comarca, Generalitat Valenciana, Ministerio de Trabajo y Economía Social"
+    ],
+
+    "from_date": "2018",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de la comunidad de madrid de víctimas del delito",
+    "website": "https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-comunidad-madrid-victimas-del-delito",
+    "parents": [
+      "Comunidad de Madrid. Consejería de Presidencia, Justicia y Administración Local"
+    ],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "https://www.comunidad.madrid/servicios/salud/observatorio-resultados-servicio-madrileno-salud",
+    "website": "https://www.comunidad.madrid/servicios/salud/observatorio-resultados-servicio-madrileno-salud",
+    "parents": ["Comunidad de Madrid. Consejería de Sanidad"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio ciudadano del agua de la comunidad valenciana",
+    "website": "https://mediambient.gva.es/es/web/agua/novedades/-/asset_publisher/cYq5fnvdHYwT/content/observatorio-ciudadano-del-agua-de-la-comunitat-valenciana",
+    "parents": [
+      "Generalitat Valenciana. Conselleria de Medio Ambiente, Agua, Infraestructuras y Territorio"
+    ],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de la industria y de los sectores económicos valencianos",
+    "website": "https://portalindustria.gva.es/es/observatorio-de-la-industria",
+    "parents": [
+      "Generalitat Valenciana. Conselleria de Innovación, Industria, Comercio y Turismo"
+    ],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio normativa electoral valenciana",
+    "website": "https://cjusticia.gva.es/es/web/processos-electorals/observatori-electoral",
+    "parents": ["Generalitat Valenciana. Conselleria de Justicia e Interior"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de la ia",
+    "website": "https://observatorioia.gva.es/es/",
+    "parents": [
+      "Generalitat Valenciana. Conselleria de Innovación, Industria, Comercio y Turismo"
+    ],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio valenciano para la igualdad de trato, la no discriminación y la prevención de los delitos de odio.",
+    "website": "https://inclusio.gva.es/es/web/igualdad-diversidad/observatori-valencia-per-a-la-igualtat-de-trace-la-no-discriminacio-i-la-prevencio-dels-delictes-d-odi",
+    "parents": [
+      "Generalitat Valenciana. Conselleria de Servicios Sociales, Igualdad y Vivienda"
+    ],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio para la convivencia escolar",
+    "website": "https://ceice.gva.es/es/web/inclusioeducativa/observatori-per-a-la-convivencia",
+    "parents": [
+      "Generalitat Valenciana. Conselleria de Educación, Universidades y Empleo"
+    ],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de brecha digital",
+    "website": "https://brechadigital.gva.es/es",
+    "parents": [
+      "Generalitat Valenciana. Consellería de Innovación, Industria, Comercio y Turismo"
+    ],
+    "scope": "Estatal",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio valenciano de la cultura",
+    "website": "https://ovc.gva.es/es/observatori",
+    "parents": ["Generalitat Valenciana. Consellería de Cultura y Deporte"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de precios de la comunitat valenciana",
+    "website": "https://argos.gva.es/es/web/prospectiva/observatori",
+    "parents": ["Generalitat Valenciana"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio valenciano del trabajo decente",
+    "website": "https://ceice.gva.es/va/web/dg-trabajo/observatori-valencia-del-treball-decent",
+    "parents": [
+      "Generalitat Valenciana. Consellería de Educación, Universidades y Ocupación"
+    ],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de la escuela rural de aragón",
+    "website": "https://educa.aragon.es/-/innovacion/observatorio-rural",
+    "type": "publico",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio del hábitat y segregación urbana de la comunitat valenciana",
+    "website": "https://habitatge.gva.es/es/web/vivienda-y-calidad-en-la-edificacion/observatori-de-l-habitat-i-segregacio-urbana-de-la-cv",
+    "parents": [
+      "Generalitat Valenciana. Consellería de Servicios Sociales, Igualdad y Vivienda"
+    ],
+    "scope": "Estatal",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de la montaña de aragón",
+    "website": "https://observatoriomontanaragon.com/",
+    "type": "publico",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio fiscal de la comunitat valenciana",
+    "website": "https://atv.gva.es/es/observatori-fiscal",
+    "parents": ["Agència Tributària Valenciana"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio aragonés de la sociedad de la información (oasi)",
+    "website": "https://www.aragon.es/-/estudios-1",
+    "email": "oasi@aragon.es",
+    "parents": ["Gobierno de Aragón"],
+    "type": "publico",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de salud pública de navarra",
+    "website": "https://portalsalud.navarra.es/es/observatorio",
+    "email": "oscn@navarra.es",
+    "parents": ["Gobierno de Navarra. Departamento de Salud"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de la cadena alimentaria y de la madera de euskadi",
+    "website": "https://behatoki.eus/",
+    "parents": ["Hazi"],
+    "type": "publico",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio militar para la igualdad entre mujeres y hombres en las fuerzas armadas",
+    "website": "https://www.defensa.gob.es/ministerio/organigrama/subdef/omi/",
+    "email": "omigualdad@oc.mde.es",
+    "parents": ["Ministerio de Defensa"],
+    "scope": "Estatal",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de márgenes empresariales",
+    "website": "https://sede.agenciatributaria.gob.es/Sede/estadisticas/observatorio-margenes-empresariales/observatorio-margenes-empresariales.html",
+    "parents": [
+      "Es un proyecto conjunto del Ministerio de Asuntos Económicos y Transformación Digital, el Banco de España y la Agencia Estatal de Administración Tributaria"
+    ],
+    "scope": "Estatal",
+    "type": "publico",
+    "docs": [
+      {
+        "name": "4.1 Indicadores de precios(159 KB - xlsx)",
+        "url": "https://sede.agenciatributaria.gob.es/static_files/Sede/Tema/Estadisticas/Observatorio_margenes_empresariales/Datos_margenes_empresariales/Indicadores_de_precios.xlsx"
+      }
+    ],
+    "parents": [
+      "Dentro de este proyecto en esta web se ofrecen varias bases de datos, anuales y trimestrales, procedentes del Impuesto sobre Sociedades y de los modelos de IVA y retenciones sobre rendimientos del trabajo. La población objeto de estudio en cada año son todas aquellas empresas no financieras que tengan declaraciones de estos tres impuestos, con la única exclusión de empresas en actividades con un alto porcentaje de operaciones exentas a efectos del IVA."
+    ],
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de precios de los alimentos",
+    "website": "https://www.mapa.gob.es/es/alimentacion/servicios/observatorio-de-precios-de-los-alimentos/estudios-e-informes/default.aspx",
+    "parents": ["Ministerio de Agricultura, Pesca y Alimentación"],
+    "scope": "Estatal",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de la muerte digna",
+    "website": "http://www.nafarroa.gob.es/home_es/Temas/Portal+de+la+Salud/Ciudadania/Me+cuido/Al+final+de+la+vida/Observatorio+de+la+Muerte+Digna/",
+    "parents": ["Gobierno de Navarra. Departamento de Salud"],
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de uso de medicamentos",
+    "website": "https://www.aemps.gob.es/medicamentos-de-uso-humano/observatorio-de-uso-de-medicamentos/",
+    "parents": ["Ministerio de Sanidad"],
+    "scope": "Estatal",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de la nutrición y de estudio de la obesidad aesan",
+    "website": "https://www.aesan.gob.es/AECOSAN/web/nutricion/seccion/observatorio.htm",
+    "parents": ["Ministerio de Derechos Sociales, Consumo y Agenda 2030"],
+    "scope": "Estatal",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio del comercio 4.0",
+    "website": "https://comercio.gob.es/ComercioInterior/Observatorio/Paginas/default.aspx",
+    "email": "sgfomon.sscc@mincotur.es",
+    "parents": ["Ministerio de Economía, Comercio y Empresa"],
+    "scope": "Estatal",
+    "type": "publico",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatori agroalimentari de preus",
+    "website": "https://agricultura.gencat.cat/ca/departament/estadistiques/observatori-agroalimentari-preus/",
+    "email": "estudis_prospectiva.daam@gencat.cat",
+    "parents": ["Gencat"],
+    "type": "publico",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de agresiones a profesionales del sistema sanitario público",
+    "website": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/todas-noticia/constituido-el-observatorio-de-agresiones-profesionales-del-sistema-sanitario-publico",
+    "type": "publico",
+    "parents": [
+      "Aún no han creado su propia pagina pero su constitución aparece mencionada en varias páginas oficiales de la Junta de Andalucía, arriba uno de las noticias al respecto"
+    ],
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio para la convivencia escolar en andalucía",
+    "website": "https://www.juntadeandalucia.es/educacion/portals/web/convivencia-escolar/estructura-y-funcionamiento",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio regional contra la discriminación por orientación sexual e identidad de género",
+    "website": "https://transparencia.carm.es/-/observatorio-regional-contra-la-discriminacion-por-orientacion-sexual-e-identidad-de-genero-en-la-comunidad-autonoma-de-la-region-de-murcia#gsc.tab=0",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de igualdad",
+    "website": "https://transparencia.carm.es/-/observatorio-de-igualdad#gsc.tab=0",
+    "scope": "Estatal",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio de la calidad de los servicios de la comunidad autónoma de la región de murcia",
+    "website": "https://transparencia.carm.es/-/observatorio-de-la-calidad-de-los-servicios#gsc.tab=0",
+    "scope": "Estatal",
+    "type": "publico",
+    "docs": [
+      {
+        "name": "Acta 2022",
+        "url": "https://transparencia.carm.es/wres/transparencia/doc/Organos-colegiados/observatorio_calidad/2022-07-18/20220718_ACTA_SESION_CONSTITUTIVA_OCS_C.pdf"
+      }
+    ],
+
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio regional de la discapacidad",
+    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio virtual del paisaje mediterráneo",
+    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828",
+    "type": "publico",
+    "is_active": "None"
+  },
+  {
+    "name": "Observatorio ocupacional",
+    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=227&IDTIPO=200&__PLANT_PERSONALIZADA=/JSP/CARM/carm2018/organigramas/plantillaDetalleOrganigrama.jsp&IDESTRUCTURAJERARQUICA=473&RASTRO=c77$m5782",
+    "parents": [
+      "Dirección General del Servicio Regional de Empleo y Formación > Servicio Regional de Empleo y Formación > Organismo Autónomo > Consejería de Educación, Formación Profesional y Empleo > Comunidad Autónoma de la Región de Murcia"
+    ],
+    "type": "publico",
+    "docs": [
+      {
+        "name": "Contratos",
+        "url": "https://www.sefcarm.es/web/servlet/descarga?ARCHIVO=Contratos%20Febrero%202024.xlsx&ALIAS=ARCH&&IDCONTENIDO=189144"
+      }
+    ]
+  },
+  {
+    "name": "Observatorio de prevención de riesgos laborales",
+    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=740&IDTIPO=140",
+    "parents": ["Gobierno de la Región de Murcia"],
+    "type": "publico"
+  },
+  {
+    "name": "Observatorio para la convivencia escolar",
+    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5316&RASTRO=c792$m4001&IDTIPO=100",
+    "email": "observatorio.convivencia@murciaeduca.es",
+    "parents": ["Gobierno de la Región de Murcia"],
+    "type": "publico",
+    "docs": [
+      {
+        "name": "Informe 2007",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=Informe%20Final.pdf&ALIAS=ARCH&IDCONTENIDO=31641&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
+      }
+    ]
   }
 ]
