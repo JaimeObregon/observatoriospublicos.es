@@ -2572,5 +2572,24 @@
         "url": "https://www.carm.es/web/descarga?ARCHIVO=Informe%20Final.pdf&ALIAS=ARCH&IDCONTENIDO=31641&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       }
     ]
+  },
+  {
+    "name": "Observatorio de Convivencia",
+    "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u50993cf2_1781a8edc14__7e4c",
+    "email": "bizikidetza.convivencia@vitoria-gasteiz.org",
+    "parents": ["Ayuntamiento de Vitoria-Gasteiz"],
+    "type": "publico",
+    "is_active": "Sí",
+    "scope": "municipal",
+    "docs": [
+      {
+        "name": "Guía completa de recursos para la no discriminación (pdf)",
+        "url": "https://www.vitoria-gasteiz.org/we001/was/we001Action.do?idioma=es&accionWe001=adjunto&nombre=91543.pdf"
+      },
+      {
+        "name": "Guía de buenas prácticas para la convivencia (pdf)",
+        "url": "https://www.vitoria-gasteiz.org/we001/was/we001Action.do?idioma=es&accionWe001=adjunto&nombre=91542.pdf"
+      }
+    ]
   }
 ]
