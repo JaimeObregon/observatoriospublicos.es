@@ -178,8 +178,15 @@
     "email": "observatorio.museos@cultura.gob.es"
   },
   {
-    "name": "Observatorio de Precios y Mercados de la Junta de Andalucía",
-    "scope": "andalucia"
+    "name": "Observatorio de precios y mercados de la junta de andalucía",
+    "website": "https://www.juntadeandalucia.es/agriculturaypesca/observatorio",
+    "parents": ["Consejeria de Agricultura y Pesca de la Junta de Andalucia"],
+    "scope": "andalucia",
+    "type": "publico",
+    "docs": {
+      "name": "Informes de precios agrícolas y ganaderos"
+    },
+    "is_active": "Sí"
   },
   {
     "name": "Observatorio de Salud Pública de Cantabria",
@@ -2214,17 +2221,6 @@
     "type": "publico",
     "parents": ["https://www.gobiernodecanarias.org/boc/1998/160/003.html"],
     "from_date": "Diciembre 1998",
-    "is_active": "Sí"
-  },
-  {
-    "name": "Observatorio de precios y mercados de la junta de andalucía",
-    "website": "https://www.juntadeandalucia.es/agriculturaypesca/observatorio",
-    "parents": ["Consejeria de Agricultura y Pesca de la Junta de Andalucia"],
-    "type": "publico",
-    "docs": {
-      "name": "Informes de precios agrícolas y ganaderos"
-    },
-
     "is_active": "Sí"
   },
   {
