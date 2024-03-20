@@ -2298,9 +2298,9 @@
     "is_active": "None"
   },
   {
-    "name": "https://www.comunidad.madrid/servicios/salud/observatorio-resultados-servicio-madrileno-salud",
+    "name": "Observatorio de resultados del Servicio Madrileño de Salud",
     "website": "https://www.comunidad.madrid/servicios/salud/observatorio-resultados-servicio-madrileno-salud",
-    "parents": ["Comunidad de Madrid. Consejería de Sanidad"],
+    "parents": ["Comunidad de Madrid","Consejería de Sanidad"],
     "type": "publico",
     "is_active": "None"
   },
