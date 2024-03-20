@@ -1255,7 +1255,7 @@
     "name": "Observatorio para la Convivencia Escolar en Andalucía",
     "scope": "andalucia",
     "website": "https://www.juntadeandalucia.es/educacion/portals/web/convivencia-escolar/estructura-y-funcionamiento",
-    "email": "",
+    "email": "convivenciaescolar.ced@juntadeandalucia.es",
     "docs": [
       {
         "name": "Reglamento interno de funcionamiento del consejo rector del observatorio para la convivencia escolar en Andalucía",
@@ -1271,11 +1271,13 @@
       }
     ],
     "parents": [
+      "Consejería de desarrollo educativo y formación profesional de la Junta de Andalucía",
+      "Dirección General competente materia de convivencia escolar",
       "Ministerio de Asuntos Económicos y Transformación Digital (MINECO)",
       "Banco de España (BdE)",
       "Agencia Estatal de Administración Tributaria (AEAT)"
     ],
-    "description": "Actuaciones <q>dirigidas a la promoción de la cultura de paz y a la mejora de la convivencia en el ámbito de los centros educativos andaluces</q>.",
+    "description": "h) Publicar y difundir estudios, materiales y experiencias de educación para la convivencia y cultura de paz. i) Elaborar un informe anual sobre el estado de la convivencia y la conflictividad en los centros educativos, para lo que requerirá el apoyo informativo, documental y técnico de otras Administraciones Públicas con competencia en la materia y de los propios órganos y entidades de la Consejería competente en materia de educación, así como de entidades e instituciones privadas. j) Cualquier otra función de apoyo y asesoramiento vinculada a la recogida, análisis, difusión de la información y la investigación y la promoción de actuaciones en todas las materias relacionadas con la mejora de la convivencia en el ámbito de los centros educativos.",
     "type": "publico",
     "is_active": "Sí",
     "from_date": "2007-02-02"
@@ -1635,15 +1637,6 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio para la convivencia escolar en andalucía",
-    "website": "https://www.juntadeandalucia.es/educacion/portals/web/convivencia-escolar/estructura-y-funcionamiento",
-    "parents": ["Consejería de Desarrollo Educativo y Formación Profesional"],
-    "type": "publico",
-    "description": "La finalidad del Observatorio es la de contribuir a generar una forma de abordar la convivencia escolar en Andalucía basada en el respeto y el diálogo, en la que el tratamiento constructivo del conflicto forme parte del proceso educativo.",
-    "from_date": "2 de febrero 2007",
-    "is_active": "None"
-  },
-  {
     "name": "Obervatorio de contratación pública (obcp)",
     "website": "https://www.obcp.es/",
     "parents": [
@@ -1659,19 +1652,6 @@
     "description": "El Observatorio de Contratación Pública es un lugar de encuentro para los profesionales de la materia desde el que proceder al debate y análisis de las novedades introducidas en su ordenación jurídica, así como para la realización de nuevas propuestas de actuación para la modernización de la contratación pública y materializar en la misma los principios de eficiencia, integridad y buena administración.",
     "from_date": "Octubre de 2011",
     "is_active": "Sí"
-  },
-  {
-    "name": "Observatorio para la convivencia escolar en andalucía",
-    "website": "https://www.juntadeandalucia.es/educacion/portals/web/convivencia-escolar/estructura-y-funcionamiento",
-    "email": "convivenciaescolar.ced@juntadeandalucia.es",
-    "parents": [
-      "Consejería de desarrollo educativo y formación profesional de la Junta de Andalucía"
-    ],
-    "type": "publico",
-    "parents": ["Dirección General competente materia de convivencia escolar"],
-    "description": "h) Publicar y difundir estudios, materiales y experiencias de educación para la convivencia y cultura de paz. i) Elaborar un informe anual sobre el estado de la convivencia y la conflictividad en los centros educativos, para lo que requerirá el apoyo informativo, documental y técnico de otras Administraciones Públicas con competencia en la materia y de los propios órganos y entidades de la Consejería competente en materia de educación, así como de entidades e instituciones privadas. j) Cualquier otra función de apoyo y asesoramiento vinculada a la recogida, análisis, difusión de la información y la investigación y la promoción de actuaciones en todas las materias relacionadas con la mejora de la convivencia en el ámbito de los centros educativos.",
-    "from_date": "Febrero 2007 (BOJA Nº 25, 2-2-2007)",
-    "is_active": "None"
   },
   {
     "name": "Observatorio de la infancia y adolescencia de andalucía",
@@ -2472,12 +2452,6 @@
     "parents": [
       "Aún no han creado su propia pagina pero su constitución aparece mencionada en varias páginas oficiales de la Junta de Andalucía, arriba uno de las noticias al respecto"
     ],
-    "is_active": "None"
-  },
-  {
-    "name": "Observatorio para la convivencia escolar en andalucía",
-    "website": "https://www.juntadeandalucia.es/educacion/portals/web/convivencia-escolar/estructura-y-funcionamiento",
-    "type": "publico",
     "is_active": "None"
   },
   {
