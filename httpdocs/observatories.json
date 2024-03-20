@@ -2577,7 +2577,7 @@
     "name": "Observatorio de Convivencia",
     "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u50993cf2_1781a8edc14__7e4c",
     "email": "bizikidetza.convivencia@vitoria-gasteiz.org",
-    "parents": ["Region de Múrcia"],
+    "parents": ["Ayuntamiento de Vitoria-Gasteiz"],
     "description": "El Observatorio de Convivencia es un conjunto de herramientas y mecanismos diversos y flexibles tanto para el análisis como para la búsqueda de respuestas a las necesidades de cohesión social de nuestra ciudad, que se adaptan a una realidad cada vez más diversa y cuya gestión resulta compleja.",
     "type": "publico",
     "is_active": "Sí",
