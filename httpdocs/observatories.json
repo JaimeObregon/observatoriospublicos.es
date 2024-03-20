@@ -914,7 +914,8 @@
         "name": "Informe 2008"
       },
       {
-        "name": "Informe 2007"
+        "name": "Informe 2007",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=Informe%20Final.pdf&ALIAS=ARCH&IDCONTENIDO=31641&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       }
     ]
   },
@@ -2502,19 +2503,6 @@
       {
         "name": "Contratos",
         "url": "https://www.sefcarm.es/web/servlet/descarga?ARCHIVO=Contratos%20Febrero%202024.xlsx&ALIAS=ARCH&&IDCONTENIDO=189144"
-      }
-    ]
-  },
-  {
-    "name": "Observatorio para la convivencia escolar",
-    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5316&RASTRO=c792$m4001&IDTIPO=100",
-    "email": "observatorio.convivencia@murciaeduca.es",
-    "parents": ["Gobierno de la Región de Murcia"],
-    "type": "publico",
-    "docs": [
-      {
-        "name": "Informe 2007",
-        "url": "https://www.carm.es/web/descarga?ARCHIVO=Informe%20Final.pdf&ALIAS=ARCH&IDCONTENIDO=31641&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       }
     ]
   }
