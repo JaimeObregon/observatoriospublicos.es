@@ -1333,5 +1333,12 @@
     "type": "publico",
     "is_active": "Sí",
     "from_date": "2007-02-02"
+  },
+  {
+    "name": "Observatorio de Contratación Pública Responsable de Canarias",
+    "scope": "canarias",
+    "website": "https://contratacionresponsablecanarias.org/",
+    "parents": ["Gobierno de Canarias"],
+    "type": "publico"
   }
 ]
