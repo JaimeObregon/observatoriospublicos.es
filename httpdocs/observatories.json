@@ -1290,14 +1290,11 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio de emancipación cje",
+    "name": "Observatorio de emancipación",
     "website": "https://www.cje.org/observatorio-de-emancipacion/",
     "parents": ["Consejo de la Juventud de España"],
     "scope": "Estatal",
     "type": "hibrido",
-    "docs": {
-      "name": "Observatorio de Emancipación del Consejo de la Juventud de España - Estatal"
-    },
     "parents": ["Consejo de la Juventud de España"],
     "description": "Seguimiento periódico y exhaustivo de algunos elementos objetivables relacionados con el empleo y la vivienda que definen las condiciones de vida y los procesos de transición hacia la vida adulta de la población joven en España.",
     "from_date": "Septiembre de 2013",
@@ -1511,7 +1508,7 @@
     "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/joventut/observatori_catala_de_la_joventut/index.html",
     "email": "ocj.dretssocials@gencat.cat",
     "parents": ["Agència Catalana de la Joventut"],
-    "scope": "Estatal",
+    "scope": "cataluna",
     "type": "publico",
     "is_active": "None"
   },
@@ -1530,7 +1527,7 @@
     "name": "Observatorio del pluralismo religioso en españa",
     "website": "https://www.observatorioreligion.es/",
     "parents": ["Fundación Pluralismo y Convivencia"],
-    "scope": "Estatal",
+    "scope": "rstatal",
     "type": "publico",
     "docs": {
       "name": "Diciembre 22"
@@ -1588,14 +1585,14 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio joveen",
+    "name": "Observatorio joven",
     "website": "https://www.juventudnavarra.es/es/observatorio-joven",
     "parents": ["cONSEJO DE LA JUVENTUD"],
     "type": "publico",
     "docs": {
-      "name": "hAY INFORMES en diversas aspectos DESDE  2012 en adelante. entre los últimos,  una encusta sobre emancipacion de la población joven de 2023 y un estudio de  Juventud y cuidados de 2024"
+      "name": "Hay informes en diversas aspectos desde 2012 en adelante. Entre los últimos, una encusta sobre emancipacion de la población joven de 2023 y un estudio de Juventud y cuidados de 2024."
     },
-    "description": "es el órgano encargado de analizar y estudiar la situación de la población joven de la Comunidad Foral de Navarra. El trabajo que realizamos desde el observatorio joven permite analizar y evaluar la situación, demandas y necesidades de la juventud Navarra, para, de esta manera, poder diseñar, elaborar y evaluar diferentes iniciativas, políticas y estrategias destinadas a mejorar las condiciones de vida del colectivo joven.",
+    "description": "Órgano encargado de analizar y estudiar la situación de la población joven de la Comunidad Foral de Navarra. El trabajo que realizamos desde el observatorio joven permite analizar y evaluar la situación, demandas y necesidades de la juventud Navarra, para, de esta manera, poder diseñar, elaborar y evaluar diferentes iniciativas, políticas y estrategias destinadas a mejorar las condiciones de vida del colectivo joven.",
     "from_date": "2012",
     "stop_date": "no cesa",
     "is_active": "Sí"
@@ -1603,14 +1600,14 @@
   {
     "name": "Observatorio de salud publica de navarra",
     "website": "https://portalsalud.navarra.es/es/observatorio",
-    "parents": ["Deapartamento de Salud/Osasumbidea, Gobierno de Navarra"],
+    "parents": ["Deapartamento de Salud/Osasunbidea", "Gobierno de Navarra"],
     "type": "publico",
     "docs": {
-      "name": "Mortalidad https://portalsalud.navarra.es/documents/11746728/14014754/Indicadores+Navarra+Mortalidad+2023.pdf/e1f02986-2443-625a-5a86-56a0e314abb4?t=1678092314189"
+      "name": "Mortalidad",
+      "url": "https://portalsalud.navarra.es/documents/11746728/14014754/Indicadores+Navarra+Mortalidad+2023.pdf/e1f02986-2443-625a-5a86-56a0e314abb4?t=1678092314189"
     },
     "parents": ["Dpto de Salud"],
     "description": "Facilitar la acción intersectorial y comunitaria en salud, adaptando la información a cada contexto y cada uno de los sectores",
-    "from_date": "desconocido.",
     "stop_date": "a dìa de hoy sigue funcionando. Publica algunas excel con datos hasta al menos 2023",
     "is_active": "Sí"
   },
@@ -1636,7 +1633,7 @@
     "name": "Observatorio cibim",
     "website": "https://cibim.transportes.gob.es/observatorio-cibim",
     "parents": ["Ministerio de Transportes, Movilidad y Agenda Urbana"],
-    "scope": "Estatal",
+    "scope": "estatal",
     "type": "publico",
     "docs": {
       "name": "Enero 2017 a septiembre 2017 - Informe nº1"
@@ -1657,8 +1654,12 @@
   {
     "name": "Obervatorio de contratación pública (obcp)",
     "website": "https://www.obcp.es/",
-    "parents": ["- NTT Data"],
-    "scope": "Estatal",
+    "parents": [
+      "Ministerio de Economía y Empresa",
+      "Universidad de Zaragoza",
+      "NTT Data"
+    ],
+    "scope": "estatal",
     "type": "publico",
     "parents": [
       "- Cátedra de Proyectos e Inversiones Estratégicas de Aragón - Universidad de Zaragoza"
@@ -1858,7 +1859,6 @@
       }
     ],
     "description": "Es una herramienta de información permanente y actual sobre el mercado de trabajo de la región, que nace con el objetivo de orientar sobre las demandas de empleo y formativas que surjan en determinados momentos y puntos de la comunidad autónoma.",
-    "from_date": "Desconocido.",
     "is_active": "Sí"
   },
   {
@@ -1874,7 +1874,6 @@
     ],
     "parents": ["Servicio de Salud de Castilla-La Mancha (SESCAM)"],
     "description": "- Mantenimiento de un sistema de indicadores que permita el seguimiento de la evolución del consumo de drogas en Castilla-La Mancha.",
-    "from_date": "Desconocido.",
     "is_active": "Sí"
   },
   {
@@ -1915,16 +1914,12 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio contra la lgtbifobia de castilla - la mancha",
+    "name": "Observatorio contra la LGTBIfobia de Castilla-La Mancha",
     "website": "https://observatoriolgtbiclm.com/",
-    "parents": ["Desconocido por el momento."],
     "type": "publico",
-    "docs": {
-      "name": "Desconocido por el momento."
-    },
-    "parents": ["- Ayuntamiento de Guadalajara"],
+    "parents": ["Ayuntamiento de Guadalajara"],
     "description": "Como Observatorio la visión es poder tener varios objetivos fijados a largo plazo como concienciar la LGTBIfobia en la existente actual y erradicar contra la LGTBIfobia.",
-    "from_date": "7 de Septiembre de 2021 (07-09-2021)",
+    "from_date": "07-09-2021",
     "is_active": "Sí"
   },
   {
@@ -2512,14 +2507,14 @@
   {
     "name": "Observatorio de igualdad",
     "website": "https://transparencia.carm.es/-/observatorio-de-igualdad#gsc.tab=0",
-    "scope": "Estatal",
+    "scope": "region_de_murcia",
     "type": "publico",
     "is_active": "None"
   },
   {
-    "name": "Observatorio de la calidad de los servicios de la comunidad autónoma de la región de murcia",
+    "name": "Observatorio de la calidad de los servicios de la comunidad autónoma de la Región de Murcia",
     "website": "https://transparencia.carm.es/-/observatorio-de-la-calidad-de-los-servicios#gsc.tab=0",
-    "scope": "Estatal",
+    "scope": "region_de_murcia",
     "type": "publico",
     "docs": [
       {
@@ -2527,18 +2522,19 @@
         "url": "https://transparencia.carm.es/wres/transparencia/doc/Organos-colegiados/observatorio_calidad/2022-07-18/20220718_ACTA_SESION_CONSTITUTIVA_OCS_C.pdf"
       }
     ],
-
     "is_active": "None"
   },
   {
     "name": "Observatorio regional de la discapacidad",
     "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828",
+    "scope": "region_de_murcia",
     "type": "publico",
     "is_active": "None"
   },
   {
     "name": "Observatorio virtual del paisaje mediterráneo",
     "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828",
+    "scope": "region_de_murcia",
     "type": "publico",
     "is_active": "None"
   },
@@ -2549,6 +2545,7 @@
       "Dirección General del Servicio Regional de Empleo y Formación > Servicio Regional de Empleo y Formación > Organismo Autónomo > Consejería de Educación, Formación Profesional y Empleo > Comunidad Autónoma de la Región de Murcia"
     ],
     "type": "publico",
+    "scope": "region_de_murcia",
     "docs": [
       {
         "name": "Contratos",
