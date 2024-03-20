@@ -1700,7 +1700,7 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio del comercio de castilla - la mancha",
+    "name": "Observatorio del comercio de Castilla-La Mancha",
     "website": "https://comercio.castillalamancha.es/observatorio-comercio",
     "parents": ["Dirección General de Turismo, Comercio y Artesanía"],
     "type": "publico",
@@ -1721,8 +1721,8 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio de servicios sociales y dependencia de castilla - la mancha",
-    "parents": ["> Consejería de Bienestar Social de Castilla - La Mancha"],
+    "name": "Observatorio de servicios sociales y dependencia de Castilla-La Mancha",
+    "parents": ["Consejería de Bienestar Social de Castilla-La Mancha"],
     "type": "publico",
     "parents": ["Universidad de Castilla - La Mancha"],
     "description": "El Observatorio de Servicios Sociales y Dependencia se configura como un órgano colegiado, de composición interdepartamental, con funciones asesoras, de investigación, formación y trasferencia del conocimiento en materia de servicios sociales y dependencia; que ejercerá sus funciones con plena autonomía y sin dependencia funcional de ningún órgano. El Observatorio pretende contribuir también a la reflexión y mejora de la práctica profesional, promoviendo el trabajo interdisciplinar, un buen clima laboral que cuide a las personas cuidadoras, la agilización y simplificación de trámites, la formación continua, así como la evaluación de procesos y resultados.",
@@ -1741,7 +1741,7 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio de derechos humanos para el sáhara occidental de castilla - la mancha",
+    "name": "Observatorio de derechos humanos para el sáhara occidental de Castilla-La Mancha",
     "description": "https://es-la.facebook.com/people/Observatorio-Derechos-Humanos-Castilla-La-Mancha-para-Sahara-Occidental/100068780931028/",
     "is_active": "None"
   },
@@ -1756,7 +1756,7 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio de la vivienda colaborativa de castilla - la mancha",
+    "name": "Observatorio de la vivienda colaborativa de Castilla-La Mancha",
     "website": "https://coacmto.com/observatorio-vivienda-colaborativa-toledo",
     "parents": [
       "Colegio de Arquitectos de Castilla - La Mancha. Demarcación de Toledo."
@@ -1769,7 +1769,7 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio de la actividad física (obafi) de castilla - la mancha",
+    "name": "Observatorio de la actividad física (OBAFI) de Castilla-La Mancha",
     "website": "https://obafi.es/",
     "parents": ["Universidad de Castilla - La Mancha (UCLM)"],
     "type": "publico",
@@ -1782,7 +1782,7 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio sobre el brexit de castilla - la mancha",
+    "name": "Observatorio sobre el brexit de Castilla-La Mancha",
     "website": "https://ipex.es/global-news/articulos-de-interes/observatorio-de-castilla-la-mancha-sobre-el-brexit/",
     "parents": ["IPEX"],
     "scope": "Estatal",
@@ -1791,35 +1791,36 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio de promoción industrial de castilla - la mancha",
-    "parents": ["> Consejería de Economía, Empresas y Empleo"],
+    "name": "Observatorio de promoción industrial de Castilla-La Mancha",
+    "parents": ["Consejería de Economía, Empresas y Empleo"],
     "type": "publico",
-    "parents": ["> Consejería de Desarrollo Sostenible y Fomento."],
+    "parents": ["Consejería de Desarrollo Sostenible y Fomento"],
     "description": "Este Observatorio tiene sobre la mesa los retos identificados para la industria en la región: el crecimiento de la internacionalización de un sector que es responsable de uno de cada tres euros de las exportaciones de la Comunidad Autónoma, así como la digitalización, la sostenibilidad y la innovación en la industria.",
     "from_date": "30 de agosto de 2022 (30/08/2022)",
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio regional de la convivencia escolar de castilla - la mancha",
+    "name": "Observatorio regional de la convivencia escolar de Castilla-La Mancha",
     "website": "https://www.educa.jccm.es/educa-jccm/cm/educa_jccm/tkContent?idContent=62664&locale=en_UK&textOnly=false",
-    "parents": ["> Consejería de Educación, Cultura y Deportes."],
+    "parents": ["Consejería de Educación, Cultura y Deportes"],
     "type": "publico",
     "description": "- Elaboración de propuestas para la mejora de la convivencia.",
     "from_date": "1 de febrero de 2016",
     "is_active": "None"
   },
   {
-    "name": "Observatori smartcatalonia",
+    "name": "Observatori SmartCatalonia",
     "website": "https://observatori.smartcatalonia.gencat.cat/about",
     "email": "smartcatalonia@gencat.cat",
     "parents": ["Administració Oberta de Catalunya (Generalitat)"],
     "type": "publico",
+    "scope": "cataluna",
     "is_active": "None"
   },
   {
-    "name": "Observatorio de precios en consumo de castilla - la mancha",
+    "name": "Observatorio de precios en consumo de Castilla-La Mancha",
     "website": "https://consumo.castillalamancha.es/node/23956",
-    "parents": ["> Dirección General de Salud Pública."],
+    "parents": ["Dirección General de Salud Pública"],
     "type": "publico",
     "docs": [
       {
@@ -1848,7 +1849,7 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio del mercado de trabajo de castilla - la mancha",
+    "name": "Observatorio del mercado de trabajo de Castilla-La Mancha",
     "website": "https://empleoyformacion.castillalamancha.es/observatorio",
     "parents": ["Oficina de Orientación, Formación y Empleo"],
     "type": "publico",
@@ -1862,7 +1863,7 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio de drogodependencias de castilla - la mancha",
+    "name": "Observatorio de drogodependencias de Castilla-La Mancha",
     "website": "https://sanidad.castillalamancha.es/ciudadanos/observatorio-de-drogodependencias-clm/que-es-el-od",
     "parents": ["Servicio de Salud de Castilla-La Mancha (SESCAM)"],
     "type": "publico",
@@ -2005,7 +2006,7 @@
     "name": "Observatorio de la movilidad viaria de málaga (movima)",
     "website": "https://movilidad.malaga.eu/es/lineas-de-trabajo/movima/",
     "email": "movilidad@malaga.eu",
-    "parents": ["Ayuntamiento de Málaga."],
+    "parents": ["Ayuntamiento de Málaga"],
     "type": "publico",
     "is_active": "Sí"
   },
