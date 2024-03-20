@@ -119,7 +119,8 @@ export default async (ctx) => {
       Buffer.from(currentContent.data.content, 'base64').toString('utf-8')
     )
 
-    obj.push(getNewObjectFromTemplateData(templateData))
+    const randomIndex = Math.floor(Math.random() * obj.length)
+    obj.splice(randomIndex, 0, getNewObjectFromTemplateData(templateData))
 
     const newContent = JSON.stringify(obj, null, 2)
 
