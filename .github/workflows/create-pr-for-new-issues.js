@@ -80,6 +80,7 @@ export default async (ctx) => {
   }
 
   const branchName = `nuevo-observatorio-${ctx.context.issue.number}`
+  const mainBranchName = 'master'
 
   ctx.core.debug('Creando branch con nuevo contenido...')
   await createBranchWithNewFileContent()
@@ -90,7 +91,7 @@ export default async (ctx) => {
     owner: ctx.context.repo.owner,
     repo: ctx.context.repo.repo,
     head: branchName,
-    base: 'main',
+    base: mainBranchName,
     body: [
       `Resolves #${ctx.context.issue.number}`,
       'Este PR ha sido auto-generado basado en una Issue que usa la template para añadir observatorios',
@@ -125,7 +126,7 @@ export default async (ctx) => {
     const mainBranchRef = await ctx.github.rest.git.getRef({
       owner: ctx.context.repo.owner,
       repo: ctx.context.repo.repo,
-      ref: `heads/main`,
+      ref: `heads/${mainBranchName}`,
     })
     await ctx.github.rest.git.createRef({
       owner: ctx.context.repo.owner,
