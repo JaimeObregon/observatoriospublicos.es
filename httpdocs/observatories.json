@@ -1271,13 +1271,6 @@
     "from_date": "2007-02-02"
   },
   {
-    "name": "Observatorio de Contratación Pública Responsable de Canarias",
-    "scope": "canarias",
-    "website": "https://contratacionresponsablecanarias.org/",
-    "parents": ["Gobierno de Canarias"],
-    "type": "publico"
-  },
-  {
     "name": "Observatori del sistema penal i els drets humans (ospdh)",
     "website": "https://www.ub.edu/portal/web/observatori-sistema-penal/presentacio",
     "email": "observatori.ospdh@ub.edu",
@@ -1330,14 +1323,16 @@
     "name": "Observatorio canario de la juventud",
     "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/",
     "parents": ["Gobierno de Canarias"],
+    "scope": "canarias",
     "type": "publico",
     "is_active": "None"
   },
   {
-    "name": "Observatorio de contratación pública responsable de canarias",
-    "website": "https://contratacionresponsablecanarias.org/",
+    "name": "Observatorio de Contratación Pública Responsable de Canarias",
+    "website": "https://contratacionresponsablecanarias.org",
     "parents": ["Gobierno de Canarias"],
     "type": "publico",
+    "scope": "canarias",
     "is_active": "None"
   },
   {
@@ -1572,7 +1567,6 @@
     "docs": {
       "name": "NO PARECE QEU FACILITE inrmes sino que es un instrumento de desarrollo del plan director de banda ancha de navarra , recopilando información sobre la red, de forma que permita \"identificar de manera preliminar las zonas que reúnen las condiciones para ser consideradas como elegibles en actuaciones según los términos de la normativa de ayudas de Estado\""
     },
-    "parents": ["se ignora"],
     "description": "objetivo es el impulso del despliegue de servicios de banda ancha por parte de operadores de telecomunicaciones. Esta convocatoria financia a operadores con hasta un 80% de subvención el despliegue de servicios de banda ancha de más de 300Mbps en zonas donde no existen servicios de banda ancha de más de 100Mbps. Cada operador presenta una solicitud única para cada una de las comunidades autónomas asignándose la ayuda para cada una de ellas al operador que mejor oferta presente.",
     "from_date": "2023",
     "is_active": "Sí"
