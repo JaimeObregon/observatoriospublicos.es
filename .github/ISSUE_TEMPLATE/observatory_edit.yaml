@@ -6,7 +6,7 @@ body:
   - type: input
     id: name
     attributes:
-      label: 'Nombre del observatorio (OBLIGATORIO)'
+      label: 'Nombre del observatorio a editar (OBLIGATORIO)'
       description: Por favor, proporciona el nombre del observatorio que deseas editar. Este nombre debe coincidir con el nombre del observatorio en el archivo JSON.
     validations:
       required: true

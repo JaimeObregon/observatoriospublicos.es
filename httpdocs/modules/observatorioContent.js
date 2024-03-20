@@ -71,13 +71,10 @@ function observatoryDescription(description) {
   return `<div>${description}</div>`
 }
 
-export function createObservatoryCardComponent({
+export function createObservatoryCardComponent(
   id,
-  name,
-  scope,
-  description,
-  location,
-}) {
+  { name, scope, description, location }
+) {
   const scopeObj = scopes.find(({ key }) => key === scope)
   return `
       <article class="contrast" data-target="observatory" data-observatory="${name}">
