@@ -6,7 +6,7 @@ function getParentsSection(parents) {
 
   return `
       <p>
-        <strong>Depende de</strong>:
+        <strong>Promotores</strong>:
         <ul>
           ${parents.map((parent) => `<li>${parent}</li>`).join('')}
        </ul>
