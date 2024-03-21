@@ -1357,12 +1357,22 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio Canario de Empleo",
+    "name": "Observatorio canario de empleo",
     "website": "https://obecan.es/",
-    "parents": ["Gobierno de Canarias"],
+    "email": "info@obecan.es",
+    "parents": [
+      "Gobierno de Canarias - Consejería de empleo y asuntos sociales"
+    ],
     "scope": "canarias",
     "type": "publico",
-    "is_active": "None"
+    "docs": [
+      {
+        "name": "Boc",
+        "url": "https://www.gobiernodecanarias.org/boc/1998/160/003.html"
+      }
+    ],
+    "from_date": "Diciembre 1998",
+    "is_active": "Sí"
   },
   {
     "name": "Observatorio Canario de la Salud",
@@ -2178,18 +2188,6 @@
 
     "from_date": "2011",
     "is_active": "None"
-  },
-  {
-    "name": "Observatorio canario de empleo",
-    "website": "https://obecan.es/",
-    "email": "info@obecan.es",
-    "parents": [
-      "Gobierno de Canarias - Consejería de empleo y asuntos sociales"
-    ],
-    "type": "publico",
-    "parents": ["https://www.gobiernodecanarias.org/boc/1998/160/003.html"],
-    "from_date": "Diciembre 1998",
-    "is_active": "Sí"
   },
   {
     "name": "Observatorio socioeconómico de la marina alta",
