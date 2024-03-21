@@ -1292,7 +1292,6 @@
     "parents": ["Universitat de Barcelona"],
     "type": "publico",
     "scope": "barcelona",
-    "parents": ["Universitat de Barcelona"],
     "description": "El Observatorio del Sistema Penal y los Derechos Humanos (OSPDH) de la Universidad de Barcelona es un Centro de Investigación, creado en el mes de mayo de 2001, integrado por profesores/as universitarios de la UB y otras Universidades nacionales, de Europa y de América Latina, así como por profesionales de instituciones y organizaciones de defensa de derechos humanos, estudiantes avanzados de programas de postgrado y doctorados y activistas que se desempeñan en la lucha por la promoción de derechos y garantías básicas.",
     "from_date": "A principios del mes de mayo de 2001, el OSPDH se creó formalmente.",
     "is_active": "Sí"
@@ -1305,9 +1304,8 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio de emancipación",
+    "name": "Observatorio de Emancipación",
     "website": "https://www.cje.org/observatorio-de-emancipacion/",
-    "parents": ["Consejo de la Juventud de España"],
     "scope": "Estatal",
     "type": "hibrido",
     "parents": ["Consejo de la Juventud de España"],
@@ -1316,7 +1314,7 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio canario de la economía azul",
+    "name": "Observatorio Canario de la Economía Azul",
     "website": "https://www.gobiernodecanarias.org/economia/ocea/",
     "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
@@ -1324,7 +1322,7 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio canario del cambio climático",
+    "name": "Observatorio Canario del Cambio Climático",
     "website": "https://www.gobiernodecanarias.org/medioambiente/organos/observatorio-canario-del-cambio-climatico/",
     "parents": ["Gobierno de Canarias"],
     "type": "publico",
@@ -1332,7 +1330,7 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio canario de la juventud",
+    "name": "Observatorio Canario de la Juventud",
     "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/",
     "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
@@ -1348,51 +1346,58 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio industrial de canarias",
+    "name": "Observatorio Industrial de Canarias",
+    "scope": "canarias",
     "website": "https://oic.itccanarias.org/",
     "parents": ["Gobierno de Canarias"],
     "type": "publico",
     "is_active": "None"
   },
   {
-    "name": "Observatorio canario de las telecomunicaciones y de la sociedad de la información",
+    "name": "Observatorio Canario de las Telecomunicaciones y de la Sociedad de la Información",
+    "scope": "canarias",
     "website": "https://www.octsi.es/",
     "parents": ["Gobierno de Canarias"],
     "type": "publico",
     "is_active": "None"
   },
   {
-    "name": "Observatorio turístico de canarias",
+    "name": "Observatorio Turístico de Canarias",
+    "scope": "canarias",
     "website": "https://www.gobiernodecanarias.org/turismo/estadisticas_y_estudios/",
     "parents": ["Gobierno de Canarias"],
     "type": "publico",
     "is_active": "None"
   },
   {
-    "name": "Observatorio canario de empleo",
+    "name": "Observatorio Canario de Empleo",
     "website": "https://obecan.es/",
     "parents": ["Gobierno de Canarias"],
+    "scope": "canarias",
     "type": "publico",
     "is_active": "None"
   },
   {
-    "name": "Observatorio canario de la salud",
+    "name": "Observatorio Canario de la Salud",
     "website": "https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=ba5d4671-60dc-11ed-9e04-cd68079ec7ca&idCarpeta=61e907e3-d473-11e9-9a19-e5198e027117",
     "parents": ["Gobierno de Canarias"],
+    "scope": "canarias",
     "type": "publico",
     "is_active": "None"
   },
   {
-    "name": "Observatorio de la energia de canarias",
+    "name": "Observatorio de la Energía de Canarias",
     "website": "https://www3.gobiernodecanarias.org/ceic/energia/oecan/",
     "parents": ["Gobierno de Canarias"],
+    "scope": "canarias",
     "type": "publico",
     "is_active": "None"
   },
   {
-    "name": "Observatorio de la i+d+i de canarias",
+    "name": "Observatorio de la I+D+i de Canarias",
     "website": "https://www.obidic.es/",
     "parents": ["Gobierno de Canarias"],
+    "scope": "canarias",
     "type": "publico",
     "is_active": "None"
   },
@@ -1400,9 +1405,8 @@
     "name": "Observatorio municipal galego",
     "website": "http://www.observatorioredlocalis.com/",
     "email": "infogen@uvigo.es",
-    "parents": ["Universidade de Vigo"],
+    "parents": ["Universidade de Vigo", "Xunta de Galicia"],
     "type": "publico",
-    "parents": ["[Xunta de Galicia](http://www.xunta.gal/)"],
     "description": "Imposto sobre Bens Inmobles, Imposto sobre Actividades Económicas, Imposto sobre Vehiculos de Tracción Mecánica, Imposto sobre o Incremento do Valor dos Terreos de Natureza Urbana (Plusvalía muncipal) e o Imposto sobre Instalacións, Construccións e Obras.",
     "is_active": "Sí"
   },
@@ -1439,11 +1443,8 @@
   {
     "name": "Observatorio do solo empresarial de galicia",
     "website": "https://www.observatoriodosoloempresarial.gal",
-    "parents": ["Instituto Galego da vivenda e solo"],
+    "parents": ["Instituto Galego da Vivenda e Solo"],
     "type": "publico",
-    "parents": [
-      "Al lado de la Xunta de Galicia, participan en este portal web del Observatorio promotores, inversores patrimoniales, entidades gestoras de áreas empresariales, asociaciones y clústeres  empresariales, así como profesionales de la arquitectura o personal técnico de planificación urbanística y, en general, todas las administraciones (ayuntamientos y diputaciones), colegios y asociaciones vinculados de alguna manera al suelo empresarial."
-    ],
     "description": "Mediante el Observatorio se busca, pues, suministrar información de todos los aspectos relativos al suelo empresarial, con el objetivo de que administraciones, empresas públicas y privadas, y cualquier persona interesada en este ámbito se encuentren en las condiciones idóneas para adoptar decisiones eficaces y adaptadas a las necesidades del país.",
     "is_active": "None"
   },
@@ -1460,12 +1461,9 @@
   {
     "name": "Observatorio da eólica mariña de galicia",
     "website": "https://www.inega.gal/es/inega/puntos-de-encuentro-energeticos/observatorios",
-    "parents": ["Xunta de Galicia"],
+    "parents": ["Xunta de Galicia", "Instituto Enerxético de Galicia"],
     "type": "publico",
-    "parents": [
-      "El Instituto Enerxético de Galicia coordina la secretaría técnica del Observatorio."
-    ],
-    "description": "- Y la elaboración de estudios sobre oportunidades, impacto y potencial industrial en Galicia.",
+    "description": "Para la elaboración de estudios sobre oportunidades, impacto y potencial industrial en Galicia.",
     "is_active": "Sí"
   },
   {
