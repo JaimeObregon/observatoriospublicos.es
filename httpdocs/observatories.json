@@ -1019,19 +1019,21 @@
     "from_date": "2002"
   },
   {
-    "scope": "estatal",
     "name": "Observatorio de seguridad y eficiencia de las operaciones aéreas",
     "parents": [
       "ENAIRE",
       "Colegio Oficial de Pilotos de la Aviación Comercial"
     ],
-    "from_date": "2019",
+    "scope": "Estatal",
+    "type": "publico",
     "docs": [
       {
         "name": "Resolución de 27 de junio de 2022, de la Entidad Pública Empresarial ENAIRE, por la que se publica el Convenio con el Colegio Oficial de Pilotos, para la operación del Observatorio de seguridad y eficiencia de las operaciones aéreas",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-13358"
       }
-    ]
+    ],
+    "from_date": "2019-07-02",
+    "is_active": "Sí"
   },
   {
     "name": "Observatorio Permanente del Mercado de los Servicios Portuarios",
@@ -1188,7 +1190,6 @@
     "name": "Observatorio de Márgenes Empresariales",
     "scope": "estatal",
     "website": "https://www.bde.es/wbe/es/inicio/observatorio-margenes-empresariales/",
-    "email": "cultura@navarra.es",
     "docs": [
       {
         "name": "Objetivo del Observatorio y primer informe trimestral (Julio 2023)",
@@ -1197,51 +1198,10 @@
       {
         "name": "Informe Trimestral 2023 T3",
         "url": "https://www.bde.es/f/webbe/INF/MenuHorizontal/Observatorio_margenes_empresariales/20231218_OME_T3.pdf"
-      }
-    ],
-    "parents": [
-      "Ministerio de Asuntos Económicos y Transformación Digital (MINECO)",
-      "Banco de España (BdE)",
-      "Agencia Estatal de Administración Tributaria (AEAT)"
-    ],
-    "description": "Tiene como objetivo <q>disponer de información para el seguimiento y el análisis de los márgenes empresariales y de mejorar el conocimiento sobre su evolución y sus implicaciones para el conjunto de la economía</q>.",
-    "type": "publico",
-    "is_active": "Sí",
-    "from_date": "2023-07-03"
-  },
-  {
-    "name": "Observatorio Navarro de la Cultura",
-    "scope": "navarra",
-    "website": "https://www.culturanavarra.es/es/presentacion-8",
-    "email": "cultura@navarra.es",
-    "parents": [
-      "Dirección General de Cultura - Institución Príncipe de Viana",
-      "Departamento de Cultura, Deporte y Juventud del Gobierno de Navarra"
-    ],
-    "description": "Profundizar <q>en el conocimiento sobre los sectores culturales y creativos, y sistematizar la información cuantitativa y cualitativa en el ámbito de la cultura y la creatividad en Navarra que ayude en la elaboración de las políticas culturales y la toma de decisiones, investigue en tendencias, conexiones con otros sectores, etc., identifique las buenas prácticas y experiencias que se desarrollan dentro y fuera de Navarra, y fomente el conocimiento de los públicos de la cultura y la creatividad</q>.",
-    "type": "publico",
-    "is_active": "Sí"
-  },
-  {
-    "name": "Observatorio de Precios de Canarias",
-    "scope": "canarias",
-    "website": "https://www.gobiernodecanarias.org/agp/sgt/temas/estadistica/CM-observatorio.html",
-    "parents": ["Gobierno de Canarias"],
-    "type": "publico"
-  },
-  {
-    "name": "Observatorio de Márgenes Empresariales",
-    "scope": "estatal",
-    "website": "https://www.bde.es/wbe/es/inicio/observatorio-margenes-empresariales/",
-    "email": "cultura@navarra.es",
-    "docs": [
-      {
-        "name": "Objetivo del Observatorio y primer informe trimestral (Julio 2023)",
-        "url": "https://www.bde.es/f/webbe/INF/MenuHorizontal/Observatorio_margenes_empresariales/20230703_OME_Briefing.pdf"
       },
       {
-        "name": "Informe Trimestral 2023 T3",
-        "url": "https://www.bde.es/f/webbe/INF/MenuHorizontal/Observatorio_margenes_empresariales/20231218_OME_T3.pdf"
+        "name": "4.1 Indicadores de precios(159 KB - xlsx)",
+        "url": "https://sede.agenciatributaria.gob.es/static_files/Sede/Tema/Estadisticas/Observatorio_margenes_empresariales/Datos_margenes_empresariales/Indicadores_de_precios.xlsx"
       }
     ],
     "parents": [
@@ -1249,7 +1209,7 @@
       "Banco de España (BdE)",
       "Agencia Estatal de Administración Tributaria (AEAT)"
     ],
-    "description": "El Observatorio de márgenes empresariales es un proyecto conjunto del Ministerio de Asuntos Económicos y Transformación Digital, el Banco de España y la Agencia Tributaria que tiene como objetivo disponer de información para el seguimiento y el análisis de los márgenes empresariales y de mejorar el conocimiento sobre su evolución y sus implicaciones para el conjunto de la economía.",
+    "description": "El Observatorio de márgenes empresariales es un proyecto conjunto del Ministerio de Asuntos Económicos y Transformación Digital, el Banco de España y la Agencia Tributaria que tiene como objetivo <q>disponer de información para el seguimiento y el análisis de los márgenes empresariales y de mejorar el conocimiento sobre su evolución y sus implicaciones para el conjunto de la economía</q>.",
     "type": "publico",
     "is_active": "Sí",
     "from_date": "2023-07-03"
@@ -1332,18 +1292,23 @@
   {
     "name": "Observatorio Canario de la Juventud",
     "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/",
-    "parents": ["Gobierno de Canarias"],
+    "parents": ["Gobierno de Canarias - Dirección general de juventud"],
     "scope": "canarias",
     "type": "publico",
-    "is_active": "None"
+    "is_active": "Sí"
   },
   {
-    "name": "Observatorio de Contratación Pública Responsable de Canarias",
-    "website": "https://contratacionresponsablecanarias.org",
-    "parents": ["Gobierno de Canarias"],
+    "name": "Observatorio de contratación pública responsable de canarias",
+    "website": "https://contratacionresponsablecanarias.org/",
+    "email": "info@contratacionresponsablecanarias.org",
+    "parents": [
+      "Dirección General de Derechos Sociales e Inmigración del Gobierno de Canarias a través del proyecto Integra Responsable"
+    ],
     "type": "publico",
     "scope": "canarias",
-    "is_active": "None"
+    "description": "El Observatorio de CPR de Canarias es un órgano de asesoramiento, control y estudio respecto a la contratación pública para la sociedad civil y agentes involucrados.",
+    "from_date": "2023",
+    "is_active": "Sí"
   },
   {
     "name": "Observatorio Industrial de Canarias",
@@ -1370,12 +1335,22 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio Canario de Empleo",
+    "name": "Observatorio canario de empleo",
     "website": "https://obecan.es/",
-    "parents": ["Gobierno de Canarias"],
+    "email": "info@obecan.es",
+    "parents": [
+      "Gobierno de Canarias - Consejería de empleo y asuntos sociales"
+    ],
     "scope": "canarias",
     "type": "publico",
-    "is_active": "None"
+    "docs": [
+      {
+        "name": "Boc",
+        "url": "https://www.gobiernodecanarias.org/boc/1998/160/003.html"
+      }
+    ],
+    "from_date": "Diciembre 1998",
+    "is_active": "Sí"
   },
   {
     "name": "Observatorio Canario de la Salud",
@@ -1423,7 +1398,7 @@
         "url": "https://github.com/JaimeObregon/observatoriospublicos.es/files/14648255/11_noviembre_23.pdf"
       }
     ],
-    "description": "de precios de venta al público.",
+    "description": "El Observatorio tiene entre uno de sus objetivos ofrecer herramientas para construir un sistema público de información y seguimiento continuo de los precios de los productos, bienes y servicios con mayor impacto en el consumo de la ciudadanía.",
     "from_date": "Abril de 2022",
     "is_active": "Sí"
   },
@@ -1852,10 +1827,20 @@
   },
   {
     "name": "Observatori de la mort",
-    "website": "https://observatorisalut.gencat.cat/ca/observatori_mort/",
-    "parents": ["Departament de Salut (Generalitat)"],
+    "website": "https://observatorisalut.gencat.cat/ca/observatori_mort/index.html",
+    "parents": [
+      "Agència de Qualitat i Avaluació Sanitàries de Catalunya (AQuAS)"
+    ],
     "type": "publico",
-    "is_active": "None"
+    "description": "El Observatorio de la Muerte se crea con la finalidad principal de conocer las formas de morir en Cataluña, así como el grado en el que las circunstancias que intervienen (espacio físico, familia y profesionales) permiten el cumplimiento de los derechos legalmente reconocidos y, cuando así se haya manifestado, los valores y las preferencias de la persona en la  etapa final de la vida.",
+    "docs": [
+      {
+        "name": "Listado de documentos publicados: Documentos e informes",
+        "url": "https://observatorisalut.gencat.cat/ca/observatori_mort/bibliografia_recomanada_obseravtori_mort/"
+      }
+    ],
+    "from_date": "3 de Septiembre de 2019",
+    "is_active": "Sí"
   },
   {
     "name": "Observatori del sistema de salut de catalunya",
@@ -1926,19 +1911,6 @@
     "type": "publico",
     "description": "El Observatori del Canvi Climàtic es el centro educativo y divulgativo de Valencia para formar, concienciar y sensibilizar frente al cambio climático.",
     "is_active": "Sí"
-  },
-  {
-    "name": "Observatorio de contratación pública responsable de canarias",
-    "website": "https://contratacionresponsablecanarias.org/",
-    "email": "info@contratacionresponsablecanarias.org",
-    "parents": [
-      "Dirección General de Derechos Sociales e Inmigración del Gobierno de Canarias a través del proyecto Integra Responsable"
-    ],
-    "type": "publico",
-    "parents": ["https://eapncanarias.org/"],
-    "description": "El Observatorio de CPR de Canarias es un órgano de asesoramiento, control y estudio respecto a la contratación pública para la sociedad civil y agentes involucrados.",
-    "from_date": "2023",
-    "is_active": "None"
   },
   {
     "name": "Observatorio de precios de los productos agroalimetarios de la comunitat valenciana",
@@ -2086,16 +2058,6 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio de seguridad y eficiencia de las operaciones aéreas",
-    "website": "https://www.google.com/search?q=Observatorio+de+Seguridad+y+Eficiencia+de+las+Operaciones+A%C3%A9reas",
-    "parents": ["- **ENAIRE** - https://www.enaire.es"],
-    "scope": "Estatal",
-    "type": "publico",
-
-    "from_date": "2 de julio de 2019",
-    "is_active": "None"
-  },
-  {
     "name": "Observatorio precios cadena agroalimentaria castilla la mancha",
     "website": "https://www.castillalamancha.es/gobierno/agriaguaydesrur/estructura/dgalimentacion/titular/observatorio-precios-cadena-agroalimentaria",
     "email": "observatoriocadena@jccm.es",
@@ -2155,20 +2117,6 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio canario de la juventud",
-    "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/",
-    "parents": ["Gobierno de Canarias - Dirección general de juventud"],
-    "type": "publico",
-    "docs": {
-      "name": "Enlace",
-      "url": "https://www./export/sites/juventud/multimedia/documentos/programas/publicaciones/encuesta_jovenes_canarias_2012/ejc2012_diagnostico_juventud_canarias_2012_completo_13"
-    },
-    "parents": [
-      "Se entremezcla con la dirección general de juventud. No tiene un correo propio sino que remite a la dirección general"
-    ],
-    "is_active": "Sí"
-  },
-  {
     "name": "Observatorio de residuos de bizkaia",
     "website": "https://bizkaikohirihondakinenbehatokia.com/es/observatorio-de-residuos/",
     "parents": [
@@ -2181,35 +2129,6 @@
 
     "from_date": "2011",
     "is_active": "None"
-  },
-  {
-    "name": "Observatorio canario de empleo",
-    "website": "https://obecan.es/",
-    "email": "info@obecan.es",
-    "parents": [
-      "Gobierno de Canarias - Consejería de empleo y asuntos sociales"
-    ],
-    "type": "publico",
-    "parents": ["https://www.gobiernodecanarias.org/boc/1998/160/003.html"],
-    "from_date": "Diciembre 1998",
-    "is_active": "Sí"
-  },
-  {
-    "name": "Observatori de la mort",
-    "website": "https://observatorisalut.gencat.cat/ca/observatori_mort/index.html",
-    "parents": [
-      "- Agència de Qualitat i Avaluació Sanitàries de Catalunya (AQuAS)"
-    ],
-    "type": "publico",
-    "docs": [
-      {
-        "name": "Listado de documentos publicados: Documentos e informes",
-        "url": "https://observatorisalut.gencat.cat/ca/observatori_mort/bibliografia_recomanada_obseravtori_mort/"
-      }
-    ],
-
-    "from_date": "3 de Septiembre de 2019",
-    "is_active": "Sí"
   },
   {
     "name": "Observatorio socioeconómico de la marina alta",
@@ -2308,13 +2227,6 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio de precios de la comunitat valenciana",
-    "website": "https://argos.gva.es/es/web/prospectiva/observatori",
-    "parents": ["Generalitat Valenciana"],
-    "type": "publico",
-    "is_active": "None"
-  },
-  {
     "name": "Observatorio valenciano del trabajo decente",
     "website": "https://ceice.gva.es/va/web/dg-trabajo/observatori-valencia-del-treball-decent",
     "parents": [
@@ -2383,25 +2295,6 @@
     "scope": "Estatal",
     "type": "publico",
     "is_active": "None"
-  },
-  {
-    "name": "Observatorio de márgenes empresariales",
-    "website": "https://sede.agenciatributaria.gob.es/Sede/estadisticas/observatorio-margenes-empresariales/observatorio-margenes-empresariales.html",
-    "parents": [
-      "Es un proyecto conjunto del Ministerio de Asuntos Económicos y Transformación Digital, el Banco de España y la Agencia Estatal de Administración Tributaria"
-    ],
-    "scope": "Estatal",
-    "type": "publico",
-    "docs": [
-      {
-        "name": "4.1 Indicadores de precios(159 KB - xlsx)",
-        "url": "https://sede.agenciatributaria.gob.es/static_files/Sede/Tema/Estadisticas/Observatorio_margenes_empresariales/Datos_margenes_empresariales/Indicadores_de_precios.xlsx"
-      }
-    ],
-    "parents": [
-      "Dentro de este proyecto en esta web se ofrecen varias bases de datos, anuales y trimestrales, procedentes del Impuesto sobre Sociedades y de los modelos de IVA y retenciones sobre rendimientos del trabajo. La población objeto de estudio en cada año son todas aquellas empresas no financieras que tengan declaraciones de estos tres impuestos, con la única exclusión de empresas en actividades con un alto porcentaje de operaciones exentas a efectos del IVA."
-    ],
-    "is_active": "Sí"
   },
   {
     "name": "Observatorio de precios de los alimentos",
