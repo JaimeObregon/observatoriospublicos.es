@@ -575,26 +575,32 @@
   },
   {
     "name": "Observatorio del Mercado de Trabajo del Instituto Aragonés de Empleo",
-    "scope": "aragon"
+    "scope": "aragon",
+    "type": "publico"
   },
   {
     "name": "Observatorio del Mercado de Trabajo del Servicio Público de Empleo del Principado de Asturias",
+    "type": "publico",
     "scope": "asturias"
   },
   {
     "name": "Observatorio del Trabajo del Servicio de Ocupación de las Illes Balears",
+    "type": "publico",
     "scope": "islas_baleares"
   },
   {
     "name": "Observatorio de Empleo y Formación del Servicio Cántabro de Empleo",
+    "type": "publico",
     "scope": "cantabria"
   },
   {
     "name": "Observatorio Canario del Empleo y la Formación Profesional",
+    "type": "publico",
     "scope": "canarias"
   },
   {
-    "name": "Observatorio Socioeconómico de la Provincia de Badajoz"
+    "name": "Observatorio Socioeconómico de la Provincia de Badajoz",
+    "type": "publico"
   },
   {
     "name": "Observatorio del Sector TIC en Extremadura",
@@ -2122,26 +2128,32 @@
     "name": "Observatorio aragonés de dinamización demográfica y poblacional",
     "website": "https://observatoriopoblacion.aragon.es/",
     "type": "publico",
+    "scope": "aragon",
     "is_active": "None"
   },
   {
     "name": "Observatorio regional de la violencia de género",
     "website": "https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-regional-violencia-genero",
-    "parents": ["Consejería de Presidencia, justicia y Administración Local"],
+    "parents": [
+      "Consejería de Presidencia, Justicia y Administración Local",
+      "Comunidad de Madrid"
+    ],
     "type": "publico",
+    "scope": "comunidad_de_madrid",
     "is_active": "None"
   },
   {
     "name": "Observatorio aragonés por la convivencia y contra el acoso escolar",
     "website": "https://educa.aragon.es/-/convivencia-web-basico-enlaces",
     "type": "publico",
+    "scope": "aragon",
     "is_active": "None"
   },
   {
     "name": "Observatorio aragonés del arte en la esfera pública",
     "website": "https://oaaep.unizar.es/",
     "parents": ["Universidad de Zaragoza"],
-    "scope": "Estatal",
+    "scope": "Estatal", // ¿Estatal o aragonés?
     "type": "publico",
     "is_active": "None"
   },
