@@ -1019,19 +1019,21 @@
     "from_date": "2002"
   },
   {
-    "scope": "estatal",
     "name": "Observatorio de seguridad y eficiencia de las operaciones aéreas",
     "parents": [
       "ENAIRE",
       "Colegio Oficial de Pilotos de la Aviación Comercial"
     ],
-    "from_date": "2019",
+    "scope": "Estatal",
+    "type": "publico",
     "docs": [
       {
         "name": "Resolución de 27 de junio de 2022, de la Entidad Pública Empresarial ENAIRE, por la que se publica el Convenio con el Colegio Oficial de Pilotos, para la operación del Observatorio de seguridad y eficiencia de las operaciones aéreas",
         "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-13358"
       }
-    ]
+    ],
+    "from_date": "2019-07-02",
+    "is_active": "Sí"
   },
   {
     "name": "Observatorio Permanente del Mercado de los Servicios Portuarios",
@@ -2054,16 +2056,6 @@
     "description": "El Observatorio de la Accesibilidad de Euskadi es una herramienta para centralizar la información sobre accesibilidad en el País Vasco y que esté a disposición de todas las personas interesadas.",
     "from_date": "[21 de julio de 2021](https://www.irekia.euskadi.eus/es/news/70861-euskadi-contara-con-observatorio-accesibilidad-para-obtener-imagen-real-este-derecho-comunidad-autonoma)",
     "is_active": "Sí"
-  },
-  {
-    "name": "Observatorio de seguridad y eficiencia de las operaciones aéreas",
-    "website": "https://www.google.com/search?q=Observatorio+de+Seguridad+y+Eficiencia+de+las+Operaciones+A%C3%A9reas",
-    "parents": ["- **ENAIRE** - https://www.enaire.es"],
-    "scope": "Estatal",
-    "type": "publico",
-
-    "from_date": "2 de julio de 2019",
-    "is_active": "None"
   },
   {
     "name": "Observatorio precios cadena agroalimentaria castilla la mancha",
