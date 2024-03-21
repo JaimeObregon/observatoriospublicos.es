@@ -2505,5 +2505,14 @@
         "url": "https://www.sefcarm.es/web/servlet/descarga?ARCHIVO=Contratos%20Febrero%202024.xlsx&ALIAS=ARCH&&IDCONTENIDO=189144"
       }
     ]
+  },
+  {
+    "name": "Observatorio de residuos",
+    "website": "https://web.araba.eus/es/medio-ambiente/residuos/observatorio-de-residuos",
+    "parents": ["Diputación Foral de Álava / Arabako Foru Aldundia"],
+    "type": "provincial",
+    "description": "El Observatorio de Residuos Urbanos es un instrumento identificado como acción número 15 del vigente Plan de prevención y gestión de residuos urbanos de Araba-Álava, 2017-2030, abreviadamente PRU2030. <br> Es un instrumento de información, conocimiento y seguimiento permanente de aspectos relativos a la gestión de los residuos urbanos así como un punto de encuentro de todos los agentes interesados, favoreciendo la difusión de información técnica y académica sobre esta materia.",
+    "is_active": "Sí",
+    "from_date": "2015"
   }
 ]
