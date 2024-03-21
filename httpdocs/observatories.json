@@ -1296,12 +1296,17 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio de Contratación Pública Responsable de Canarias",
-    "website": "https://contratacionresponsablecanarias.org",
-    "parents": ["Gobierno de Canarias"],
+    "name": "Observatorio de contratación pública responsable de canarias",
+    "website": "https://contratacionresponsablecanarias.org/",
+    "email": "info@contratacionresponsablecanarias.org",
+    "parents": [
+      "Dirección General de Derechos Sociales e Inmigración del Gobierno de Canarias a través del proyecto Integra Responsable"
+    ],
     "type": "publico",
     "scope": "canarias",
-    "is_active": "None"
+    "description": "El Observatorio de CPR de Canarias es un órgano de asesoramiento, control y estudio respecto a la contratación pública para la sociedad civil y agentes involucrados.",
+    "from_date": "2023",
+    "is_active": "Sí"
   },
   {
     "name": "Observatorio Industrial de Canarias",
@@ -1904,19 +1909,6 @@
     "type": "publico",
     "description": "El Observatori del Canvi Climàtic es el centro educativo y divulgativo de Valencia para formar, concienciar y sensibilizar frente al cambio climático.",
     "is_active": "Sí"
-  },
-  {
-    "name": "Observatorio de contratación pública responsable de canarias",
-    "website": "https://contratacionresponsablecanarias.org/",
-    "email": "info@contratacionresponsablecanarias.org",
-    "parents": [
-      "Dirección General de Derechos Sociales e Inmigración del Gobierno de Canarias a través del proyecto Integra Responsable"
-    ],
-    "type": "publico",
-    "parents": ["https://eapncanarias.org/"],
-    "description": "El Observatorio de CPR de Canarias es un órgano de asesoramiento, control y estudio respecto a la contratación pública para la sociedad civil y agentes involucrados.",
-    "from_date": "2023",
-    "is_active": "None"
   },
   {
     "name": "Observatorio de precios de los productos agroalimetarios de la comunitat valenciana",
