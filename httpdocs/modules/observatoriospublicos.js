@@ -7,6 +7,12 @@ import {
   initSearchBar
 } from './searchbar.js'
 
+// Ventana modal
+let visibleModal = null
+
+// Observatorios en ventana
+let currentObservatories = null;
+
 /**
  * Genera la lista de observatorios en el HTML
  * 
@@ -14,12 +20,32 @@ import {
  */
 export function updateObservatories(thisObservatories){
   const container = document.querySelector('x-catalog')
-  
   container.innerHTML = thisObservatories
     .map((observatory, index) =>
       createObservatoryCardComponent(index + 1, observatory)
     )
     .join('')
+
+  // Para que hacer click en los links dentro de las cards de observatiorios no abra el modal
+  const modalLinks = document.querySelectorAll('x-catalog article a')
+  modalLinks.forEach((link) => {
+    link.addEventListener('click', function (event) {
+      event.preventDefault()
+      event.stopPropagation()
+      window.open(link.href, '_self')
+    })
+  })
+
+  document.querySelectorAll('x-catalog article').forEach((article) => {
+    article.addEventListener('click', toggleModal)
+  })
+
+  document.querySelectorAll('dialog button').forEach((article) => {
+    article.addEventListener('click', toggleModal)
+  })
+
+  // Se copia la lista en curso
+  currentObservatories = thisObservatories.slice();
 }
 
 async function main() {
@@ -51,57 +77,6 @@ async function main() {
   const container = document.querySelector('x-catalog')
   initSearchBar(container, observatories);
 
-  const isOpenClass = 'modal-is-open'
-  const openingClass = 'modal-is-opening'
-  const closingClass = 'modal-is-closing'
-  const scrollbarWidthCssVar = '--pico-scrollbar-width'
-  const animationDuration = 400 // ms
-  let visibleModal = null
-
-  const toggleModal = (event) => {
-    event.preventDefault()
-    const modal = document.getElementById(event.currentTarget.dataset.target)
-
-    if (!modal) return
-    modal && (modal.open ? closeModal(modal) : openModal(modal, event))
-  }
-
-  const openModal = (modal, event) => {
-    const { documentElement: html } = document
-    const scrollbarWidth = getScrollbarWidth()
-    if (scrollbarWidth) {
-      html.style.setProperty(scrollbarWidthCssVar, `${scrollbarWidth}px`)
-    }
-    html.classList.add(isOpenClass, openingClass)
-    setTimeout(() => {
-      visibleModal = modal
-      html.classList.remove(openingClass)
-    }, animationDuration)
-
-    const div = modal.querySelector('#observatory-content')
-    const h3 = modal.querySelector('#observatory-title')
-
-    const observatory = observatories.find(
-      ({ name }) => name === event.currentTarget.dataset.observatory
-    )
-    const json = JSON.stringify(observatory, null, 2)
-    div.innerHTML = createObservatoryDetailsComponent(observatory)
-    h3.innerText = observatory.name
-
-    modal.showModal()
-  }
-
-  const closeModal = (modal) => {
-    visibleModal = null
-    const { documentElement: html } = document
-    html.classList.add(closingClass)
-    setTimeout(() => {
-      html.classList.remove(closingClass, isOpenClass)
-      html.style.removeProperty(scrollbarWidthCssVar)
-      modal.close()
-    }, animationDuration)
-  }
-
   document.addEventListener('click', (event) => {
     if (visibleModal === null) return
     const modalContent = visibleModal.querySelector('article')
@@ -114,29 +89,62 @@ async function main() {
       closeModal(visibleModal)
     }
   })
-
-  const getScrollbarWidth = () => {
-    const scrollbarWidth =
-      window.innerWidth - document.documentElement.clientWidth
-    return scrollbarWidth
-  }
-
-  document.querySelectorAll('x-catalog article').forEach((article) => {
-    article.addEventListener('click', toggleModal)
-  })
-
-  document.querySelectorAll('dialog button').forEach((article) => {
-    article.addEventListener('click', toggleModal)
-  })
-
-  // Para que hacer click en los links dentro de las cards de observatiorios no abra el modal
-  const modalLinks = document.querySelectorAll('x-catalog article a')
-  modalLinks.forEach((link) => {
-    link.addEventListener('click', function (event) {
-      event.preventDefault()
-      event.stopPropagation()
-      window.open(link.href, '_self')
-    })
-  })
 }
+
+const isOpenClass = 'modal-is-open'
+const openingClass = 'modal-is-opening'
+const closingClass = 'modal-is-closing'
+const scrollbarWidthCssVar = '--pico-scrollbar-width'
+const animationDuration = 400 // ms
+
+const toggleModal = (event) => {
+  event.preventDefault()
+  const modal = document.getElementById(event.currentTarget.dataset.target)
+
+  if (!modal) return
+  modal && (modal.open ? closeModal(modal) : openModal(modal, event))
+}
+
+const openModal = (modal, event) => {
+  const { documentElement: html } = document
+  const scrollbarWidth = getScrollbarWidth()
+  if (scrollbarWidth) {
+    html.style.setProperty(scrollbarWidthCssVar, `${scrollbarWidth}px`)
+  }
+  html.classList.add(isOpenClass, openingClass)
+  setTimeout(() => {
+    visibleModal = modal
+    html.classList.remove(openingClass)
+  }, animationDuration)
+
+  const div = modal.querySelector('#observatory-content')
+  const h3 = modal.querySelector('#observatory-title')
+
+  const observatory = currentObservatories.find(
+    ({ name }) => name === event.currentTarget.dataset.observatory
+  )
+  const json = JSON.stringify(observatory, null, 2)
+  div.innerHTML = createObservatoryDetailsComponent(observatory)
+  h3.innerText = observatory.name
+
+  modal.showModal()
+}
+
+const closeModal = (modal) => {
+  visibleModal = null
+  const { documentElement: html } = document
+  html.classList.add(closingClass)
+  setTimeout(() => {
+    html.classList.remove(closingClass, isOpenClass)
+    html.style.removeProperty(scrollbarWidthCssVar)
+    modal.close()
+  }, animationDuration)
+}
+
+const getScrollbarWidth = () => {
+  const scrollbarWidth =
+    window.innerWidth - document.documentElement.clientWidth
+  return scrollbarWidth
+}
+
 main()
