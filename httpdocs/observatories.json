@@ -1839,10 +1839,20 @@
   },
   {
     "name": "Observatori de la mort",
-    "website": "https://observatorisalut.gencat.cat/ca/observatori_mort/",
-    "parents": ["Departament de Salut (Generalitat)"],
+    "website": "https://observatorisalut.gencat.cat/ca/observatori_mort/index.html",
+    "parents": [
+      "Agència de Qualitat i Avaluació Sanitàries de Catalunya (AQuAS)"
+    ],
     "type": "publico",
-    "is_active": "None"
+    "description": "El Observatorio de la Muerte se crea con la finalidad principal de conocer las formas de morir en Cataluña, así como el grado en el que las circunstancias que intervienen (espacio físico, familia y profesionales) permiten el cumplimiento de los derechos legalmente reconocidos y, cuando así se haya manifestado, los valores y las preferencias de la persona en la  etapa final de la vida.",
+    "docs": [
+      {
+        "name": "Listado de documentos publicados: Documentos e informes",
+        "url": "https://observatorisalut.gencat.cat/ca/observatori_mort/bibliografia_recomanada_obseravtori_mort/"
+      }
+    ],
+    "from_date": "3 de Septiembre de 2019",
+    "is_active": "Sí"
   },
   {
     "name": "Observatori del sistema de salut de catalunya",
@@ -2179,23 +2189,6 @@
     "type": "publico",
     "parents": ["https://www.gobiernodecanarias.org/boc/1998/160/003.html"],
     "from_date": "Diciembre 1998",
-    "is_active": "Sí"
-  },
-  {
-    "name": "Observatori de la mort",
-    "website": "https://observatorisalut.gencat.cat/ca/observatori_mort/index.html",
-    "parents": [
-      "- Agència de Qualitat i Avaluació Sanitàries de Catalunya (AQuAS)"
-    ],
-    "type": "publico",
-    "docs": [
-      {
-        "name": "Listado de documentos publicados: Documentos e informes",
-        "url": "https://observatorisalut.gencat.cat/ca/observatori_mort/bibliografia_recomanada_obseravtori_mort/"
-      }
-    ],
-
-    "from_date": "3 de Septiembre de 2019",
     "is_active": "Sí"
   },
   {
