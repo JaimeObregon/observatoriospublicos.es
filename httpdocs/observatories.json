@@ -1396,7 +1396,7 @@
         "url": "https://github.com/JaimeObregon/observatoriospublicos.es/files/14648255/11_noviembre_23.pdf"
       }
     ],
-    "description": "de precios de venta al público.",
+    "description": "El Observatorio tiene entre uno de sus objetivos ofrecer herramientas para construir un sistema público de información y seguimiento continuo de los precios de los productos, bienes y servicios con mayor impacto en el consumo de la ciudadanía.",
     "from_date": "Abril de 2022",
     "is_active": "Sí"
   },
@@ -2231,13 +2231,6 @@
     "name": "Observatorio valenciano de la cultura",
     "website": "https://ovc.gva.es/es/observatori",
     "parents": ["Generalitat Valenciana. Consellería de Cultura y Deporte"],
-    "type": "publico",
-    "is_active": "None"
-  },
-  {
-    "name": "Observatorio de precios de la comunitat valenciana",
-    "website": "https://argos.gva.es/es/web/prospectiva/observatori",
-    "parents": ["Generalitat Valenciana"],
     "type": "publico",
     "is_active": "None"
   },
