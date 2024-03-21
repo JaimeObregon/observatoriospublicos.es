@@ -178,8 +178,15 @@
     "email": "observatorio.museos@cultura.gob.es"
   },
   {
-    "name": "Observatorio de Precios y Mercados de la Junta de Andalucía",
-    "scope": "andalucia"
+    "name": "Observatorio de precios y mercados de la junta de andalucía",
+    "website": "https://www.juntadeandalucia.es/agriculturaypesca/observatorio",
+    "parents": ["Consejeria de Agricultura y Pesca de la Junta de Andalucia"],
+    "scope": "andalucia",
+    "type": "publico",
+    "docs": {
+      "name": "Informes de precios agrícolas y ganaderos"
+    },
+    "is_active": "Sí"
   },
   {
     "name": "Observatorio de Salud Pública de Cantabria",
@@ -512,10 +519,16 @@
     "scope": "galicia"
   },
   {
-    "name": "Observatorio da Vivenda de Galicia",
-    "scope": "galicia",
+    "name": "Observatorio da Vivenda de galicia",
     "website": "https://www.observatoriodavivenda.gal",
     "email": "https://www.observatoriodavivenda.gal/gl/contact",
+    "parents": [
+      "Instituto Galego da Vivenda",
+      "Esta web es la cara pública de un organismo en el que, del lado de la Xunta de Galicia, participan los ayuntamientos gallegos a través de la Fegamp, las empresas promotoras, inmobiliarias y constructoras, los colegios profesionales de arquitectos, ingenieros y arquitectos técnicos, asociaciones del ámbito profesional y también las dedicadas al trabajo social, sindicatos y, en general, todas aquellas administraciones, colegios y asociaciones relacionados de una u otro manera con el ámbito de la vivienda."
+    ],
+    "scope": "galicia",
+    "type": "publico",
+    "description": "A través del Observatorio pretendemos facilitar el acceso a la información y al conocimiento de todos los aspectos relacionados con el mundo de la vivienda, de manera que administraciones, empresas públicas y personales y cualquier interesado en este mundo estén en las mejores condiciones para adoptar decisiones eficaces y adaptadas a las necesidades del país. Del trabajo de unos y otros saldrá la información, estudios y trabajos que periódicamente verano a luz a través de esta web y de los boletines y publicaciones del Observatorio que estarán la disposición de los interesados en las diferentes secciones de este sitio.",
     "docs": [
       {
         "name": "Zonas tensionadas por municipios 2023",
@@ -550,9 +563,6 @@
         "url": "http://www.observatoriodavivenda.gal/sites/w_igvobs/files/ovg_estatistica_alugueiro_fianzas_anual_2019pw_v1.00.pdf"
       }
     ],
-    "parents": ["Instituto Galego da Vivenda"],
-    "description": "A través del Observatorio pretendemos facilitar el acceso a la información y al conocimiento de todos los aspectos relacionados con el mundo de la vivienda, de manera que administraciones, empresas públicas y personales y cualquier interesado en este mundo estén en las mejores condiciones para adoptar decisiones eficaces y adaptadas a las necesidades del país. Del trabajo de unos y otros saldrá la información, estudios y trabajos que periódicamente verano a luz a través de esta web y de los boletines y publicaciones del Observatorio que estarán la disposición de los interesados en las diferentes secciones de este sitio.",
-    "type": "publico",
     "is_active": "Sí"
   },
   {
@@ -600,7 +610,10 @@
   },
   {
     "name": "Observatorio de Prevención de Riesgos Laborales de la Comunidad Autónoma de la Región de Murcia",
-    "scope": "region_de_murcia"
+    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=740&IDTIPO=140",
+    "parents": ["Gobierno de la Región de Murcia"],
+    "scope": "region_de_murcia",
+    "type": "publico"
   },
   {
     "name": "Observatorio de Turismo de Extremadura",
@@ -901,16 +914,10 @@
         "name": "Informe 2008"
       },
       {
-        "name": "Informe 2007"
+        "name": "Informe 2007",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=Informe%20Final.pdf&ALIAS=ARCH&IDCONTENIDO=31641&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       }
     ]
-  },
-  {
-    "name": "Observatorio de Prevención de Riesgos Laborales",
-    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=740&IDTIPO=140",
-    "parents": ["Gobierno de la Región de Murcia"],
-    "scope": "region_de_murcia",
-    "type": "publico"
   },
   {
     "name": "Observatorio Ocupacional",
@@ -1245,7 +1252,7 @@
     "name": "Observatorio para la Convivencia Escolar en Andalucía",
     "scope": "andalucia",
     "website": "https://www.juntadeandalucia.es/educacion/portals/web/convivencia-escolar/estructura-y-funcionamiento",
-    "email": "",
+    "email": "convivenciaescolar.ced@juntadeandalucia.es",
     "docs": [
       {
         "name": "Reglamento interno de funcionamiento del consejo rector del observatorio para la convivencia escolar en Andalucía",
@@ -1261,11 +1268,13 @@
       }
     ],
     "parents": [
+      "Consejería de desarrollo educativo y formación profesional de la Junta de Andalucía",
+      "Dirección General competente materia de convivencia escolar",
       "Ministerio de Asuntos Económicos y Transformación Digital (MINECO)",
       "Banco de España (BdE)",
       "Agencia Estatal de Administración Tributaria (AEAT)"
     ],
-    "description": "Actuaciones <q>dirigidas a la promoción de la cultura de paz y a la mejora de la convivencia en el ámbito de los centros educativos andaluces</q>.",
+    "description": "h) Publicar y difundir estudios, materiales y experiencias de educación para la convivencia y cultura de paz. i) Elaborar un informe anual sobre el estado de la convivencia y la conflictividad en los centros educativos, para lo que requerirá el apoyo informativo, documental y técnico de otras Administraciones Públicas con competencia en la materia y de los propios órganos y entidades de la Consejería competente en materia de educación, así como de entidades e instituciones privadas. j) Cualquier otra función de apoyo y asesoramiento vinculada a la recogida, análisis, difusión de la información y la investigación y la promoción de actuaciones en todas las materias relacionadas con la mejora de la convivencia en el ámbito de los centros educativos.",
     "type": "publico",
     "is_active": "Sí",
     "from_date": "2007-02-02"
@@ -1420,24 +1429,6 @@
       }
     ],
     "is_active": "Sí"
-  },
-  {
-    "name": "Observatorio da vivenda de galicia",
-    "website": "https://www.observatoriodavivenda.gal",
-    "email": "https://www.observatoriodavivenda.gal/gl/contact",
-    "parents": ["Instituto Galego da Vivenda e solo"],
-    "type": "publico",
-    "docs": [
-      {
-        "name": "Estadística del alquiler segundo las fianzas en el año 2019. 2020",
-        "url": "https://www.observatoriodavivenda.gal/gl/documentos/estatistica-do-alugueiro-segundo-fianzas-no-ano-2019-2020"
-      }
-    ],
-    "parents": [
-      "Esta web es la cara pública de un organismo en el que, del lado de la Xunta de Galicia, participan los ayuntamientos gallegos a través de la Fegamp, las empresas promotoras, inmobiliarias y constructoras, los colegios profesionales de arquitectos, ingenieros y arquitectos técnicos, asociaciones del ámbito profesional y también las dedicadas al trabajo social, sindicatos y, en general, todas aquellas administraciones, colegios y asociaciones relacionados de una u otro manera con el ámbito de la vivienda."
-    ],
-    "description": "Del trabajo de unos y otros saldrá la información, estudios y trabajos que periódicamente verano a luz a través de esta web y de los boletines y publicaciones del Observatorio que estarán la disposición de los interesados en las diferentes secciones de este sitio.",
-    "is_active": "None"
   },
   {
     "name": "Observatorio do solo empresarial de galicia",
@@ -1643,15 +1634,6 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio para la convivencia escolar en andalucía",
-    "website": "https://www.juntadeandalucia.es/educacion/portals/web/convivencia-escolar/estructura-y-funcionamiento",
-    "parents": ["Consejería de Desarrollo Educativo y Formación Profesional"],
-    "type": "publico",
-    "description": "La finalidad del Observatorio es la de contribuir a generar una forma de abordar la convivencia escolar en Andalucía basada en el respeto y el diálogo, en la que el tratamiento constructivo del conflicto forme parte del proceso educativo.",
-    "from_date": "2 de febrero 2007",
-    "is_active": "None"
-  },
-  {
     "name": "Obervatorio de contratación pública (obcp)",
     "website": "https://www.obcp.es/",
     "parents": [
@@ -1667,19 +1649,6 @@
     "description": "El Observatorio de Contratación Pública es un lugar de encuentro para los profesionales de la materia desde el que proceder al debate y análisis de las novedades introducidas en su ordenación jurídica, así como para la realización de nuevas propuestas de actuación para la modernización de la contratación pública y materializar en la misma los principios de eficiencia, integridad y buena administración.",
     "from_date": "Octubre de 2011",
     "is_active": "Sí"
-  },
-  {
-    "name": "Observatorio para la convivencia escolar en andalucía",
-    "website": "https://www.juntadeandalucia.es/educacion/portals/web/convivencia-escolar/estructura-y-funcionamiento",
-    "email": "convivenciaescolar.ced@juntadeandalucia.es",
-    "parents": [
-      "Consejería de desarrollo educativo y formación profesional de la Junta de Andalucía"
-    ],
-    "type": "publico",
-    "parents": ["Dirección General competente materia de convivencia escolar"],
-    "description": "h) Publicar y difundir estudios, materiales y experiencias de educación para la convivencia y cultura de paz. i) Elaborar un informe anual sobre el estado de la convivencia y la conflictividad en los centros educativos, para lo que requerirá el apoyo informativo, documental y técnico de otras Administraciones Públicas con competencia en la materia y de los propios órganos y entidades de la Consejería competente en materia de educación, así como de entidades e instituciones privadas. j) Cualquier otra función de apoyo y asesoramiento vinculada a la recogida, análisis, difusión de la información y la investigación y la promoción de actuaciones en todas las materias relacionadas con la mejora de la convivencia en el ámbito de los centros educativos.",
-    "from_date": "Febrero 2007 (BOJA Nº 25, 2-2-2007)",
-    "is_active": "None"
   },
   {
     "name": "Observatorio de la infancia y adolescencia de andalucía",
@@ -2217,17 +2186,6 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio de precios y mercados de la junta de andalucía",
-    "website": "https://www.juntadeandalucia.es/agriculturaypesca/observatorio",
-    "parents": ["Consejeria de Agricultura y Pesca de la Junta de Andalucia"],
-    "type": "publico",
-    "docs": {
-      "name": "Informes de precios agrícolas y ganaderos"
-    },
-
-    "is_active": "Sí"
-  },
-  {
     "name": "Observatori de la mort",
     "website": "https://observatorisalut.gencat.cat/ca/observatori_mort/index.html",
     "parents": [
@@ -2494,12 +2452,6 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio para la convivencia escolar en andalucía",
-    "website": "https://www.juntadeandalucia.es/educacion/portals/web/convivencia-escolar/estructura-y-funcionamiento",
-    "type": "publico",
-    "is_active": "None"
-  },
-  {
     "name": "Observatorio regional contra la discriminación por orientación sexual e identidad de género",
     "website": "https://transparencia.carm.es/-/observatorio-regional-contra-la-discriminacion-por-orientacion-sexual-e-identidad-de-genero-en-la-comunidad-autonoma-de-la-region-de-murcia#gsc.tab=0",
     "type": "publico",
@@ -2551,25 +2503,6 @@
       {
         "name": "Contratos",
         "url": "https://www.sefcarm.es/web/servlet/descarga?ARCHIVO=Contratos%20Febrero%202024.xlsx&ALIAS=ARCH&&IDCONTENIDO=189144"
-      }
-    ]
-  },
-  {
-    "name": "Observatorio de prevención de riesgos laborales",
-    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=740&IDTIPO=140",
-    "parents": ["Gobierno de la Región de Murcia"],
-    "type": "publico"
-  },
-  {
-    "name": "Observatorio para la convivencia escolar",
-    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5316&RASTRO=c792$m4001&IDTIPO=100",
-    "email": "observatorio.convivencia@murciaeduca.es",
-    "parents": ["Gobierno de la Región de Murcia"],
-    "type": "publico",
-    "docs": [
-      {
-        "name": "Informe 2007",
-        "url": "https://www.carm.es/web/descarga?ARCHIVO=Informe%20Final.pdf&ALIAS=ARCH&IDCONTENIDO=31641&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       }
     ]
   }
