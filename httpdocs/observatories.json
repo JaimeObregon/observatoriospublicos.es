@@ -1319,10 +1319,10 @@
   {
     "name": "Observatorio Canario de la Juventud",
     "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/",
-    "parents": ["Gobierno de Canarias"],
+    "parents": ["Gobierno de Canarias - Dirección general de juventud"],
     "scope": "canarias",
     "type": "publico",
-    "is_active": "None"
+    "is_active": "Sí"
   },
   {
     "name": "Observatorio de Contratación Pública Responsable de Canarias",
@@ -2160,20 +2160,6 @@
     "parents": ["Universidad de Zaragoza"],
     "type": "publico",
     "is_active": "None"
-  },
-  {
-    "name": "Observatorio canario de la juventud",
-    "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/",
-    "parents": ["Gobierno de Canarias - Dirección general de juventud"],
-    "type": "publico",
-    "docs": {
-      "name": "Enlace",
-      "url": "https://www./export/sites/juventud/multimedia/documentos/programas/publicaciones/encuesta_jovenes_canarias_2012/ejc2012_diagnostico_juventud_canarias_2012_completo_13"
-    },
-    "parents": [
-      "Se entremezcla con la dirección general de juventud. No tiene un correo propio sino que remite a la dirección general"
-    ],
-    "is_active": "Sí"
   },
   {
     "name": "Observatorio de residuos de bizkaia",
