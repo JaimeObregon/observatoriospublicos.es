@@ -1213,13 +1213,6 @@
     "from_date": "2023-07-03"
   },
   {
-    "name": "Observatorio de Precios de Canarias",
-    "scope": "canarias",
-    "website": "https://www.gobiernodecanarias.org/agp/sgt/temas/estadistica/CM-observatorio.html",
-    "parents": ["Gobierno de Canarias"],
-    "type": "publico"
-  },
-  {
     "name": "Observatorio para la Convivencia Escolar en Andalucía",
     "scope": "andalucia",
     "website": "https://www.juntadeandalucia.es/educacion/portals/web/convivencia-escolar/estructura-y-funcionamiento",
