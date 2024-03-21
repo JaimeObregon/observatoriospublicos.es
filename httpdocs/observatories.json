@@ -2153,7 +2153,6 @@
     "name": "Observatorio aragonés del arte en la esfera pública",
     "website": "https://oaaep.unizar.es/",
     "parents": ["Universidad de Zaragoza"],
-    "scope": "Estatal", // ¿Estatal o aragonés?
     "type": "publico",
     "is_active": "None"
   },
