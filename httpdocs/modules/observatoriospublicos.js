@@ -3,6 +3,24 @@ import {
   createObservatoryDetailsComponent,
   createObservatoryCardComponent,
 } from './observatorioContent.js'
+import {
+  initSearchBar
+} from './searchbar.js'
+
+/**
+ * Genera la lista de observatorios en el HTML
+ * 
+ * @param {*} thisObservatories Lista de observatorios
+ */
+export function updateObservatories(thisObservatories){
+  const container = document.querySelector('x-catalog')
+  
+  container.innerHTML = thisObservatories
+    .map((observatory, index) =>
+      createObservatoryCardComponent(index + 1, observatory)
+    )
+    .join('')
+}
 
 async function main() {
   const observatories = await fetch('/observatories.json').then((x) => x.json())
@@ -22,16 +40,16 @@ async function main() {
     // alert(`Hay errores en el catálogo:\n` + errors.join('\n'))
   }
 
-  const container = document.querySelector('x-catalog')
+  // Contador total
   const count = document.querySelector('mark')
-
   count.innerHTML = observatories.length.toString()
 
-  container.innerHTML = observatories
-    .map((observatory, index) =>
-      createObservatoryCardComponent(index + 1, observatory)
-    )
-    .join('')
+  // Se actualizan los observatorios
+  updateObservatories(observatories);
+
+  // Inicialización de la barra de búsqueda
+  const container = document.querySelector('x-catalog')
+  initSearchBar(container, observatories);
 
   const isOpenClass = 'modal-is-open'
   const openingClass = 'modal-is-opening'

@@ -1,0 +1,26 @@
+#searchbar {
+    display: block; /* O flex, dependiendo de tus necesidades específicas */
+    margin: 1em 0; /* Espaciado alrededor de la barra de búsqueda para separarla de otros elementos */
+}
+
+#searchbar input[type="text"] {
+    font-family: var(--pico-font-family), sans-serif; /* Asegúrate de que se utilice la fuente definida */
+    width: 100%; /* Para que ocupe todo el ancho disponible */
+    padding: 0.5em; /* Espaciado interno para que el texto no esté demasiado pegado a los bordes */
+    border: 1px solid #ccc; /* Un borde sutil */
+    border-radius: 0.5em; /* Bordes redondeados para suavizar la apariencia */
+    box-sizing: border-box; /* Para incluir el padding y el borde dentro del ancho total definido */
+}
+
+#searchbar input[type="text"]:focus {
+    border-color: #0172ad; /* Cambia el color del borde al enfocar para dar retroalimentación visual */
+    outline: none; /* Elimina el contorno predeterminado para mantener el estilo limpio */
+}
+
+@media (min-width: 1024px) {
+    #searchbar {
+        max-width: 50%; /* Ajusta el ancho máximo en pantallas más grandes */
+        margin: 1em auto; /* Centrado en pantallas más grandes */
+    }
+}
+  
