@@ -1617,7 +1617,8 @@
     },
     "from_date": "2017 .- Conforme al  Decreto Foral Legislativo 1/2017, de 26 de julio, por el que se aprueba el [Texto Refundido de la Ley Foral de Ordenación del Territorio y Urbanismo](http://www.lexnavarra.navarra.es/detalle.asp?r=39197).",
     "is_active": "None",
-    "name": "observatorio territorial de navarra",
+    "name": "Observatorio Territorial de Navarra",
+    "scope": "navarra",
     "parents": ["Centro de Recursos Territoriales"],
     "type": "publico",
     "website": "https://www.nasuvinsa.es/es/servicios/lursarea/observatorio"
@@ -1714,7 +1715,8 @@
   {
     "description": "https://es-la.facebook.com/people/Observatorio-Derechos-Humanos-Castilla-La-Mancha-para-Sahara-Occidental/100068780931028/",
     "is_active": "None",
-    "name": "Observatorio de derechos humanos para el sáhara occidental de Castilla-La Mancha"
+    "name": "Observatorio de Derechos Humanos para el Sáhara Occidental de Castilla-La Mancha",
+    "scope": "castilla_la_mancha"
   },
   {
     "description": "Para aportar información útil al agricultor como apoyo en sus procesos de toma de decisiones.",
