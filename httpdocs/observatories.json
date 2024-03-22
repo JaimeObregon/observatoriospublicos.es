@@ -1231,13 +1231,6 @@
     "website": "https://www.culturanavarra.es/es/presentacion-8"
   },
   {
-    "name": "Observatorio de Precios de Canarias",
-    "parents": ["Gobierno de Canarias"],
-    "scope": "canarias",
-    "type": "publico",
-    "website": "https://www.gobiernodecanarias.org/agp/sgt/temas/estadistica/CM-observatorio.html"
-  },
-  {
     "description": "El Observatorio de márgenes empresariales es un proyecto conjunto del Ministerio de Asuntos Económicos y Transformación Digital, el Banco de España y la Agencia Tributaria que tiene como objetivo disponer de información para el seguimiento y el análisis de los márgenes empresariales y de mejorar el conocimiento sobre su evolución y sus implicaciones para el conjunto de la economía.",
     "docs": [
       {
@@ -1419,24 +1412,6 @@
     "website": "http://www.observatorioredlocalis.com"
   },
   {
-    "description": "Observa los precios de venta al público.",
-    "docs": [
-      {
-        "name": "11_noviembre_23.pdf",
-        "url": "https://github.com/JaimeObregon/observatoriospublicos.es/files/14648255/11_noviembre_23.pdf"
-      }
-    ],
-    "from_date": "Abril de 2022",
-    "is_active": "Sí",
-    "name": "Observatorio de Precios de la Comunitat Valenciana",
-    "parents": [
-      "Consellería de Economía Sostenible, Sectores Productivos, Comercio y Trabajo de la Comunitat Valenciana"
-    ],
-    "scope": "comunidad_valenciana",
-    "type": "publico",
-    "website": "https://argos.gva.es/es/web/prospectiva/observatori"
-  },
-  {
     "docs": [
       {
         "name": "\"Hola, tú a mí no me conoces\". Diccionario visual sobre las mujeres del siglo XXI. Instituto de las Mujeres. Club de Creativos/as",
@@ -1550,7 +1525,7 @@
     "email": "estadistica.agri@larioja.org",
     "from_date": "2010",
     "is_active": "Sí",
-    "name": "Observatorio de precios agrarios",
+    "name": "Observatorio de Precios Agrarios",
     "parents": ["Gobierno de la Rioja"],
     "scope": "la_rioja",
     "type": "publico",
@@ -1619,8 +1594,8 @@
     "from_date": "2017 .- Conforme al  Decreto Foral Legislativo 1/2017, de 26 de julio, por el que se aprueba el [Texto Refundido de la Ley Foral de Ordenación del Territorio y Urbanismo](http://www.lexnavarra.navarra.es/detalle.asp?r=39197).",
     "is_active": "None",
     "name": "Observatorio Territorial de Navarra",
-    "scope": "navarra",
     "parents": ["Centro de Recursos Territoriales"],
+    "scope": "navarra",
     "type": "publico",
     "website": "https://www.nasuvinsa.es/es/servicios/lursarea/observatorio"
   },
@@ -1790,21 +1765,6 @@
     "website": "https://observatori.smartcatalonia.gencat.cat/about"
   },
   {
-    "description": "El Observatorio de Precios en consumo facilita que las personas consumidoras tomen decisiones de compra informadas con arreglo a criterios económicos.",
-    "docs": [
-      {
-        "name": "- Evolución precios tipos alimentos Navidad 2023 (2ª actualización)",
-        "url": "https://consumo.castillalamancha.es/sites/default/files/2024-01/%28ALEJ%29EVOLUCION%20PRECIO%20TIPOS%20ALIMENTOS%20%28NAVIDAD%202023%29.pdf) (753.17 KB"
-      }
-    ],
-    "is_active": "Sí",
-    "name": "Observatorio de precios en consumo de Castilla-La Mancha",
-    "parents": ["Dirección General de Salud Pública"],
-    "scope": "castilla_la_mancha",
-    "type": "publico",
-    "website": "https://consumo.castillalamancha.es/node/23956"
-  },
-  {
     "description": "-    Promover innovación social y empresarial",
     "docs": {
       "name": "Y muchos más!"
@@ -1947,16 +1907,26 @@
   {
     "from_date": "6 de octubre de 2006, según el [DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2006/11596).",
     "is_active": "Sí",
-    "name": "Observatorio de precios de los productos agroalimetarios de la comunitat valenciana",
+    "name": "Observatorio de Precios de los Productos Agroalimetarios de la Comunitat Valenciana",
     "type": "publico",
     "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851"
   },
   {
-    "is_active": "Sí",
-    "name": "Observatori de preus de la comunitat valenciana",
-    "parents": [
-      "Generalitat Valenciana - Consellería de Economía Sostenible, Sectores Productivos, Comercio y Trabajo"
+    "description": "Observa los precios de venta al público.",
+    "docs": [
+      {
+        "name": "11_noviembre_23.pdf",
+        "url": "https://github.com/JaimeObregon/observatoriospublicos.es/files/14648255/11_noviembre_23.pdf"
+      }
     ],
+    "from_date": "Abril de 2022",
+    "is_active": "Sí",
+    "name": "Observatori de Preus de la Comunitat Valenciana",
+    "parents": [
+      "Generalitat Valenciana",
+      "Consellería de Economía Sostenible, Sectores Productivos, Comercio y Trabajo"
+    ],
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://argos.gva.es/va/web/prospectiva/observatori"
   },
@@ -2113,6 +2083,7 @@
     "website": "https://www.castillalamancha.es/gobierno/agriaguaydesrur/estructura/dgalimentacion/titular/observatorio-precios-cadena-agroalimentaria"
   },
   {
+    "description": "El Observatorio de Precios en consumo facilita que las personas consumidoras tomen decisiones de compra informadas con arreglo a criterios económicos.",
     "docs": [
       {
         "name": "Evolución precios tipos alimentos Navidad 2023 (2ª actualización)",
@@ -2122,7 +2093,11 @@
     "from_date": "Febrero 2022",
     "is_active": "Sí",
     "name": "Observatorio de Precios en Consumo",
-    "parents": ["Consejería de Sanidad", "Junta de Castilla La Mancha"],
+    "parents": [
+      "Dirección General de Salud Pública",
+      "Consejería de Sanidad",
+      "Junta de Castilla La Mancha"
+    ],
     "scope": "castilla_la_mancha",
     "type": "publico",
     "website": "https://consumo.castillalamancha.es/node/23956"
@@ -2330,14 +2305,6 @@
   },
   {
     "is_active": "None",
-    "name": "Observatorio de Precios de la Comunitat Valenciana",
-    "parents": ["Generalitat Valenciana"],
-    "scope": "comunidad_valenciana",
-    "type": "publico",
-    "website": "https://argos.gva.es/es/web/prospectiva/observatori"
-  },
-  {
-    "is_active": "None",
     "name": "Observatorio Valenciano del Trabajo Decente",
     "parents": [
       "Generalitat Valenciana",
@@ -2438,7 +2405,7 @@
   },
   {
     "is_active": "None",
-    "name": "Observatorio de precios de los alimentos",
+    "name": "Observatorio de Precios de los Alimentos",
     "parents": ["Ministerio de Agricultura, Pesca y Alimentación"],
     "scope": "estatal",
     "type": "publico",
@@ -2475,14 +2442,6 @@
     "scope": "estatal",
     "type": "publico",
     "website": "https://comercio.gob.es/ComercioInterior/Observatorio/Paginas/default.aspx"
-  },
-  {
-    "email": "estudis_prospectiva.daam@gencat.cat",
-    "is_active": "Sí",
-    "name": "Observatori agroalimentari de preus",
-    "parents": ["Gencat"],
-    "type": "publico",
-    "website": "https://agricultura.gencat.cat/ca/departament/estadistiques/observatori-agroalimentari-preus/"
   },
   {
     "is_active": "None",
