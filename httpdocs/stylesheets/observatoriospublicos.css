@@ -20,6 +20,7 @@ body {
     img {
       height: 3.5em;
     }
+    
   }
 
   > main {
@@ -93,4 +94,8 @@ dialog h3 {
   padding: 0.25em 0.5em;
   text-transform: capitalize;
   margin: 0 .25rem;
+}
+
+.logo{
+  height: 8em!important;
 }
