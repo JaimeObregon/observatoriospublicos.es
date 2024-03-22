@@ -2,6 +2,7 @@
 
 Subo temporalmente al repo esta cochinada con enlaces a más observatorios.
 
+- https://twitter.com/LasRozasHoyes/status/1769072124730265863
 - https://twitter.com/cantabriaes/status/1707069331199213911
 - https://comercio.gob.es/ComercioInterior/Observatorio/Paginas/default.aspx
 - https://transparencia.xunta.gal/tema/transparencia-institucional/estrutura-organica-e-funcional/organos-colexiados-adscritos?texto=observatorio&submit1=&departamento=-1

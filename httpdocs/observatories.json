@@ -309,6 +309,17 @@
     "website": "https://fogga.xunta.gal/es/sector_lacteo/observatorio_del_sector_lacteo"
   },
   {
+    "name": "Observatorio del Cambio Climático y la Energía de Tenerife",
+    "type": "publico",
+    "website": "https://occet.es/",
+    "email": "tenerife@oficinarenovables.es",
+    "scope": "local",
+    "parents": [
+      "Cabildo de Tenerife",
+      "Area de Medio Natural, Sostenibilidad, Segurida y Emergencias"
+    ]
+  },
+  {
     "name": "Observatorio Español contra la LGBTfobia"
   },
   {
@@ -425,6 +436,17 @@
   {
     "name": "Observatorio Galego de Acción Voluntaria",
     "scope": "galicia"
+  },
+  {
+    "name": "Observatorio de Datos Culturales de Barcelona",
+    "type": "publico",
+    "website": "https://barcelonadadescultura.bcn.cat/?lang=es",
+    "description": "\n\nEl Observatorio de Datos Culturales de Barcelona es una iniciativa del Instituto de Cultura del Ayuntamiento de Barcelona que nació en 2015.\n\nLa misión de este observatorio es elaborar y difundir datos, indicadores e informes sobre la realidad cultural de la ciudad, y poner toda la información al alcance de instituciones, agentes culturales, comunidad científica y público interesado de una manera ordenada y accesible, con el objetivo de ampliar y mejorar el conocimiento que tenemos sobre la vida cultural barcelonesa.",
+    "scope": "local",
+    "from_date": "2015",
+    "parents": [
+      "Ajuntament de Barcelona"
+    ]
   },
   {
     "name": "Observatorio Galego de Convivencia Escolar",
@@ -627,6 +649,16 @@
     "name": "Observatorio del Trabajo del Servicio de Ocupación de las Illes Balears",
     "scope": "islas_baleares",
     "type": "publico"
+  },
+  {
+    "name": "Observatorio Social Barcelona",
+    "type": "publico",
+    "website": "https://ajuntament.barcelona.cat/dretssocials/es/content/observatorio-social-bcn",
+    "description": "El Observatorio Social Barcelona es un instrumento de conocimiento de la realidad social de la ciudad que tiene como objetivos principales:\n\nConocer y evaluar la situación y la evolución de las condiciones de vida de la población, la realidad de los diferentes colectivos y la evolución de los fenómenos y procesos sociales que afectan a la calidad de vida de las personas y a la cohesión social de la ciudad.\r\n    Difundir y compartir conocimiento con la ciudadanía, las entidades y asociaciones, y con el colectivo profesional y técnico, directivo y político.\r\n    Apoyar a la planificación y a la toma de decisiones.",
+    "scope": "local",
+    "parents": [
+      "Ajuntament de Barcelona"
+    ]
   },
   {
     "name": "Observatorio de Empleo y Formación del Servicio Cántabro de Empleo",
@@ -1249,6 +1281,32 @@
     "website": "https://www.gobiernodecanarias.org/agp/sgt/temas/estadistica/CM-observatorio.html"
   },
   {
+    "name": "Observatorio de la Desigualdad de Aragón",
+    "type": "publico",
+    "website": "https://www.aragon.es/-/observatorio-de-desigualdad-de-aragon",
+    "description": "El Observatorio de la desigualdad se concibe para que Aragón pueda dotarse de herramientas adecuadas para generar indicadores estables de desigualdad en diversos ámbitos, que faciliten un análisis informado y nutran el debate social sobre estas cuestiones.",
+    "scope": "autonómico",
+    "parents": [
+      "Dirección General de Familia, Infancia y Natalidad",
+      "Departamento de Bienestar Social y Familia"
+    ],
+    "docs": [
+      {
+        "name": "[1er Informe sobre la desigualdad en Aragón](https://www.aragon.es/documents/20127/2523474/1er_informe_desigualdad_en_aragon.pdf/624da476-22e4-088a-be16-1d5cf21dcb0b?t=1622455902019) (perspectiva estadística y estudio Delphi),  elaborado por Pau Marí-Klose (Director), Alessandro Gentile, Ana Lucía Hernández Cordero y Albert Julià Cano  (PDF, 498 KB)"
+      },
+      {
+        "name": "[2º Informe sobre desigualdad en Aragón](https://www.aragon.es/documents/20127/2523474/Estudio+sobre+impacto+Covid-19+en+desigualdades+en+Arag%C3%B3n+%281%29.pdf/d31601a0-f08c-0c6d-632d-eb2087f9826e?t=1622621566066).  Estudio sobre las desigualdades sociales derivadas a consecuencia de la Covid-19. Autores: Albert Julià Cano y Alessandro Gentile (PDF, 1268 KB)"
+      },
+      {
+        "name": "[3 Informe sobre desigualdad de Aragón](https://www.aragon.es/documents/20127/2523474/3er+Informe+OBDEAR+2021+%281%29.pdf/fd6e64eb-191a-0ad7-0001-08e4f15de246?t=1643199978072). Estudio sobre las desigualdades sociales derivadas a consecuencia de la Covid-19. Autores: Albert Julià Cano y Alessandro Gentile  (Pdf, 1.745KB)"
+      },
+      {
+        "name": "[4º Informe sobre desigualdad de Aragón](https://www.aragon.es/documents/20127/2523474/1_IV+INFORME+DESIGUALDAD.pdf/c240aae8-35f6-ecd6-1d3b-3558a6281a30?t=1676886099614). Estudio sobre las desigualdades sociales en un contexto de crisis permanente. Autores Albert Julià  y Alessandro Gentile(Documento nuevo) (Pdf, 1.39MB)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "Tiene como objetivo <q>disponer de información para el seguimiento y el análisis de los márgenes empresariales y de mejorar el conocimiento sobre su evolución y sus implicaciones para el conjunto de la economía</q>.",
     "docs": [
       {
@@ -1554,9 +1612,24 @@
     "type": "publico",
     "website": "https://www.euskalit.net/observatorio/es/",
     "description": "El Observatorio de Gestión de EUSKALIT es un servicio cuyo objetivo es identificar, analizar y recopilar la información destacada de todo el mundo sobre la gestión avanzada y hacérsela llegar de forma accesible a las organizaciones y otros grupos de interés de Euskadi, para así ampliar su conocimiento en este ámbito.",
-    "scope": "estatal",
+    "scope": "pais_vasco",
     "parents": [
       "EUSKALIT, Fundación Vasca para la Excelencia"
+    ]
+  },
+  {
+    "name": "Observatori del Programa Ajuntament+Sostenible",
+    "type": "publico",
+    "website": "https://www.ajsosteniblebcn.cat/ca/observatori-a-s_99532",
+    "description": "L'Observatori del Programa Ajuntament+Sostenible fa anualment un seguiment per valorar com evoluciona la consecució de les dues directrius estratègiques del programa:\n\n[Seguiment de la contractació](http://www.ajsosteniblebcn.cat/ca/seguiment-de-la-contractacio_99538): s'elabora un Informe de seguiment de les instruccions tècniques per a l’aplicació de criteris de sostenibilitat de l'Ajuntament de Barcelona que recull els indicadors de seguiment dels diferents grups de productes i serveis, els principals plecs ambientalitzats cada any, així com els principals reptes i objectius de futur.\n\n[Seguiment de l'ambientalització interna](http://www.ajsosteniblebcn.cat/ca/seguiment-de-l-ambientalitzacio-interna_99544): s'elabora un Informe de seguiment de l'ambientalització interna de l'Ajuntament de Barcelona que recull com s'han impulsat els compromisos prioritaris per avançar envers la sostenibilitat interna recollits en set àmbits de treball, així com un recull de les bones pràctiques que han dut a terme gerències i organismes municipals de forma descentralitzada.",
+    "scope": "local",
+    "parents": [
+      "Ajuntament de Barcelona"
+    ],
+    "docs": [
+      {
+        "name": "Publicó informes de seguimiento anuales de sus 2 objetivos en el periodo 2017-2022"
+      }
     ]
   },
   {
@@ -1774,6 +1847,21 @@
     "website": "https://www.juntadeandalucia.es/institutodelamujer/index.php/2013-08-08-10-31-21/observatorio-andaluz-de-violencia-de-genero"
   },
   {
+    "name": "Observatori de Salut i Impacte de Polítiques",
+    "type": "publico",
+    "website": "https://ajuntament.barcelona.cat/observatorisalut/",
+    "description": "L’Observatori de salut i impacte de polítiques (OBSIP) és una eina que permet fer un seguiment: (1) de l’estat de la salut a la ciutat i de les desigualtats existents entre barris i grups socials i (2) de l’impacte en salut de determinades polítiques dutes a terme per l’Ajuntament.",
+    "scope": "local",
+    "parents": [
+      "Ajuntament de Barcelona"
+    ],
+    "docs": [
+      {
+        "name": "Cita recomanada: Laia Palència, Maria José López, Catherine Pérez, Carles Ariza, Mercè Gotsens, Vanessa Puig-Barrachina, Lucía Artazcoz, Maribel Pasarín, Davide Malmusi, Carme Borrell (2020, 28 d'Octubre). Observatori de Salut i Impacte de Polítiques. https://ajuntament.barcelona.cat/observatorisalut/"
+      }
+    ]
+  },
+  {
     "description": "Observatorio del Comercio de Castilla-La Mancha es un grupo de trabajo, consultivo, asesor y de colaboración entre la administración de la Junta de Comunidades de Castilla-La Mancha y las organizaciones representativas del comercio, del ámbito de la economía digital, y las organizaciones más representativas de las personas trabajadoras del sector, que servirá para dar apoyo a los actores implicados en la comprensión de las dinámicas del comercio regional y afrontar nuevos retos.",
     "from_date": "29 de Junio de 2021",
     "is_active": "Sí",
@@ -1809,6 +1897,47 @@
     ],
     "scope": "castilla_la_mancha",
     "type": "publico"
+  },
+  {
+    "name": "Observatori Català de la Justícia en Violència Masclista",
+    "type": "publico",
+    "website": "https://cejfe.gencat.cat/ca/observatori/",
+    "email": "observatori.cejfe.dj@gencat.cat",
+    "description": "L’Observatori es configura com un òrgan tècnic adscrit al Departament de Justícia, Drets i Memòria i dependent del Centre d’Estudis Jurídics i Formació Especialitzada, que n’aportarà la infraestructura i el suport administratiu, tècnic i logístic necessari perquè pugui dur a terme la seva activitat, i està dotat pressupostàriament amb fons del Pacte d’Estat contra la Violència de Gènere.\n\nÉs un repte pel CEJFE posar en marxa aquest Observatori i fer-ne d’ell un instrument que ajudi a millorar la resposta de l’administració de justícia i de l’execució penal davant el fenomen de les violències masclistes, amb la finalitat d’aproximar aquest coneixement a la lluita per a la seva erradicació. Així, l’Observatori constitueix un fòrum d'anàlisi, reflexió, debat, participació i proposta d'actuació en matèries relacionades amb la violència masclista a Catalunya.\n\nTotes les activitats gestionades per l’Observatori estan finançades a càrrec del crèdits rebuts del Ministeri d’Igualtat (Secretaria d’Estat d’Igualtat i contra la Violència de Gènere).",
+    "scope": "autonómico",
+    "docs": [
+      {
+        "name": "[2023]"
+      },
+      {
+        "name": "[Situació de les dones empresonades a Catalunya. Una mirada amb perspectiva de gènere](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2023/situacio-dones-empresonades/)"
+      },
+      {
+        "name": "[L’exercici de la maternitat en el sistema penitenciari català](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2023/exercici-maternitat-centre-penitenciari/)"
+      },
+      {
+        "name": "[Experiències de les dones estrangeres als centres penitenciaris catalans: Aproximació des de la perspectiva interseccional](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2023/experiencies-dones-estrangeres/)"
+      },
+      {
+        "name": "[2022]"
+      },
+      {
+        "name": "[El tràfic d’éssers humans per a criminalitat forçada. Recomanacions d’actuació per a professionals de l’àmbit judicial](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2022/trafic-essers-humans-recomanacions/)"
+      },
+      {
+        "name": "[Enquesta sobre actituds i comportaments discriminatoris i de violència masclista a l’àmbit laboral de l’Execució Penal](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2022/enquesta-actituds-violencia-masclista/)"
+      },
+      {
+        "name": "[Avaluació de l’eficàcia terapèutica dels nous programes d’intervenció en violència sexual](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2022/avaluacio_eficacia_terapeutica_programes/)"
+      },
+      {
+        "name": "[Conclusions del Fòrum sobre la violència de gènere: darreres reformes. Problemes i solucions pràctiques](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2022/conclusions_forum_violencia_genere_reformes/)"
+      },
+      {
+        "name": "[Avaluació de l’eficàcia terapèutica dels nous programes d’intervenció en violència de gènere](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2022/avaluacio-eficacia-terapeutica-programes-intervencio-violencia-genere/)"
+      }
+    ],
+    "is_active": "Si"
   },
   {
     "docs": {
@@ -2691,7 +2820,7 @@
   },
   {
     "is_active": "None",
-    "name": "Observatorio virtual del paisaje mediterráneo",
+    "name": "Observatorio Virtual del Paisaje Mediterráneo",
     "scope": "region_de_murcia",
     "type": "publico",
     "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828"
