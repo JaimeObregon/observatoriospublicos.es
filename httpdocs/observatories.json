@@ -438,6 +438,17 @@
     "scope": "galicia"
   },
   {
+    "name": "Observatorio de Datos Culturales de Barcelona",
+    "type": "publico",
+    "website": "https://barcelonadadescultura.bcn.cat/?lang=es",
+    "description": "\n\nEl Observatorio de Datos Culturales de Barcelona es una iniciativa del Instituto de Cultura del Ayuntamiento de Barcelona que nació en 2015.\n\nLa misión de este observatorio es elaborar y difundir datos, indicadores e informes sobre la realidad cultural de la ciudad, y poner toda la información al alcance de instituciones, agentes culturales, comunidad científica y público interesado de una manera ordenada y accesible, con el objetivo de ampliar y mejorar el conocimiento que tenemos sobre la vida cultural barcelonesa.",
+    "scope": "local",
+    "from_date": "2015",
+    "parents": [
+      "Ajuntament de Barcelona"
+    ]
+  },
+  {
     "name": "Observatorio Galego de Convivencia Escolar",
     "scope": "galicia"
   },
