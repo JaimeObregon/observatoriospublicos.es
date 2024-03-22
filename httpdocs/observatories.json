@@ -1837,6 +1837,21 @@
     "website": "https://www.juntadeandalucia.es/institutodelamujer/index.php/2013-08-08-10-31-21/observatorio-andaluz-de-violencia-de-genero"
   },
   {
+    "name": "Observatori de Salut i Impacte de Polítiques",
+    "type": "publico",
+    "website": "https://ajuntament.barcelona.cat/observatorisalut/",
+    "description": "L’Observatori de salut i impacte de polítiques (OBSIP) és una eina que permet fer un seguiment: (1) de l’estat de la salut a la ciutat i de les desigualtats existents entre barris i grups socials i (2) de l’impacte en salut de determinades polítiques dutes a terme per l’Ajuntament.",
+    "scope": "local",
+    "parents": [
+      "Ajuntament de Barcelona"
+    ],
+    "docs": [
+      {
+        "name": "Cita recomanada: Laia Palència, Maria José López, Catherine Pérez, Carles Ariza, Mercè Gotsens, Vanessa Puig-Barrachina, Lucía Artazcoz, Maribel Pasarín, Davide Malmusi, Carme Borrell (2020, 28 d'Octubre). Observatori de Salut i Impacte de Polítiques. https://ajuntament.barcelona.cat/observatorisalut/"
+      }
+    ]
+  },
+  {
     "description": "Observatorio del Comercio de Castilla-La Mancha es un grupo de trabajo, consultivo, asesor y de colaboración entre la administración de la Junta de Comunidades de Castilla-La Mancha y las organizaciones representativas del comercio, del ámbito de la economía digital, y las organizaciones más representativas de las personas trabajadoras del sector, que servirá para dar apoyo a los actores implicados en la comprensión de las dinámicas del comercio regional y afrontar nuevos retos.",
     "from_date": "29 de Junio de 2021",
     "is_active": "Sí",
