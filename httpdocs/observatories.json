@@ -1608,6 +1608,21 @@
     "website": "https://www.inega.gal/es/inega/puntos-de-encuentro-energeticos/observatorios"
   },
   {
+    "name": "Observatori del Programa Ajuntament+Sostenible",
+    "type": "publico",
+    "website": "https://www.ajsosteniblebcn.cat/ca/observatori-a-s_99532",
+    "description": "L'Observatori del Programa Ajuntament+Sostenible fa anualment un seguiment per valorar com evoluciona la consecució de les dues directrius estratègiques del programa:\n\n[Seguiment de la contractació](http://www.ajsosteniblebcn.cat/ca/seguiment-de-la-contractacio_99538): s'elabora un Informe de seguiment de les instruccions tècniques per a l’aplicació de criteris de sostenibilitat de l'Ajuntament de Barcelona que recull els indicadors de seguiment dels diferents grups de productes i serveis, els principals plecs ambientalitzats cada any, així com els principals reptes i objectius de futur.\n\n[Seguiment de l'ambientalització interna](http://www.ajsosteniblebcn.cat/ca/seguiment-de-l-ambientalitzacio-interna_99544): s'elabora un Informe de seguiment de l'ambientalització interna de l'Ajuntament de Barcelona que recull com s'han impulsat els compromisos prioritaris per avançar envers la sostenibilitat interna recollits en set àmbits de treball, així com un recull de les bones pràctiques que han dut a terme gerències i organismes municipals de forma descentralitzada.",
+    "scope": "local",
+    "parents": [
+      "Ajuntament de Barcelona"
+    ],
+    "docs": [
+      {
+        "name": "Publicó informes de seguimiento anuales de sus 2 objetivos en el periodo 2017-2022"
+      }
+    ]
+  },
+  {
     "description": "Realización de eventos y actos de difusión de los resultados de los estudios realizados.",
     "docs": [
       {
