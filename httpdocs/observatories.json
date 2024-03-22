@@ -1473,6 +1473,7 @@
     "from_date": "10/10/2023",
     "is_active": "Sí",
     "name": "Observatorio da Lusofonía Valentín Paz Andrade",
+    "scope": "galicia",
     "parents": ["Secretaría General de Política Lingüística"],
     "type": "publico"
   },
@@ -1492,7 +1493,8 @@
     },
     "email": "observatori@gencat.cat",
     "is_active": "Sí",
-    "name": "Observatori català de l’esport",
+    "name": "Observatori Català de l’Esport",
+    "scope": "cataluna",
     "type": "publico",
     "website": "https://inefc.gencat.cat/ca/inefc/projectes_institucionals/observatori-de-lesport/index.html"
   },
@@ -1565,8 +1567,9 @@
     },
     "from_date": "2012",
     "is_active": "Sí",
-    "name": "Observatorio joven",
+    "name": "Observatorio Joven",
     "parents": ["Consejo de la Juventud"],
+    "scope": "navarra",
     "type": "publico",
     "website": "https://www.juventudnavarra.es/es/observatorio-joven"
   },
@@ -1897,6 +1900,7 @@
     "from_date": "2023",
     "is_active": "None",
     "name": "Observatorio de Contratación Pública Responsable de Canarias",
+    "scope": "canarias",
     "parents": [
       "Dirección General de Derechos Sociales e Inmigración",
       "Gobierno de Canarias"
@@ -1936,7 +1940,7 @@
     "name": "Observatori socioambiental de menorca",
     "parents": ["Instituto Menorquín de Estudios"],
     "type": "publico",
-    "website": "https://www.obsam.cat/"
+    "website": "https://www.obsam.cat"
   },
   {
     "description": "Para conocer un poco más sobre la historia de la Inteligencia Artificial, identificar a los [agentes implicados](https://observatorioia.gva.es/es/imprescindibles#p_p_id_56_INSTANCE_cRDjJJr6WlEu_) y comenzar a manejarse con los términos más habituales empleados en este campo, existen diversas iniciativas como el [Léxico del Correo de la UNESCO](https://es.unesco.org/courier/2018-3/lexico-inteligencia-artificial), el diccionario tecnológico [Datapedia](http://luca-d3.com/es/diccionario-tecnologico/index.html) de Telefónica o los [Cuadernos de la Fundación General CSIC](http://www.fgcsic.es/lychnos/es_es/articulos/inteligencia_artificial), entre muchas otras.",
@@ -1974,10 +1978,6 @@
   },
   {
     "description": "De este modo en el año 2005 surge el Observatorio de la Violencia de Género, donde diariamente recopilamos, a través de los medios de comunicación, y fuentes oficiales e institucionales relacionadas con la violencia de género, noticias, opiniones e informes que puedan ser de interés no sólo para profesionales en la materia, sino para la población en su conjunto.",
-    "docs": {
-      "name": "Enlace",
-      "url": "https://-e-investigaciones/"
-    },
     "email": "observatorioviolencia@fundacionmujeres.es",
     "from_date": "2005",
     "is_active": "None",
@@ -2004,26 +2004,20 @@
   },
   {
     "description": "Es un órgano colegiado y consultivo que dependiendo de la Dirección General competente en materia de lucha contra la brecha digital trata de ser un foro de participación que permita el impulso compartido entre las administraciones públicas, los agentes económicos y sociales y la sociedad civil organizada en la lucha contra la brecha digital. Servirá de plataforma para planificar, estudiar y analizar el entorno y la realidad socioeconómica valenciana en materia de brecha digital.",
-    "docs": {
-      "name": "Enlace",
-      "url": "https:///publicacions"
-    },
     "email": "observatorio_dglbd@gva.es",
     "from_date": "18 de marzo de 2021, mediante el [DECRETO 43/2021, de 18 de marzo, del Consell, de creación del Observatorio de Brecha Digital.](https://dogv.gva.es/es/resultat-dogv?signatura=2021/3198&L=1)",
     "is_active": "Sí",
     "name": "Observatori de la bretxa digital",
     "parents": [
-      "Generalitat Valenciana - Conselleria de Innovación, Industria, Comercio y Turismo"
+      "Generalitat Valenciana",
+      "Conselleria de Innovación, Industria, Comercio y Turismo"
     ],
     "type": "publico",
-    "website": "https://brechadigital.gva.es/"
+    "scope": "comunidad_valenciana",
+    "website": "https://brechadigital.gva.es"
   },
   {
     "description": "Realiza estudios e investigaciones encaminadas a mantener actualizado el Diagnóstico Social de la ciudad, entendiendo este, como un proceso permanente de análisis social de la ciudad, en el que se enmarcan todas las publicaciones.",
-    "docs": {
-      "name": "Enlace",
-      "url": "https:///"
-    },
     "email": "observatorio.social@malaga.eu",
     "from_date": "2011",
     "is_active": "None",
@@ -2173,6 +2167,7 @@
       "Consejería de Empleo y Asuntos Sociales"
     ],
     "type": "publico",
+    "scope": "canarias",
     "website": "https://obecan.es"
   },
   {
