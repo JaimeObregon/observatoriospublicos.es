@@ -1,6 +1,6 @@
 [
   {
-    "description": "<a\n        href=\"https://twitter.com/Monica_Garcia_G/status/1768227454223565199\"\n        >Anunciado</a\n      > en rueda de prensa por la ministra de Sanidad el 14 de marzo de 2024.",
+    "description": "<a href=\"https://twitter.com/Monica_Garcia_G/status/1768227454223565199\">Anunciado</a> en rueda de prensa por la ministra de Sanidad el 14 de marzo de 2024.",
     "name": "Observatorio contra el Fraude y la Corrupción Sanitaria",
     "parents": ["Ministerio de Sanidad"],
     "scope": "estatal",
@@ -1711,12 +1711,6 @@
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.observatorioemancipacion.org/la-emancipacion-juvenil-en-espana-datos-generales/"
-  },
-  {
-    "description": "https://es-la.facebook.com/people/Observatorio-Derechos-Humanos-Castilla-La-Mancha-para-Sahara-Occidental/100068780931028/",
-    "is_active": "None",
-    "name": "Observatorio de Derechos Humanos para el Sáhara Occidental de Castilla-La Mancha",
-    "scope": "castilla_la_mancha"
   },
   {
     "description": "Para aportar información útil al agricultor como apoyo en sus procesos de toma de decisiones.",
