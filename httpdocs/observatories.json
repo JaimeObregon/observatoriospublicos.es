@@ -309,6 +309,17 @@
     "website": "https://fogga.xunta.gal/es/sector_lacteo/observatorio_del_sector_lacteo"
   },
   {
+    "name": "Observatorio del Cambio Climático y la Energía de Tenerife",
+    "type": "publico",
+    "website": "https://occet.es/",
+    "email": "tenerife@oficinarenovables.es",
+    "scope": "local",
+    "parents": [
+      "Cabildo de Tenerife",
+      "Area de Medio Natural, Sostenibilidad, Segurida y Emergencias"
+    ]
+  },
+  {
     "name": "Observatorio Español contra la LGBTfobia"
   },
   {
