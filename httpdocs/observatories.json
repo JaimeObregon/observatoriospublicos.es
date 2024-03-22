@@ -1827,6 +1827,47 @@
     "type": "publico"
   },
   {
+    "name": "Observatori Català de la Justícia en Violència Masclista",
+    "type": "publico",
+    "website": "https://cejfe.gencat.cat/ca/observatori/",
+    "email": "observatori.cejfe.dj@gencat.cat",
+    "description": "L’Observatori es configura com un òrgan tècnic adscrit al Departament de Justícia, Drets i Memòria i dependent del Centre d’Estudis Jurídics i Formació Especialitzada, que n’aportarà la infraestructura i el suport administratiu, tècnic i logístic necessari perquè pugui dur a terme la seva activitat, i està dotat pressupostàriament amb fons del Pacte d’Estat contra la Violència de Gènere.\n\nÉs un repte pel CEJFE posar en marxa aquest Observatori i fer-ne d’ell un instrument que ajudi a millorar la resposta de l’administració de justícia i de l’execució penal davant el fenomen de les violències masclistes, amb la finalitat d’aproximar aquest coneixement a la lluita per a la seva erradicació. Així, l’Observatori constitueix un fòrum d'anàlisi, reflexió, debat, participació i proposta d'actuació en matèries relacionades amb la violència masclista a Catalunya.\n\nTotes les activitats gestionades per l’Observatori estan finançades a càrrec del crèdits rebuts del Ministeri d’Igualtat (Secretaria d’Estat d’Igualtat i contra la Violència de Gènere).",
+    "scope": "autonómico",
+    "docs": [
+      {
+        "name": "[2023]"
+      },
+      {
+        "name": "[Situació de les dones empresonades a Catalunya. Una mirada amb perspectiva de gènere](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2023/situacio-dones-empresonades/)"
+      },
+      {
+        "name": "[L’exercici de la maternitat en el sistema penitenciari català](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2023/exercici-maternitat-centre-penitenciari/)"
+      },
+      {
+        "name": "[Experiències de les dones estrangeres als centres penitenciaris catalans: Aproximació des de la perspectiva interseccional](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2023/experiencies-dones-estrangeres/)"
+      },
+      {
+        "name": "[2022]"
+      },
+      {
+        "name": "[El tràfic d’éssers humans per a criminalitat forçada. Recomanacions d’actuació per a professionals de l’àmbit judicial](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2022/trafic-essers-humans-recomanacions/)"
+      },
+      {
+        "name": "[Enquesta sobre actituds i comportaments discriminatoris i de violència masclista a l’àmbit laboral de l’Execució Penal](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2022/enquesta-actituds-violencia-masclista/)"
+      },
+      {
+        "name": "[Avaluació de l’eficàcia terapèutica dels nous programes d’intervenció en violència sexual](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2022/avaluacio_eficacia_terapeutica_programes/)"
+      },
+      {
+        "name": "[Conclusions del Fòrum sobre la violència de gènere: darreres reformes. Problemes i solucions pràctiques](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2022/conclusions_forum_violencia_genere_reformes/)"
+      },
+      {
+        "name": "[Avaluació de l’eficàcia terapèutica dels nous programes d’intervenció en violència de gènere](https://cejfe.gencat.cat/ca/observatori/publicacions/ultims-5-anys/2022/avaluacio-eficacia-terapeutica-programes-intervencio-violencia-genere/)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "docs": {
       "name": "Parece que los últimos datos son de 2021 pero la página figura actualizada a 2024"
     },
