@@ -1698,6 +1698,82 @@
     "website": "https://elfarodemelilla.es/echa-a-andar-el-observatorio-economico-de-melilla/"
   },
   {
+    "name": "Observatorio del tráfico aéreo de Barcelona",
+    "type": "publico",
+    "website": "https://www.cambrabcn.org/es/que-te-ofrecemos/estudios-economicos-infraestucturas/observatorio-trafico-aereo-barcelona",
+    "description": "El objetivo del Observatorio del Tráfico Aéreo en Barcelona es hacer un seguimiento exhaustivo de la evolución de la actividad del Aeropuerto de Barcelona.\r\nSu serie de informes compila semestralmente datos que presentan la evolución del tráfico de pasajeros en Barcelona, así como una comparativa con magnitudes equivalentes en los aeropuertos de España y de Europa.\r\nAnualmente, este observatorio también publica informes de carga aérea en España y en Barcelona, con la colaboración de Barcelona Centre Logístic.\r\nEsta publicación está disponible en formato bilingüe: español / inglés.",
+    "scope": "provincial",
+    "parents": [
+      "Cámara de Comercio de Barcelona"
+    ],
+    "docs": [
+      {
+        "name": "48_Observatorio del tráfico aéreo de Barcelona - Carga aérea 2023 (ES/EN)"
+      },
+      {
+        "name": "46_Observatorio del tráfico aéreo de Barcelona - Verano 2023 (ES/EN)"
+      },
+      {
+        "name": "44_Observatorio del tráfico aéreo de Barcelona - Invierno 2022-23 (ES/EN)"
+      },
+      {
+        "name": "42_Observatorio del tráfico aéreo de Barcelona - Carga aérea 2021 (ES/EN)"
+      },
+      {
+        "name": "40_Observatorio del tráfico aéreo de Barcelona - Informe trimestral Julio 2021 (ES/EN)"
+      },
+      {
+        "name": "38_Observatorio del tráfico aéreo de Barcelona - Informe trimestral Diciembre 2020 (ES/EN)"
+      },
+      {
+        "name": "36_Observatorio del tráfico aéreo de Barcelona - Carga aérea 2019 (ES/EN)"
+      },
+      {
+        "name": "34_Observatorio del tráfico aéreo de Barcelona - Informe trimestral Julio 2019 (ES/EN)"
+      },
+      {
+        "name": "32_Observatorio del tráfico aéreo de Barcelona - Carga aérea 2018 (ES/EN)"
+      },
+      {
+        "name": "30_Observatorio del tráfico aéreo de Barcelona - Invierno 2017 (ES/EN)"
+      },
+      {
+        "name": "28_Observatorio del tráfico aéreo de Barcelona - Pasajeros 1T 2017 (ES/EN)"
+      },
+      {
+        "name": "26_Observatorio del tráfico aéreo de Barcelona - Carga aérea 2015 (ES/EN)"
+      },
+      {
+        "name": "24_Observatorio del tráfico aéreo de Barcelona - Carga aérea 2014 (ES/EN)"
+      },
+      {
+        "name": "22_Observatorio del tráfico aéreo de Barcelona - Pasajeros 3T 2014 (ES/EN)"
+      },
+      {
+        "name": "20_Observatorio del tráfico aéreo de Barcelona - Pasajeros 1T 2014 (ES/EN)"
+      },
+      {
+        "name": "18_Observatorio del tráfico aéreo de Barcelona - Pasajeros 4T 2013 (ES/EN)"
+      },
+      {
+        "name": "16_Observatorio del tráfico aéreo de Barcelona - Pasajeros 2T 2013 (ES/EN)"
+      },
+      {
+        "name": "14_Observatorio del tráfico aéreo de Barcelona - Carga aérea 2012 (ES/EN)"
+      },
+      {
+        "name": "47_Observatorio del tráfico aéreo de Barcelona - Invierno 2023-24 (ES/EN)"
+      },
+      {
+        "name": "45_Observatorio del tráfico aéreo de Barcelona - Carga aérea 2022 (ES/EN)"
+      },
+      {
+        "name": "43_Observatorio del tráfico aéreo de Barcelona - Verano"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "El Observatorio de precios agrarios muestra semanalmente la evolución del precio que percibe el productor (origen) y el que paga el consumidor (destino). También incorpora costes de producción de diferentes cultivos y especies ganaderas que se irán completando semana a semana.",
     "docs": {
       "name": "Publica uno por semana desde 2010"
