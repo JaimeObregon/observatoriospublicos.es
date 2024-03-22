@@ -67,10 +67,12 @@
     "url": "https://www.omha.alcoi.org/"
   },
   {
-    "name": "Observatorio Autonómico dos Ríos de Galicia"
+    "name": "Observatorio Autonómico dos Ríos de Galicia",
+    "scope": "galicia"
   },
   {
-    "name": "Observatorio da Sociedade da Información e a Modernización de Galicia"
+    "name": "Observatorio da Sociedade da Información e a Modernización de Galicia",
+    "scope": "galicia"
   },
   {
     "name": "Observatorio da Violencia no Contorno Laboral"
@@ -119,23 +121,28 @@
     "website": "https://observatoriodelainfancia.mdsocialesa2030.gob.es/queEs/home.htm"
   },
   {
-    "name": "Observatorio de la Infancia de Andalucía"
+    "name": "Observatorio de la Infancia de Andalucía",
+    "scope": "andalucia"
   },
   {
-    "name": "Observatorio de la Infancia de Cataluña / Observatori dels Drets dels Infants"
+    "name": "Observatorio de la Infancia de Cataluña / Observatori dels Drets dels Infants",
+    "scope": "cataluna"
   },
   {
-    "name": "Observatorio de la Infancia y la Adolescencia de Asturias"
+    "name": "Observatorio de la Infancia y la Adolescencia de Asturias",
+    "scope": "asturias"
   },
   {
     "name": "Observatorio de Infancia del País Vasco",
     "scope": "pais_vasco"
   },
   {
-    "name": "Observatorio de Infancia de Cantabria"
+    "name": "Observatorio de Infancia de Cantabria",
+    "scope": "cantabria"
   },
   {
-    "name": "Observatorio de la Infancia y la Adolescencia de les Illes Balears"
+    "name": "Observatorio de la Infancia y la Adolescencia de les Illes Balears",
+    "scope": "islas_baleares"
   },
   {
     "description": "Para <q>analizar permanentemente la situación del libro, la lectura y las bibliotecas en su conjunto, tal y como se establece en la disposición adicional segunda de la Ley 10/2007, de 22 de junio, de la Lectura, el Libro y las Bibliotecas</q>.",
@@ -1309,7 +1316,7 @@
     "is_active": "Sí",
     "name": "Observatorio de Emancipación",
     "parents": ["Consejo de la Juventud de España"],
-    "scope": "Estatal",
+    "scope": "estatal",
     "type": "hibrido",
     "website": "https://www.cje.org/observatorio-de-emancipacion/"
   },
@@ -1520,17 +1527,18 @@
     },
     "from_date": "2011",
     "is_active": "Sí",
-    "name": "Observatorio del pluralismo religioso en españa",
+    "name": "Observatorio del Pluralismo Religioso en España",
     "parents": ["Fundación Pluralismo y Convivencia"],
-    "scope": "rstatal",
+    "scope": "estatal",
     "type": "publico",
     "website": "https://www.observatorioreligion.es/"
   },
   {
     "from_date": "11/12/2023",
     "is_active": "Sí",
-    "name": "Observatorio económico de melilla",
+    "name": "Observatorio Económico de Melilla",
     "parents": ["Consejería de Presidencia"],
+    "scope": "melilla",
     "website": "https://elfarodemelilla.es/echa-a-andar-el-observatorio-economico-de-melilla/"
   },
   {
@@ -1543,6 +1551,7 @@
     "is_active": "Sí",
     "name": "Observatorio de precios agrarios",
     "parents": ["Gobierno de la Rioja"],
+    "scope": "la_rioja",
     "type": "publico",
     "website": "https://www.larioja.org/agricultura/es/estadistica-agraria/observatorio-precios-agrarios"
   },
@@ -1554,7 +1563,8 @@
     "email": "bandaanchanavarra@navarra.es",
     "from_date": "2023",
     "is_active": "Sí",
-    "name": "Banda ancha de navarra",
+    "name": "Banda Ancha de Navarra",
+    "scope": "navarra",
     "type": "publico",
     "website": "https://bandaancha.navarra.es/es/inicio"
   },
@@ -1568,6 +1578,7 @@
     "is_active": "Sí",
     "name": "Observatorio Turístico de Navarra",
     "parents": ["Departamento de Turismo", "Servicio de desarrollo sostenible"],
+    "scope": "navarra",
     "type": "publico",
     "website": "https://turismoprofesional.navarra.es/es/observatorio-turistico"
   },
@@ -1579,8 +1590,7 @@
     "from_date": "2012",
     "is_active": "Sí",
     "name": "Observatorio joven",
-    "parents": ["cONSEJO DE LA JUVENTUD"],
-    "stop_date": "no cesa",
+    "parents": ["Consejo de la Juventud"],
     "type": "publico",
     "website": "https://www.juventudnavarra.es/es/observatorio-joven"
   },
@@ -1591,8 +1601,9 @@
       "url": "https://portalsalud.navarra.es/documents/11746728/14014754/Indicadores+Navarra+Mortalidad+2023.pdf/e1f02986-2443-625a-5a86-56a0e314abb4?t=1678092314189"
     },
     "is_active": "Sí",
-    "name": "Observatorio de salud publica de navarra",
+    "name": "Observatorio de Salud Publica de Navarra",
     "parents": ["Deapartamento de Salud/Osasunbidea", "Gobierno de Navarra"],
+    "scope": "navarra",
     "stop_date": "a dìa de hoy sigue funcionando. Publica algunas excel con datos hasta al menos 2023",
     "type": "publico",
     "website": "https://portalsalud.navarra.es/es/observatorio"
@@ -1618,7 +1629,7 @@
     },
     "from_date": "Mayo 2017",
     "is_active": "Sí",
-    "name": "Observatorio cibim",
+    "name": "Observatorio CIBIM",
     "parents": ["Ministerio de Transportes, Movilidad y Agenda Urbana"],
     "scope": "estatal",
     "type": "publico",
@@ -1641,7 +1652,8 @@
   },
   {
     "is_active": "None",
-    "name": "Observatorio de la infancia y adolescencia de andalucía",
+    "name": "Observatorio de la Infancia y Adolescencia de Andalucía",
+    "scope": "andalucia",
     "type": "publico",
     "website": "https://www.observatoriodelainfancia.es/oia/esp/index.aspx"
   },
@@ -1673,7 +1685,7 @@
       "Ministerio de Agricultura, Pesca y Alimentación",
       "Grupo Cooperativo Cajamar"
     ],
-    "scope": "Estatal",
+    "scope": "estatal",
     "website": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-323"
   },
   {
@@ -1695,7 +1707,7 @@
     "is_active": "Sí",
     "name": "Observatorio de la emancipación juvenil en españa",
     "parents": ["Ministerio de Derecho Sociales y Agenda 030"],
-    "scope": "Estatal",
+    "scope": "estatal",
     "type": "publico",
     "website": "https://www.observatorioemancipacion.org/la-emancipacion-juvenil-en-espana-datos-generales/"
   },
@@ -1745,7 +1757,7 @@
     "is_active": "None",
     "name": "Observatorio sobre el brexit de Castilla-La Mancha",
     "parents": ["IPEX"],
-    "scope": "Estatal",
+    "scope": "estatal",
     "type": "publico",
     "website": "https://ipex.es/global-news/articulos-de-interes/observatorio-de-castilla-la-mancha-sobre-el-brexit/"
   },
@@ -1853,7 +1865,7 @@
     "parents": [
       "Agència de Qualitat i Avaluació Sanitàries de Catalunya (Generalitat)"
     ],
-    "scope": "Estatal",
+    "scope": "estatal",
     "type": "publico",
     "website": "https://observatorisalut.gencat.cat/ca/inici"
   },
@@ -2003,7 +2015,7 @@
     "from_date": "2005",
     "is_active": "None",
     "name": "Observatorio de la violencia de género",
-    "scope": "Estatal",
+    "scope": "estatal",
     "website": "https://observatorioviolencia.org"
   },
   {
@@ -2086,7 +2098,7 @@
     "is_active": "None",
     "name": "Observatorio de seguridad y eficiencia de las operaciones aéreas",
     "parents": ["- **ENAIRE** - https://www.enaire.es"],
-    "scope": "Estatal",
+    "scope": "estatal",
     "type": "publico",
     "website": "https://www.google.com/search?q=Observatorio+de+Seguridad+y+Eficiencia+de+las+Operaciones+A%C3%A9reas"
   },
@@ -2284,7 +2296,7 @@
     "parents": [
       "Generalitat Valenciana. Consellería de Innovación, Industria, Comercio y Turismo"
     ],
-    "scope": "Estatal",
+    "scope": "estatal",
     "type": "publico",
     "website": "https://brechadigital.gva.es/es"
   },
@@ -2314,6 +2326,7 @@
   {
     "is_active": "Sí",
     "name": "Observatorio de la escuela rural de aragón",
+    "scope": "aragon",
     "type": "publico",
     "website": "https://educa.aragon.es/-/innovacion/observatorio-rural"
   },
@@ -2323,7 +2336,7 @@
     "parents": [
       "Generalitat Valenciana. Consellería de Servicios Sociales, Igualdad y Vivienda"
     ],
-    "scope": "Estatal",
+    "scope": "estatal",
     "type": "publico",
     "website": "https://habitatge.gva.es/es/web/vivienda-y-calidad-en-la-edificacion/observatori-de-l-habitat-i-segregacio-urbana-de-la-cv"
   },
@@ -2335,40 +2348,44 @@
   },
   {
     "is_active": "None",
-    "name": "Observatorio fiscal de la comunitat valenciana",
+    "name": "Observatorio Fiscal de la Comunitat Valenciana",
     "parents": ["Agència Tributària Valenciana"],
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://atv.gva.es/es/observatori-fiscal"
   },
   {
     "email": "oasi@aragon.es",
     "is_active": "Sí",
-    "name": "Observatorio aragonés de la sociedad de la información (oasi)",
+    "name": "Observatorio Aragonés de la Sociedad de la Información (OASI)",
     "parents": ["Gobierno de Aragón"],
+    "scope": "aragon",
     "type": "publico",
     "website": "https://www.aragon.es/-/estudios-1"
   },
   {
     "email": "oscn@navarra.es",
     "is_active": "None",
-    "name": "Observatorio de salud pública de navarra",
+    "name": "Observatorio de Salud Pública de Navarra",
     "parents": ["Gobierno de Navarra. Departamento de Salud"],
+    "scope": "navarra",
     "type": "publico",
     "website": "https://portalsalud.navarra.es/es/observatorio"
   },
   {
     "is_active": "Sí",
-    "name": "Observatorio de la cadena alimentaria y de la madera de euskadi",
+    "name": "Observatorio de la Cadena Alimentaria y de la Madera de Euskadi",
     "parents": ["Hazi"],
+    "scope": "pais_vasco",
     "type": "publico",
     "website": "https://behatoki.eus/"
   },
   {
     "email": "omigualdad@oc.mde.es",
     "is_active": "None",
-    "name": "Observatorio militar para la igualdad entre mujeres y hombres en las fuerzas armadas",
+    "name": "Observatorio Militar para la Igualdad entre Mujeres y Hombres en las Fuerzas Armadas",
     "parents": ["Ministerio de Defensa"],
-    "scope": "Estatal",
+    "scope": "estatal",
     "type": "publico",
     "website": "https://www.defensa.gob.es/ministerio/organigrama/subdef/omi/"
   },
@@ -2389,7 +2406,7 @@
       "Banco de España",
       "Agencia Estatal de Administración Tributaria"
     ],
-    "scope": "Estatal",
+    "scope": "estatal",
     "type": "publico",
     "website": "https://sede.agenciatributaria.gob.es/Sede/estadisticas/observatorio-margenes-empresariales/observatorio-margenes-empresariales.html"
   },
@@ -2397,7 +2414,7 @@
     "is_active": "None",
     "name": "Observatorio de precios de los alimentos",
     "parents": ["Ministerio de Agricultura, Pesca y Alimentación"],
-    "scope": "Estatal",
+    "scope": "estatal",
     "type": "publico",
     "website": "https://www.mapa.gob.es/es/alimentacion/servicios/observatorio-de-precios-de-los-alimentos/estudios-e-informes/default.aspx"
   },
@@ -2412,7 +2429,7 @@
     "is_active": "None",
     "name": "Observatorio de uso de medicamentos",
     "parents": ["Ministerio de Sanidad"],
-    "scope": "Estatal",
+    "scope": "estatal",
     "type": "publico",
     "website": "https://www.aemps.gob.es/medicamentos-de-uso-humano/observatorio-de-uso-de-medicamentos/"
   },
@@ -2420,7 +2437,7 @@
     "is_active": "None",
     "name": "Observatorio de la nutrición y de estudio de la obesidad aesan",
     "parents": ["Ministerio de Derechos Sociales, Consumo y Agenda 2030"],
-    "scope": "Estatal",
+    "scope": "estatal",
     "type": "publico",
     "website": "https://www.aesan.gob.es/AECOSAN/web/nutricion/seccion/observatorio.htm"
   },
@@ -2429,7 +2446,7 @@
     "is_active": "Sí",
     "name": "Observatorio del comercio 4.0",
     "parents": ["Ministerio de Economía, Comercio y Empresa"],
-    "scope": "Estatal",
+    "scope": "estatal",
     "type": "publico",
     "website": "https://comercio.gob.es/ComercioInterior/Observatorio/Paginas/default.aspx"
   },
