@@ -1104,6 +1104,17 @@
     "website": "https://www.poderjudicial.es/cgpj/es/Temas/Violencia-domestica-y-de-genero/El-Observatorio-contra-la-violencia-domestica-y-de-genero/"
   },
   {
+    "name": "Observatorio del tráfico aéreo de Barcelona",
+    "type": "publico",
+    "website": "https://www.cambrabcn.org/es/que-te-ofrecemos/estudios-economicos-infraestucturas/observatorio-trafico-aereo-barcelona",
+    "description": "Información sobre la actividad aeroportuaria de Barcelona.\r\nEl objetivo del Observatorio del Tráfico Aéreo en Barcelona es hacer un seguimiento exhaustivo de la evolución de la actividad del Aeropuerto de Barcelona.\r\nSu serie de informes compila semestralmente datos que presentan la evolución del tráfico de pasajeros en Barcelona, así como una comparativa con magnitudes equivalentes en los aeropuertos de España y de Europa.\r\nAnualmente, este observatorio también publica informes de carga aérea en España y en Barcelona, con la colaboración de Barcelona Centre Logístic.\r\nEsta publicación está disponible en formato bilingüe: español / inglés.",
+    "scope": "provincial",
+    "parents": [
+      "Cámara e Comercio de Barcelona"
+    ],
+    "is_active": "Si"
+  },
+  {
     "docs": [
       {
         "name": "Resolución de 27 de junio de 2022, de la Entidad Pública Empresarial ENAIRE, por la que se publica el Convenio con el Colegio Oficial de Pilotos, para la operación del Observatorio de seguridad y eficiencia de las operaciones aéreas",
