@@ -1596,6 +1596,17 @@
     "type": "publico"
   },
   {
+    "name": "Observatorio del Agua",
+    "type": "publico",
+    "website": "https://www.emasesa.com/comprometidos-contigo/observatorio-del-agua/",
+    "email": "observatoriodelaguaemasesa@emasesa.com",
+    "scope": "local",
+    "from_date": "2017",
+    "parents": [
+      "Empresa Metropolitana de Abastecimiento y Saneamiento de Aguas de Sevilla, S.A. (EMASESA)"
+    ]
+  },
+  {
     "description": "Para la elaboración de estudios sobre oportunidades, impacto y potencial industrial en Galicia.",
     "is_active": "Sí",
     "name": "Observatorio da Eólica Mariña de Galicia",
