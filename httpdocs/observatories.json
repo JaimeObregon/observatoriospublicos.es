@@ -1411,8 +1411,9 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio de precios de la comunitat valenciana",
+    "name": "Observatorio de Precios de la Comunitat Valenciana",
     "website": "https://argos.gva.es/es/web/prospectiva/observatori",
+    "scope": "comunidad_valenciana",
     "parents": [
       "Consellería de Economía Sostenible, Sectores Productivos, Comercio y Trabajo de la Comunitat Valenciana"
     ],
@@ -1423,7 +1424,7 @@
         "url": "https://github.com/JaimeObregon/observatoriospublicos.es/files/14648255/11_noviembre_23.pdf"
       }
     ],
-    "description": "de precios de venta al público.",
+    "description": "Observa los precios de venta al público.",
     "from_date": "Abril de 2022",
     "is_active": "Sí"
   },
@@ -1470,36 +1471,27 @@
     "name": "Observatorio da industria aeroespacial",
     "website": "https://www.consorcioaeronautico.com/observatorio-aeroespacial/gl/",
     "parents": [
-      "El Observatorio de la industria Aeroespacial es una iniciativa que se desarrolla en el marco de la Civil UAVs Initiative, promovida por la Xunta de Galicia a través da Vicepresidencia Primera y Consellería de Economía, Empleo e Innovación, y llevado a cabo por el Consorcio Aeronáutico Gallego."
+      "Xunta de Galicia', 'Vicepresidencia Primera', 'Consellería de Economía, Empleo e Innovación', 'Consorcio Aeronáutico Gallego"
     ],
-    "type": "publico",
     "docs": [
       {
         "name": "Informe das contas anuais do sector",
         "url": "https://www.consorcioaeronautico.com/observatorio-aeroespacial/gl/informe-das-contas-anuais-do-sector/"
       }
     ],
-    "parents": [
-      "El Observatorio de la industria Aeroespacial es una iniciativa que se desarrolla en el marco de la Civil UAVs Initiative, promovida por la Xunta de Galicia a través da Vicepresidencia Primera y Consellería de Economía, Empleo e Innovación, y llevado a cabo por el Consorcio Aeronáutico Gallego."
-    ],
     "description": "Realización de eventos y actos de difusión de los resultados de los estudios realizados.",
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio da lusofonía valentín paz andrade",
-    "parents": [
-      "Decreto 134/2023, de 28 de septiembre, por el que se crea y se regula el Observatorio de la Lusofonía Valentín Paz Andrade (DOG de 10 de octubre de 2023)."
-    ],
+    "name": "Observatorio da Lusofonía Valentín Paz Andrade",
     "type": "publico",
-    "parents": [
-      "El Observatorio se adscribe a la consellería competente en materia de acción exterior y para alcanzar sus objetivos contará con el apoyo y soporte de la Secretaría General de Política Lingüística"
-    ],
+    "parents": ["Secretaría General de Política Lingüística"],
     "description": "El Observatorio tendrá como finalidad asesorar al Gobierno, formular planes de acción y programar actividades de conocimiento, intercambio y programación. Atendiendo a su finalidad, servirá de foro de diálogo permanente entre las distintas administraciones públicas y otras organizaciones representativas de intereses en el ámbito de la lusofonía, a fin de asegurar su participación activa en el abordaje de las relaciones de Galicia en dicho ámbito, así como aglutinará esfuerzos, coordinará las actuaciones público-privadas y procurará la consolidación en el tiempo de Galicia en el mundo de la lusofonía.",
     "from_date": "10/10/2023",
     "is_active": "Sí"
   },
   {
-    "name": "Observatori català de la joventut",
+    "name": "Observatori Català de la Joventut",
     "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/joventut/observatori_catala_de_la_joventut/index.html",
     "email": "ocj.dretssocials@gencat.cat",
     "parents": ["Agència Catalana de la Joventut"],
@@ -1564,18 +1556,15 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio turístico de navarra",
+    "name": "Observatorio Turístico de Navarra",
     "website": "https://turismoprofesional.navarra.es/es/observatorio-turistico",
-    "email": "EN LA WEB",
-    "parents": ["departamento de turismo"],
+    "email": "observatorio.turistico@navarra.es",
+    "parents": ["Departamento de Turismo", "Servicio de desarrollo sostenible"],
     "type": "publico",
     "docs": {
-      "name": "estudios de caracterizaciòn de turistas de otros países, como francia   p ej.. https://turismoprofesional.navarra.es/documents/8257989/28313355/inspektour%28DB22%29_Profile+study_Module+1_Report_Source+market+France_Destination+Région+de+Navarre.pdf/2707f26c-e7cb-8580-5a29-1cec0f401b78?t=1694420417005"
+      "name": "Estudios de caracterizaciòn de turistas de otros países, como Francia.   p ej.. https://turismoprofesional.navarra.es/documents/8257989/28313355/inspektour%28DB22%29_Profile+study_Module+1_Report_Source+market+France_Destination+Région+de+Navarre.pdf/2707f26c-e7cb-8580-5a29-1cec0f401b78?t=1694420417005"
     },
-    "parents": [
-      "Depende del servicio de desarrollo sostenible (art 26 y ss de l DF 256/23 que regula este departamento de turismo"
-    ],
-    "description": "facilita diversos estudios, directivas, información de y para operadores turísticos regionales",
+    "description": "Facilita diversos estudios, directivas, información de y para operadores turísticos regionales",
     "from_date": "2023",
     "is_active": "Sí"
   },
@@ -1601,7 +1590,6 @@
       "name": "Mortalidad",
       "url": "https://portalsalud.navarra.es/documents/11746728/14014754/Indicadores+Navarra+Mortalidad+2023.pdf/e1f02986-2443-625a-5a86-56a0e314abb4?t=1678092314189"
     },
-    "parents": ["Dpto de Salud"],
     "description": "Facilitar la acción intersectorial y comunitaria en salud, adaptando la información a cada contexto y cada uno de los sectores",
     "stop_date": "a dìa de hoy sigue funcionando. Publica algunas excel con datos hasta al menos 2023",
     "is_active": "Sí"
@@ -1609,19 +1597,15 @@
   {
     "name": "observatorio territorial de navarra",
     "website": "https://www.nasuvinsa.es/es/servicios/lursarea/observatorio",
-    "parents": [
-      "El resultado obtenido es útil para orientar políticas sectoriales desde la perspectiva de la ordenación del territorio y la sostenibilidad. También para el seguimiento y la evaluación de la [Estrategia Territorial de Navarra (ETN).](http://www.navarra.es/home_es/Temas/Territorio/Urbanismo/Instrumentos/Instrumentos+OT/ETN/DEFAULT.htm)"
+    "description": [
+      "El resultado obtenido es útil para orientar políticas sectoriales desde la perspectiva de la ordenación del territorio y la sostenibilidad. También para el seguimiento y la evaluación de la [Estrategia Territorial de Navarra (ETN)."
     ],
     "type": "publico",
     "docs": {
       "name": "No constan"
     },
-    "parents": [
-      "En su web dice que asiste alConsejo Social de politica  territorial  https://participa.navarra.es/assemblies/organo-41?locale=es aque a su vez es una de las herramientas del departamento de Gobierno Abierto (d elos que te gustan, Jaime) y su vocaciòn es ser un espacio de encuentro e interlocución estable..  Lo preside el Vicepresisdente del Gobierno de Navarra, por tanto depende de PRESIDENCIA."
-    ],
-    "description": "[Centro de Recursos Territoriales](https://www.nasuvinsa.es/servicios/lursarea/observatorio/centro)",
+    "parents": ["Centro de Recursos Territoriales"],
     "from_date": "2017 .- Conforme al  Decreto Foral Legislativo 1/2017, de 26 de julio, por el que se aprueba el [Texto Refundido de la Ley Foral de Ordenación del Territorio y Urbanismo](http://www.lexnavarra.navarra.es/detalle.asp?r=39197).",
-    "stop_date": "no consta cese",
     "is_active": "None"
   },
   {
@@ -1642,14 +1626,12 @@
     "website": "https://www.obcp.es/",
     "parents": [
       "Ministerio de Economía y Empresa",
+      "Cátedra de Proyectos e Inversiones Estratégicas de Aragón",
       "Universidad de Zaragoza",
       "NTT Data"
     ],
     "scope": "estatal",
     "type": "publico",
-    "parents": [
-      "- Cátedra de Proyectos e Inversiones Estratégicas de Aragón - Universidad de Zaragoza"
-    ],
     "description": "El Observatorio de Contratación Pública es un lugar de encuentro para los profesionales de la materia desde el que proceder al debate y análisis de las novedades introducidas en su ordenación jurídica, así como para la realización de nuevas propuestas de actuación para la modernización de la contratación pública y materializar en la misma los principios de eficiencia, integridad y buena administración.",
     "from_date": "Octubre de 2011",
     "is_active": "Sí"
@@ -1684,20 +1666,25 @@
   {
     "name": "Observatorio de digitalización en el sector agroalimentario",
     "website": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-323",
-    "parents": ["Ministerio de Agricultura, Pesca y Alimentación"],
+    "parents": [
+      "Ministerio de Agricultura, Pesca y Alimentación",
+      "Grupo Cooperativo Cajamar"
+    ],
     "scope": "Estatal",
     "docs": {
       "name": "Enlace",
       "url": "https://www./desarrollo-rural/temas/innovacion-medio-rural/estudio_3def_tcm30-655779.pdf"
     },
-    "parents": ["Grupo Cooperativo Cajamar"],
     "is_active": "None"
   },
   {
     "name": "Observatorio de servicios sociales y dependencia de Castilla-La Mancha",
-    "parents": ["Consejería de Bienestar Social de Castilla-La Mancha"],
     "type": "publico",
-    "parents": ["Universidad de Castilla - La Mancha"],
+    "scope": "castilla_la_mancha",
+    "parents": [
+      "Universidad de Castilla-La Mancha",
+      "Consejería de Bienestar Social de Castilla-La Mancha"
+    ],
     "description": "El Observatorio de Servicios Sociales y Dependencia se configura como un órgano colegiado, de composición interdepartamental, con funciones asesoras, de investigación, formación y trasferencia del conocimiento en materia de servicios sociales y dependencia; que ejercerá sus funciones con plena autonomía y sin dependencia funcional de ningún órgano. El Observatorio pretende contribuir también a la reflexión y mejora de la práctica profesional, promoviendo el trabajo interdisciplinar, un buen clima laboral que cuide a las personas cuidadoras, la agilización y simplificación de trámites, la formación continua, así como la evaluación de procesos y resultados.",
     "is_active": "Sí"
   },
@@ -1729,13 +1716,10 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio de la vivienda colaborativa de Castilla-La Mancha",
+    "name": "Observatorio de la Vivienda Colaborativa de Castilla-La Mancha",
     "website": "https://coacmto.com/observatorio-vivienda-colaborativa-toledo",
     "parents": [
-      "Colegio de Arquitectos de Castilla - La Mancha. Demarcación de Toledo."
-    ],
-    "parents": [
-      "Colegio de Arquitectos de Castilla - La Mancha. Demarcación de Toledo."
+      "Colegio de Arquitectos de Castilla-La Mancha. Demarcación de Toledo."
     ],
     "description": "El Observatorio dispondrá de una página en la web del Colegio de arquitectos [www.coacmto.com](https://coacmto.com/coacmto-sede-y-horario-colegio-oficial-de-arquitectos-castilla-la-mancha) donde se informará de las actividades, noticias o jornadas que se programen y dispondrá de un sencillo formulario de inscripción abierto a ciudadanos, profesionales, asociaciones, entidades públicas o privadas que estén interesados en participar en esta iniciativa.",
     "from_date": "8 de Mayo de 2023",
@@ -1764,10 +1748,12 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio de promoción industrial de Castilla-La Mancha",
-    "parents": ["Consejería de Economía, Empresas y Empleo"],
+    "name": "Observatorio de Promoción Industrial de Castilla-La Mancha",
+    "parents": [
+      "Consejería de Economía, Empresas y Empleo",
+      "Consejería de Desarrollo Sostenible y Fomento"
+    ],
     "type": "publico",
-    "parents": ["Consejería de Desarrollo Sostenible y Fomento"],
     "description": "Este Observatorio tiene sobre la mesa los retos identificados para la industria en la región: el crecimiento de la internacionalización de un sector que es responsable de uno de cada tres euros de las exportaciones de la Comunidad Autónoma, así como la digitalización, la sostenibilidad y la innovación en la industria.",
     "from_date": "30 de agosto de 2022 (30/08/2022)",
     "is_active": "Sí"
@@ -1813,9 +1799,6 @@
     "docs": {
       "name": "Y muchos más!"
     },
-    "parents": [
-      "El Observatorio del Cambio es un foro impulsado por el Ayuntamiento de Badajoz, dentro del [Plan Estratégico de la Ciudad de Badajoz](http://www.aytobadajoz.es/es/ayto/con-b-de-badajoz-s0/7940/plan-estrategico), desde marco del [Pacto Local por el empleo](http://www.aytobadajoz.es/es/empleo/pacto-local-por-el-empleo)."
-    ],
     "description": "-    Promover innovación social y empresarial",
     "from_date": "El Observatorio del Cambio inició su andadura entre los años 2003 y 2004, años en los que se celebraron 20 sesiones temáticas que abarcaron cuestiones relacionadas con diferentes sectores y materias específicas de la ciudad. Posteriormente, del 2009  al 2011 se llevaron a cabo 13 nuevas sesiones. Todas estas sesiones están recogidas en sus correspondientes actas.",
     "stop_date": "El último informe es de 2015",
@@ -1839,6 +1822,7 @@
     "name": "Observatorio de drogodependencias de Castilla-La Mancha",
     "website": "https://sanidad.castillalamancha.es/ciudadanos/observatorio-de-drogodependencias-clm/que-es-el-od",
     "parents": ["Servicio de Salud de Castilla-La Mancha (SESCAM)"],
+    "scope": "castilla_la_mancha",
     "type": "publico",
     "docs": [
       {
@@ -1846,8 +1830,7 @@
         "url": "https://sanidad.castillalamancha.es/sites/sescam.castillalamancha.es/files/documentos/paginas/archivos/informe_drogas_2009.pdf"
       }
     ],
-    "parents": ["Servicio de Salud de Castilla-La Mancha (SESCAM)"],
-    "description": "- Mantenimiento de un sistema de indicadores que permita el seguimiento de la evolución del consumo de drogas en Castilla-La Mancha.",
+    "description": "Mantenimiento de un sistema de indicadores que permita el seguimiento de la evolución del consumo de drogas en Castilla-La Mancha.",
     "is_active": "Sí"
   },
   {
@@ -1928,14 +1911,14 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio de contratación pública responsable de canarias",
-    "website": "https://contratacionresponsablecanarias.org/",
+    "name": "Observatorio de Contratación Pública Responsable de Canarias",
+    "website": "https://contratacionresponsablecanarias.org",
     "email": "info@contratacionresponsablecanarias.org",
     "parents": [
-      "Dirección General de Derechos Sociales e Inmigración del Gobierno de Canarias a través del proyecto Integra Responsable"
+      "Dirección General de Derechos Sociales e Inmigración",
+      "Gobierno de Canarias"
     ],
     "type": "publico",
-    "parents": ["https://eapncanarias.org/"],
     "description": "El Observatorio de CPR de Canarias es un órgano de asesoramiento, control y estudio respecto a la contratación pública para la sociedad civil y agentes involucrados.",
     "from_date": "2023",
     "is_active": "None"
@@ -2014,13 +1997,14 @@
   {
     "name": "Observatorio de la participación ciudadana en navarra",
     "website": "https://gobiernoabierto.navarra.es/es/participacion/enviar-aportacion/1587/observatorio-participacion-ciudadana-navarra",
-    "parents": ["Gobierno abierto..presidencia"],
     "docs": {
       "name": "Enlace",
       "url": "https:///participacion/1587/impulso-participacion-ciudadana-navarra-2016-2019"
     },
     "parents": [
-      "Presidencia del Gobierno en colaboración con el Departamento de Sociología de la UPNa y del Colegio de Sociología y Politología de Navarra"
+      "Presidencia del Gobierno",
+      "Departamento de Sociología de la UPNa",
+      "Colegio de Sociología y Politología de Navarra"
     ],
     "description": "Navarra.Las funciones de este Observatorio de nueva creación serían la de identificar y servir de intercambio de información sobre experiencias participativas consideradas de un especial interés, tanto en Navarra como fuera de ella, para su divulgación y gestión de buenas y malas prácticas en esta materia. Asimismo, se pretende poner en marcha un seminario de personas expertas que coadyuven al desarrollo del Plan de Impulso de la Participación Ciudadana, así como la presentación de un proyecto innovador en esta materia",
     "from_date": "2016",
@@ -2099,11 +2083,8 @@
     "name": "Observatorio precios cadena agroalimentaria castilla la mancha",
     "website": "https://www.castillalamancha.es/gobierno/agriaguaydesrur/estructura/dgalimentacion/titular/observatorio-precios-cadena-agroalimentaria",
     "email": "observatoriocadena@jccm.es",
-    "parents": ["Consejería de agricultura y ganadería de castilla la mancha"],
+    "parents": ["Consejería de Agricultura y Ganadería de Castilla-La Mancha"],
     "type": "publico",
-    "parents": [
-      "https://www.castillalamancha.es/gobierno/agriaguaydesrur/estructura/dgalimentacion/titular/observatorio-precios-cadena-agroalimentaria"
-    ],
     "from_date": "**https://docm.jccm.es/portaldocm/descargarArchivo.do?ruta=2021/09/27/pdf/2021_10496.pdf&tipo=rutaDocm**",
     "is_active": "Sí"
   },
@@ -2157,15 +2138,12 @@
   {
     "name": "Observatorio canario de la juventud",
     "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/",
-    "parents": ["Gobierno de Canarias - Dirección general de juventud"],
+    "parents": ["Gobierno de Canarias", "Dirección General de Juventud"],
     "type": "publico",
     "docs": {
       "name": "Enlace",
       "url": "https://www./export/sites/juventud/multimedia/documentos/programas/publicaciones/encuesta_jovenes_canarias_2012/ejc2012_diagnostico_juventud_canarias_2012_completo_13"
     },
-    "parents": [
-      "Se entremezcla con la dirección general de juventud. No tiene un correo propio sino que remite a la dirección general"
-    ],
     "is_active": "Sí"
   },
   {
@@ -2183,14 +2161,17 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio canario de empleo",
-    "website": "https://obecan.es/",
+    "name": "Observatorio Canario de Empleo",
+    "website": "https://obecan.es",
     "email": "info@obecan.es",
     "parents": [
-      "Gobierno de Canarias - Consejería de empleo y asuntos sociales"
+      "Gobierno de Canarias",
+      "Consejería de Empleo y Asuntos Sociales"
     ],
     "type": "publico",
-    "parents": ["https://www.gobiernodecanarias.org/boc/1998/160/003.html"],
+    "description": [
+      "Véase https://www.gobiernodecanarias.org/boc/1998/160/003.html"
+    ],
     "from_date": "Diciembre 1998",
     "is_active": "Sí"
   },
@@ -2388,7 +2369,9 @@
     "name": "Observatorio de márgenes empresariales",
     "website": "https://sede.agenciatributaria.gob.es/Sede/estadisticas/observatorio-margenes-empresariales/observatorio-margenes-empresariales.html",
     "parents": [
-      "Es un proyecto conjunto del Ministerio de Asuntos Económicos y Transformación Digital, el Banco de España y la Agencia Estatal de Administración Tributaria"
+      "Ministerio de Asuntos Económicos y Transformación Digital",
+      "Banco de España",
+      "Agencia Estatal de Administración Tributaria"
     ],
     "scope": "Estatal",
     "type": "publico",
@@ -2398,8 +2381,8 @@
         "url": "https://sede.agenciatributaria.gob.es/static_files/Sede/Tema/Estadisticas/Observatorio_margenes_empresariales/Datos_margenes_empresariales/Indicadores_de_precios.xlsx"
       }
     ],
-    "parents": [
-      "Dentro de este proyecto en esta web se ofrecen varias bases de datos, anuales y trimestrales, procedentes del Impuesto sobre Sociedades y de los modelos de IVA y retenciones sobre rendimientos del trabajo. La población objeto de estudio en cada año son todas aquellas empresas no financieras que tengan declaraciones de estos tres impuestos, con la única exclusión de empresas en actividades con un alto porcentaje de operaciones exentas a efectos del IVA."
+    "description": [
+      "Ofrece bases de datos, anuales y trimestrales, procedentes del Impuesto sobre Sociedades y de los modelos de IVA y retenciones sobre rendimientos del trabajo. La población objeto de estudio en cada año son todas aquellas empresas no financieras que tengan declaraciones de estos tres impuestos, con la única exclusión de empresas en actividades con un alto porcentaje de operaciones exentas a efectos del IVA."
     ],
     "is_active": "Sí"
   },
