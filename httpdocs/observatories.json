@@ -41,7 +41,7 @@
         "url": "https://cdn.mitma.gob.es/portal-web-drupal/ferroviario/observatorio/ofe2018_rev.pdf"
       }
     ],
-    "name": "Observatorio del ferrocarril en España",
+    "name": "Observatorio del Ferrocarril en España",
     "parents": ["Ministerio de Transportes y Movilidad Sostenible"],
     "scope": "estatal",
     "type": "publico",
@@ -189,7 +189,7 @@
       "name": "Informes de precios agrícolas y ganaderos"
     },
     "is_active": "Sí",
-    "name": "Observatorio de precios y mercados de la junta de andalucía",
+    "name": "Observatorio de Precios y Mercados de la Junta de Andalucía",
     "parents": ["Consejeria de Agricultura y Pesca de la Junta de Andalucia"],
     "scope": "andalucia",
     "type": "publico",
@@ -563,7 +563,7 @@
     ],
     "email": "https://www.observatoriodavivenda.gal/gl/contact",
     "is_active": "Sí",
-    "name": "Observatorio da Vivenda de galicia",
+    "name": "Observatorio da Vivenda de Galicia",
     "parents": [
       "Instituto Galego da Vivenda",
       "Esta web es la cara pública de un organismo en el que, del lado de la Xunta de Galicia, participan los ayuntamientos gallegos a través de la Fegamp, las empresas promotoras, inmobiliarias y constructoras, los colegios profesionales de arquitectos, ingenieros y arquitectos técnicos, asociaciones del ámbito profesional y también las dedicadas al trabajo social, sindicatos y, en general, todas aquellas administraciones, colegios y asociaciones relacionados de una u otro manera con el ámbito de la vivienda."
@@ -779,7 +779,7 @@
   },
   {
     "location": "Alcalá de Henares",
-    "name": "Observatorio de violencia de género de Alcalá",
+    "name": "Observatorio de Violencia de Género de Alcalá",
     "parents": ["Ayuntamiento de Alcalá de Henares"],
     "scope": "municipal",
     "type": "publico",
@@ -795,7 +795,7 @@
   },
   {
     "location": "Alcalá de Henares",
-    "name": "Observatorio Alcalá en cifras",
+    "name": "Observatorio Alcalá en Cifras",
     "parents": ["Ayuntamiento de Alcalá de Henares"],
     "scope": "municipal",
     "type": "publico",
@@ -1079,7 +1079,7 @@
     "description": "Para <q>la obtención y análisis sistemático de información y datos objetivos del sector necesario para conocer su historia, estructura, impacto económico y realidad actual del arte jondo, así como una herramienta para su evaluación</q>.",
     "email": "institutoandaluz.flamenco@juntadeandalucia.es",
     "from_date": "21 de marzo de 2007",
-    "name": "Observatorio del flamenco",
+    "name": "Observatorio del Flamenco",
     "parents": [
       "Agencia Andaluza de Instituciones Culturales",
       "Instituto Andaluz del Flamenco",
@@ -1680,7 +1680,7 @@
       "url": "https://www./desarrollo-rural/temas/innovacion-medio-rural/estudio_3def_tcm30-655779.pdf"
     },
     "is_active": "None",
-    "name": "Observatorio de digitalización en el sector agroalimentario",
+    "name": "Observatorio de Digitalización en el Sector Agroalimentario",
     "parents": [
       "Ministerio de Agricultura, Pesca y Alimentación",
       "Grupo Cooperativo Cajamar"
@@ -1815,7 +1815,7 @@
     "email": "paborrego@alumnos.unex.es",
     "from_date": "El Observatorio del Cambio inició su andadura entre los años 2003 y 2004, años en los que se celebraron 20 sesiones temáticas que abarcaron cuestiones relacionadas con diferentes sectores y materias específicas de la ciudad. Posteriormente, del 2009  al 2011 se llevaron a cabo 13 nuevas sesiones. Todas estas sesiones están recogidas en sus correspondientes actas.",
     "is_active": "None",
-    "name": "Observatorio del cambio",
+    "name": "Observatorio del Cambio",
     "parents": ["Ayuntamiento de Badajoz"],
     "stop_date": "El último informe es de 2015",
     "type": "publico",
@@ -1873,7 +1873,7 @@
     "description": "El Observatorio Tranformación y Participación es un órgano que se constituye para actuar como soporte a la docencia, a la investigación y la participación social. Asentado a nivel autonómico en Castilla y León pretende crear una Red Estatal que aporte soluciones desde la participación social al ámbito de la investigación e innovación aplicada",
     "email": "observatoriotransformacion@gmail.com",
     "is_active": "Sí",
-    "name": "Observatorio de transformación y participación de Castilla y León",
+    "name": "Observatorio de Transformación y Participación de Castilla y León",
     "parents": ["Junta de Castilla y León"],
     "scope": "castilla_y_leon",
     "type": "publico",
@@ -1885,7 +1885,7 @@
       "url": "https://www./2017-2020/?id=020202&paae=2024"
     },
     "is_active": "Sí",
-    "name": "Observatori del treball i model productiu",
+    "name": "Observatori del Treball i Model Productiu",
     "parents": ["Departament d'Empresa i Treball (Generalitat)"],
     "scope": "cataluna",
     "type": "publico",
@@ -2097,17 +2097,21 @@
     "from_date": "2 de julio de 2019",
     "is_active": "None",
     "name": "Observatorio de seguridad y eficiencia de las operaciones aéreas",
-    "parents": ["- **ENAIRE** - https://www.enaire.es"],
+    "parents": ["ENAIRE"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.google.com/search?q=Observatorio+de+Seguridad+y+Eficiencia+de+las+Operaciones+A%C3%A9reas"
   },
   {
     "email": "observatoriocadena@jccm.es",
-    "from_date": "**https://docm.jccm.es/portaldocm/descargarArchivo.do?ruta=2021/09/27/pdf/2021_10496.pdf&tipo=rutaDocm**",
+    "from_date": "https://docm.jccm.es/portaldocm/descargarArchivo.do?ruta=2021/09/27/pdf/2021_10496.pdf&tipo=rutaDocm",
     "is_active": "Sí",
-    "name": "Observatorio precios cadena agroalimentaria castilla la mancha",
-    "parents": ["Consejería de Agricultura y Ganadería de Castilla-La Mancha"],
+    "name": "Observatorio de Precios de la Cadena Agroalimentaria",
+    "parents": [
+      "Consejería de Agricultura y Ganadería",
+      "Junta de Castilla-La Mancha"
+    ],
+    "scope": "castilla_la_mancha",
     "type": "publico",
     "website": "https://www.castillalamancha.es/gobierno/agriaguaydesrur/estructura/dgalimentacion/titular/observatorio-precios-cadena-agroalimentaria"
   },
@@ -2120,21 +2124,22 @@
     ],
     "from_date": "Febrero 2022",
     "is_active": "Sí",
-    "name": "Observatorio de precios en consumo jccm",
-    "parents": ["Consejería de Sanidad de Castilla La Mancha"],
+    "name": "Observatorio de Precios en Consumo",
+    "parents": ["Consejería de Sanidad", "Junta de Castilla La Mancha"],
+    "scope": "castilla_la_mancha",
     "type": "publico",
     "website": "https://consumo.castillalamancha.es/node/23956"
   },
   {
     "is_active": "None",
-    "name": "Observatorio aragonés de dinamización demográfica y poblacional",
+    "name": "Observatorio Aragonés de Dinamización Demográfica y Poblacional",
     "scope": "aragon",
     "type": "publico",
     "website": "https://observatoriopoblacion.aragon.es/"
   },
   {
     "is_active": "None",
-    "name": "Observatorio regional de la violencia de género",
+    "name": "Observatorio Regional de la Violencia de Género",
     "parents": [
       "Consejería de Presidencia, Justicia y Administración Local",
       "Comunidad de Madrid"
@@ -2145,15 +2150,16 @@
   },
   {
     "is_active": "None",
-    "name": "Observatorio aragonés por la convivencia y contra el acoso escolar",
+    "name": "Observatorio Aragonés por la Convivencia y Contra el Acoso Escolar",
     "scope": "aragon",
     "type": "publico",
     "website": "https://educa.aragon.es/-/convivencia-web-basico-enlaces"
   },
   {
     "is_active": "None",
-    "name": "Observatorio aragonés del arte en la esfera pública",
+    "name": "Observatorio Aragonés del Arte en la Esfera Pública",
     "parents": ["Universidad de Zaragoza"],
+    "scope": "aragon",
     "type": "publico",
     "website": "https://oaaep.unizar.es/"
   },
@@ -2163,8 +2169,9 @@
       "url": "https://www./export/sites/juventud/multimedia/documentos/programas/publicaciones/encuesta_jovenes_canarias_2012/ejc2012_diagnostico_juventud_canarias_2012_completo_13"
     },
     "is_active": "Sí",
-    "name": "Observatorio canario de la juventud",
+    "name": "Observatorio Canario de la Juventud",
     "parents": ["Gobierno de Canarias", "Dirección General de Juventud"],
+    "scope": "canarias",
     "type": "publico",
     "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/"
   },
@@ -2174,7 +2181,7 @@
     },
     "from_date": "2011",
     "is_active": "None",
-    "name": "Observatorio de residuos de bizkaia",
+    "name": "Observatorio de Residuos de Bizkaia",
     "parents": [
       "Garbiker, empresa pública 100% perteneciente a la Diputación Foral de Bizkaia y adscrita al Departamento de Medio Natural y Agricultura."
     ],
@@ -2205,10 +2212,11 @@
     ],
     "from_date": "3 de Septiembre de 2019",
     "is_active": "Sí",
-    "name": "Observatori de la mort",
+    "name": "Observatori de la Mort",
     "parents": [
-      "- Agència de Qualitat i Avaluació Sanitàries de Catalunya (AQuAS)"
+      "Agència de Qualitat i Avaluació Sanitàries de Catalunya (AQuAS)"
     ],
+    "scope": "cataluna",
     "type": "publico",
     "website": "https://observatorisalut.gencat.cat/ca/observatori_mort/index.html"
   },
@@ -2216,125 +2224,145 @@
     "email": "observatori@creama.org",
     "from_date": "2018",
     "is_active": "Sí",
-    "name": "Observatorio socioeconómico de la marina alta",
+    "name": "Observatorio Socioeconómico de la Marina Alta",
     "parents": [
-      "y de la Actividad de la Marina Alta, Ayuntamiento de Dénia y otros municipios de la comarca, Generalitat Valenciana, Ministerio de Trabajo y Economía Social"
+      "Ayuntamiento de Dénia",
+      "Generalitat Valenciana",
+      "Ministerio de Trabajo y Economía Social"
     ],
-    "website": "https://observatorimarinaalta.org/"
+    "website": "https://observatorimarinaalta.org"
   },
   {
     "is_active": "None",
-    "name": "Observatorio de la comunidad de madrid de víctimas del delito",
+    "name": "Observatorio de la Comunidad de Madrid de Víctimas del Delito",
     "parents": [
-      "Comunidad de Madrid. Consejería de Presidencia, Justicia y Administración Local"
+      "Comunidad de Madrid",
+      "Consejería de Presidencia, Justicia y Administración Local"
     ],
+    "scope": "comunidad_de_madrid",
     "type": "publico",
     "website": "https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-comunidad-madrid-victimas-del-delito"
   },
   {
     "is_active": "None",
-    "name": "Observatorio de resultados del Servicio Madrileño de Salud",
+    "name": "Observatorio de Resultados del Servicio Madrileño de Salud",
     "parents": ["Comunidad de Madrid", "Consejería de Sanidad"],
+    "scope": "comunidad_de_madrid",
     "type": "publico",
     "website": "https://www.comunidad.madrid/servicios/salud/observatorio-resultados-servicio-madrileno-salud"
   },
   {
     "is_active": "None",
-    "name": "Observatorio ciudadano del agua de la comunidad valenciana",
+    "name": "Observatorio Ciudadano del Agua de la Comunidad Valenciana",
     "parents": [
       "Generalitat Valenciana. Conselleria de Medio Ambiente, Agua, Infraestructuras y Territorio"
     ],
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://mediambient.gva.es/es/web/agua/novedades/-/asset_publisher/cYq5fnvdHYwT/content/observatorio-ciudadano-del-agua-de-la-comunitat-valenciana"
   },
   {
     "is_active": "None",
-    "name": "Observatorio de la industria y de los sectores económicos valencianos",
+    "name": "Observatorio de la Industria y de los Sectores Económicos Valencianos",
     "parents": [
-      "Generalitat Valenciana. Conselleria de Innovación, Industria, Comercio y Turismo"
+      "Generalitat Valenciana",
+      "Conselleria de Innovación, Industria, Comercio y Turismo"
     ],
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://portalindustria.gva.es/es/observatorio-de-la-industria"
   },
   {
     "is_active": "None",
-    "name": "Observatorio normativa electoral valenciana",
-    "parents": ["Generalitat Valenciana. Conselleria de Justicia e Interior"],
+    "name": "Observatorio de Normativa Electoral Valenciana",
+    "parents": ["Generalitat Valenciana", "Conselleria de Justicia e Interior"],
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://cjusticia.gva.es/es/web/processos-electorals/observatori-electoral"
   },
   {
     "is_active": "None",
-    "name": "Observatorio de la ia",
+    "name": "Observatorio de la IA",
     "parents": [
-      "Generalitat Valenciana. Conselleria de Innovación, Industria, Comercio y Turismo"
+      "Generalitat Valenciana",
+      "Conselleria de Innovación, Industria, Comercio y Turismo"
     ],
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://observatorioia.gva.es/es/"
   },
   {
     "is_active": "None",
-    "name": "Observatorio valenciano para la igualdad de trato, la no discriminación y la prevención de los delitos de odio.",
+    "name": "Observatorio Valenciano para la Igualdad de Trato, la No Discriminación y la Prevención de los Delitos de Odio",
     "parents": [
       "Generalitat Valenciana. Conselleria de Servicios Sociales, Igualdad y Vivienda"
     ],
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://inclusio.gva.es/es/web/igualdad-diversidad/observatori-valencia-per-a-la-igualtat-de-trace-la-no-discriminacio-i-la-prevencio-dels-delictes-d-odi"
   },
   {
     "is_active": "None",
-    "name": "Observatorio para la convivencia escolar",
+    "name": "Observatorio para la Convivencia Escolar",
     "parents": [
-      "Generalitat Valenciana. Conselleria de Educación, Universidades y Empleo"
+      "Generalitat Valenciana",
+      "Conselleria de Educación, Universidades y Empleo"
     ],
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://ceice.gva.es/es/web/inclusioeducativa/observatori-per-a-la-convivencia"
   },
   {
     "is_active": "None",
-    "name": "Observatorio de brecha digital",
+    "name": "Observatorio de Brecha Digital",
     "parents": [
-      "Generalitat Valenciana. Consellería de Innovación, Industria, Comercio y Turismo"
+      "Generalitat Valenciana",
+      "Consellería de Innovación, Industria, Comercio y Turismo"
     ],
-    "scope": "estatal",
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://brechadigital.gva.es/es"
   },
   {
     "is_active": "None",
-    "name": "Observatorio valenciano de la cultura",
-    "parents": ["Generalitat Valenciana. Consellería de Cultura y Deporte"],
+    "name": "Observatorio Valenciano de la Cultura",
+    "parents": ["Generalitat Valenciana", "Consellería de Cultura y Deporte"],
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://ovc.gva.es/es/observatori"
   },
   {
     "is_active": "None",
-    "name": "Observatorio de precios de la comunitat valenciana",
+    "name": "Observatorio de Precios de la Comunitat Valenciana",
     "parents": ["Generalitat Valenciana"],
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://argos.gva.es/es/web/prospectiva/observatori"
   },
   {
     "is_active": "None",
-    "name": "Observatorio valenciano del trabajo decente",
+    "name": "Observatorio Valenciano del Trabajo Decente",
     "parents": [
-      "Generalitat Valenciana. Consellería de Educación, Universidades y Ocupación"
+      "Generalitat Valenciana",
+      "Consellería de Educación, Universidades y Ocupación"
     ],
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://ceice.gva.es/va/web/dg-trabajo/observatori-valencia-del-treball-decent"
   },
   {
     "is_active": "Sí",
-    "name": "Observatorio de la escuela rural de aragón",
+    "name": "Observatorio de la Escuela Rural de Aragón",
     "scope": "aragon",
     "type": "publico",
     "website": "https://educa.aragon.es/-/innovacion/observatorio-rural"
   },
   {
     "is_active": "None",
-    "name": "Observatorio del hábitat y segregación urbana de la comunitat valenciana",
+    "name": "Observatorio del Hábitat y Segregación Urbana de la Comunitat Valenciana",
     "parents": [
-      "Generalitat Valenciana. Consellería de Servicios Sociales, Igualdad y Vivienda"
+      "Generalitat Valenciana",
+      "Consellería de Servicios Sociales, Igualdad y Vivienda"
     ],
     "scope": "estatal",
     "type": "publico",
@@ -2342,7 +2370,8 @@
   },
   {
     "is_active": "Sí",
-    "name": "Observatorio de la montaña de aragón",
+    "name": "Observatorio de la Montaña de Aragón",
+    "scope": "aragon",
     "type": "publico",
     "website": "https://observatoriomontanaragon.com/"
   },
