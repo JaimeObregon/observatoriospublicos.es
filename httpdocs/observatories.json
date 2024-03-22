@@ -1402,8 +1402,8 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio municipal galego",
-    "website": "http://www.observatorioredlocalis.com/",
+    "name": "Observatorio Municipal Galego",
+    "website": "http://www.observatorioredlocalis.com",
     "email": "infogen@uvigo.es",
     "parents": ["Universidade de Vigo", "Xunta de Galicia"],
     "type": "publico",
@@ -1429,10 +1429,11 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio andaluz de la publicidad no sexista",
+    "name": "Observatorio Andaluz de la Publicidad no Sexista",
     "website": "https://www.juntadeandalucia.es/institutodelamujer/index.php/observatorio-andaluz-de-publicidad-no-sexista",
     "parents": ["Junta de Andalucía"],
     "type": "publico",
+    "scope": "andalucia",
     "docs": [
       {
         "name": "\"Hola, tú a mí no me conoces\". Diccionario visual sobre las mujeres del siglo XXI. Instituto de las Mujeres. Club de Creativos/as",
@@ -1442,33 +1443,35 @@
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio do solo empresarial de galicia",
+    "name": "Observatorio do Solo Empresarial de Galicia",
     "website": "https://www.observatoriodosoloempresarial.gal",
     "parents": ["Instituto Galego da Vivenda e Solo"],
     "type": "publico",
+    "scope": "galicia",
     "description": "Mediante el Observatorio se busca, pues, suministrar información de todos los aspectos relativos al suelo empresarial, con el objetivo de que administraciones, empresas públicas y privadas, y cualquier persona interesada en este ámbito se encuentren en las condiciones idóneas para adoptar decisiones eficaces y adaptadas a las necesidades del país.",
     "is_active": "None"
   },
   {
-    "name": "Observatorio do comercio de galicia",
-    "parents": [
-      "Adscrito a la dirección xeral competente en materia de comercio de la Xunta de Galicia"
-    ],
+    "name": "Observatorio do Comercio de Galicia",
+    "parents": ["Dirección Xeral de Comercio", "Xunta de Galicia"],
     "type": "publico",
-    "description": "5. Promover la participación de la sociedad en la mejora y desarrollo de la actividad comercial en Galicia.",
+    "scope": "galicia",
+    "description": "Para promover la participación de la sociedad en la mejora y desarrollo de la actividad comercial en Galicia.",
     "from_date": "17/12/2010",
     "is_active": "None"
   },
   {
-    "name": "Observatorio da eólica mariña de galicia",
+    "name": "Observatorio da Eólica Mariña de Galicia",
     "website": "https://www.inega.gal/es/inega/puntos-de-encuentro-energeticos/observatorios",
     "parents": ["Xunta de Galicia", "Instituto Enerxético de Galicia"],
+    "scope": "galicia",
     "type": "publico",
     "description": "Para la elaboración de estudios sobre oportunidades, impacto y potencial industrial en Galicia.",
     "is_active": "Sí"
   },
   {
-    "name": "Observatorio da industria aeroespacial",
+    "name": "Observatorio da Industria Aeroespacial",
+    "scope": "galicia",
     "website": "https://www.consorcioaeronautico.com/observatorio-aeroespacial/gl/",
     "parents": [
       "Xunta de Galicia', 'Vicepresidencia Primera', 'Consellería de Economía, Empleo e Innovación', 'Consorcio Aeronáutico Gallego"
@@ -1643,13 +1646,8 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio andaluz de la publicidad  no sexista",
-    "website": "https://www.juntadeandalucia.es/institutodelamujer/index.php/observatorio-andaluz-de-publicidad-no-sexista",
-    "type": "publico",
-    "is_active": "None"
-  },
-  {
-    "name": "Observatorio andaluz de violencia de género",
+    "name": "Observatorio Andaluz de Violencia de Género",
+    "scope": "andalucia",
     "website": "https://www.juntadeandalucia.es/institutodelamujer/index.php/2013-08-08-10-31-21/observatorio-andaluz-de-violencia-de-genero",
     "type": "publico",
     "is_active": "None"
@@ -1659,6 +1657,7 @@
     "website": "https://comercio.castillalamancha.es/observatorio-comercio",
     "parents": ["Dirección General de Turismo, Comercio y Artesanía"],
     "type": "publico",
+    "scope": "castilla_la_mancha",
     "description": "Observatorio del Comercio de Castilla-La Mancha es un grupo de trabajo, consultivo, asesor y de colaboración entre la administración de la Junta de Comunidades de Castilla-La Mancha y las organizaciones representativas del comercio, del ámbito de la economía digital, y las organizaciones más representativas de las personas trabajadoras del sector, que servirá para dar apoyo a los actores implicados en la comprensión de las dinámicas del comercio regional y afrontar nuevos retos.",
     "from_date": "29 de Junio de 2021",
     "is_active": "Sí"
@@ -1706,17 +1705,19 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio de plagas y enfermedades agrícolas de castilla y león",
-    "website": "https://plagas.itacyl.es/",
+    "name": "Observatorio de plagas y enfermedades agrícolas de Castilla y León",
+    "scope": "castilla_y_leon",
+    "website": "https://plagas.itacyl.es",
     "email": "observatorio.plagas@itacyl.es",
     "parents": ["Junta de Castilla y León"],
     "type": "publico",
-    "description": "El objetivo final es aportar información útil al agricultor como apoyo en sus procesos de toma de decisiones.",
+    "description": "Para aportar información útil al agricultor como apoyo en sus procesos de toma de decisiones.",
     "from_date": "2009",
     "is_active": "Sí"
   },
   {
     "name": "Observatorio de la Vivienda Colaborativa de Castilla-La Mancha",
+    "scope": "castilla_la_mancha",
     "website": "https://coacmto.com/observatorio-vivienda-colaborativa-toledo",
     "parents": [
       "Colegio de Arquitectos de Castilla-La Mancha. Demarcación de Toledo."
@@ -1727,7 +1728,8 @@
   },
   {
     "name": "Observatorio de la actividad física (OBAFI) de Castilla-La Mancha",
-    "website": "https://obafi.es/",
+    "scope": "castilla_la_mancha",
+    "website": "https://obafi.es",
     "parents": ["Universidad de Castilla - La Mancha (UCLM)"],
     "type": "publico",
     "docs": [
@@ -1742,6 +1744,7 @@
     "name": "Observatorio sobre el brexit de Castilla-La Mancha",
     "website": "https://ipex.es/global-news/articulos-de-interes/observatorio-de-castilla-la-mancha-sobre-el-brexit/",
     "parents": ["IPEX"],
+    "scope": "castilla_la_mancha",
     "scope": "Estatal",
     "type": "publico",
     "description": "El IPEX, como organismo dependiente de la Consejería de Economía, Empresas y Empleo, encargado de la promoción internacional de las empresas de Castilla-La Mancha, pone en marcha esta oficina de atención virtual que atiende a las empresas de la región para resolver tus dudas sobre el Brexit.",
@@ -1754,6 +1757,7 @@
       "Consejería de Desarrollo Sostenible y Fomento"
     ],
     "type": "publico",
+    "scope": "castilla_la_mancha",
     "description": "Este Observatorio tiene sobre la mesa los retos identificados para la industria en la región: el crecimiento de la internacionalización de un sector que es responsable de uno de cada tres euros de las exportaciones de la Comunidad Autónoma, así como la digitalización, la sostenibilidad y la innovación en la industria.",
     "from_date": "30 de agosto de 2022 (30/08/2022)",
     "is_active": "Sí"
@@ -1763,6 +1767,7 @@
     "website": "https://www.educa.jccm.es/educa-jccm/cm/educa_jccm/tkContent?idContent=62664&locale=en_UK&textOnly=false",
     "parents": ["Consejería de Educación, Cultura y Deportes"],
     "type": "publico",
+    "scope": "castilla_la_mancha",
     "description": "- Elaboración de propuestas para la mejora de la convivencia.",
     "from_date": "1 de febrero de 2016",
     "is_active": "None"
@@ -1778,6 +1783,7 @@
   },
   {
     "name": "Observatorio de precios en consumo de Castilla-La Mancha",
+    "scope": "castilla_la_mancha",
     "website": "https://consumo.castillalamancha.es/node/23956",
     "parents": ["Dirección General de Salud Pública"],
     "type": "publico",
@@ -1808,6 +1814,7 @@
     "name": "Observatorio del mercado de trabajo de Castilla-La Mancha",
     "website": "https://empleoyformacion.castillalamancha.es/observatorio",
     "parents": ["Oficina de Orientación, Formación y Empleo"],
+    "scope": "castilla_la_mancha",
     "type": "publico",
     "docs": [
       {
@@ -1835,6 +1842,7 @@
   },
   {
     "name": "Observatori de la mort",
+    "scope": "cataluna",
     "website": "https://observatorisalut.gencat.cat/ca/observatori_mort/",
     "parents": ["Departament de Salut (Generalitat)"],
     "type": "publico",
@@ -1851,8 +1859,9 @@
     "is_active": "None"
   },
   {
-    "name": "Observatorio de transformación y participación de castilla y león",
+    "name": "Observatorio de transformación y participación de Castilla y León",
     "website": "https://www.observatoriotransformacion.com/",
+    "scope": "castilla_y_leon",
     "email": "observatoriotransformacion@gmail.com",
     "parents": ["Junta de Castilla y León"],
     "type": "publico",
@@ -1861,6 +1870,7 @@
   },
   {
     "name": "Observatori del treball i model productiu",
+    "scope": "cataluna",
     "website": "https://observatoritreball.gencat.cat/ca/inici",
     "parents": ["Departament d'Empresa i Treball (Generalitat)"],
     "type": "publico",
@@ -1875,6 +1885,7 @@
     "website": "https://observatoriolgtbiclm.com/",
     "type": "publico",
     "parents": ["Ayuntamiento de Guadalajara"],
+    "scope": "castilla_la_mancha",
     "description": "Como Observatorio la visión es poder tener varios objetivos fijados a largo plazo como concienciar la LGTBIfobia en la existente actual y erradicar contra la LGTBIfobia.",
     "from_date": "07-09-2021",
     "is_active": "Sí"
@@ -1883,6 +1894,7 @@
     "name": "Observatori de civisme i valors",
     "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/civisme_i_valors/observatori/",
     "parents": ["Departament de Drets Socials (Generalitat)"],
+    "scope": "cataluna",
     "type": "publico",
     "docs": [
       {
@@ -1895,6 +1907,7 @@
   {
     "name": "Observatorio de la muerte digna y de las comisiones de mortalidad de las áreas de salud.",
     "website": "https://www.astursalud.es/noticias/-/noticias/omd",
+    "scope": "asturias",
     "parents": [
       "https://sede.asturias.es/bopa-disposiciones?p_p_id=pa_sede_bopa_web_portlet_SedeBopaDispositionWeb&p_p_lifecycle=0&_pa_sede_bopa_web_portlet_SedeBopaDispositionWeb_mvcRenderCommandName=%2Fdisposition%2Fdetail&p_r_p_dispositionText=2020-06176&p_r_p_dispositionReference=2020-06176&p_r_p_dispositionDate=03%2F08%2F2020"
     ],
