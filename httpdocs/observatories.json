@@ -2005,6 +2005,23 @@
     "website": "https://ipex.es/global-news/articulos-de-interes/observatorio-de-castilla-la-mancha-sobre-el-brexit/"
   },
   {
+    "name": "Observatorio Municipal de Personas con Discapacidades",
+    "type": "publico",
+    "website": "https://www.rivasciudad.es/organos-de-participacion-ciudadana/foros-y-observatorios-locales/observatorio-municipal-de-personas-con-discapacidades/",
+    "description": "El Observatorio de la Discapacidad de Rivas Vaciamadrid nació en el 2009 como una iniciativa conjunta entre la corporación local y las diferentes entidades y asociaciones del municipio que trabajan con, para y por las personas con discapacidad y dependencia.\n\nEntre sus objetivos se encuentran:\n\nPromover la plena participación de las personas con discapacidades en la vida ciudadana.\r\nVelar y colaborar en el desarrollo de las políticas y actuaciones en materia de protección y promoción de la calidad de vida de las personas con discapacidades, por parte de todas las Administraciones Públicas.\r\nHacer visible en el municipio las necesidades y las capacidades de las personas con algún tipo de discapacidad.\r\nSu principal función se centra son conocer la realidad de la situación de estas personas, crear espacios de participación social en los que se recojan las propuestas e inquietudes, y se promuevan iniciativas que atiendan las necesidades planteadas.",
+    "scope": "local",
+    "from_date": "2009",
+    "parents": [
+      "Ayuntamiento de Rivas-Vaciamadrid"
+    ],
+    "docs": [
+      {
+        "name": "Actas de reuniones - última aquí https://www.rivasciudad.es/wp-content/uploads/2024/02/2023-11-13-acta-observatorio-discapacidad-extraordinaria.pdf"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "Este Observatorio tiene sobre la mesa los retos identificados para la industria en la región: el crecimiento de la internacionalización de un sector que es responsable de uno de cada tres euros de las exportaciones de la Comunidad Autónoma, así como la digitalización, la sostenibilidad y la innovación en la industria.",
     "from_date": "30 de agosto de 2022 (30/08/2022)",
     "is_active": "Sí",
