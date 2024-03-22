@@ -24,7 +24,8 @@ export function initSearchBar(parent, observatories) {
   const searchInput = document.createElement('input')
   searchInput.setAttribute('type', 'text')
   searchInput.setAttribute('id', 'searchbar')
-  searchInput.setAttribute('placeholder', 'Buscar...')
+  searchInput.setAttribute('placeholder', 'Filtrar…')
+  searchInput.setAttribute('autofocus', '')
   searchInput.style.width = '100%'
 
   // Se añade al padre antes de los observatorios
