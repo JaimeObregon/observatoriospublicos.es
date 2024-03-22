@@ -1473,8 +1473,8 @@
     "from_date": "10/10/2023",
     "is_active": "Sí",
     "name": "Observatorio da Lusofonía Valentín Paz Andrade",
-    "scope": "galicia",
     "parents": ["Secretaría General de Política Lingüística"],
+    "scope": "galicia",
     "type": "publico"
   },
   {
@@ -1900,11 +1900,11 @@
     "from_date": "2023",
     "is_active": "None",
     "name": "Observatorio de Contratación Pública Responsable de Canarias",
-    "scope": "canarias",
     "parents": [
       "Dirección General de Derechos Sociales e Inmigración",
       "Gobierno de Canarias"
     ],
+    "scope": "canarias",
     "type": "publico",
     "website": "https://contratacionresponsablecanarias.org"
   },
@@ -1986,20 +1986,20 @@
     "website": "https://observatorioviolencia.org"
   },
   {
-    "description": "Navarra.Las funciones de este Observatorio de nueva creación serían la de identificar y servir de intercambio de información sobre experiencias participativas consideradas de un especial interés, tanto en Navarra como fuera de ella, para su divulgación y gestión de buenas y malas prácticas en esta materia. Asimismo, se pretende poner en marcha un seminario de personas expertas que coadyuven al desarrollo del Plan de Impulso de la Participación Ciudadana, así como la presentación de un proyecto innovador en esta materia",
+    "description": "No parece tener actividad. Para <q>identificar y servir de intercambio de información sobre experiencias participativas consideradas de un especial interés, tanto en Navarra como fuera de ella, para su divulgación y gestión de buenas y malas prácticas en esta materia. Asimismo, se pretende poner en marcha un seminario de personas expertas que coadyuven al desarrollo del Plan de Impulso de la Participación Ciudadana, así como la presentación de un proyecto innovador en esta materia</q>.",
     "docs": {
       "name": "Enlace",
       "url": "https:///participacion/1587/impulso-participacion-ciudadana-navarra-2016-2019"
     },
     "from_date": "2016",
     "is_active": "None",
-    "name": "Observatorio de la participación ciudadana en navarra",
+    "name": "Observatorio de la Participación Ciudadana en Navarra",
     "parents": [
-      "Presidencia del Gobierno",
+      "Presidencia del Gobierno de Navarra",
       "Departamento de Sociología de la UPNa",
       "Colegio de Sociología y Politología de Navarra"
     ],
-    "stop_date": "No parece tener actividad.",
+    "scope": "navarra",
     "website": "https://gobiernoabierto.navarra.es/es/participacion/enviar-aportacion/1587/observatorio-participacion-ciudadana-navarra"
   },
   {
@@ -2007,13 +2007,13 @@
     "email": "observatorio_dglbd@gva.es",
     "from_date": "18 de marzo de 2021, mediante el [DECRETO 43/2021, de 18 de marzo, del Consell, de creación del Observatorio de Brecha Digital.](https://dogv.gva.es/es/resultat-dogv?signatura=2021/3198&L=1)",
     "is_active": "Sí",
-    "name": "Observatori de la bretxa digital",
+    "name": "Observatori de la Bretxa Digital",
     "parents": [
       "Generalitat Valenciana",
       "Conselleria de Innovación, Industria, Comercio y Turismo"
     ],
-    "type": "publico",
     "scope": "comunidad_valenciana",
+    "type": "publico",
     "website": "https://brechadigital.gva.es"
   },
   {
@@ -2021,10 +2021,10 @@
     "email": "observatorio.social@malaga.eu",
     "from_date": "2011",
     "is_active": "None",
-    "name": "Observatorio municipal para la inclusión social",
+    "name": "Observatorio Municipal para la Inclusión Social",
     "parents": ["Área de Derechos Sociales"],
     "type": "publico",
-    "website": "https://observatoriosocial.malaga.eu/"
+    "website": "https://observatoriosocial.malaga.eu"
   },
   {
     "description": "Evaluación de políticas públicas.",
@@ -2034,7 +2034,8 @@
     "from_date": "Aproximadamente 2016 (primeros estudios publicados como observatorio)",
     "is_active": "Sí",
     "name": "De la realidad social de navarra / análisis y prospección de la realidad de navarra",
-    "parents": ["Servicios sociales , empleo y vivienda"],
+    "parents": ["Servicios sociales, empleo y vivienda"],
+    "scope": "navarra",
     "type": "publico",
     "website": "https://www.observatoriorealidadsocial.es/es/estudios/"
   },
@@ -2049,8 +2050,9 @@
     "email": "accesibilidad@euskadi.eus",
     "from_date": "[21 de julio de 2021](https://www.irekia.euskadi.eus/es/news/70861-euskadi-contara-con-observatorio-accesibilidad-para-obtener-imagen-real-este-derecho-comunidad-autonoma)",
     "is_active": "Sí",
-    "name": "Observatorio de accesibilidad de euskadi",
-    "parents": ["- Dirección de Vivienda, Suelo y Arquitectónica"],
+    "name": "Observatorio de Accesibilidad de Euskadi",
+    "parents": ["Dirección de Vivienda, Suelo y Arquitectónica"],
+    "scope": "pais_vasco",
     "type": "publico",
     "website": "https://isek.euskadi.eus/webisek00-isekquees/es/"
   },
@@ -2166,8 +2168,8 @@
       "Gobierno de Canarias",
       "Consejería de Empleo y Asuntos Sociales"
     ],
-    "type": "publico",
     "scope": "canarias",
+    "type": "publico",
     "website": "https://obecan.es"
   },
   {
