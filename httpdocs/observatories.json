@@ -152,6 +152,30 @@
     "scope": "cantabria"
   },
   {
+    "name": "Observatorio de Márgenes Empresariales",
+    "type": "publico",
+    "website": "https://www.bde.es/wbe/es/inicio/observatorio-margenes-empresariales/",
+    "description": "Facilitar el acceso a los analistas, investigadores y cualquier ciudadano interesado en la información sobre los márgenes empresariales. Su objetivo es dar transparencia a las tareas realizadas y previstas por el OME y difundir la información y análisis realizados con ella.",
+    "scope": "estatal",
+    "parents": [
+      "Ministerio de Asuntos Económicos y Transformación Digital (MINECO),",
+      "Agencia Estatal de Administración Tributaria (AEAT)",
+      "Banco de España."
+    ],
+    "docs": [
+      {
+        "name": "Observatorio de Márgenes Empresariales – Informe Trimestral 2023/T1 Archivo PDF: Abre en nueva ventana (1 MB)"
+      },
+      {
+        "name": "Observatorio de Márgenes Empresariales – Segundo Informe Trimestral Archivo PDF: Abre en nueva ventana (874 KB)"
+      },
+      {
+        "name": "Observatorio de Márgenes Empresariales – Informe Trimestral 2023/T3 Archivo PDF: Abre en nueva ventana (334 KB)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio de la Infancia y la Adolescencia de les Illes Balears",
     "scope": "islas_baleares"
   },
