@@ -640,6 +640,16 @@
     "type": "publico"
   },
   {
+    "name": "Observatorio Social Barcelona",
+    "type": "publico",
+    "website": "https://ajuntament.barcelona.cat/dretssocials/es/content/observatorio-social-bcn",
+    "description": "El Observatorio Social Barcelona es un instrumento de conocimiento de la realidad social de la ciudad que tiene como objetivos principales:\n\nConocer y evaluar la situación y la evolución de las condiciones de vida de la población, la realidad de los diferentes colectivos y la evolución de los fenómenos y procesos sociales que afectan a la calidad de vida de las personas y a la cohesión social de la ciudad.\r\n    Difundir y compartir conocimiento con la ciudadanía, las entidades y asociaciones, y con el colectivo profesional y técnico, directivo y político.\r\n    Apoyar a la planificación y a la toma de decisiones.",
+    "scope": "local",
+    "parents": [
+      "Ajuntament de Barcelona"
+    ]
+  },
+  {
     "name": "Observatorio de Empleo y Formación del Servicio Cántabro de Empleo",
     "scope": "cantabria",
     "type": "publico"
