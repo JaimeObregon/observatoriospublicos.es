@@ -3,22 +3,20 @@ import {
   createObservatoryDetailsComponent,
   createObservatoryCardComponent,
 } from './observatorioContent.js'
-import {
-  initSearchBar
-} from './searchbar.js'
+import { initSearchBar } from './searchbar.js'
 
 // Ventana modal
 let visibleModal = null
 
 // Observatorios en ventana
-let currentObservatories = null;
+let currentObservatories = null
 
 /**
  * Genera la lista de observatorios en el HTML
- * 
+ *
  * @param {*} thisObservatories Lista de observatorios
  */
-export function updateObservatories(thisObservatories){
+export function updateObservatories(thisObservatories) {
   const container = document.querySelector('x-catalog')
   container.innerHTML = thisObservatories
     .map((observatory, index) =>
@@ -45,7 +43,7 @@ export function updateObservatories(thisObservatories){
   })
 
   // Se copia la lista en curso
-  currentObservatories = thisObservatories.slice();
+  currentObservatories = thisObservatories.slice()
 }
 
 async function main() {
@@ -71,11 +69,11 @@ async function main() {
   count.innerHTML = observatories.length.toString()
 
   // Se actualizan los observatorios
-  updateObservatories(observatories);
+  updateObservatories(observatories)
 
   // Inicialización de la barra de búsqueda
   const container = document.querySelector('x-catalog')
-  initSearchBar(container, observatories);
+  initSearchBar(container, observatories)
 
   document.addEventListener('click', (event) => {
     if (visibleModal === null) return
