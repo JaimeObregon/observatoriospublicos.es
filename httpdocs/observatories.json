@@ -1252,9 +1252,9 @@
     "is_active": "Sí",
     "name": "Observatorio de Márgenes Empresariales",
     "parents": [
-      "Ministerio de Asuntos Económicos y Transformación Digital (MINECO)",
-      "Banco de España (BdE)",
-      "Agencia Estatal de Administración Tributaria (AEAT)"
+      "Ministerio de Asuntos Económicos y Transformación Digital",
+      "Banco de España",
+      "Agencia Estatal de Administración Tributaria"
     ],
     "scope": "estatal",
     "type": "publico",
@@ -2542,7 +2542,7 @@
     "email": "oscn@navarra.es",
     "is_active": "None",
     "name": "Observatorio de Salud Pública de Navarra",
-    "parents": ["Gobierno de Navarra. Departamento de Salud"],
+    "parents": ["Gobierno de Navarra", "Departamento de Salud"],
     "scope": "navarra",
     "type": "publico",
     "website": "https://portalsalud.navarra.es/es/observatorio"
@@ -2550,10 +2550,10 @@
   {
     "is_active": "Sí",
     "name": "Observatorio de la Cadena Alimentaria y de la Madera de Euskadi",
-    "parents": ["Hazi"],
+    "parents": ["Hazi", "Gobierno Vasco"],
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://behatoki.eus/"
+    "website": "https://behatoki.eus"
   },
   {
     "email": "omigualdad@oc.mde.es",
@@ -2575,7 +2575,7 @@
       }
     ],
     "is_active": "Sí",
-    "name": "Observatorio de márgenes empresariales",
+    "name": "Observatorio de Márgenes Empresariales",
     "parents": [
       "Ministerio de Asuntos Económicos y Transformación Digital",
       "Banco de España",
