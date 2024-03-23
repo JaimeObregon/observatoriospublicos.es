@@ -1736,7 +1736,7 @@
     "description": "Observatorio del Comercio de Castilla-La Mancha es un grupo de trabajo, consultivo, asesor y de colaboración entre la administración de la Junta de Comunidades de Castilla-La Mancha y las organizaciones representativas del comercio, del ámbito de la economía digital, y las organizaciones más representativas de las personas trabajadoras del sector, que servirá para dar apoyo a los actores implicados en la comprensión de las dinámicas del comercio regional y afrontar nuevos retos.",
     "from_date": "29 de Junio de 2021",
     "is_active": "Sí",
-    "name": "Observatorio del comercio de Castilla-La Mancha",
+    "name": "Observatorio del Comercio de Castilla-La Mancha",
     "parents": ["Dirección General de Turismo, Comercio y Artesanía"],
     "scope": "castilla_la_mancha",
     "type": "publico",
@@ -1859,8 +1859,12 @@
   {
     "description": "El IPEX, como organismo dependiente de la Consejería de Economía, Empresas y Empleo, encargado de la promoción internacional de las empresas de Castilla-La Mancha, pone en marcha esta oficina de atención virtual que atiende a las empresas de la región para resolver tus dudas sobre el Brexit.",
     "is_active": "None",
-    "name": "Observatorio sobre el brexit de Castilla-La Mancha",
-    "parents": ["IPEX"],
+    "name": "Observatorio sobre el Brexit de Castilla-La Mancha",
+    "parents": [
+      "Instituto de Promoción de Castilla-La Mancha",
+      "Consejería de Economía, Empresas y Empleo",
+      "Junta de Castilla-La Mancha"
+    ],
     "scope": "estatal",
     "type": "publico",
     "website": "https://ipex.es/global-news/articulos-de-interes/observatorio-de-castilla-la-mancha-sobre-el-brexit/"
@@ -1869,7 +1873,8 @@
     "description": "El Observatorio de la Discapacidad de Rivas Vaciamadrid nació en el 2009 como una iniciativa conjunta entre la corporación local y las diferentes entidades y asociaciones del municipio que trabajan con, para y por las personas con discapacidad y dependencia. Entre sus objetivos se encuentran: Promover la plena participación de las personas con discapacidades en la vida ciudadana. Velar y colaborar en el desarrollo de las políticas y actuaciones en materia de protección y promoción de la calidad de vida de las personas con discapacidades, por parte de todas las Administraciones Públicas. Hacer visible en el municipio las necesidades y las capacidades de las personas con algún tipo de discapacidad. Su principal función se centra son conocer la realidad de la situación de estas personas, crear espacios de participación social en los que se recojan las propuestas e inquietudes, y se promuevan iniciativas que atiendan las necesidades planteadas.",
     "docs": [
       {
-        "name": "Actas de reuniones - última aquí https://www.rivasciudad.es/wp-content/uploads/2024/02/2023-11-13-acta-observatorio-discapacidad-extraordinaria.pdf"
+        "name": "Acta de reunión",
+        "url": "https://www.rivasciudad.es/wp-content/uploads/2024/02/2023-11-13-acta-observatorio-discapacidad-extraordinaria.pdf"
       }
     ],
     "from_date": "2009",
@@ -2237,7 +2242,7 @@
     "parents": [
       "Dirección General de Salud Pública",
       "Consejería de Sanidad",
-      "Junta de Castilla La Mancha"
+      "Junta de Castilla-La Mancha"
     ],
     "scope": "castilla_la_mancha",
     "type": "publico",
