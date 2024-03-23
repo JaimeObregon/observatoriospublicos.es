@@ -1321,9 +1321,9 @@
     "parents": [
       "Consejería de desarrollo educativo y formación profesional de la Junta de Andalucía",
       "Dirección General competente materia de convivencia escolar",
-      "Ministerio de Asuntos Económicos y Transformación Digital (MINECO)",
-      "Banco de España (BdE)",
-      "Agencia Estatal de Administración Tributaria (AEAT)"
+      "Ministerio de Asuntos Económicos y Transformación Digital",
+      "Banco de España",
+      "Agencia Estatal de Administración Tributaria"
     ],
     "scope": "andalucia",
     "type": "publico",
@@ -1380,14 +1380,6 @@
     "scope": "canarias",
     "type": "publico",
     "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/"
-  },
-  {
-    "is_active": "None",
-    "name": "Observatorio de Contratación Pública Responsable de Canarias",
-    "parents": ["Gobierno de Canarias"],
-    "scope": "canarias",
-    "type": "publico",
-    "website": "https://contratacionresponsablecanarias.org"
   },
   {
     "is_active": "None",
@@ -1773,7 +1765,8 @@
     "name": "Observatorio de servicios sociales y dependencia de Castilla-La Mancha",
     "parents": [
       "Universidad de Castilla-La Mancha",
-      "Consejería de Bienestar Social de Castilla-La Mancha"
+      "Consejería de Bienestar Social de Castilla-La Mancha",
+      "Junta de Castilla-La Mancha"
     ],
     "scope": "castilla_la_mancha",
     "type": "publico"
@@ -1861,8 +1854,11 @@
       }
     ],
     "is_active": "Sí",
-    "name": "Observatorio de la actividad física (OBAFI) de Castilla-La Mancha",
-    "parents": ["Universidad de Castilla - La Mancha (UCLM)"],
+    "name": "Observatorio de la Actividad Física (OBAFI) de Castilla-La Mancha",
+    "parents": [
+      "Universidad de Castilla-La Mancha",
+      "Junta de Castilla-La Mancha"
+    ],
     "scope": "castilla_la_mancha",
     "type": "publico",
     "website": "https://obafi.es"
@@ -1922,7 +1918,10 @@
     "email": "smartcatalonia@gencat.cat",
     "is_active": "None",
     "name": "Observatori SmartCatalonia",
-    "parents": ["Administració Oberta de Catalunya (Generalitat)"],
+    "parents": [
+      "Administració Oberta de Catalunya",
+      "Generalitat de Catalunya"
+    ],
     "scope": "cataluna",
     "type": "publico",
     "website": "https://observatori.smartcatalonia.gencat.cat/about"
@@ -2030,17 +2029,27 @@
       }
     ],
     "is_active": "None",
-    "name": "Observatori de civisme i valors",
-    "parents": ["Departament de Drets Socials (Generalitat)"],
+    "name": "Observatori de Civisme i Valors",
+    "parents": ["Departament de Drets Socials", "Generalitat de Catalunya"],
     "scope": "cataluna",
     "type": "publico",
+    "docs": [
+      {
+        "url": "https://dretssocials.gencat.cat/web/.content/03ambits_tematics/19_civisme_i_valors/observatori/informes/Monografic-dinamiques-comunitaries-als-barris_1121_febrer-2022.pdf",
+        "name": "Informe monogràfic 2021: Dimensió comunitària als barris de Catalunya"
+      }
+    ],
     "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/civisme_i_valors/observatori/"
   },
   {
     "is_active": "None",
-    "name": "Observatorio de la muerte digna y de las comisiones de mortalidad de las áreas de salud.",
-    "parents": [
-      "https://sede.asturias.es/bopa-disposiciones?p_p_id=pa_sede_bopa_web_portlet_SedeBopaDispositionWeb&p_p_lifecycle=0&_pa_sede_bopa_web_portlet_SedeBopaDispositionWeb_mvcRenderCommandName=%2Fdisposition%2Fdetail&p_r_p_dispositionText=2020-06176&p_r_p_dispositionReference=2020-06176&p_r_p_dispositionDate=03%2F08%2F2020"
+    "name": "Observatorio de la Muerte Digna y de las Comisiones de Mortalidad de las Áreas de Salud.",
+    "parents": ["Gobierno del Principado de Asturias", "Consejería de Salud"],
+    "docs": [
+      {
+        "name": "Decreto 63/2020, de 16 de julio, por el que se regulan la organización y el funcionamiento del Observatorio de la Muerte Digna y de las Comisiones de Mortalidad de las Áreas de Salud",
+        "url": "https://sede.asturias.es/bopa-disposiciones?p_p_id=pa_sede_bopa_web_portlet_SedeBopaDispositionWeb&p_p_lifecycle=0&_pa_sede_bopa_web_portlet_SedeBopaDispositionWeb_mvcRenderCommandName=%2Fdisposition%2Fdetail&p_r_p_dispositionText=2020-06176&p_r_p_dispositionReference=2020-06176&p_r_p_dispositionDate=03%2F08%2F2020"
+      }
     ],
     "scope": "asturias",
     "type": "publico",
@@ -2074,7 +2083,14 @@
     "is_active": "Sí",
     "name": "Observatorio de Precios de los Productos Agroalimetarios de la Comunitat Valenciana",
     "type": "publico",
-    "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851"
+    "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851",
+    "from_date": "6 de octubre de 2006",
+    "docs": [
+      {
+        "name": "DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana",
+        "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2006/11596"
+      }
+    ]
   },
   {
     "description": "Observa los precios de venta al público y trata de identificar posibles subidas injustificadas de precios.",
@@ -2098,22 +2114,14 @@
   {
     "email": "smn.obsam@cime.es",
     "is_active": "None",
-    "name": "Observatori socioambiental de menorca",
-    "parents": ["Instituto Menorquín de Estudios"],
-    "type": "publico",
-    "website": "https://www.obsam.cat"
-  },
-  {
-    "description": "Para conocer un poco más sobre la historia de la Inteligencia Artificial, identificar a los [agentes implicados](https://observatorioia.gva.es/es/imprescindibles#p_p_id_56_INSTANCE_cRDjJJr6WlEu_) y comenzar a manejarse con los términos más habituales empleados en este campo, existen diversas iniciativas como el [Léxico del Correo de la UNESCO](https://es.unesco.org/courier/2018-3/lexico-inteligencia-artificial), el diccionario tecnológico [Datapedia](http://luca-d3.com/es/diccionario-tecnologico/index.html) de Telefónica o los [Cuadernos de la Fundación General CSIC](http://www.fgcsic.es/lychnos/es_es/articulos/inteligencia_artificial), entre muchas otras.",
-    "from_date": "9 de junio de 2023, según el [DECRETO 85/2023, de 9 de junio, del Consell, de creación del Observatorio de la Inteligencia Artificial de la Comunitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2023/6578&L=1).",
-    "is_active": "Sí",
-    "name": "Observatori d'IA per a l'Administració Pública",
+    "name": "Observatori Socioambiental de Menorca",
+    "scope": "menorca",
     "parents": [
-      "Generalitat Valenciana",
-      "Conselleria d'Innovació, Indústria, Comerç i Turisme"
+      "Instituto Menorquín de Estudios",
+      "Consell Insular de Menorca"
     ],
     "type": "publico",
-    "website": "https://observatorioia.gva.es/"
+    "website": "https://www.obsam.cat"
   },
   {
     "email": "movilidad@malaga.eu",
@@ -2125,15 +2133,14 @@
   },
   {
     "description": "El objetivo de este informe estadístico, de carácter anual, es conocer de una forma completa e integrada las pautas de la visita y el perfil del visitante, tanto turistas como excursionistas, entre otros aspectos. Es decir, se trata de determinar los perfiles del visitante que llega a la ciudad de Málaga: cuáles son sus motivaciones iniciales, cómo organizan su viaje, qué tipo de actividades realizan durante su estancia, cómo valoran la oferta disponible y el viaje en función de sus expectativas iniciales, entre otros aspectos relevantes.",
-    "docs": {
-      "name": "Enlace",
-      "url": "https:///es/observatorio-turistico/informes"
-    },
     "email": "visita@malaga.eu",
     "is_active": "Sí",
-    "name": "Observatorio turístico",
+    "from_date": "2008",
+    "name": "Observatorio turístico de Málaga",
     "parents": [
-      "El Ayuntamiento de Málaga, la Universidad de Málaga y el Área de Turismo de Málaga."
+      "Ayuntamiento de Málaga",
+      "Universidad de Málaga",
+      "Área de Turismo de Málaga"
     ],
     "type": "publico",
     "website": "https://visita.malaga.eu/profesional/es/observatorio-turistico"
@@ -2153,6 +2160,12 @@
       "name": "Enlace",
       "url": "https:///participacion/1587/impulso-participacion-ciudadana-navarra-2016-2019"
     },
+    "docs": [
+      {
+        "name": "Impulso a la Actividad 2016/17",
+        "url": "https://gobiernoabierto.navarra.es/es/participacion/1587/impulso-participacion-ciudadana-navarra-2016-2019"
+      }
+    ],
     "from_date": "2016",
     "is_active": "None",
     "name": "Observatorio de la Participación Ciudadana en Navarra",
@@ -2167,7 +2180,13 @@
   {
     "description": "Es un órgano colegiado y consultivo que dependiendo de la Dirección General competente en materia de lucha contra la brecha digital trata de ser un foro de participación que permita el impulso compartido entre las administraciones públicas, los agentes económicos y sociales y la sociedad civil organizada en la lucha contra la brecha digital. Servirá de plataforma para planificar, estudiar y analizar el entorno y la realidad socioeconómica valenciana en materia de brecha digital.",
     "email": "observatorio_dglbd@gva.es",
-    "from_date": "18 de marzo de 2021, mediante el [DECRETO 43/2021, de 18 de marzo, del Consell, de creación del Observatorio de Brecha Digital.](https://dogv.gva.es/es/resultat-dogv?signatura=2021/3198&L=1)",
+    "from_date": "18 de marzo de 2021",
+    "docs": [
+      {
+        "name": "DECRETO 43/2021, de 18 de marzo, del Consell, de creación del Observatorio de Brecha Digital",
+        "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2021/3198&L=1"
+      }
+    ],
     "is_active": "Sí",
     "name": "Observatori de la Bretxa Digital",
     "parents": [
@@ -2241,11 +2260,35 @@
     "website": "https://www.castillalamancha.es/gobierno/agriaguaydesrur/estructura/dgalimentacion/titular/observatorio-precios-cadena-agroalimentaria"
   },
   {
-    "description": "El Observatorio de Precios en consumo facilita que las personas consumidoras tomen decisiones de compra informadas con arreglo a criterios económicos.",
+    "description": "Facilita que las personas consumidoras tomen decisiones de compra informadas con arreglo a criterios económicos.",
     "docs": [
       {
         "name": "Evolución precios tipos alimentos Navidad 2023 (2ª actualización)",
         "url": "https://consumo.castillalamancha.es/sites/default/files/2024-01/%28ALEJ%29EVOLUCION%20PRECIO%20TIPOS%20ALIMENTOS%20%28NAVIDAD%202023%29.pdf) (753.17 KB"
+      },
+      {
+        "name": "Evolución precio medio aceites Navidad 2023 (2ª actualización)",
+        "url": "https://consumo.castillalamancha.es/sites/default/files/2024-01/%28ALEJ%29EVOLUCION%20PRECIO%20MEDIO%20AOVE%20EN%20CLM.pdf"
+      },
+      {
+        "name": "Evolución precios aceites provincias Navidad 2023 (2ª Actualización)",
+        "url": "https://consumo.castillalamancha.es/sites/default/files/2024-01/%28ALEJ%28EVOLUCION%20PRECIOS%20AOVE%20PROVINCIAS%20%28ABR-DIC2023%29.pdf"
+      },
+      {
+        "name": "Evolución precios aceites Navidad 2023 (Actualización)",
+        "url": "https://consumo.castillalamancha.es/sites/default/files/2024-01/%28ALEJ%29EVOLUCION%20PRECIO%20MEDIO%20ACEITE%20OVE%20MARCA%20Y%20MARCA%20BLANCA%282%C2%BACONTROLNAVIDAD%29.pdf"
+      },
+      {
+        "name": "Evolución precios Periodo Navidad 3 a 18 de diciembre",
+        "url": "https://consumo.castillalamancha.es/sites/default/files/2024-01/%28ALEJ%29EVOLUCION%20PRRCIO%20MEDIO%20POR%20GRUPOS%20DE%20ALIMENTOS%20NAVIDAD23-2%C2%BA.pdf"
+      },
+      {
+        "name": "Evolución precios aceites Navidad 2023",
+        "url": "https://consumo.castillalamancha.es/sites/default/files/2023-12/%28ALEJ%29EVOLUCI%C3%93N%20PRECIO%20MEDIO%20%20ACEITES%20NAVIDAD23.pdf"
+      },
+      {
+        "name": "Evolución precios Periodo Navidad 2022 - Diciembre 2023",
+        "url": "https://consumo.castillalamancha.es/sites/default/files/2023-12/%28ALEJ%29EVOLUCI%C3%93N%20PRECIO%20MEDIO%20POR%20GRUPO%20DE%20ALIMENTOS%20NAVIDAD23%281%29.pdf"
       }
     ],
     "from_date": "Febrero 2022",
@@ -2455,7 +2498,16 @@
     ],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://observatorioia.gva.es/es/"
+    "website": "https://observatorioia.gva.es/es/",
+
+    "description": "Para conocer un poco más sobre la historia de la Inteligencia Artificial, identificar a los agentes implicados y comenzar a manejarse con los términos más habituales empleados en este campo.",
+    "from_date": "9 de junio de 2023",
+    "docs": [
+      {
+        "name": "DECRETO 85/2023, de 9 de junio, del Consell, de creación del Observatorio de la Inteligencia Artificial de la Comunitat Valenciana",
+        "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2023/6578&L=1"
+      }
+    ]
   },
   {
     "is_active": "None",
