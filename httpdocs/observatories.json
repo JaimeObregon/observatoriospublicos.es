@@ -438,7 +438,7 @@
     "scope": "estatal"
   },
   {
-    "description": "Iniciativa del Ayuntamiento de Valderredible con el Gobierno de Cantabria, presentada en 2021 y 2022. A fecha de la primavera de 2024 no consta que se haya puesto en marcha.",
+    "description": "Iniciativa del Ayuntamiento de Valderredible con el Gobierno de Cantabria, planteada en 2021 y 2022. A fecha de la primavera de 2024 no consta que se haya puesto en marcha.",
     "docs": [
       {
         "name": "Marcano valora de forma “muy positiva” la propuesta de crear en Valderredible un Observatorio Nacional y Centro de Iniciativas contra el despoblamiento",
@@ -682,14 +682,14 @@
   },
   {
     "location": "A Coruña",
-    "name": "Observatorio municipal de igualdade e diversidade",
+    "name": "Observatorio Municipal de Igualdade e Diversidade",
     "parents": ["Concello de A Coruña"],
     "scope": "municipal",
     "website": "https://www.coruna.gal/igualdade/es/servicios/observatorio"
   },
   {
     "location": "A Coruña",
-    "name": "Observatorio turístico de A Coruña",
+    "name": "Observatorio Turístico de A Coruña",
     "parents": ["Concello de A Coruña", "Universidade da Coruña"],
     "scope": "municipal",
     "website": "https://acorunaot.udc.es"
@@ -1342,7 +1342,7 @@
   },
   {
     "is_active": "None",
-    "name": "L'observatori social, ambiental i de salut de la diputació de girona",
+    "name": "Observatori Social, Ambiental i de Salut",
     "parents": ["Diputació de Girona"],
     "type": "publico",
     "website": "https://observatori.dipsalut.cat/es"
@@ -2090,9 +2090,10 @@
     "description": "Para conocer un poco más sobre la historia de la Inteligencia Artificial, identificar a los [agentes implicados](https://observatorioia.gva.es/es/imprescindibles#p_p_id_56_INSTANCE_cRDjJJr6WlEu_) y comenzar a manejarse con los términos más habituales empleados en este campo, existen diversas iniciativas como el [Léxico del Correo de la UNESCO](https://es.unesco.org/courier/2018-3/lexico-inteligencia-artificial), el diccionario tecnológico [Datapedia](http://luca-d3.com/es/diccionario-tecnologico/index.html) de Telefónica o los [Cuadernos de la Fundación General CSIC](http://www.fgcsic.es/lychnos/es_es/articulos/inteligencia_artificial), entre muchas otras.",
     "from_date": "9 de junio de 2023, según el [DECRETO 85/2023, de 9 de junio, del Consell, de creación del Observatorio de la Inteligencia Artificial de la Comunitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2023/6578&L=1).",
     "is_active": "Sí",
-    "name": "Observatori d'ia per a l'administració pública",
+    "name": "Observatori d'IA per a l'Administració Pública",
     "parents": [
-      "Generalitat Valenciana - Conselleria d'Innovació, Indústria, Comerç i Turisme"
+      "Generalitat Valenciana",
+      "Conselleria d'Innovació, Indústria, Comerç i Turisme"
     ],
     "type": "publico",
     "website": "https://observatorioia.gva.es/"
