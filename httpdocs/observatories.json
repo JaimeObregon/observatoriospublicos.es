@@ -2033,12 +2033,6 @@
     "parents": ["Departament de Drets Socials", "Generalitat de Catalunya"],
     "scope": "cataluna",
     "type": "publico",
-    "docs": [
-      {
-        "url": "https://dretssocials.gencat.cat/web/.content/03ambits_tematics/19_civisme_i_valors/observatori/informes/Monografic-dinamiques-comunitaries-als-barris_1121_febrer-2022.pdf",
-        "name": "Informe monogràfic 2021: Dimensió comunitària als barris de Catalunya"
-      }
-    ],
     "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/civisme_i_valors/observatori/"
   },
   {
@@ -2079,9 +2073,10 @@
     "website": "https://contratacionresponsablecanarias.org"
   },
   {
-    "from_date": "6 de octubre de 2006, según el [DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2006/11596).",
+    "description": "Según el [DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2006/11596).",
     "is_active": "Sí",
     "name": "Observatorio de Precios de los Productos Agroalimetarios de la Comunitat Valenciana",
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851",
     "from_date": "6 de octubre de 2006",
@@ -2156,11 +2151,10 @@
   },
   {
     "description": "No parece tener actividad. Para <q>identificar y servir de intercambio de información sobre experiencias participativas consideradas de un especial interés, tanto en Navarra como fuera de ella, para su divulgación y gestión de buenas y malas prácticas en esta materia. Asimismo, se pretende poner en marcha un seminario de personas expertas que coadyuven al desarrollo del Plan de Impulso de la Participación Ciudadana, así como la presentación de un proyecto innovador en esta materia</q>.",
-    "docs": {
+    "docs": [{
       "name": "Enlace",
       "url": "https:///participacion/1587/impulso-participacion-ciudadana-navarra-2016-2019"
-    },
-    "docs": [
+      },
       {
         "name": "Impulso a la Actividad 2016/17",
         "url": "https://gobiernoabierto.navarra.es/es/participacion/1587/impulso-participacion-ciudadana-navarra-2016-2019"
