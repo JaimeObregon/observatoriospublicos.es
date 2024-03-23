@@ -2070,7 +2070,14 @@
     "is_active": "Sí",
     "name": "Observatorio de Precios de los Productos Agroalimetarios de la Comunitat Valenciana",
     "type": "publico",
-    "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851"
+    "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851",
+    "from_date": "6 de octubre de 2006",
+    "docs": [
+      {
+        "name": "DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana",
+        "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2006/11596"
+      }
+    ]
   },
   {
     "description": "Observa los precios de venta al público y trata de identificar posibles subidas injustificadas de precios.",
@@ -2094,8 +2101,12 @@
   {
     "email": "smn.obsam@cime.es",
     "is_active": "None",
-    "name": "Observatori socioambiental de menorca",
-    "parents": ["Instituto Menorquín de Estudios"],
+    "name": "Observatori Socioambiental de Menorca",
+    "scope": "menorca",
+    "parents": [
+      "Instituto Menorquín de Estudios",
+      "Consell Insular de Menorca"
+    ],
     "type": "publico",
     "website": "https://www.obsam.cat"
   },
