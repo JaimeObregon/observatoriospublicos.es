@@ -19,6 +19,8 @@
     "website": "https://www.observatoriosaludmujeres.es"
   },
   {
+    "description": "El Observatorio del Ferrocarril en España (OFE) es un Informe de la Fundación de los Ferrocarriles Españoles que realiza en colaboración con el Ministerio de Transportes y Movilidad Sostenible y que tiene como misión fundamental recopilar y producir información precisa sobre un conjunto de indicadores, elaborados al efecto, que caracterizan la situación y evolución del sector ferroviario.",
+    "is_active": "No",
     "docs": [
       {
         "name": "Informe 2022",
