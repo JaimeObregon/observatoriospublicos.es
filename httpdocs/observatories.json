@@ -903,46 +903,60 @@
         "url": "https://www.carm.es/web/descarga?ARCHIVO=INFORME%20CONVIVENCIA%202022.pdf&ALIAS=ARCH&IDCONTENIDO=187826&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       },
       {
-        "name": "Informe 2021"
+        "name": "Informe 2021",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=INFORME%20CONVIVENCIA%202021.pdf&ALIAS=ARCH&IDCONTENIDO=181057&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       },
       {
-        "name": "Informe 2020"
+        "name": "Informe 2020",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=INFORME_OBSERVATORIO_CONVIVENCIA_2020.pdf&ALIAS=ARCH&IDCONTENIDO=175096&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       },
       {
-        "name": "Informe 2019"
+        "name": "Informe 2019",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=INFORME_OBSERVATORIO_CONVIVENCIA_2019_PUBLICARWEB.doc.pdf&ALIAS=ARCH&IDCONTENIDO=168973&IDTIPO=60&INLINE=N&RASTRO=c792$m4001,5316,8320"
       },
       {
-        "name": "Informe 2018"
+        "name": "Informe 2018",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=INFORME_OBSERVATORIO_CONVIVENCIA_2018-PUBLICARWEB.doc.pdf&ALIAS=ARCH&IDCONTENIDO=168975&IDTIPO=60&INLINE=N&RASTRO=c792$m4001,5316,8320"
       },
       {
-        "name": "Informe 2017"
+        "name": "Informe 2017",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=INFORME_OBSERVATORIO_CONVIVENCIA_2017.pdf&ALIAS=ARCH&IDCONTENIDO=175011&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       },
       {
-        "name": "Informe 2016"
+        "name": "Informe 2016",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=Informe_Convivencia_2016.pdf&ALIAS=ARCH&IDCONTENIDO=158066&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       },
       {
-        "name": "Informe 2015"
+        "name": "Informe 2015",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=Informe_Convivencia_2015.pdf&ALIAS=ARCH&IDCONTENIDO=157245&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       },
       {
-        "name": "Informe 2014"
+        "name": "Informe 2014",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=Informe-Convivencia2014.pdf&ALIAS=ARCH&IDCONTENIDO=111710&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       },
       {
-        "name": "Informe 2013"
+        "name": "Informe 2013",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=InformeConvivencia2013.pdf&ALIAS=ARCH&IDCONTENIDO=105129&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       },
       {
-        "name": "Informe 2012"
+        "name": "Informe 2012",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=informeConvivenciaEscolar2012.pdf&ALIAS=ARCH&IDCONTENIDO=96478&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       },
       {
-        "name": "Informe 2011"
+        "name": "Informe 2011",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=Informe%20Convivencia%20Escolar%202011.pdf&ALIAS=ARCH&IDCONTENIDO=84557&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       },
       {
-        "name": "Informe 2010"
+        "name": "Informe 2010",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=InformeConvivenciaEscolar2010.pdf&ALIAS=ARCH&IDCONTENIDO=75171&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       },
       {
-        "name": "Informe 2009"
+        "name": "Informe 2009",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=Informe%20Convivencia%20Escolar%20curso%202008-2009.pdf&ALIAS=ARCH&IDCONTENIDO=64136&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       },
       {
-        "name": "Informe 2008"
+        "name": "Informe 2008",
+        "url": "https://www.carm.es/web/descarga?ARCHIVO=Informe%202008%20Pleno%2023.07.09.pdf&ALIAS=ARCH&IDCONTENIDO=45845&IDTIPO=60&RASTRO=c792$m4001,5316,8320"
       },
       {
         "name": "Informe 2007",
@@ -2595,13 +2609,20 @@
   {
     "docs": [
       {
+        "name": "Paro",
+        "url": "https://www.sefcarm.es/web/servlet/descarga?ARCHIVO=Paro%20Febrero%202024.xlsx&ALIAS=ARCH&&IDCONTENIDO=189145"
+      },
+      {
         "name": "Contratos",
         "url": "https://www.sefcarm.es/web/servlet/descarga?ARCHIVO=Contratos%20Febrero%202024.xlsx&ALIAS=ARCH&&IDCONTENIDO=189144"
       }
     ],
     "name": "Observatorio ocupacional",
     "parents": [
-      "Dirección General del Servicio Regional de Empleo y Formación > Servicio Regional de Empleo y Formación > Organismo Autónomo > Consejería de Educación, Formación Profesional y Empleo > Comunidad Autónoma de la Región de Murcia"
+      "Dirección General del Servicio Regional de Empleo y Formación",
+      "Servicio Regional de Empleo y Formación",
+      "Consejería de Educación, Formación Profesional y Empleo",
+      "Consejo de Gobierno de la Región de Murcia"
     ],
     "scope": "region_de_murcia",
     "type": "publico",
