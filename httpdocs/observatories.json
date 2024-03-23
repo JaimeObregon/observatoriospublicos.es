@@ -399,7 +399,7 @@
     "scope": "galicia"
   },
   {
-    "name": "Observatorio Galego da biodiversidade",
+    "name": "Observatorio Galego da Biodiversidade",
     "scope": "galicia"
   },
   {
@@ -411,7 +411,7 @@
     "scope": "galicia"
   },
   {
-    "description": "\n\nEl Observatorio de Datos Culturales de Barcelona es una iniciativa del Instituto de Cultura del Ayuntamiento de Barcelona que nació en 2015.\n\nLa misión de este observatorio es elaborar y difundir datos, indicadores e informes sobre la realidad cultural de la ciudad, y poner toda la información al alcance de instituciones, agentes culturales, comunidad científica y público interesado de una manera ordenada y accesible, con el objetivo de ampliar y mejorar el conocimiento que tenemos sobre la vida cultural barcelonesa.",
+    "description": "El Observatorio de Datos Culturales de Barcelona es una iniciativa del Instituto de Cultura del Ayuntamiento de Barcelona que nació en 2015. La misión de este observatorio es elaborar y difundir datos, indicadores e informes sobre la realidad cultural de la ciudad, y poner toda la información al alcance de instituciones, agentes culturales, comunidad científica y público interesado de una manera ordenada y accesible, con el objetivo de ampliar y mejorar el conocimiento que tenemos sobre la vida cultural barcelonesa.",
     "from_date": "2015",
     "name": "Observatorio de Datos Culturales de Barcelona",
     "parents": ["Ajuntament de Barcelona"],
@@ -617,7 +617,7 @@
     "type": "publico"
   },
   {
-    "description": "El Observatorio Social Barcelona es un instrumento de conocimiento de la realidad social de la ciudad que tiene como objetivos principales:\n\nConocer y evaluar la situación y la evolución de las condiciones de vida de la población, la realidad de los diferentes colectivos y la evolución de los fenómenos y procesos sociales que afectan a la calidad de vida de las personas y a la cohesión social de la ciudad.\r\n    Difundir y compartir conocimiento con la ciudadanía, las entidades y asociaciones, y con el colectivo profesional y técnico, directivo y político.\r\n    Apoyar a la planificación y a la toma de decisiones.",
+    "description": "El Observatorio Social Barcelona es un instrumento de conocimiento de la realidad social de la ciudad que tiene como objetivos principales: Conocer y evaluar la situación y la evolución de las condiciones de vida de la población, la realidad de los diferentes colectivos y la evolución de los fenómenos y procesos sociales que afectan a la calidad de vida de las personas y a la cohesión social de la ciudad. Difundir y compartir conocimiento con la ciudadanía, las entidades y asociaciones, y con el colectivo profesional y técnico, directivo y político. Apoyar a la planificación y a la toma de decisiones.",
     "name": "Observatorio Social Barcelona",
     "parents": ["Ajuntament de Barcelona"],
     "scope": "local",
@@ -1866,7 +1866,7 @@
     "website": "https://ipex.es/global-news/articulos-de-interes/observatorio-de-castilla-la-mancha-sobre-el-brexit/"
   },
   {
-    "description": "El Observatorio de la Discapacidad de Rivas Vaciamadrid nació en el 2009 como una iniciativa conjunta entre la corporación local y las diferentes entidades y asociaciones del municipio que trabajan con, para y por las personas con discapacidad y dependencia.\n\nEntre sus objetivos se encuentran:\n\nPromover la plena participación de las personas con discapacidades en la vida ciudadana.\r\nVelar y colaborar en el desarrollo de las políticas y actuaciones en materia de protección y promoción de la calidad de vida de las personas con discapacidades, por parte de todas las Administraciones Públicas.\r\nHacer visible en el municipio las necesidades y las capacidades de las personas con algún tipo de discapacidad.\r\nSu principal función se centra son conocer la realidad de la situación de estas personas, crear espacios de participación social en los que se recojan las propuestas e inquietudes, y se promuevan iniciativas que atiendan las necesidades planteadas.",
+    "description": "El Observatorio de la Discapacidad de Rivas Vaciamadrid nació en el 2009 como una iniciativa conjunta entre la corporación local y las diferentes entidades y asociaciones del municipio que trabajan con, para y por las personas con discapacidad y dependencia. Entre sus objetivos se encuentran: Promover la plena participación de las personas con discapacidades en la vida ciudadana. Velar y colaborar en el desarrollo de las políticas y actuaciones en materia de protección y promoción de la calidad de vida de las personas con discapacidades, por parte de todas las Administraciones Públicas. Hacer visible en el municipio las necesidades y las capacidades de las personas con algún tipo de discapacidad. Su principal función se centra son conocer la realidad de la situación de estas personas, crear espacios de participación social en los que se recojan las propuestas e inquietudes, y se promuevan iniciativas que atiendan las necesidades planteadas.",
     "docs": [
       {
         "name": "Actas de reuniones - última aquí https://www.rivasciudad.es/wp-content/uploads/2024/02/2023-11-13-acta-observatorio-discapacidad-extraordinaria.pdf"
@@ -2604,7 +2604,7 @@
     "name": "Observatorio Virtual del Paisaje Mediterráneo",
     "scope": "region_de_murcia",
     "type": "publico",
-    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828"
+    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=9855&IDTIPO=246&RASTRO=c2195$m36284,36363"
   },
   {
     "docs": [
