@@ -2022,10 +2022,16 @@
       }
     ],
     "is_active": "None",
-    "name": "Observatori de civisme i valors",
-    "parents": ["Departament de Drets Socials (Generalitat)"],
+    "name": "Observatori de Civisme i Valors",
+    "parents": ["Departament de Drets Socials", "Generalitat de Catalunya"],
     "scope": "cataluna",
     "type": "publico",
+    "docs": [
+      {
+        "url": "https://dretssocials.gencat.cat/web/.content/03ambits_tematics/19_civisme_i_valors/observatori/informes/Monografic-dinamiques-comunitaries-als-barris_1121_febrer-2022.pdf",
+        "name": "Informe monogràfic 2021: Dimensió comunitària als barris de Catalunya"
+      }
+    ],
     "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/civisme_i_valors/observatori/"
   },
   {
@@ -2132,15 +2138,14 @@
   },
   {
     "description": "El objetivo de este informe estadístico, de carácter anual, es conocer de una forma completa e integrada las pautas de la visita y el perfil del visitante, tanto turistas como excursionistas, entre otros aspectos. Es decir, se trata de determinar los perfiles del visitante que llega a la ciudad de Málaga: cuáles son sus motivaciones iniciales, cómo organizan su viaje, qué tipo de actividades realizan durante su estancia, cómo valoran la oferta disponible y el viaje en función de sus expectativas iniciales, entre otros aspectos relevantes.",
-    "docs": {
-      "name": "Enlace",
-      "url": "https:///es/observatorio-turistico/informes"
-    },
     "email": "visita@malaga.eu",
     "is_active": "Sí",
-    "name": "Observatorio turístico",
+    "from_date": "2008",
+    "name": "Observatorio turístico de Málaga",
     "parents": [
-      "El Ayuntamiento de Málaga, la Universidad de Málaga y el Área de Turismo de Málaga."
+      "Ayuntamiento de Málaga",
+      "Universidad de Málaga",
+      "Área de Turismo de Málaga"
     ],
     "type": "publico",
     "website": "https://visita.malaga.eu/profesional/es/observatorio-turistico"
