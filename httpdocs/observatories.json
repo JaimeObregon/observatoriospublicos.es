@@ -67,7 +67,24 @@
     "url": "https://www.omha.alcoi.org/"
   },
   {
+    "description" : "Este organismos pretende poner en valor el patrimonio natural-ambiental de los casi 500 ríos de Galicia, que funcionará como un órgano de asesoramiento sobre el estado ambiental, económico, social y cultural de los rios.<br/>No ha sido posible encontrar información sobre si el observatorio está activo o no, tampoco sobre su actividad, si la tuviere.",
+    "docs": [
+        {
+            "name": "Diario Oficial de Galicia",
+            "url": "https://www.xunta.gal/dog/Publicados/2018/20180215/AnuncioG0422-080218-0006_es.pdf"
+        },
+        {
+            "name": "La Administración al Día",
+            "url": "https://laadministracionaldia.inap.es/noticia.asp?id=1188617"
+        },
+        {
+            "name": "Galicia Ambiental - Noticia",
+            "url": "https://galiciaambiental.org/es/actualidad-ver/observatorio-dos-rios-de-galicia"
+        }
+    ],
     "name": "Observatorio Autonómico dos Ríos de Galicia",
+    "type": "publico",
+    "from_date": "25-01-2018",
     "scope": "galicia"
   },
   {
