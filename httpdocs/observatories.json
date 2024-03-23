@@ -2596,13 +2596,14 @@
   {
     "is_active": "None",
     "name": "Observatorio de la muerte digna",
-    "parents": ["Gobierno de Navarra. Departamento de Salud"],
+    "parents": ["Gobierno de Navarra", "Departamento de Salud"],
+    "scope": "navarra",
     "type": "publico",
     "website": "http://www.nafarroa.gob.es/home_es/Temas/Portal+de+la+Salud/Ciudadania/Me+cuido/Al+final+de+la+vida/Observatorio+de+la+Muerte+Digna/"
   },
   {
     "is_active": "None",
-    "name": "Observatorio de uso de medicamentos",
+    "name": "Observatorio de Uso de Medicamentos",
     "parents": ["Ministerio de Sanidad"],
     "scope": "estatal",
     "type": "publico",
@@ -2610,7 +2611,7 @@
   },
   {
     "is_active": "None",
-    "name": "Observatorio de la nutrición y de estudio de la obesidad aesan",
+    "name": "Observatorio de la Nutrición y de Estudio de la Obesidad (AESAN)",
     "parents": ["Ministerio de Derechos Sociales, Consumo y Agenda 2030"],
     "scope": "estatal",
     "type": "publico",
@@ -2628,15 +2629,15 @@
   {
     "is_active": "None",
     "name": "Observatorio de agresiones a profesionales del sistema sanitario público",
-    "parents": [
-      "Aún no han creado su propia pagina pero su constitución aparece mencionada en varias páginas oficiales de la Junta de Andalucía, arriba uno de las noticias al respecto"
-    ],
+    "parents": ["Junta de Andalucía"],
+    "description": "Aún no han creado su propia pagina pero su constitución aparece mencionada en varias páginas oficiales de la Junta de Andalucía, arriba uno de las noticias al respecto",
     "type": "publico",
     "website": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/todas-noticia/constituido-el-observatorio-de-agresiones-profesionales-del-sistema-sanitario-publico"
   },
   {
     "is_active": "None",
-    "name": "Observatorio regional contra la discriminación por orientación sexual e identidad de género",
+    "name": "Observatorio Regional Contra la Discriminación por Orientación Sexual e Identidad de Género",
+    "scope": "region_de_murcia",
     "type": "publico",
     "website": "https://transparencia.carm.es/-/observatorio-regional-contra-la-discriminacion-por-orientacion-sexual-e-identidad-de-genero-en-la-comunidad-autonoma-de-la-region-de-murcia#gsc.tab=0"
   },
