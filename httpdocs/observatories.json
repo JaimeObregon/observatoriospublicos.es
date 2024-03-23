@@ -44,7 +44,7 @@
       }
     ],
     "name": "Observatorio del Ferrocarril en España",
-    "parents": ["Ministerio de Transportes y Movilidad Sostenible"],
+    "parents": ["Ministerio de Transportes y Movilidad Sostenible","Fundación de los Ferrocarriles Españoles"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.transportes.gob.es/ferrocarriles/observatorios/observatorio-del-ferrocarril-en-espana"
