@@ -2038,9 +2038,13 @@
   },
   {
     "is_active": "None",
-    "name": "Observatorio de la muerte digna y de las comisiones de mortalidad de las áreas de salud.",
-    "parents": [
-      "https://sede.asturias.es/bopa-disposiciones?p_p_id=pa_sede_bopa_web_portlet_SedeBopaDispositionWeb&p_p_lifecycle=0&_pa_sede_bopa_web_portlet_SedeBopaDispositionWeb_mvcRenderCommandName=%2Fdisposition%2Fdetail&p_r_p_dispositionText=2020-06176&p_r_p_dispositionReference=2020-06176&p_r_p_dispositionDate=03%2F08%2F2020"
+    "name": "Observatorio de la Muerte Digna y de las Comisiones de Mortalidad de las Áreas de Salud.",
+    "parents": ["Gobierno del Principado de Asturias", "Consejería de Salud"],
+    "docs": [
+      {
+        "name": "Decreto 63/2020, de 16 de julio, por el que se regulan la organización y el funcionamiento del Observatorio de la Muerte Digna y de las Comisiones de Mortalidad de las Áreas de Salud",
+        "url": "https://sede.asturias.es/bopa-disposiciones?p_p_id=pa_sede_bopa_web_portlet_SedeBopaDispositionWeb&p_p_lifecycle=0&_pa_sede_bopa_web_portlet_SedeBopaDispositionWeb_mvcRenderCommandName=%2Fdisposition%2Fdetail&p_r_p_dispositionText=2020-06176&p_r_p_dispositionReference=2020-06176&p_r_p_dispositionDate=03%2F08%2F2020"
+      }
     ],
     "scope": "asturias",
     "type": "publico",
