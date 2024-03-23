@@ -1321,9 +1321,9 @@
     "parents": [
       "Consejería de desarrollo educativo y formación profesional de la Junta de Andalucía",
       "Dirección General competente materia de convivencia escolar",
-      "Ministerio de Asuntos Económicos y Transformación Digital (MINECO)",
-      "Banco de España (BdE)",
-      "Agencia Estatal de Administración Tributaria (AEAT)"
+      "Ministerio de Asuntos Económicos y Transformación Digital",
+      "Banco de España",
+      "Agencia Estatal de Administración Tributaria"
     ],
     "scope": "andalucia",
     "type": "publico",
@@ -1765,7 +1765,8 @@
     "name": "Observatorio de servicios sociales y dependencia de Castilla-La Mancha",
     "parents": [
       "Universidad de Castilla-La Mancha",
-      "Consejería de Bienestar Social de Castilla-La Mancha"
+      "Consejería de Bienestar Social de Castilla-La Mancha",
+      "Junta de Castilla-La Mancha"
     ],
     "scope": "castilla_la_mancha",
     "type": "publico"
@@ -1914,7 +1915,10 @@
     "email": "smartcatalonia@gencat.cat",
     "is_active": "None",
     "name": "Observatori SmartCatalonia",
-    "parents": ["Administració Oberta de Catalunya (Generalitat)"],
+    "parents": [
+      "Administració Oberta de Catalunya",
+      "Generalitat de Catalunya"
+    ],
     "scope": "cataluna",
     "type": "publico",
     "website": "https://observatori.smartcatalonia.gencat.cat/about"
@@ -2265,11 +2269,35 @@
     "website": "https://www.castillalamancha.es/gobierno/agriaguaydesrur/estructura/dgalimentacion/titular/observatorio-precios-cadena-agroalimentaria"
   },
   {
-    "description": "El Observatorio de Precios en consumo facilita que las personas consumidoras tomen decisiones de compra informadas con arreglo a criterios económicos.",
+    "description": "Facilita que las personas consumidoras tomen decisiones de compra informadas con arreglo a criterios económicos.",
     "docs": [
       {
         "name": "Evolución precios tipos alimentos Navidad 2023 (2ª actualización)",
         "url": "https://consumo.castillalamancha.es/sites/default/files/2024-01/%28ALEJ%29EVOLUCION%20PRECIO%20TIPOS%20ALIMENTOS%20%28NAVIDAD%202023%29.pdf) (753.17 KB"
+      },
+      {
+        "name": "Evolución precio medio aceites Navidad 2023 (2ª actualización)",
+        "url": "https://consumo.castillalamancha.es/sites/default/files/2024-01/%28ALEJ%29EVOLUCION%20PRECIO%20MEDIO%20AOVE%20EN%20CLM.pdf"
+      },
+      {
+        "name": "Evolución precios aceites provincias Navidad 2023 (2ª Actualización)",
+        "url": "https://consumo.castillalamancha.es/sites/default/files/2024-01/%28ALEJ%28EVOLUCION%20PRECIOS%20AOVE%20PROVINCIAS%20%28ABR-DIC2023%29.pdf"
+      },
+      {
+        "name": "Evolución precios aceites Navidad 2023 (Actualización)",
+        "url": "https://consumo.castillalamancha.es/sites/default/files/2024-01/%28ALEJ%29EVOLUCION%20PRECIO%20MEDIO%20ACEITE%20OVE%20MARCA%20Y%20MARCA%20BLANCA%282%C2%BACONTROLNAVIDAD%29.pdf"
+      },
+      {
+        "name": "Evolución precios Periodo Navidad 3 a 18 de diciembre",
+        "url": "https://consumo.castillalamancha.es/sites/default/files/2024-01/%28ALEJ%29EVOLUCION%20PRRCIO%20MEDIO%20POR%20GRUPOS%20DE%20ALIMENTOS%20NAVIDAD23-2%C2%BA.pdf"
+      },
+      {
+        "name": "Evolución precios aceites Navidad 2023",
+        "url": "https://consumo.castillalamancha.es/sites/default/files/2023-12/%28ALEJ%29EVOLUCI%C3%93N%20PRECIO%20MEDIO%20%20ACEITES%20NAVIDAD23.pdf"
+      },
+      {
+        "name": "Evolución precios Periodo Navidad 2022 - Diciembre 2023",
+        "url": "https://consumo.castillalamancha.es/sites/default/files/2023-12/%28ALEJ%29EVOLUCI%C3%93N%20PRECIO%20MEDIO%20POR%20GRUPO%20DE%20ALIMENTOS%20NAVIDAD23%281%29.pdf"
       }
     ],
     "from_date": "Febrero 2022",
