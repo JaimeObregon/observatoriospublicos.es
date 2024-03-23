@@ -1538,11 +1538,24 @@
     "website": "https://www.consorcioaeronautico.com/observatorio-aeroespacial/gl/"
   },
   {
+    "docs": [
+      {
+        "name": "Decreto 134/2023, de 28 de septiembre, por el que se crea y se regula el Observatorio de la Lusofonía Valentín Paz Andrade",
+        "url": "https://www.xunta.gal/dog/Publicados/2023/20231010/AnuncioG0690-031023-0001_es.html"
+      },
+      {
+        "name": "A Xunta creará o Observatorio da Lusofonía Valentín Paz Andrade para reforzar os lazos entre Galicia e o mundo lusófono",
+        "url": "https://www.xunta.gal/notas-de-prensa/-/nova/83523/xunta-creara-observatorio-lusofonia-valentin-paz-andrade-para-reforzar-los-lazos"
+      }
+    ],
     "description": "El Observatorio tendrá como finalidad asesorar al Gobierno, formular planes de acción y programar actividades de conocimiento, intercambio y programación. Atendiendo a su finalidad, servirá de foro de diálogo permanente entre las distintas administraciones públicas y otras organizaciones representativas de intereses en el ámbito de la lusofonía, a fin de asegurar su participación activa en el abordaje de las relaciones de Galicia en dicho ámbito, así como aglutinará esfuerzos, coordinará las actuaciones público-privadas y procurará la consolidación en el tiempo de Galicia en el mundo de la lusofonía.",
     "from_date": "10/10/2023",
     "is_active": "Sí",
     "name": "Observatorio da Lusofonía Valentín Paz Andrade",
-    "parents": ["Secretaría General de Política Lingüística"],
+    "parents": [
+      "Secretaría General de Política Lingüística",
+      "Xunta de Galicia"
+    ],
     "scope": "galicia",
     "type": "publico"
   },
@@ -1550,7 +1563,11 @@
     "email": "ocj.dretssocials@gencat.cat",
     "is_active": "None",
     "name": "Observatori Català de la Joventut",
-    "parents": ["Agència Catalana de la Joventut"],
+    "parents": [
+      "Agència Catalana de la Joventut",
+      "Departament de Drets Socials",
+      "Generalitat de Catalunya"
+    ],
     "scope": "cataluna",
     "type": "publico",
     "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/joventut/observatori_catala_de_la_joventut/index.html"
@@ -1966,21 +1983,22 @@
     "is_active": "None",
     "name": "Observatori del sistema de salut de catalunya",
     "parents": [
-      "Agència de Qualitat i Avaluació Sanitàries de Catalunya (Generalitat)"
+      "Agència de Qualitat i Avaluació Sanitàries de Catalunya",
+      "Generalitat de Catalunya"
     ],
     "scope": "estatal",
     "type": "publico",
     "website": "https://observatorisalut.gencat.cat/ca/inici"
   },
   {
-    "description": "El Observatorio Tranformación y Participación es un órgano que se constituye para actuar como soporte a la docencia, a la investigación y la participación social. Asentado a nivel autonómico en Castilla y León pretende crear una Red Estatal que aporte soluciones desde la participación social al ámbito de la investigación e innovación aplicada",
+    "description": "El Observatorio Tranformación y Participación es un órgano que se constituye para actuar como soporte a la docencia, a la investigación y la participación social. Asentado a nivel autonómico en Castilla y León pretende crear una Red Estatal que aporte soluciones desde la participación social al ámbito de la investigación e innovación aplicada.",
     "email": "observatoriotransformacion@gmail.com",
     "is_active": "Sí",
     "name": "Observatorio de Transformación y Participación de Castilla y León",
     "parents": ["Junta de Castilla y León"],
     "scope": "castilla_y_leon",
     "type": "publico",
-    "website": "https://www.observatoriotransformacion.com/"
+    "website": "https://www.observatoriotransformacion.com"
   },
   {
     "docs": {
@@ -1989,7 +2007,7 @@
     },
     "is_active": "Sí",
     "name": "Observatori del Treball i Model Productiu",
-    "parents": ["Departament d'Empresa i Treball (Generalitat)"],
+    "parents": ["Departament d'Empresa i Treball", "Generalitat de Catalunya"],
     "scope": "cataluna",
     "type": "publico",
     "website": "https://observatoritreball.gencat.cat/ca/inici"
