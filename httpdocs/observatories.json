@@ -2760,7 +2760,8 @@
     "is_active": "Sí",
     "name": "Observatorio de residuos",
     "parents": ["Diputación Foral de Álava / Arabako Foru Aldundia"],
-    "type": "provincial",
+    "type": "publico",
+    "scope": "pais_vasco",
     "website": "https://web.araba.eus/es/medio-ambiente/residuos/observatorio-de-residuos"
   }
 ]
