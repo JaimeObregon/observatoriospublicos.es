@@ -65,7 +65,7 @@ const scopes = [
   },
   {
     key: 'la_rioja',
-    name: 'la_rioja',
+    name: 'La Rioja',
   },
   {
     key: 'comunidad_de_madrid',

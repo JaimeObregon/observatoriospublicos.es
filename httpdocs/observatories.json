@@ -1419,7 +1419,7 @@
     "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
-    "website": "https://obecan.es/"
+    "website": "https://obecan.es"
   },
   {
     "is_active": "None",
@@ -1443,7 +1443,7 @@
     "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
-    "website": "https://www.obidic.es/"
+    "website": "https://www.obidic.es"
   },
   {
     "description": "Imposto sobre Bens Inmobles, Imposto sobre Actividades Económicas, Imposto sobre Vehiculos de Tracción Mecánica, Imposto sobre o Incremento do Valor dos Terreos de Natureza Urbana (Plusvalía muncipal) e o Imposto sobre Instalacións, Construccións e Obras.",
@@ -1455,12 +1455,6 @@
     "website": "http://www.observatorioredlocalis.com"
   },
   {
-    "docs": [
-      {
-        "name": "\"Hola, tú a mí no me conoces\". Diccionario visual sobre las mujeres del siglo XXI. Instituto de las Mujeres. Club de Creativos/as",
-        "url": "https://www.inmujeres.gob.es/areasTematicas/comunicacion/programas/docs/TU_A_MI_NO_ME_CONOCES.pdf"
-      }
-    ],
     "is_active": "Sí",
     "name": "Observatorio Andaluz de la Publicidad no Sexista",
     "parents": ["Junta de Andalucía"],
@@ -2065,7 +2059,7 @@
     "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851"
   },
   {
-    "description": "Observa los precios de venta al público.",
+    "description": "Observa los precios de venta al público y trata de identificar posibles subidas injustificadas de precios.",
     "docs": [
       {
         "name": "11_noviembre_23.pdf",
@@ -2074,7 +2068,7 @@
     ],
     "from_date": "Abril de 2022",
     "is_active": "Sí",
-    "name": "Observatori de Preus de la Comunitat Valenciana",
+    "name": "Observatorio de precios de la Comunitat Valenciana / Observatori de Preus de la Comunitat Valenciana",
     "parents": [
       "Generalitat Valenciana",
       "Consellería de Economía Sostenible, Sectores Productivos, Comercio y Trabajo"
