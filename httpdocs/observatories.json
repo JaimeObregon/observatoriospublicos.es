@@ -1854,8 +1854,11 @@
       }
     ],
     "is_active": "Sí",
-    "name": "Observatorio de la actividad física (OBAFI) de Castilla-La Mancha",
-    "parents": ["Universidad de Castilla - La Mancha (UCLM)"],
+    "name": "Observatorio de la Actividad Física (OBAFI) de Castilla-La Mancha",
+    "parents": [
+      "Universidad de Castilla-La Mancha",
+      "Junta de Castilla-La Mancha"
+    ],
     "scope": "castilla_la_mancha",
     "type": "publico",
     "website": "https://obafi.es"
