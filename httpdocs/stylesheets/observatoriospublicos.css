@@ -13,8 +13,30 @@ body {
     display: flex;
     gap: 1.5em;
 
-    img {
+    svg {
       height: 5em;
+
+      .cls-3,
+      .cls-4 {
+        stroke-width: 0;
+        fill: none;
+      }
+
+      .cls-5,
+      .cls-6 {
+        fill: var(--pico-background-color);
+      }
+
+      .cls-7,
+      .cls-8,
+      .cls-9 {
+        fill: var(--pico-color);
+      }
+
+      .cls-6,
+      .cls-8 {
+        fill-rule: evenodd;
+      }
     }
   }
 
