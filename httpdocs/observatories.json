@@ -2160,6 +2160,12 @@
       "name": "Enlace",
       "url": "https:///participacion/1587/impulso-participacion-ciudadana-navarra-2016-2019"
     },
+    "docs": [
+      {
+        "name": "Impulso a la Actividad 2016/17",
+        "url": "https://gobiernoabierto.navarra.es/es/participacion/1587/impulso-participacion-ciudadana-navarra-2016-2019"
+      }
+    ],
     "from_date": "2016",
     "is_active": "None",
     "name": "Observatorio de la Participación Ciudadana en Navarra",
@@ -2174,7 +2180,13 @@
   {
     "description": "Es un órgano colegiado y consultivo que dependiendo de la Dirección General competente en materia de lucha contra la brecha digital trata de ser un foro de participación que permita el impulso compartido entre las administraciones públicas, los agentes económicos y sociales y la sociedad civil organizada en la lucha contra la brecha digital. Servirá de plataforma para planificar, estudiar y analizar el entorno y la realidad socioeconómica valenciana en materia de brecha digital.",
     "email": "observatorio_dglbd@gva.es",
-    "from_date": "18 de marzo de 2021, mediante el [DECRETO 43/2021, de 18 de marzo, del Consell, de creación del Observatorio de Brecha Digital.](https://dogv.gva.es/es/resultat-dogv?signatura=2021/3198&L=1)",
+    "from_date": "18 de marzo de 2021",
+    "docs": [
+      {
+        "name": "DECRETO 43/2021, de 18 de marzo, del Consell, de creación del Observatorio de Brecha Digital",
+        "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2021/3198&L=1"
+      }
+    ],
     "is_active": "Sí",
     "name": "Observatori de la Bretxa Digital",
     "parents": [
