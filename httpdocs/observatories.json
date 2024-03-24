@@ -1542,6 +1542,7 @@
       "Universidade de Vigo",
       "Xunta de Galicia"
     ],
+    "scope": "galicia",
     "type": "publico",
     "website": "http://www.observatorioredlocalis.com"
   },
@@ -2371,6 +2372,19 @@
     "website": "https://visita.malaga.eu/profesional/es/observatorio-turistico"
   },
   {
+    "description": "Es una entidad dedicada a la recopilación y análisis de datos sobre la movilidad en Cataluña, abarcando aspectos como el transporte de personas y mercancías, sostenibilidad, infraestructuras y economía del transporte. Su objetivo es proveer información útil y servir como foro de análisis para atender las necesidades de sus usuarios.",
+    "from_date": "2019",
+    "is_active": "Sí",
+    "name": "Observatorio de la Movilidad de Cataluña (OMC)",
+    "parents": [
+      "Autoridad del Transporte Metropolitano del área de Barcelona",
+      "Generalidad de Cataluña"
+    ],
+    "scope": "cataluna",
+    "type": "publico",
+    "website": "https://omc.cat/"
+  },
+  {
     "description": "De este modo en el año 2005 surge el Observatorio de la Violencia de Género, donde diariamente recopilamos, a través de los medios de comunicación, y fuentes oficiales e institucionales relacionadas con la violencia de género, noticias, opiniones e informes que puedan ser de interés no sólo para profesionales en la materia, sino para la población en su conjunto.",
     "email": "observatorioviolencia@fundacionmujeres.es",
     "from_date": "2005",
@@ -3065,5 +3079,19 @@
     ],
     "type": "provincial",
     "website": "https://web.araba.eus/es/medio-ambiente/residuos/observatorio-de-residuos"
+  },
+  {
+    "name": "Observatori per a la igualtat",
+    "type": "publico",
+    "website": "https://observatori-igualtat.es/es/",
+    "email": "ibdona@ibdona.caib.es",
+    "description": "Para analizar y difundir información sobre la evolución de los indicadores relativos a la igualdad entre mujeres y hombres, para mejorar la planificación y evaluación de las políticas públicas desde la perspectiva de género.",
+    "scope": "islas_baleares",
+    "parents": [
+      "Govern de les Illes Balears",
+      "Institut Balear de la Dona",
+      "Conselleria Famílies i Afers Socials"
+    ],
+    "is_active": "Si"
   }
 ]
