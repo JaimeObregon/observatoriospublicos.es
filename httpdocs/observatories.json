@@ -316,7 +316,14 @@
     "website": "https://www.aragon.es/-/presentacion-1"
   },
   {
-    "name": "Observatorio del Medio Ambiente Urbano"
+    "description": "El observatorio se enfoca en la sostenibilidad del medio urbano, abordando temas como la <q>configuración de la ciudad</q>, la <q>gestión de recursos naturales</q>, y la <q>cohesión social</q>. Realiza <q>seguimiento de indicadores medioambientales</q>, actúa como centro de <q>intercambio de experiencias</q> y, es sede documental del Programa URB-AL. A día de hoy (25/03/2024) no hay nuevas publicaciones en su web ni en redes sociales desde junio de 2023.",
+    "from_date": "En algún momento entre 2000 y 2006",
+    "location": "Málaga",
+    "name": "Observatorio del Medio Ambiente Urbano (OMAU)",
+    "parents": ["Ayuntamiento de Málaga"],
+    "scope": "municipal",
+    "type": "publico",
+    "website": "https://www.omau-malaga.com"
   },
   {
     "name": "Observatorio del Transporte y la Logística en España",
