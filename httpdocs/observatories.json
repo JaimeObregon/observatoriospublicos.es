@@ -141,7 +141,24 @@
     "website": "https://ciencia-ciudadana.es"
   },
   {
-    "name": "Observatorio de la Gestión Empresarial en Biodiversidad"
+    "description": "El Observatorio de la Gestión Empresarial en Biodiversidad, promovido por MITECO y gestionado por la Fundación Biodiversidad, enfoca en la importancia de la biodiversidad para las empresas en España. Este proyecto busca identificar y promover buenas prácticas empresariales en gestión de la biodiversidad a lo largo de toda la cadena de valor. Sus objetivos incluyen dar visibilidad a políticas responsables, generar debate sobre la biodiversidad como tema estratégico y crear un foro de conocimiento para administraciones públicas. No está claro si sigue activo pues solo se han dado a conocer en los medios una presentación en 2015 y un informe en 2016.",
+    "docs": [
+      {
+        "name": "Informe de 2016",
+        "url": "https://pre.ieeb.fundacion-biodiversidad.es/sites/default/files/informe_biodiversidad_2016_2_informe_observatorio_0.pdf"
+      }
+    ],
+    "from_date": "2016",
+    "is_active": "Sí",
+    "name": "Observatorio de la Gestión Empresarial en Biodiversidad",
+    "parents": [
+      "Fundación Biodiversidad",
+      "Ministerio de Agricultura, Alimentación y Medio Ambiente",
+      "Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO)"
+    ],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://fundacion-biodiversidad.es/proyectos_ficha/observatorio-de-la-gestion-empresarial-en/"
   },
   {
     "name": "Observatorio de la Infancia de España",
