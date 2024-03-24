@@ -2835,5 +2835,19 @@
     "parents": ["Diputación Foral de Álava / Arabako Foru Aldundia"],
     "type": "provincial",
     "website": "https://web.araba.eus/es/medio-ambiente/residuos/observatorio-de-residuos"
+  },
+  {
+    "name": "Observatori per a la igualtat",
+    "type": "publico",
+    "website": "https://observatori-igualtat.es/es/",
+    "email": "ibdona@ibdona.caib.es",
+    "description": "Para analizar y difundir información sobre la evolución de los indicadores relativos a la igualdad entre mujeres y hombres, para mejorar la planificación y evaluación de las políticas públicas desde la perspectiva de género.",
+    "scope": "islas_baleares",
+    "parents": [
+      "Govern de les Illes Balears",
+      "Institut Balear de la Dona",
+      "Conselleria Famílies i Afers Socials"
+    ],
+    "is_active": "Si"
   }
 ]
