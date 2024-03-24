@@ -1944,13 +1944,20 @@
     "description": "Es una herramienta de información permanente y actual sobre el mercado de trabajo de la región, que nace con el objetivo de orientar sobre las demandas de empleo y formativas que surjan en determinados momentos y puntos de la comunidad autónoma.",
     "docs": [
       {
-        "name": "- Estadísticas de paro registrado",
+        "name": "Estadísticas de paro registrado",
         "url": "https://empleoyformacion.castillalamancha.es/observatorio/estadisticas-de-paro-registrado"
+      },
+      {
+        "name": "Indicadores básicos del mercado de trabajo",
+        "url": "https://empleoyformacion.castillalamancha.es/observatorio/indicadores-basicos-mercado-trabajo"
       }
     ],
     "is_active": "Sí",
-    "name": "Observatorio del mercado de trabajo de Castilla-La Mancha",
-    "parents": ["Oficina de Orientación, Formación y Empleo"],
+    "name": "Observatorio del Mercado de Trabajo de Castilla-La Mancha",
+    "parents": [
+      "Oficina de Orientación, Formación y Empleo",
+      "Junta de Castilla-La Mancha"
+    ],
     "scope": "castilla_la_mancha",
     "type": "publico",
     "website": "https://empleoyformacion.castillalamancha.es/observatorio"
@@ -1959,13 +1966,21 @@
     "description": "Mantenimiento de un sistema de indicadores que permita el seguimiento de la evolución del consumo de drogas en Castilla-La Mancha.",
     "docs": [
       {
-        "name": "- INFORME SOBRE DROGODEPENDENCIAS EN CASTILLA-LA MANCHA 2009 (Archivo PDF, abre en nueva página)",
+        "name": "Informe sobre Drogodependencias en Castilla-La Mancha 2009",
         "url": "https://sanidad.castillalamancha.es/sites/sescam.castillalamancha.es/files/documentos/paginas/archivos/informe_drogas_2009.pdf"
+      },
+      {
+        "name": "El Problema del Juego de Azar en la Población de Castilla-La Mancha 2023",
+        "url": "https://sanidad.castillalamancha.es/sites/sescam.castillalamancha.es/files/documentos/paginas/archivos/el_problema_del_juego_de_azar_en_la_poblacion_de_clm_2023.pdf"
       }
     ],
     "is_active": "Sí",
     "name": "Observatorio de drogodependencias de Castilla-La Mancha",
-    "parents": ["Servicio de Salud de Castilla-La Mancha (SESCAM)"],
+    "parents": [
+      "Servicio de Salud de Castilla-La Mancha (SESCAM)",
+      "Consejería de Sanidad",
+      "Junta de Castilla-La Mancha"
+    ],
     "scope": "castilla_la_mancha",
     "type": "publico",
     "website": "https://sanidad.castillalamancha.es/ciudadanos/observatorio-de-drogodependencias-clm/que-es-el-od"
