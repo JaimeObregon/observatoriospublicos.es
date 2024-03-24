@@ -2949,5 +2949,14 @@
     "scope": "autonómico",
     "type": "publico",
     "website": "https://obsaludasturias.com/obsa"
+  },
+  {
+    "name": "Observatorio de la Calidad de Tenerife",
+    "type": "publico",
+    "website": "https://www.calidadtenerife.org",
+    "email": "observatorio@tenerife.es",
+    "description": "El Observatorio de la Calidad de Tenerife es una iniciativa del Cabildo Insular, orientada al estudio, análisis y evolución de las nuevas tendencias y modelos de calidad de gestión en el ámbito nacional e internacional, dirigida especialmente a monitorizar y fomentar la implantación de la calidad en Tenerife.\n\nCabildo de Tenerife",
+    "scope": "local",
+    "parents": ["Cabildo de Tenerife"]
   }
 ]
