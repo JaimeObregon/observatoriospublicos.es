@@ -375,6 +375,41 @@
     "website": "https://www.educacionyfp.gob.es/mc/sgctie/convivencia-escolar/observatorio.html"
   },
   {
+    "name": "Observatorio de la Inmigración en Asturias. (Odina)",
+    "type": "mixto",
+    "website": "www.odina.es",
+    "email": "asturias@accem.es",
+    "description": "Nace con la finalidad de estructurar y desarrollar un dispositivo permanente de observación cooperativa y de evaluación participativa sobre la situación socio-económica del colectivo de las personas inmigrantes que residen en Asturias.\n\n- Grupos Locales de Observación: Gijón, Oviedo y Avilés.\r\n- Puntos de Observación: Valdés y Villaviciosa.",
+    "scope": "autonómico",
+    "from_date": "2000",
+    "parents": [
+      "-Accem",
+      "-Consejería de Bienestar Social y Vivienda (Principado de Asturias)",
+      "-Dirección General de Migraciones. Ministerio de Empleo y Seguridad Social."
+    ],
+    "docs": [
+      {
+        "name": "- Diagnóstico Red Odina 2022:"
+      },
+      {
+        "url": "https://www.odina.es/estadisticas-diagnostico-2022-es.html"
+      },
+      {
+        "name": "- Diagnótico Red Odina 2021:"
+      },
+      {
+        "url": "https://www.odina.es/estadisticas-diagnostico-2021-es.html"
+      },
+      {
+        "name": "- Diagnóstico Red Odina 2020:"
+      },
+      {
+        "url": "https://www.odina.es/estadisticas-diagnostico-2020-es.html"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio Estatal de la Dependencia",
     "scope": "estatal"
   },
@@ -1508,7 +1543,6 @@
       "Xunta de Galicia"
     ],
     "scope": "galicia",
-    "parents": ["Universidade de Vigo", "Xunta de Galicia"],
     "type": "publico",
     "website": "http://www.observatorioredlocalis.com"
   },
