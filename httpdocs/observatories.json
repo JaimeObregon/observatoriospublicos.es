@@ -79,7 +79,22 @@
     "scope": "galicia"
   },
   {
-    "name": "Observatorio de Administración Electrónica"
+    "description": "Es una entidad que supervisa y reporta el progreso y estado de la administración electrónica en España. Publica mensualmente un boletín con indicadores clave, recolectando datos propios y de terceros para ofrecer una visión completa del desarrollo y avance de la digitalización de los servicios administrativos en el país. Su función principal es proporcionar información actualizada y relevante que ayude en la transformación digital y mejora de la administración electrónica.",
+    "docs": [
+      {
+        "name": "Real Decreto 806/2014, de 19 de septiembre, por el que se rige la existencia del observatorio",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-9741"
+      }
+    ],
+    "name": "Observatorio de Administración Electrónica (OBSAE)",
+    "parents": [
+      "Comisiones Ministeriales de Administración Digital",
+      "Federación Española de Municipios y Provincias",
+      "Comisión Sectorial de Administración Electrónica"
+    ],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://administracionelectronica.gob.es/pae_Home/pae_OBSAE.html"
   },
   {
     "docs": [
@@ -112,7 +127,17 @@
     "website": "https://www.mapa.gob.es/es/alimentacion/temas/observatorio-cadena/organizacion-y-estructura/"
   },
   {
-    "name": "Observatorio de la Ciencia Ciudadana"
+    "description": "Es un proyecto de la Fundación Ibercivis en colaboración con la FECYT, que se dedica a recopilar proyectos de ciencia ciudadana en el país para fomentar la difusión y la colaboración entre científicos, gestores, y comunicadores. Su meta es facilitar el conocimiento sobre la ciencia ciudadana, considerando que es un campo en constante evolución. El observatorio también destaca por organizar eventos y recolectar recursos, habiendo iniciado su labor en 2016.",
+    "is_active": "Sí",
+    "name": "Observatorio de la Ciencia Ciudadana",
+    "parents": [
+      "Fundación Española para la Ciencia y la Tecnología (FECYT)",
+      "Ministerio de Ciencia e Innovación",
+      "Fundación Ibercivis"
+    ],
+    "scope": "estatal",
+    "type": "hibrido",
+    "website": "https://ciencia-ciudadana.es"
   },
   {
     "name": "Observatorio de la Gestión Empresarial en Biodiversidad"
