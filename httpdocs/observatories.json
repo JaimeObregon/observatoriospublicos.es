@@ -576,7 +576,6 @@
         "url": "http://www.observatoriodavivenda.gal/sites/w_igvobs/files/ovg_estatistica_alugueiro_fianzas_anual_2019pw_v1.00.pdf"
       }
     ],
-    "email": "https://www.observatoriodavivenda.gal/gl/contact",
     "is_active": "Sí",
     "name": "Observatorio da Vivenda de Galicia",
     "parents": [
@@ -1038,21 +1037,6 @@
     "website": "https://www.poderjudicial.es/cgpj/es/Temas/Violencia-domestica-y-de-genero/El-Observatorio-contra-la-violencia-domestica-y-de-genero/"
   },
   {
-    "docs": [
-      {
-        "name": "Resolución de 27 de junio de 2022, de la Entidad Pública Empresarial ENAIRE, por la que se publica el Convenio con el Colegio Oficial de Pilotos, para la operación del Observatorio de seguridad y eficiencia de las operaciones aéreas",
-        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-13358"
-      }
-    ],
-    "from_date": "2019",
-    "name": "Observatorio de seguridad y eficiencia de las operaciones aéreas",
-    "parents": [
-      "ENAIRE",
-      "Colegio Oficial de Pilotos de la Aviación Comercial"
-    ],
-    "scope": "estatal"
-  },
-  {
     "description": "Nace <q>para analizar las condiciones de competitividad en relación con los precios y calidad de los servicios portuarios, y acordar las variables de competitividad sobre las que establecer recomendaciones</q>.",
     "email": "observatorio@puertos.es",
     "from_date": "2012-12-11",
@@ -1424,7 +1408,7 @@
     "website": "https://www.obidic.es"
   },
   {
-    "description": "Imposto sobre Bens Inmobles, Imposto sobre Actividades Económicas, Imposto sobre Vehiculos de Tracción Mecánica, Imposto sobre o Incremento do Valor dos Terreos de Natureza Urbana (Plusvalía muncipal) e o Imposto sobre Instalacións, Construccións e Obras.",
+    "description": "Recolle e difunde información relacionada coa economía e fiscalidade local dos 313 concellos.",
     "email": "infogen@uvigo.es",
     "is_active": "Sí",
     "name": "Observatorio Municipal Galego",
@@ -1441,10 +1425,10 @@
     "website": "https://www.juntadeandalucia.es/institutodelamujer/index.php/observatorio-andaluz-de-publicidad-no-sexista"
   },
   {
-    "description": "Mediante el Observatorio se busca, pues, suministrar información de todos los aspectos relativos al suelo empresarial, con el objetivo de que administraciones, empresas públicas y privadas, y cualquier persona interesada en este ámbito se encuentren en las condiciones idóneas para adoptar decisiones eficaces y adaptadas a las necesidades del país.",
+    "description": "Busca suministrar información de todos los aspectos relativos al suelo empresarial, con el objetivo de que administraciones, empresas públicas y privadas, y cualquier persona interesada en este ámbito se encuentren en las condiciones idóneas para adoptar decisiones eficaces y adaptadas a las necesidades del país.",
     "is_active": "None",
     "name": "Observatorio do Solo Empresarial de Galicia",
-    "parents": ["Instituto Galego da Vivenda e Solo"],
+    "parents": ["Instituto Galego da Vivenda e Solo", "Xunta de Galicia"],
     "scope": "galicia",
     "type": "publico",
     "website": "https://www.observatoriodosoloempresarial.gal"
@@ -1567,17 +1551,17 @@
     "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/joventut/observatori_catala_de_la_joventut/index.html"
   },
   {
-    "email": "observatori@gencat.cat",
-    "is_active": "Sí",
-    "name": "Observatori Català de l’Esport",
-    "scope": "cataluna",
-    "type": "publico",
     "docs": [
       {
         "name": "Enlace",
         "url": "https://inefc.gencat.cat/ca/inefc/projectes_institucionals/observatori-de-lesport/publicacions/projectes/arxivem-esport-temps-covid19/"
       }
     ],
+    "email": "observatori@gencat.cat",
+    "is_active": "Sí",
+    "name": "Observatori Català de l’Esport",
+    "scope": "cataluna",
+    "type": "publico",
     "website": "https://inefc.gencat.cat/ca/inefc/projectes_institucionals/observatori-de-lesport/index.html"
   },
   {
@@ -1595,11 +1579,6 @@
     "website": "https://www.observatorioreligion.es"
   },
   {
-    "from_date": "11/12/2023",
-    "is_active": "Sí",
-    "name": "Observatorio Económico de Melilla",
-    "parents": ["Consejería de Presidencia"],
-    "scope": "melilla",
     "docs": [
       {
         "name": "imbroda-ofrece-a-salomon-serfaty-la-coordinacion-del-nuevo-observatorio-economico-de-melilla",
@@ -1609,7 +1588,12 @@
         "name": "echa-a-andar-el-observatorio-economico-de-melilla",
         "url": "https://elfarodemelilla.es/echa-a-andar-el-observatorio-economico-de-melilla/"
       }
-    ]
+    ],
+    "from_date": "11/12/2023",
+    "is_active": "Sí",
+    "name": "Observatorio Económico de Melilla",
+    "parents": ["Consejería de Presidencia"],
+    "scope": "melilla"
   },
   {
     "description": "El Observatorio de precios agrarios muestra semanalmente la evolución del precio que percibe el productor (origen) y el que paga el consumidor (destino). También incorpora costes de producción de diferentes cultivos y especies ganaderas que se irán completando semana a semana.",
@@ -1655,19 +1639,19 @@
   },
   {
     "description": "Órgano encargado de analizar y estudiar la situación de la población joven de la Comunidad Foral de Navarra. El trabajo que realizamos desde el observatorio joven permite analizar y evaluar la situación, demandas y necesidades de la juventud Navarra, para, de esta manera, poder diseñar, elaborar y evaluar diferentes iniciativas, políticas y estrategias destinadas a mejorar las condiciones de vida del colectivo joven.",
+    "docs": [
+      {
+        "name": "Creado y regulado por la Orden Foral 116/2012, de 27 de marzo",
+        "url": "http://www.lexnavarra.navarra.es/detalle.asp?r=26089"
+      }
+    ],
     "from_date": "2012",
     "is_active": "Sí",
     "name": "Observatorio Joven",
     "parents": ["Consejo de la Juventud"],
     "scope": "navarra",
     "type": "publico",
-    "website": "https://www.juventudnavarra.es/es/observatorio-joven",
-    "docs": [
-      {
-        "name": "Creado y regulado por la Orden Foral 116/2012, de 27 de marzo",
-        "url": "http://www.lexnavarra.navarra.es/detalle.asp?r=26089"
-      }
-    ]
+    "website": "https://www.juventudnavarra.es/es/observatorio-joven"
   },
   {
     "description": "Facilitar la acción intersectorial y comunitaria en salud, adaptando la información a cada contexto y cada uno de los sectores",
@@ -2302,15 +2286,29 @@
     "website": "https://isek.euskadi.eus/webisek00-isekquees/es/"
   },
   {
+    "docs": [
+      {
+        "name": "Resolución de 27 de junio de 2022, de la Entidad Pública Empresarial ENAIRE, por la que se publica el Convenio con el Colegio Oficial de Pilotos, para la operación del Observatorio de seguridad y eficiencia de las operaciones aéreas",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-13358"
+      }
+    ],
     "from_date": "2 de julio de 2019",
     "is_active": "None",
     "name": "Observatorio de seguridad y eficiencia de las operaciones aéreas",
-    "parents": ["ENAIRE"],
+    "parents": [
+      "ENAIRE",
+      "Colegio Oficial de Pilotos de la Aviación Comercial"
+    ],
     "scope": "estatal",
-    "type": "publico",
-    "website": "https://www.google.com/search?q=Observatorio+de+Seguridad+y+Eficiencia+de+las+Operaciones+A%C3%A9reas"
+    "type": "publico"
   },
   {
+    "docs": [
+      {
+        "name": "Decreto 94/2021, de 21 de septiembre, por el que se crea el Observatorio de Precios de la Cadena Agroalimentaria de Castilla-La Mancha",
+        "url": "https://docm.jccm.es/portaldocm/descargarArchivo.do?ruta=2021/09/27/pdf/2021_10496.pdf&tipo=rutaDocm"
+      }
+    ],
     "email": "observatoriocadena@jccm.es",
     "from_date": "https://docm.jccm.es/portaldocm/descargarArchivo.do?ruta=2021/09/27/pdf/2021_10496.pdf&tipo=rutaDocm",
     "is_active": "Sí",
@@ -2405,6 +2403,10 @@
       {
         "name": "Enlace",
         "url": "https://www./export/sites/juventud/multimedia/documentos/programas/publicaciones/encuesta_jovenes_canarias_2012/ejc2012_diagnostico_juventud_canarias_2012_completo_13"
+      },
+      {
+        "name": "Enlace",
+        "url": "https://www.gobiernodecanarias.org/cmsgobcan/export/sites/juventud/multimedia/documentos/Juventud_y_crisis_en_Canarias_v_impresion.pdf"
       }
     ],
     "is_active": "Sí",
@@ -2419,7 +2421,9 @@
     "is_active": "None",
     "name": "Observatorio de Residuos de Bizkaia",
     "parents": [
-      "Garbiker, empresa pública 100% perteneciente a la Diputación Foral de Bizkaia y adscrita al Departamento de Medio Natural y Agricultura."
+      "Garbiker",
+      "Departamento de Medio Natural y Agricultura",
+      "Diputación Foral de Bizkaia"
     ],
     "type": "publico",
     "website": "https://bizkaikohirihondakinenbehatokia.com/es/observatorio-de-residuos/"
