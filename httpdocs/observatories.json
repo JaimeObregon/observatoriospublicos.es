@@ -1442,6 +1442,7 @@
     "email": "infogen@uvigo.es",
     "is_active": "Sí",
     "name": "Observatorio Municipal Galego",
+    "scope": "galicia",
     "parents": ["Universidade de Vigo", "Xunta de Galicia"],
     "type": "publico",
     "website": "http://www.observatorioredlocalis.com"
