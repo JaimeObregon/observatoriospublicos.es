@@ -161,7 +161,15 @@
     "website": "https://fundacion-biodiversidad.es/proyectos_ficha/observatorio-de-la-gestion-empresarial-en/"
   },
   {
+    "description": "El observatorio se centra en la protección y promoción de los derechos de niños, niñas y adolescentes. Su labor incluye la creación del Consejo Estatal de Participación de la Infancia y la Adolescencia y la implementación del Plan de Acción Estatal de la Garantía Infantil, dirigidos a garantizar servicios esenciales para el desarrollo de la infancia en riesgo de pobreza o exclusión social.",
+    "from_date": "1999",
+    "is_active": "Sí",
     "name": "Observatorio de la Infancia de España",
+    "parents": [
+      "Ministerio de Derechos Sociales y Agenda 2030"
+    ],
+    "scope": "estatal",
+    "type": "publico",
     "website": "https://observatoriodelainfancia.mdsocialesa2030.gob.es/queEs/home.htm"
   },
   {
@@ -177,7 +185,7 @@
     "scope": "asturias"
   },
   {
-    "name": "Observatorio de Infancia del País Vasco",
+    "name": "Observatorio de Infancia y la Adolescencia del País Vasco",
     "scope": "pais_vasco"
   },
   {
