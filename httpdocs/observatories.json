@@ -182,9 +182,9 @@
     "website": "https://www.cultura.gob.es/observatorio-museos-espana/el-observatorio-de-museos-de-espana.html"
   },
   {
+    "description": "Publica informes de precios agrícolas y ganaderos.",
     "is_active": "Sí",
     "name": "Observatorio de Precios y Mercados de la Junta de Andalucía",
-    "description": "Publica informes de precios agrícolas y ganaderos.",
     "parents": ["Consejeria de Agricultura y Pesca", "Junta de Andalucia"],
     "scope": "andalucia",
     "type": "publico",
@@ -1516,6 +1516,7 @@
     "website": "https://www.consorcioaeronautico.com/observatorio-aeroespacial/gl/"
   },
   {
+    "description": "El Observatorio tendrá como finalidad asesorar al Gobierno, formular planes de acción y programar actividades de conocimiento, intercambio y programación. Atendiendo a su finalidad, servirá de foro de diálogo permanente entre las distintas administraciones públicas y otras organizaciones representativas de intereses en el ámbito de la lusofonía, a fin de asegurar su participación activa en el abordaje de las relaciones de Galicia en dicho ámbito, así como aglutinará esfuerzos, coordinará las actuaciones público-privadas y procurará la consolidación en el tiempo de Galicia en el mundo de la lusofonía.",
     "docs": [
       {
         "name": "Decreto 134/2023, de 28 de septiembre, por el que se crea y se regula el Observatorio de la Lusofonía Valentín Paz Andrade",
@@ -1526,7 +1527,6 @@
         "url": "https://www.xunta.gal/notas-de-prensa/-/nova/83523/xunta-creara-observatorio-lusofonia-valentin-paz-andrade-para-reforzar-los-lazos"
       }
     ],
-    "description": "El Observatorio tendrá como finalidad asesorar al Gobierno, formular planes de acción y programar actividades de conocimiento, intercambio y programación. Atendiendo a su finalidad, servirá de foro de diálogo permanente entre las distintas administraciones públicas y otras organizaciones representativas de intereses en el ámbito de la lusofonía, a fin de asegurar su participación activa en el abordaje de las relaciones de Galicia en dicho ámbito, así como aglutinará esfuerzos, coordinará las actuaciones público-privadas y procurará la consolidación en el tiempo de Galicia en el mundo de la lusofonía.",
     "from_date": "10/10/2023",
     "is_active": "Sí",
     "name": "Observatorio da Lusofonía Valentín Paz Andrade",
@@ -1551,10 +1551,6 @@
     "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/joventut/observatori_catala_de_la_joventut/index.html"
   },
   {
-    "docs": {
-      "name": "Enlace",
-      "url": "https:///inefc/projectes_institucionals/observatori-de-lesport/publicacions/projectes/arxivem-esport-temps-covid19/"
-    },
     "email": "observatori@gencat.cat",
     "is_active": "Sí",
     "name": "Observatori Català de l’Esport",
@@ -1564,9 +1560,6 @@
   },
   {
     "description": "El Observatorio del pluralismo religioso en España aporta datos y diagnósticos sobre la diversidad de creencias y las necesidades vinculadas al ejercicio efectivo de la libertad religiosa para contribuir a la mejora de la gestión pública.",
-    "docs": {
-      "name": "Diciembre 22"
-    },
     "from_date": "2011",
     "is_active": "Sí",
     "name": "Observatorio del Pluralismo Religioso en España",
@@ -1585,9 +1578,6 @@
   },
   {
     "description": "El Observatorio de precios agrarios muestra semanalmente la evolución del precio que percibe el productor (origen) y el que paga el consumidor (destino). También incorpora costes de producción de diferentes cultivos y especies ganaderas que se irán completando semana a semana.",
-    "docs": {
-      "name": "Publica uno por semana desde 2010"
-    },
     "email": "estadistica.agri@larioja.org",
     "from_date": "2010",
     "is_active": "Sí",
@@ -1599,9 +1589,6 @@
   },
   {
     "description": "objetivo es el impulso del despliegue de servicios de banda ancha por parte de operadores de telecomunicaciones. Esta convocatoria financia a operadores con hasta un 80% de subvención el despliegue de servicios de banda ancha de más de 300Mbps en zonas donde no existen servicios de banda ancha de más de 100Mbps. Cada operador presenta una solicitud única para cada una de las comunidades autónomas asignándose la ayuda para cada una de ellas al operador que mejor oferta presente.",
-    "docs": {
-      "name": "NO PARECE QEU FACILITE inrmes sino que es un instrumento de desarrollo del plan director de banda ancha de navarra , recopilando información sobre la red, de forma que permita \"identificar de manera preliminar las zonas que reúnen las condiciones para ser consideradas como elegibles en actuaciones según los términos de la normativa de ayudas de Estado\""
-    },
     "email": "bandaanchanavarra@navarra.es",
     "from_date": "2023",
     "is_active": "Sí",
@@ -1612,9 +1599,12 @@
   },
   {
     "description": "Facilita diversos estudios, directivas, información de y para operadores turísticos regionales",
-    "docs": {
-      "name": "Estudios de caracterizaciòn de turistas de otros países, como Francia.   p ej.. https://turismoprofesional.navarra.es/documents/8257989/28313355/inspektour%28DB22%29_Profile+study_Module+1_Report_Source+market+France_Destination+Région+de+Navarre.pdf/2707f26c-e7cb-8580-5a29-1cec0f401b78?t=1694420417005"
-    },
+    "docs": [
+      {
+        "name": "Estudios de caracterizaciòn de turistas de otros países, como Francia",
+        "url": "https://turismoprofesional.navarra.es/documents/8257989/28313355/inspektour%28DB22%29_Profile+study_Module+1_Report_Source+market+France_Destination+Région+de+Navarre.pdf/2707f26c-e7cb-8580-5a29-1cec0f401b78?t=1694420417005"
+      }
+    ],
     "email": "observatorio.turistico@navarra.es",
     "from_date": "2023",
     "is_active": "Sí",
@@ -1626,9 +1616,6 @@
   },
   {
     "description": "Órgano encargado de analizar y estudiar la situación de la población joven de la Comunidad Foral de Navarra. El trabajo que realizamos desde el observatorio joven permite analizar y evaluar la situación, demandas y necesidades de la juventud Navarra, para, de esta manera, poder diseñar, elaborar y evaluar diferentes iniciativas, políticas y estrategias destinadas a mejorar las condiciones de vida del colectivo joven.",
-    "docs": {
-      "name": "Hay informes en diversas aspectos desde 2012 en adelante. Entre los últimos, una encusta sobre emancipacion de la población joven de 2023 y un estudio de Juventud y cuidados de 2024."
-    },
     "from_date": "2012",
     "is_active": "Sí",
     "name": "Observatorio Joven",
@@ -1665,10 +1652,12 @@
     "description": [
       "Orientar políticas sectoriales desde la perspectiva de la ordenación del territorio y la sostenibilidad. También para el seguimiento y la evaluación de la [Estrategia Territorial de Navarra (ETN)."
     ],
-    "docs": {
-      "name": "Decreto Foral Legislativo 1/2017, de 26 de julio, por el que se aprueba el Texto Refundido de la Ley Foral de Ordenación del Territorio y Urbanismo",
-      "url": "http://www.lexnavarra.navarra.es/detalle.asp?r=39197"
-    },
+    "docs": [
+      {
+        "name": "Decreto Foral Legislativo 1/2017, de 26 de julio, por el que se aprueba el Texto Refundido de la Ley Foral de Ordenación del Territorio y Urbanismo",
+        "url": "http://www.lexnavarra.navarra.es/detalle.asp?r=39197"
+      }
+    ],
     "from_date": "2017",
     "is_active": "None",
     "name": "Observatorio Territorial de Navarra",
@@ -1683,9 +1672,11 @@
   },
   {
     "description": "El Observatorio CIBIM revisa periódicamente la publicación de licitaciones públicas en la Plataforma de Contratación del Sector Público y plataformas existentes en Comunidades Autónomas, para identificar la incorporación de requisitos BIM y llevar a cabo un análisis cuantitativo y cualitativo de licitaciones con BIM publicadas en España a lo largo de los últimos años, según distintas clasificaciones.",
-    "docs": {
-      "name": "Enero 2017 a septiembre 2017 - Informe nº1"
-    },
+    "docs": [
+      {
+        "name": "Enero 2017 a septiembre 2017 - Informe nº1"
+      }
+    ],
     "from_date": "Mayo 2017",
     "is_active": "Sí",
     "name": "Observatorio CIBIM",
@@ -1757,10 +1748,12 @@
     "website": "https://comercio.castillalamancha.es/observatorio-comercio"
   },
   {
-    "docs": {
-      "name": "Enlace",
-      "url": "https://www./desarrollo-rural/temas/innovacion-medio-rural/estudio_3def_tcm30-655779.pdf"
-    },
+    "docs": [
+      {
+        "name": "Enlace",
+        "url": "https://www./desarrollo-rural/temas/innovacion-medio-rural/estudio_3def_tcm30-655779.pdf"
+      }
+    ],
     "is_active": "None",
     "name": "Observatorio de Digitalización en el Sector Agroalimentario",
     "parents": [
@@ -1824,9 +1817,11 @@
     "website": "https://cejfe.gencat.cat/ca/observatori/"
   },
   {
-    "docs": {
-      "name": "Parece que los últimos datos son de 2021 pero la página figura actualizada a 2024"
-    },
+    "docs": [
+      {
+        "name": "Parece que los últimos datos son de 2021 pero la página figura actualizada a 2024"
+      }
+    ],
     "email": "info@fepa18.org",
     "is_active": "Sí",
     "name": "Observatorio de la emancipación juvenil en españa",
@@ -1938,10 +1933,7 @@
     "website": "https://observatori.smartcatalonia.gencat.cat/about"
   },
   {
-    "description": "-    Promover innovación social y empresarial",
-    "docs": {
-      "name": "Y muchos más!"
-    },
+    "description": "Promover la innovación social y empresarial",
     "email": "paborrego@alumnos.unex.es",
     "from_date": "El Observatorio del Cambio inició su andadura entre los años 2003 y 2004, años en los que se celebraron 20 sesiones temáticas que abarcaron cuestiones relacionadas con diferentes sectores y materias específicas de la ciudad. Posteriormente, del 2009  al 2011 se llevaron a cabo 13 nuevas sesiones. Todas estas sesiones están recogidas en sus correspondientes actas.",
     "is_active": "None",
@@ -2018,10 +2010,12 @@
     "website": "https://www.observatoriotransformacion.com"
   },
   {
-    "docs": {
-      "name": "Enlace",
-      "url": "https://www./2017-2020/?id=020202&paae=2024"
-    },
+    "docs": [
+      {
+        "name": "Enlace",
+        "url": "https://www./2017-2020/?id=020202&paae=2024"
+      }
+    ],
     "is_active": "Sí",
     "name": "Observatori del Treball i Model Productiu",
     "parents": ["Departament d'Empresa i Treball", "Generalitat de Catalunya"],
@@ -2057,24 +2051,18 @@
     "parents": ["Departament de Drets Socials", "Generalitat de Catalunya"],
     "scope": "cataluna",
     "type": "publico",
-    "docs": [
-      {
-        "url": "https://dretssocials.gencat.cat/web/.content/03ambits_tematics/19_civisme_i_valors/observatori/informes/Monografic-dinamiques-comunitaries-als-barris_1121_febrer-2022.pdf",
-        "name": "Informe monogràfic 2021: Dimensió comunitària als barris de Catalunya"
-      }
-    ],
     "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/civisme_i_valors/observatori/"
   },
   {
-    "is_active": "None",
-    "name": "Observatorio de la Muerte Digna y de las Comisiones de Mortalidad de las Áreas de Salud.",
-    "parents": ["Gobierno del Principado de Asturias", "Consejería de Salud"],
     "docs": [
       {
         "name": "Decreto 63/2020, de 16 de julio, por el que se regulan la organización y el funcionamiento del Observatorio de la Muerte Digna y de las Comisiones de Mortalidad de las Áreas de Salud",
         "url": "https://sede.asturias.es/bopa-disposiciones?p_p_id=pa_sede_bopa_web_portlet_SedeBopaDispositionWeb&p_p_lifecycle=0&_pa_sede_bopa_web_portlet_SedeBopaDispositionWeb_mvcRenderCommandName=%2Fdisposition%2Fdetail&p_r_p_dispositionText=2020-06176&p_r_p_dispositionReference=2020-06176&p_r_p_dispositionDate=03%2F08%2F2020"
       }
     ],
+    "is_active": "None",
+    "name": "Observatorio de la Muerte Digna y de las Comisiones de Mortalidad de las Áreas de Salud.",
+    "parents": ["Gobierno del Principado de Asturias", "Consejería de Salud"],
     "scope": "asturias",
     "type": "publico",
     "website": "https://www.astursalud.es/noticias/-/noticias/omd"
@@ -2103,18 +2091,17 @@
     "website": "https://contratacionresponsablecanarias.org"
   },
   {
-    "from_date": "6 de octubre de 2006, según el [DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2006/11596).",
-    "is_active": "Sí",
-    "name": "Observatorio de Precios de los Productos Agroalimetarios de la Comunitat Valenciana",
-    "type": "publico",
-    "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851",
-    "from_date": "6 de octubre de 2006",
     "docs": [
       {
         "name": "DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana",
         "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2006/11596"
       }
-    ]
+    ],
+    "from_date": "6 de octubre de 2006",
+    "is_active": "Sí",
+    "name": "Observatorio de Precios de los Productos Agroalimetarios de la Comunitat Valenciana",
+    "type": "publico",
+    "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851"
   },
   {
     "description": "Observa los precios de venta al público y trata de identificar posibles subidas injustificadas de precios.",
@@ -2139,11 +2126,11 @@
     "email": "smn.obsam@cime.es",
     "is_active": "None",
     "name": "Observatori Socioambiental de Menorca",
-    "scope": "menorca",
     "parents": [
       "Instituto Menorquín de Estudios",
       "Consell Insular de Menorca"
     ],
+    "scope": "menorca",
     "type": "publico",
     "website": "https://www.obsam.cat"
   },
@@ -2159,8 +2146,8 @@
   {
     "description": "El objetivo de este informe estadístico, de carácter anual, es conocer de una forma completa e integrada las pautas de la visita y el perfil del visitante, tanto turistas como excursionistas, entre otros aspectos. Es decir, se trata de determinar los perfiles del visitante que llega a la ciudad de Málaga: cuáles son sus motivaciones iniciales, cómo organizan su viaje, qué tipo de actividades realizan durante su estancia, cómo valoran la oferta disponible y el viaje en función de sus expectativas iniciales, entre otros aspectos relevantes.",
     "email": "visita@malaga.eu",
-    "is_active": "Sí",
     "from_date": "2008",
+    "is_active": "Sí",
     "name": "Observatorio turístico de Málaga",
     "parents": [
       "Ayuntamiento de Málaga",
@@ -2181,10 +2168,6 @@
   },
   {
     "description": "No parece tener actividad. Para <q>identificar y servir de intercambio de información sobre experiencias participativas consideradas de un especial interés, tanto en Navarra como fuera de ella, para su divulgación y gestión de buenas y malas prácticas en esta materia. Asimismo, se pretende poner en marcha un seminario de personas expertas que coadyuven al desarrollo del Plan de Impulso de la Participación Ciudadana, así como la presentación de un proyecto innovador en esta materia</q>.",
-    "docs": {
-      "name": "Enlace",
-      "url": "https:///participacion/1587/impulso-participacion-ciudadana-navarra-2016-2019"
-    },
     "docs": [
       {
         "name": "Impulso a la Actividad 2016/17",
@@ -2204,14 +2187,14 @@
   },
   {
     "description": "Es un órgano colegiado y consultivo que dependiendo de la Dirección General competente en materia de lucha contra la brecha digital trata de ser un foro de participación que permita el impulso compartido entre las administraciones públicas, los agentes económicos y sociales y la sociedad civil organizada en la lucha contra la brecha digital. Servirá de plataforma para planificar, estudiar y analizar el entorno y la realidad socioeconómica valenciana en materia de brecha digital.",
-    "email": "observatorio_dglbd@gva.es",
-    "from_date": "18 de marzo de 2021",
     "docs": [
       {
         "name": "DECRETO 43/2021, de 18 de marzo, del Consell, de creación del Observatorio de Brecha Digital",
         "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2021/3198&L=1"
       }
     ],
+    "email": "observatorio_dglbd@gva.es",
+    "from_date": "18 de marzo de 2021",
     "is_active": "Sí",
     "name": "Observatori de la Bretxa Digital",
     "parents": [
@@ -2234,10 +2217,12 @@
   },
   {
     "description": "Evaluación de políticas públicas y análisis y prospección de la realidad de Navarra.",
-    "docs": {
-      "name": "Evolución del empleo en Navarra. Diciembre 2023",
-      "url": "https://www.observatoriorealidadsocial.es/es/estudios/evolucion-del-empleo-en-navarra-diciembre-2023-informe-mensual/es-590756/"
-    },
+    "docs": [
+      {
+        "name": "Evolución del empleo en Navarra. Diciembre 2023",
+        "url": "https://www.observatoriorealidadsocial.es/es/estudios/evolucion-del-empleo-en-navarra-diciembre-2023-informe-mensual/es-590756/"
+      }
+    ],
     "from_date": "Aproximadamente 2016 (primeros estudios publicados como observatorio)",
     "is_active": "Sí",
     "name": "De la Realidad Social de Navarra",
@@ -2367,10 +2352,12 @@
     "website": "https://oaaep.unizar.es/"
   },
   {
-    "docs": {
-      "name": "Enlace",
-      "url": "https://www./export/sites/juventud/multimedia/documentos/programas/publicaciones/encuesta_jovenes_canarias_2012/ejc2012_diagnostico_juventud_canarias_2012_completo_13"
-    },
+    "docs": [
+      {
+        "name": "Enlace",
+        "url": "https://www./export/sites/juventud/multimedia/documentos/programas/publicaciones/encuesta_jovenes_canarias_2012/ejc2012_diagnostico_juventud_canarias_2012_completo_13"
+      }
+    ],
     "is_active": "Sí",
     "name": "Observatorio Canario de la Juventud",
     "parents": ["Gobierno de Canarias", "Dirección General de Juventud"],
@@ -2379,9 +2366,6 @@
     "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/"
   },
   {
-    "docs": {
-      "name": "En teoría, hay histórico hasta 2010: https://bizkaikohirihondakinenbehatokia.com/es/en-numeros/#historico"
-    },
     "from_date": "2011",
     "is_active": "None",
     "name": "Observatorio de Residuos de Bizkaia",
@@ -2526,6 +2510,14 @@
     "website": "https://cjusticia.gva.es/es/web/processos-electorals/observatori-electoral"
   },
   {
+    "description": "Para conocer un poco más sobre la historia de la Inteligencia Artificial, identificar a los agentes implicados y comenzar a manejarse con los términos más habituales empleados en este campo.",
+    "docs": [
+      {
+        "name": "DECRETO 85/2023, de 9 de junio, del Consell, de creación del Observatorio de la Inteligencia Artificial de la Comunitat Valenciana",
+        "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2023/6578&L=1"
+      }
+    ],
+    "from_date": "9 de junio de 2023",
     "is_active": "None",
     "name": "Observatorio de la IA",
     "parents": [
@@ -2534,16 +2526,7 @@
     ],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://observatorioia.gva.es/es/",
-
-    "description": "Para conocer un poco más sobre la historia de la Inteligencia Artificial, identificar a los agentes implicados y comenzar a manejarse con los términos más habituales empleados en este campo.",
-    "from_date": "9 de junio de 2023",
-    "docs": [
-      {
-        "name": "DECRETO 85/2023, de 9 de junio, del Consell, de creación del Observatorio de la Inteligencia Artificial de la Comunitat Valenciana",
-        "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2023/6578&L=1"
-      }
-    ]
+    "website": "https://observatorioia.gva.es/es/"
   },
   {
     "is_active": "None",
@@ -2728,10 +2711,10 @@
     "website": "https://comercio.gob.es/ComercioInterior/Observatorio/Paginas/default.aspx"
   },
   {
+    "description": "Aún no han creado su propia pagina pero su constitución aparece mencionada en varias páginas oficiales de la Junta de Andalucía, arriba uno de las noticias al respecto",
     "is_active": "None",
     "name": "Observatorio de agresiones a profesionales del sistema sanitario público",
     "parents": ["Junta de Andalucía"],
-    "description": "Aún no han creado su propia pagina pero su constitución aparece mencionada en varias páginas oficiales de la Junta de Andalucía, arriba uno de las noticias al respecto",
     "type": "publico",
     "website": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/todas-noticia/constituido-el-observatorio-de-agresiones-profesionales-del-sistema-sanitario-publico"
   },
