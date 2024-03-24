@@ -347,19 +347,7 @@
     "website": "https://www.educacionyfp.gob.es/mc/sgctie/convivencia-escolar/observatorio.html"
   },
   {
-    "name": "Observatorio de la Inmigración en Asturias (ODINA)",
-    "type": "mixto",
-    "website": "www.odina.es",
-    "email": "asturias@accem.es",
     "description": "Nace con la finalidad de estructurar y desarrollar un dispositivo permanente de observación cooperativa y de evaluación participativa sobre la situación socio-económica del colectivo de las personas inmigrantes que residen en Asturias.",
-    "scope": "autonómico",
-    "from_date": "2000",
-    "parents": [
-      "Accem",
-      "Consejería de Bienestar Social y Vivienda",
-      "Gobierno del Principado de Asturias",
-      "Dirección General de Migraciones. Ministerio de Empleo y Seguridad Social."
-    ],
     "docs": [
       {
         "name": "Diagnóstico Red Odina 2022",
@@ -374,7 +362,19 @@
         "url": "https://www.odina.es/estadisticas-diagnostico-2020-es.html"
       }
     ],
-    "is_active": "Si"
+    "email": "asturias@accem.es",
+    "from_date": "2000",
+    "is_active": "Si",
+    "name": "Observatorio de la Inmigración en Asturias (ODINA)",
+    "parents": [
+      "Accem",
+      "Consejería de Bienestar Social y Vivienda",
+      "Gobierno del Principado de Asturias",
+      "Dirección General de Migraciones. Ministerio de Empleo y Seguridad Social."
+    ],
+    "scope": "autonómico",
+    "type": "mixto",
+    "website": "www.odina.es"
   },
   {
     "name": "Observatorio Estatal de la Dependencia",
@@ -2720,16 +2720,7 @@
     "website": "https://www.aragon.es/-/estudios-1"
   },
   {
-    "name": "Observatorio sobre Drogas y Adicción a las Bebidas Alcohólicas del Principado de Asturias. (ODABAPA)",
-    "type": "publico",
-    "website": "https://www.astursalud.es/noticias/-/noticias/observatorio-sobre-drogas-y-adiccion-a-las-bebidas-alcoholicas-del-principado-de-asturias",
-    "email": "Salud.Poblacional@asturias.org",
     "description": "El Observatorio sobre Drogas para Asturias es un centro que tiene como objetivo fundamental recoger, analizar y difundir indicadores que permitan evaluar la situación del consumo de drogas, sus repercusiones médicas, sociales y judiciales y la utilización de los servicios ofertados en este campo en Asturias.\n\nObservatorio de Salud en Asturias.",
-    "scope": "autonómico",
-    "from_date": "2001\r\nEl Plan sobre Drogas “Creando Futuro” 2001-2003 contemplaba en su Iniciativa 6 la creación del\r\nObservatorio de Drogas paa Asturias. Fuente: Plan sobre Drogas en Asturias 2010/2016: https://www.astursalud.es/documents/35439/36644/PLAN+SOBRE+DROGAS+2010+2016.pdf/8d7e442d-86c0-a047-97d6-5634abcde106?t=1594222572027",
-    "parents": [
-      "Dirección General de Salud Pública. Consejería de Salud del Principado de Asturias. Gobierno del Principado de Asturias."
-    ],
     "docs": [
       {
         "name": "Informe 2018-2019 ESTUDES Resultado para Asturias:",
@@ -2740,7 +2731,16 @@
         "url": "https://www.astursalud.es/documents/35439/40002/INFORME+DE+RESULTADOS+DE+LA+ENCUESTA+EDADES_ASTURIAS_2020.pdf/1e0e6470-3755-dc62-e730-62dbd92e706d?t=1626692244852"
       }
     ],
-    "is_active": "Si"
+    "email": "Salud.Poblacional@asturias.org",
+    "from_date": "2001\r\nEl Plan sobre Drogas “Creando Futuro” 2001-2003 contemplaba en su Iniciativa 6 la creación del\r\nObservatorio de Drogas paa Asturias. Fuente: Plan sobre Drogas en Asturias 2010/2016: https://www.astursalud.es/documents/35439/36644/PLAN+SOBRE+DROGAS+2010+2016.pdf/8d7e442d-86c0-a047-97d6-5634abcde106?t=1594222572027",
+    "is_active": "Si",
+    "name": "Observatorio sobre Drogas y Adicción a las Bebidas Alcohólicas del Principado de Asturias. (ODABAPA)",
+    "parents": [
+      "Dirección General de Salud Pública. Consejería de Salud del Principado de Asturias. Gobierno del Principado de Asturias."
+    ],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://www.astursalud.es/noticias/-/noticias/observatorio-sobre-drogas-y-adiccion-a-las-bebidas-alcoholicas-del-principado-de-asturias"
   },
   {
     "email": "oscn@navarra.es",
@@ -2904,32 +2904,21 @@
     "website": "https://web.araba.eus/es/medio-ambiente/residuos/observatorio-de-residuos"
   },
   {
-    "name": "Observatori per a la igualtat",
-    "type": "publico",
-    "website": "https://observatori-igualtat.es/es/",
-    "email": "ibdona@ibdona.caib.es",
     "description": "Para analizar y difundir información sobre la evolución de los indicadores relativos a la igualdad entre mujeres y hombres, para mejorar la planificación y evaluación de las políticas públicas desde la perspectiva de género.",
-    "scope": "islas_baleares",
+    "email": "ibdona@ibdona.caib.es",
+    "is_active": "Si",
+    "name": "Observatori per a la igualtat",
     "parents": [
       "Govern de les Illes Balears",
       "Institut Balear de la Dona",
       "Conselleria Famílies i Afers Socials"
     ],
-    "is_active": "Si"
+    "scope": "islas_baleares",
+    "type": "publico",
+    "website": "https://observatori-igualtat.es/es/"
   },
   {
-    "name": "Observatorio de Salud en Asturias (OBSA)",
-    "type": "publico",
-    "website": "https://obsaludasturias.com/obsa",
-    "email": "obsalud@asturias.org",
     "description": "El Observatorio tratará de desarrollar tres líneas fundamentales: generar un espacio de conocimiento sobre la información en salud en Asturias a través de una serie de informes periódicos; garantizar que esta información llegue de la forma más comprensible al mayor número de agentes de salud posibles, destacando la importancia de un abordaje de los determinantes sociales de la salud y, finalmente, vincular la información en salud de los indicadores a las diferentes actuaciones comunitarias en salud que se están desarrollando en Asturias.\n\nDirección General de Salud Pública. Consejería de Sanidad. Gobierno del Principado de Asturias.\r\nSupervisión: School of Public Health and Medicine de la Universidad de Wisconsin-Madison.",
-    "scope": "autonómico",
-    "from_date": "27 de mayo de 2011",
-    "parents": [
-      "Dirección General de Salud Pública",
-      "Consejería de Sanidad",
-      "Gobierno del Principado de Asturias."
-    ],
     "docs": [
       {
         "name": "Informe del efecto del cambio climático en la salud de la población asturiana. 2023",
@@ -2948,6 +2937,17 @@
         "url": "https://obsaludasturias.com/obsa/wp-content/uploads/ASSA2015-VFinal.pdf"
       }
     ],
-    "is_active": "Si"
+    "email": "obsalud@asturias.org",
+    "from_date": "27 de mayo de 2011",
+    "is_active": "Si",
+    "name": "Observatorio de Salud en Asturias (OBSA)",
+    "parents": [
+      "Dirección General de Salud Pública",
+      "Consejería de Sanidad",
+      "Gobierno del Principado de Asturias."
+    ],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://obsaludasturias.com/obsa"
   }
 ]
