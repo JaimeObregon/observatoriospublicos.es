@@ -1972,15 +1972,7 @@
   },
   {
     "is_active": "None",
-    "name": "Observatori de la mort",
-    "parents": ["Departament de Salut (Generalitat)"],
-    "scope": "cataluna",
-    "type": "publico",
-    "website": "https://observatorisalut.gencat.cat/ca/observatori_mort/"
-  },
-  {
-    "is_active": "None",
-    "name": "Observatori del sistema de salut de catalunya",
+    "name": "Observatori del Sistema de Salut de Catalunya",
     "parents": [
       "Agència de Qualitat i Avaluació Sanitàries de Catalunya",
       "Generalitat de Catalunya"
@@ -2016,10 +2008,16 @@
     "from_date": "07-09-2021",
     "is_active": "Sí",
     "name": "Observatorio contra la LGTBIfobia de Castilla-La Mancha",
-    "parents": ["Ayuntamiento de Guadalajara"],
+    "parents": [
+      "Ayuntamiento de Guadalajara",
+      "Asociación LGTBI+ WADO",
+      "Junta de Castilla-La Mancha",
+      "Instituto de la Mujer de Castilla-La Mancha",
+      "Ayuntamiento de Ciudad Real"
+    ],
     "scope": "castilla_la_mancha",
     "type": "publico",
-    "website": "https://observatoriolgtbiclm.com/"
+    "website": "https://observatoriolgtbiclm.com"
   },
   {
     "docs": [
@@ -2056,10 +2054,10 @@
     "website": "https://www.astursalud.es/noticias/-/noticias/omd"
   },
   {
-    "description": "El Observatori del Canvi Climàtic es el centro educativo y divulgativo de Valencia para formar, concienciar y sensibilizar frente al cambio climático.",
+    "description": "Centro educativo y divulgativo de Valencia para formar, concienciar y sensibilizar frente al cambio climático.",
     "email": "observatori@climaienergia.com",
     "is_active": "Sí",
-    "name": "Observatori del canvi climàtic",
+    "name": "Observatorio del Cambio Climático / Observatori del Canvi Climàtic",
     "parents": ["Ayuntamiento de Valencia"],
     "type": "publico",
     "website": "https://climaienergia.com/observatori/"
@@ -2126,8 +2124,9 @@
   {
     "email": "movilidad@malaga.eu",
     "is_active": "Sí",
-    "name": "Observatorio de la movilidad viaria de málaga (movima)",
+    "name": "Observatorio de la Movilidad Viaria de Málaga (MOVIMA)",
     "parents": ["Ayuntamiento de Málaga"],
+    "scope": "local",
     "type": "publico",
     "website": "https://movilidad.malaga.eu/es/lineas-de-trabajo/movima/"
   },
@@ -2386,13 +2385,15 @@
     ],
     "from_date": "3 de Septiembre de 2019",
     "is_active": "Sí",
-    "name": "Observatori de la Mort",
+    "name": "Observatorio de la Muerte / Observatori de la Mort",
     "parents": [
-      "Agència de Qualitat i Avaluació Sanitàries de Catalunya (AQuAS)"
+      "Agència de Qualitat i Avaluació Sanitàries de Catalunya (AQuAS)",
+      "Departament de Salut",
+      "Generalitat de Catalunya"
     ],
     "scope": "cataluna",
     "type": "publico",
-    "website": "https://observatorisalut.gencat.cat/ca/observatori_mort/index.html"
+    "website": "https://observatorisalut.gencat.cat/ca/observatori_mort"
   },
   {
     "email": "observatori@creama.org",
