@@ -182,12 +182,10 @@
     "website": "https://www.cultura.gob.es/observatorio-museos-espana/el-observatorio-de-museos-de-espana.html"
   },
   {
-    "docs": {
-      "name": "Informes de precios agrícolas y ganaderos"
-    },
     "is_active": "Sí",
     "name": "Observatorio de Precios y Mercados de la Junta de Andalucía",
-    "parents": ["Consejeria de Agricultura y Pesca de la Junta de Andalucia"],
+    "description": "Publica informes de precios agrícolas y ganaderos.",
+    "parents": ["Consejeria de Agricultura y Pesca", "Junta de Andalucia"],
     "scope": "andalucia",
     "type": "publico",
     "website": "https://www.juntadeandalucia.es/agriculturaypesca/observatorio"
@@ -1403,14 +1401,6 @@
   },
   {
     "is_active": "None",
-    "name": "Observatorio Canario de Empleo",
-    "parents": ["Gobierno de Canarias"],
-    "scope": "canarias",
-    "type": "publico",
-    "website": "https://obecan.es"
-  },
-  {
-    "is_active": "None",
     "name": "Observatorio Canario de la Salud",
     "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
@@ -1649,10 +1639,20 @@
   },
   {
     "description": "Facilitar la acción intersectorial y comunitaria en salud, adaptando la información a cada contexto y cada uno de los sectores",
-    "docs": {
-      "name": "Mortalidad",
-      "url": "https://portalsalud.navarra.es/documents/11746728/14014754/Indicadores+Navarra+Mortalidad+2023.pdf/e1f02986-2443-625a-5a86-56a0e314abb4?t=1678092314189"
-    },
+    "docs": [
+      {
+        "name": "Mortalidad",
+        "url": "https://portalsalud.navarra.es/documents/11746728/14014754/Indicadores+Navarra+Mortalidad+2023.pdf/e1f02986-2443-625a-5a86-56a0e314abb4?t=1678092314189"
+      },
+      {
+        "name": "Estilos de vida",
+        "url": "https://portalsalud.navarra.es/documents/11746728/14014754/Indicadores+Navarra+Estilos+de+Vida+2023.pdf/e3767ecc-b4e4-f78b-cae5-5e0fc812afdd?t=1678092313421"
+      },
+      {
+        "name": "Indicadores socioeconómicos",
+        "url": "https://portalsalud.navarra.es/documents/11746728/14014754/Indicadores+Navarra+Sociodemograficos.pdf/edf990af-6ce2-b1f6-683a-379b5e19b719?t=1686728893883"
+      }
+    ],
     "is_active": "Sí",
     "name": "Observatorio de Salud Publica de Navarra",
     "parents": ["Deapartamento de Salud/Osasunbidea", "Gobierno de Navarra"],
@@ -1663,15 +1663,20 @@
   },
   {
     "description": [
-      "El resultado obtenido es útil para orientar políticas sectoriales desde la perspectiva de la ordenación del territorio y la sostenibilidad. También para el seguimiento y la evaluación de la [Estrategia Territorial de Navarra (ETN)."
+      "Orientar políticas sectoriales desde la perspectiva de la ordenación del territorio y la sostenibilidad. También para el seguimiento y la evaluación de la [Estrategia Territorial de Navarra (ETN)."
     ],
     "docs": {
-      "name": "No constan"
+      "name": "Decreto Foral Legislativo 1/2017, de 26 de julio, por el que se aprueba el Texto Refundido de la Ley Foral de Ordenación del Territorio y Urbanismo",
+      "url": "http://www.lexnavarra.navarra.es/detalle.asp?r=39197"
     },
-    "from_date": "2017 .- Conforme al  Decreto Foral Legislativo 1/2017, de 26 de julio, por el que se aprueba el [Texto Refundido de la Ley Foral de Ordenación del Territorio y Urbanismo](http://www.lexnavarra.navarra.es/detalle.asp?r=39197).",
+    "from_date": "2017",
     "is_active": "None",
     "name": "Observatorio Territorial de Navarra",
-    "parents": ["Centro de Recursos Territoriales"],
+    "parents": [
+      "Centro de Recursos Territoriales",
+      "Nasuvinsa",
+      "Gobierno de Navarra"
+    ],
     "scope": "navarra",
     "type": "publico",
     "website": "https://www.nasuvinsa.es/es/servicios/lursarea/observatorio"
@@ -1693,16 +1698,26 @@
     "description": "El Observatorio de Contratación Pública es un lugar de encuentro para los profesionales de la materia desde el que proceder al debate y análisis de las novedades introducidas en su ordenación jurídica, así como para la realización de nuevas propuestas de actuación para la modernización de la contratación pública y materializar en la misma los principios de eficiencia, integridad y buena administración.",
     "from_date": "Octubre de 2011",
     "is_active": "Sí",
-    "name": "Obervatorio de contratación pública (obcp)",
+    "name": "Obervatorio de Contratación Pública (OBCP)",
     "parents": [
-      "Ministerio de Economía y Empresa",
-      "Cátedra de Proyectos e Inversiones Estratégicas de Aragón",
+      "Ministerio de Economía, Comercio y Empresas",
+      "Ministerio para la Transformación Digital y de la Función Pública",
       "Universidad de Zaragoza",
-      "NTT Data"
+      "NTT Data",
+      "Gobierno de Aragón",
+      "Grupo de investigación ADESTER de la Universidad de Zaragoza",
+      "Universidad de Castilla-La Mancha",
+      "Universidad de Vigo",
+      "Generalitat de Catalunya",
+      "Ayuntamiento de Zaragoza",
+      "Cámara de Cuentas de Aragón",
+      "Cátedra de la Contratación Pública Local de la Universidad de Zaragoza",
+      "Transparency International España",
+      "Cátedra de Proyectos e Inversiones Estratégicas de Aragón de la Universidad de Zaragoza"
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.obcp.es/"
+    "website": "https://www.obcp.es"
   },
   {
     "is_active": "None",
@@ -2232,7 +2247,7 @@
     "website": "https://www.observatoriorealidadsocial.es"
   },
   {
-    "description": "El Observatorio de la Accesibilidad de Euskadi es una herramienta para centralizar la información sobre accesibilidad en el País Vasco y que esté a disposición de todas las personas interesadas.",
+    "description": "Es <q>una herramienta para centralizar la información sobre accesibilidad en el País Vasco y que esté a disposición de todas las personas interesadas</q>.",
     "docs": [
       {
         "name": "I PLAN DE ACCIÓN DE LA ESTRATEGIA DE ACCESIBILIDAD UNIVERSAL DE EUSKADI Informe anual de Evaluación 2022",
@@ -2240,10 +2255,14 @@
       }
     ],
     "email": "accesibilidad@euskadi.eus",
-    "from_date": "[21 de julio de 2021](https://www.irekia.euskadi.eus/es/news/70861-euskadi-contara-con-observatorio-accesibilidad-para-obtener-imagen-real-este-derecho-comunidad-autonoma)",
+    "from_date": "21 de julio de 2021",
     "is_active": "Sí",
     "name": "Observatorio de Accesibilidad de Euskadi",
-    "parents": ["Dirección de Vivienda, Suelo y Arquitectónica"],
+    "parents": [
+      "Dirección de Vivienda, Suelo y Arquitectónica",
+      "Departamento de Planificación Territorial, Vivienda y Transportes",
+      "Gobierno Vasco"
+    ],
     "scope": "pais_vasco",
     "type": "publico",
     "website": "https://isek.euskadi.eus/webisek00-isekquees/es/"
@@ -2373,8 +2392,11 @@
     "website": "https://bizkaikohirihondakinenbehatokia.com/es/observatorio-de-residuos/"
   },
   {
-    "description": [
-      "Véase https://www.gobiernodecanarias.org/boc/1998/160/003.html"
+    "docs": [
+      {
+        "name": "Decreto de creación",
+        "url": "https://www.gobiernodecanarias.org/boc/1998/160/003.html"
+      }
     ],
     "email": "info@obecan.es",
     "from_date": "Diciembre 1998",
