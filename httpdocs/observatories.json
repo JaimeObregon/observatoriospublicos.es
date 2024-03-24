@@ -83,7 +83,22 @@
     "scope": "galicia"
   },
   {
-    "name": "Observatorio de Administración Electrónica"
+    "description": "Es una entidad que supervisa y reporta el progreso y estado de la administración electrónica en España. Publica mensualmente un boletín con indicadores clave, recolectando datos propios y de terceros para ofrecer una visión completa del desarrollo y avance de la digitalización de los servicios administrativos en el país. Su función principal es proporcionar información actualizada y relevante que ayude en la transformación digital y mejora de la administración electrónica.",
+    "docs": [
+      {
+        "name": "Real Decreto 806/2014, de 19 de septiembre, por el que se rige la existencia del observatorio",
+        "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2014-9741"
+      }
+    ],
+    "name": "Observatorio de Administración Electrónica (OBSAE)",
+    "parents": [
+      "Comisiones Ministeriales de Administración Digital",
+      "Federación Española de Municipios y Provincias",
+      "Comisión Sectorial de Administración Electrónica"
+    ],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://administracionelectronica.gob.es/pae_Home/pae_OBSAE.html"
   },
   {
     "docs": [
