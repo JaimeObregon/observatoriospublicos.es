@@ -64,7 +64,7 @@
     "name": "Observatori Municipal de l'Habitatge d'Alcoi",
     "scope": "municipal",
     "type": "publico",
-    "url": "https://www.omha.alcoi.org/"
+    "url": "https://www.omha.alcoi.org"
   },
   {
     "name": "Observatorio Autonómico dos Ríos de Galicia",
@@ -165,10 +165,6 @@
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.cultura.gob.es/cultura/libro/observatorio-de-la-lectura-y-el-libro/que-es-el-observatorio.html"
-  },
-  {
-    "name": "Observatorio de la Realidad Social de Navarra",
-    "website": "https://www.observatoriorealidadsocial.es/es/"
   },
   {
     "email": "observatorio.ocupacional@sepe.es",
@@ -2222,17 +2218,18 @@
     "website": "https://observatoriosocial.malaga.eu"
   },
   {
-    "description": "Evaluación de políticas públicas.",
+    "description": "Evaluación de políticas públicas y análisis y prospección de la realidad de Navarra.",
     "docs": {
-      "name": "Evolución del empleo en Navarra. Diciembre 2023. Informe mensual. Gobierno de Navarra , Pamplona, 2023, 29 p."
+      "name": "Evolución del empleo en Navarra. Diciembre 2023",
+      "url": "https://www.observatoriorealidadsocial.es/es/estudios/evolucion-del-empleo-en-navarra-diciembre-2023-informe-mensual/es-590756/"
     },
     "from_date": "Aproximadamente 2016 (primeros estudios publicados como observatorio)",
     "is_active": "Sí",
-    "name": "De la realidad social de navarra / análisis y prospección de la realidad de navarra",
-    "parents": ["Servicios sociales, empleo y vivienda"],
+    "name": "De la Realidad Social de Navarra",
+    "parents": ["Servicios sociales, empleo y vivienda", "Gobierno de Navarra"],
     "scope": "navarra",
     "type": "publico",
-    "website": "https://www.observatoriorealidadsocial.es/es/estudios/"
+    "website": "https://www.observatoriorealidadsocial.es"
   },
   {
     "description": "El Observatorio de la Accesibilidad de Euskadi es una herramienta para centralizar la información sobre accesibilidad en el País Vasco y que esté a disposición de todas las personas interesadas.",
@@ -2480,7 +2477,8 @@
     "is_active": "None",
     "name": "Observatorio Ciudadano del Agua de la Comunidad Valenciana",
     "parents": [
-      "Generalitat Valenciana. Conselleria de Medio Ambiente, Agua, Infraestructuras y Territorio"
+      "Generalitat Valenciana",
+      "Conselleria de Medio Ambiente, Agua, Infraestructuras y Territorio"
     ],
     "scope": "comunidad_valenciana",
     "type": "publico",
@@ -2529,7 +2527,8 @@
     "is_active": "None",
     "name": "Observatorio Valenciano para la Igualdad de Trato, la No Discriminación y la Prevención de los Delitos de Odio",
     "parents": [
-      "Generalitat Valenciana. Conselleria de Servicios Sociales, Igualdad y Vivienda"
+      "Generalitat Valenciana",
+      "Conselleria de Servicios Sociales, Igualdad y Vivienda"
     ],
     "scope": "comunidad_valenciana",
     "type": "publico",
@@ -2599,7 +2598,7 @@
     "name": "Observatorio de la Montaña de Aragón",
     "scope": "aragon",
     "type": "publico",
-    "website": "https://observatoriomontanaragon.com/"
+    "website": "https://observatoriomontanaragon.com"
   },
   {
     "is_active": "None",
