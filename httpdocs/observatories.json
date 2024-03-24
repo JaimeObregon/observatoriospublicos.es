@@ -200,6 +200,7 @@
     ],
     "scope": "cantabria",
     "type": "publico",
+    "email": "rasines.l@fmvaldecilla.es",
     "website": "https://fmvaldecilla.es/unidad/observatorio-de-salud-publica-de-cantabria/"
   },
   {
@@ -1117,7 +1118,9 @@
   },
   {
     "email": "bobsvivi@cantabria.es",
+    "description": "Es un foro de debate, de análisis crítico, de reflexión y generador de propuestas de actuaciones para avanzar en un modelo de sociedad en el que la vivienda cumpla con las características que se recogen en la Nueva Agenda Urbana, un modelo de ciudad en que se facilite el acceso a una vivienda digna accesible, eficiente, sostenible y en el que quepamos por igual.",
     "name": "Observatorio de Vivienda y Suelo",
+    "from_date": "2016",
     "parents": [
       "Dirección General de Vivienda",
       "Consejería de Fomento, Ordenación del Territorio y Medio Ambiente",
@@ -1340,12 +1343,12 @@
   {
     "description": "El Observatorio del Sistema Penal y los Derechos Humanos (OSPDH) de la Universidad de Barcelona es un Centro de Investigación, creado en el mes de mayo de 2001, integrado por profesores/as universitarios de la UB y otras Universidades nacionales, de Europa y de América Latina, así como por profesionales de instituciones y organizaciones de defensa de derechos humanos, estudiantes avanzados de programas de postgrado y doctorados y activistas que se desempeñan en la lucha por la promoción de derechos y garantías básicas.",
     "email": "observatori.ospdh@ub.edu",
-    "from_date": "A principios del mes de mayo de 2001, el OSPDH se creó formalmente.",
     "is_active": "Sí",
-    "name": "Observatori del sistema penal i els drets humans (ospdh)",
+    "name": "Observatori del Sistema Penal i els Drets Humans (OSPDH)",
     "parents": ["Universitat de Barcelona"],
     "scope": "barcelona",
     "type": "publico",
+    "from_date": "Mayo de 2001",
     "website": "https://www.ub.edu/portal/web/observatori-sistema-penal/presentacio"
   },
   {
@@ -1772,7 +1775,12 @@
   },
   {
     "is_active": "None",
+    "email": "observatorioinfancia.assda@juntadeandalucia.es",
     "name": "Observatorio de la Infancia y Adolescencia de Andalucía",
+    "parents": [
+      "Agencia de Servicios Sociales y Dependencia",
+      "Junta de Andalucía"
+    ],
     "scope": "andalucia",
     "type": "publico",
     "website": "https://www.observatoriodelainfancia.es/oia/esp/index.aspx"
