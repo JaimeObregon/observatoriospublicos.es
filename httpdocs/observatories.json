@@ -625,7 +625,12 @@
     "scope": "estatal"
   },
   {
-    "name": "Observatorio Profesional del Instituto Nacional de las Cualificaciones"
+    "description": "Se trata de un observatorio que <q>promueve la cooperación y el flujo de información entre diversos observatorios profesionales, sectoriales, y territoriales</q>. Se enfoca en <q>proporcionar datos sobre la demanda y oferta en el mercado de trabajo</q>, considerando también los sistemas de clasificación profesional. <q>Forma una red de alerta para analizar la evolución y transformación de perfiles profesionales en sectores clave para el desarrollo sostenible</q>. Se trata por tanto de un observatorio de observatorios.",
+    "from_date": "1999",
+    "is_active": "Sí",
+    "name": "Observatorio Profesional del Instituto Nacional de las Cualificaciones",
+    "scope": "estatal",
+    "type": "publico"
   },
   {
     "name": "Observatorio Tecnológico",
