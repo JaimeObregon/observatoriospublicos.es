@@ -127,7 +127,7 @@
     "website": "https://www.mapa.gob.es/es/alimentacion/temas/observatorio-cadena/organizacion-y-estructura/"
   },
   {
-    "description": "Es un proyecto de la Fundación Ibercivis en colaboración con la FECYT, que se dedica a recopilar proyectos de ciencia ciudadana en el país para fomentar la difusión y la colaboración entre científicos, gestores, y comunicadores. Su meta es facilitar el conocimiento sobre la ciencia ciudadana, considerando que es un campo en constante evolución. El observatorio también destaca por organizar eventos y recolectar recursos, habiendo iniciado su labor en 2016.",
+    "description": "Es un proyecto de la Fundación Ibercivis en colaboración con la FECYT, que se dedica a <q>recopilar proyectos de ciencia ciudadana en el país para fomentar la difusión y la colaboración entre científicos, gestores, y comunicadores</q>. Su meta es facilitar el conocimiento sobre la ciencia ciudadana, considerando que es un campo en constante evolución. El observatorio también destaca por organizar eventos y recolectar recursos, habiendo iniciado su labor en 2016.",
     "from_date": "2016",
     "is_active": "Sí",
     "name": "Observatorio de la Ciencia Ciudadana",
@@ -141,7 +141,7 @@
     "website": "https://ciencia-ciudadana.es"
   },
   {
-    "description": "El Observatorio de la Gestión Empresarial en Biodiversidad, promovido por MITECO y gestionado por la Fundación Biodiversidad, enfoca en la importancia de la biodiversidad para las empresas en España. Este proyecto busca identificar y promover buenas prácticas empresariales en gestión de la biodiversidad a lo largo de toda la cadena de valor. Sus objetivos incluyen dar visibilidad a políticas responsables, generar debate sobre la biodiversidad como tema estratégico y crear un foro de conocimiento para administraciones públicas. No está claro si sigue activo pues solo se han dado a conocer en los medios una presentación en 2015 y un informe en 2016.",
+    "description": "El Observatorio de la Gestión Empresarial en Biodiversidad, promovido por MITECO y gestionado por la Fundación Biodiversidad, enfoca en la importancia de la biodiversidad para las empresas en España. Este proyecto <q>busca identificar y promover buenas prácticas empresariales en gestión de la biodiversidad a lo largo de toda la cadena de valor</q>. Sus objetivos incluyen dar visibilidad a políticas responsables, generar debate sobre la biodiversidad como tema estratégico y crear un foro de conocimiento para administraciones públicas. No está claro si sigue activo pues solo se han dado a conocer en los medios una presentación en 2015 y un informe en 2016.",
     "docs": [
       {
         "name": "Informe de 2016",
@@ -161,7 +161,7 @@
     "website": "https://fundacion-biodiversidad.es/proyectos_ficha/observatorio-de-la-gestion-empresarial-en/"
   },
   {
-    "description": "El observatorio se centra en la protección y promoción de los derechos de niños, niñas y adolescentes. Su labor incluye la creación del Consejo Estatal de Participación de la Infancia y la Adolescencia y la implementación del Plan de Acción Estatal de la Garantía Infantil, dirigidos a garantizar servicios esenciales para el desarrollo de la infancia en riesgo de pobreza o exclusión social.",
+    "description": "El observatorio <q>se centra en la protección y promoción de los derechos de niños, niñas y adolescentes</q>. Su labor incluye la creación del Consejo Estatal de Participación de la Infancia y la Adolescencia y la implementación del Plan de Acción Estatal de la Garantía Infantil, dirigidos a garantizar servicios esenciales para el desarrollo de la infancia en riesgo de pobreza o exclusión social.",
     "from_date": "1999",
     "is_active": "Sí",
     "name": "Observatorio de la Infancia de España",
@@ -316,7 +316,7 @@
     "website": "https://www.aragon.es/-/presentacion-1"
   },
   {
-    "description": "El observatorio se enfoca en la sostenibilidad del medio urbano, abordando temas como la <q>configuración de la ciudad</q>, la <q>gestión de recursos naturales</q>, y la <q>cohesión social</q>. Realiza <q>seguimiento de indicadores medioambientales</q>, actúa como centro de <q>intercambio de experiencias</q> y, es sede documental del Programa URB-AL. A día de hoy (25/03/2024) no hay nuevas publicaciones en su web ni en redes sociales desde junio de 2023.",
+    "description": "El observatorio se enfoca en la sostenibilidad del medio urbano, abordando temas como la <q>configuración de la ciudad</q>, la <q>gestión de recursos naturales</q>, y la <q>cohesión social</q>. Realiza <q>seguimiento de indicadores medioambientales</q>, actúa como centro de <q>intercambio de experiencias</q> y, es sede documental del Programa URB-AL. Cuenta con edificio propio. A fecha de hoy (25/03/2024) no hay nuevas publicaciones en su web ni en redes sociales desde junio de 2023.",
     "from_date": "En algún momento entre 2000 y 2006",
     "location": "Málaga",
     "name": "Observatorio del Medio Ambiente Urbano (OMAU)",
