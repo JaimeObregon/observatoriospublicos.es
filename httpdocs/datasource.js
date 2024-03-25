@@ -16,6 +16,10 @@ const scopes = [
     name: 'Estatal',
   },
   {
+    key: 'provincial',
+    name: 'Provincial',
+  },
+  {
     key: 'municipal',
     name: 'Municipal',
   },

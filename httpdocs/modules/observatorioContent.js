@@ -57,7 +57,7 @@ function observatoryTitle(scope, location) {
   if (!scope) return '&nbsp;'
   return `
       <span>
-        ${scope.key === 'municipal' ? location : scope.name}
+        ${scope.key === 'municipal' || scope.key === 'provincial' ? location : scope.name}
       </span>`
 }
 

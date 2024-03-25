@@ -127,7 +127,8 @@
     "website": "https://www.mapa.gob.es/es/alimentacion/temas/observatorio-cadena/organizacion-y-estructura/"
   },
   {
-    "description": "Es un proyecto de la Fundación Ibercivis en colaboración con la FECYT, que se dedica a recopilar proyectos de ciencia ciudadana en el país para fomentar la difusión y la colaboración entre científicos, gestores, y comunicadores. Su meta es facilitar el conocimiento sobre la ciencia ciudadana, considerando que es un campo en constante evolución. El observatorio también destaca por organizar eventos y recolectar recursos, habiendo iniciado su labor en 2016.",
+    "description": "Es un proyecto de la Fundación Ibercivis en colaboración con la FECYT, que se dedica a <q>recopilar proyectos de ciencia ciudadana en el país para fomentar la difusión y la colaboración entre científicos, gestores, y comunicadores</q>. Su meta es facilitar el conocimiento sobre la ciencia ciudadana, considerando que es un campo en constante evolución. El observatorio también destaca por organizar eventos y recolectar recursos, habiendo iniciado su labor en 2016.",
+    "from_date": "2016",
     "is_active": "Sí",
     "name": "Observatorio de la Ciencia Ciudadana",
     "parents": [
@@ -140,10 +141,35 @@
     "website": "https://ciencia-ciudadana.es"
   },
   {
-    "name": "Observatorio de la Gestión Empresarial en Biodiversidad"
+    "description": "El Observatorio de la Gestión Empresarial en Biodiversidad, promovido por MITECO y gestionado por la Fundación Biodiversidad, enfoca en la importancia de la biodiversidad para las empresas en España. Este proyecto <q>busca identificar y promover buenas prácticas empresariales en gestión de la biodiversidad a lo largo de toda la cadena de valor</q>. Sus objetivos incluyen dar visibilidad a políticas responsables, generar debate sobre la biodiversidad como tema estratégico y crear un foro de conocimiento para administraciones públicas. No está claro si sigue activo pues solo se han dado a conocer en los medios una presentación en 2015 y un informe en 2016.",
+    "docs": [
+      {
+        "name": "Informe de 2016",
+        "url": "https://pre.ieeb.fundacion-biodiversidad.es/sites/default/files/informe_biodiversidad_2016_2_informe_observatorio_0.pdf"
+      }
+    ],
+    "from_date": "2016",
+    "is_active": "Sí",
+    "name": "Observatorio de la Gestión Empresarial en Biodiversidad",
+    "parents": [
+      "Fundación Biodiversidad",
+      "Ministerio de Agricultura, Alimentación y Medio Ambiente",
+      "Ministerio para la Transición Ecológica y el Reto Demográfico (MITECO)"
+    ],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://fundacion-biodiversidad.es/proyectos_ficha/observatorio-de-la-gestion-empresarial-en/"
   },
   {
+    "description": "El observatorio <q>se centra en la protección y promoción de los derechos de niños, niñas y adolescentes</q>. Su labor incluye la creación del Consejo Estatal de Participación de la Infancia y la Adolescencia y la implementación del Plan de Acción Estatal de la Garantía Infantil, dirigidos a garantizar servicios esenciales para el desarrollo de la infancia en riesgo de pobreza o exclusión social.",
+    "from_date": "1999",
+    "is_active": "Sí",
     "name": "Observatorio de la Infancia de España",
+    "parents": [
+      "Ministerio de Derechos Sociales y Agenda 2030"
+    ],
+    "scope": "estatal",
+    "type": "publico",
     "website": "https://observatoriodelainfancia.mdsocialesa2030.gob.es/queEs/home.htm"
   },
   {
@@ -159,7 +185,7 @@
     "scope": "asturias"
   },
   {
-    "name": "Observatorio de Infancia del País Vasco",
+    "name": "Observatorio de Infancia y la Adolescencia del País Vasco",
     "scope": "pais_vasco"
   },
   {
@@ -290,10 +316,32 @@
     "website": "https://www.aragon.es/-/presentacion-1"
   },
   {
-    "name": "Observatorio del Medio Ambiente Urbano"
+    "description": "El observatorio se enfoca en la sostenibilidad del medio urbano, abordando temas como la <q>configuración de la ciudad</q>, la <q>gestión de recursos naturales</q>, y la <q>cohesión social</q>. Realiza <q>seguimiento de indicadores medioambientales</q>, actúa como centro de <q>intercambio de experiencias</q> y, es sede documental del Programa URB-AL. Cuenta con edificio propio. A fecha de hoy (25/03/2024) no hay nuevas publicaciones en su web ni en redes sociales desde junio de 2023.",
+    "from_date": "En algún momento entre 2000 y 2006",
+    "location": "Málaga",
+    "name": "Observatorio del Medio Ambiente Urbano (OMAU)",
+    "parents": ["Ayuntamiento de Málaga"],
+    "scope": "municipal",
+    "type": "publico",
+    "website": "https://www.omau-malaga.com"
   },
   {
-    "name": "Observatorio del Transporte y la Logística en España",
+    "description": "Se trata de una iniciativa que <q>proporciona una visión integral del sector del transporte y la logística en España</q>. Se centra en aspectos como la movilidad, socioeconomía, infraestructura, seguridad, sostenibilidad, transporte metropolitano y logística, ofreciendo datos, gráficos, mapas, indicadores y publicaciones anuales para mejorar y garantizar el buen funcionamiento del transporte y la logilística en el país​.",
+    "from_date": "2013",
+    "docs": [
+      {
+        "name": "Informes y otros elementos elaborados por el OTLE",
+        "url": "https://otle.transportes.gob.es/elementos-del-otle#dato-2"
+      },
+      {
+        "name": "Plan de Infraestructuras, Transporte y Vivienda 2012-2024 (PITVI), que regula su creación",
+        "url": "https://www.transportes.gob.es/recursos_mfom/arts14y24ley92006pitvi.pdf"
+      }
+    ],
+    "name": "Observatorio del Transporte y la Logística en España (OTLE)",
+    "parents": ["Ministerio de Transportes, Movilidad y Agenda Urbana"],
+    "scope": "estatal",
+    "type": "publico",
     "website": "https://otle.transportes.gob.es"
   },
   {
@@ -310,24 +358,48 @@
   },
   {
     "email": "tenerife@oficinarenovables.es",
+    "location": "Tenerife",
     "name": "Observatorio del Cambio Climático y la Energía de Tenerife",
     "parents": [
       "Cabildo de Tenerife",
       "Area de Medio Natural, Sostenibilidad, Segurida y Emergencias"
     ],
-    "scope": "local",
+    "scope": "provincial",
     "type": "publico",
     "website": "https://occet.es/"
   },
   {
-    "name": "Observatorio Español contra la LGBTfobia"
+    "description": "Busca <q>responder a agresiones motivadas por LGTBIfobia ofreciendo servicios gratuitos y confidenciales</q>. Su misión incluye denunciar los delitos de odio y situaciones discriminatorias, contribuyendo a la lucha contra la homofobia, lesbofobia, transfobia y bifobia.",
+    "is_active": "Sí",
+    "docs": [
+      {
+        "name": "Informes eleaborados por el Observatorio",
+        "url": "https://contraelodio.org/wp/informe/"
+      }
+    ],
+    "from_date": "2016",
+    "name": "Observatorio Madrileño contra la LGTBIfobia",
+    "parents": ["Arcópoli", "Consejería de Familia, Juventud y Política Social"],
+    "scope": "madrid",
+    "type": "hibrido",
+    "website": "https://contraelodio.org"
   },
   {
     "name": "Observatorio Español de Acuicultura",
-    "website": "https://www.mapa.gob.es/es/pesca/temas/acuicultura/observatorio/"
+    "website": "https://www.mapa.gob.es/es/pesca/temas/acuicultura/observatorio/",
+    "scope": "estatal",
+    "type": "publico"
   },
   {
-    "name": "Observatorio Español de I+D+I (ICONO)"
+    "description": "Gestionado por la FECYT, <q>se centra en la producción y análisis de indicadores de I+D+i para España, destacando por publicar información sobre la producción científica española y su impacto</q>. Sigue funcionando como una pieza del FECYT, pero su sitio web <a href='https://web.archive.org/web/20220129095731/https://icono.fecyt.es/'>dejó de estar accesible en 2022</a> indicando que la información elaborada se puede encontrar en los sitios del FECYT y el <a href='https://www.ciencia.gob.es/Estrategias-y-Planes/Sistema-de-Informacion-sobre-Ciencia--Tecnologia-e-Innovacion--SICTI-.html'>SICTI</a>.</b>",
+    "name": "Observatorio Español de I+D+I (ICONO)",
+    "parents": [
+      "Fundación Española para la Ciencia y la Tecnología (FECYT)",
+      "Ministerio de Ciencia e Innovación"
+    ],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://icono.fecyt.es/"
   },
   {
     "name": "Observatorio de Salud y Medio Ambiente de Andalucía",
@@ -337,12 +409,15 @@
     "website": "https://www.osman.es"
   },
   {
+    "from_date": "2005",
     "name": "Observatorio Español de la Economía Social",
     "parents": [
       "Ministerio de Trabajo y Economía Social",
       "Instituto Universitario de Economía Social y Cooperativa",
       "Universidad de Valencia"
     ],
+    "scope": "estatal",
+    "type": "publico",
     "website": "http://www.observatorioeconomiasocial.es"
   },
   {
@@ -463,9 +538,10 @@
   {
     "description": "El Observatorio de Datos Culturales de Barcelona es una iniciativa del Instituto de Cultura del Ayuntamiento de Barcelona que nació en 2015. La misión de este observatorio es elaborar y difundir datos, indicadores e informes sobre la realidad cultural de la ciudad, y poner toda la información al alcance de instituciones, agentes culturales, comunidad científica y público interesado de una manera ordenada y accesible, con el objetivo de ampliar y mejorar el conocimiento que tenemos sobre la vida cultural barcelonesa.",
     "from_date": "2015",
+    "location": "Barcelona",
     "name": "Observatorio de Datos Culturales de Barcelona",
     "parents": ["Ajuntament de Barcelona"],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://barcelonadadescultura.bcn.cat/?lang=es"
   },
@@ -549,33 +625,57 @@
     "scope": "estatal"
   },
   {
-    "name": "Observatorio Profesional del Instituto Nacional de las Cualificaciones"
+    "description": "Se trata de un observatorio que <q>promueve la cooperación y el flujo de información entre diversos observatorios profesionales, sectoriales, y territoriales</q>. Se enfoca en <q>proporcionar datos sobre la demanda y oferta en el mercado de trabajo</q>, considerando también los sistemas de clasificación profesional. <q>Forma una red de alerta para analizar la evolución y transformación de perfiles profesionales en sectores clave para el desarrollo sostenible</q>. Se trata por tanto de un observatorio de observatorios.",
+    "from_date": "1999",
+    "is_active": "Sí",
+    "name": "Observatorio Profesional del Instituto Nacional de las Cualificaciones",
+    "scope": "estatal",
+    "type": "publico"
   },
   {
-    "name": "Observatorio Tecnológico",
-    "website": "http://educalab.es/intef/tecnologia/observatorio-tecnologico"
+    "description": "El Observatorio Tecnológico del INTEF es <q>un espacio de reflexión y análisis sobre la integración de las tecnologías de la información y la comunicación en la educación</q>. Su objetivo es <q>explorar, analizar y difundir las últimas tendencias y desarrollos en tecnología educativa para apoyar a docentes y profesionales del sector en la incorporación de innovaciones tecnológicas en el proceso de enseñanza-aprendizaje</q>. El <a href='http://recursostic.educacion.es/observatorio/web/'>sitio web original</a> ya no está disponible, en su lugar el sitio web indicado recoge los mejores artículos elaborados por el Observatorio.",
+    "from_date": "2009",
+    "name": "Observatorio Tecnológico del INTEF",
+    "website": "http://educalab.es/intef/tecnologia/observatorio-tecnologico",
+    "scope": "estatal",
+    "type": "publico"
   },
   {
     "name": "Observatorio Territorial de Andalucía",
     "scope": "andalucia"
   },
   {
-    "name": "Observatorio para la Cibersociedad"
+    "description": "Proyecto de carácter abierto, colaborativo y autogestionado, en constante construcción y crecimiento que organizaba actividades, recopilaba materiales, editaba una revista digital, difundía trabajos de investigación y divulgación, pretendía ofrecer y construir una red de investigación y reflexión sobre lo cibersocial y fomentar el debate y el trabajo sobre la nueva realidad interconectada y digital de nuestra sociedad. En algún momento entre 2018 y 2020 degeneró en algo parecido a un blog personal y dejó de hacer mención a entes públicos.",
+    "is_active": "None",
+    "name": "Observatorio para la Cibersociedad",
+    "scope": "estatal",
+    "type": "hibrido",
+    "website": "http://cibersociedad.rediris.es"
   },
   {
     "name": "Sociedad de la Información en Navarra",
     "scope": "navarra"
   },
   {
-    "name": "Observatorio de Prospectiva Tecnológica Industrial",
+    "description": "Analiza tendencias tecnológicas relevantes para el desarrollo económico y social futuro. Busca apoyar decisiones tecnológicas en el ámbito público y empresarial, destacando en prospectiva y vigilancia tecnológica para responder a un entorno tecnológico complejo y cambiante​​. Desde 2012 está integrado en la Escuela de Organización Industrial (EOI), momento desde el cual la web no tiene actividad.",
+    "from_date": "1997",
+    "name": "Observatorio de Prospectiva Tecnológica Industrial (OPTI)",
+    "parents": ["Escuela de Organización Industrial (EOI)", "Ministerio de Industria, Energía y Turismo"],
+    "scope": "estatal",
+    "type": "publico",
     "website": "http://www.opti.org"
   },
   {
+    "location": "Salamanca",
     "name": "Observatorio de formación en red Scopeo",
-    "website": "https://scopeo.usal.es"
+    "website": "https://scopeo.usal.es",
+    "scope": "provincial",
+    "type": "publico"
   },
   {
-    "name": "Observatorio Mujeres, Ciencia e Innovación"
+    "name": "Observatorio Mujeres, Ciencia e Innovación (OMCI)",
+    "scope": "estatal",
+    "type": "publico"
   },
   {
     "name": "Observatorio da Mobilidade de Terras de Galicia",
@@ -586,7 +686,10 @@
     "scope": "galicia"
   },
   {
-    "name": "Observatorio Coruñés contra a LGTBIfobia"
+    "location": "A Coruña",
+    "name": "Observatorio Coruñés contra a LGTBIfobia",
+    "scope": "municipal",
+    "type": "hibrido"
   },
   {
     "name": "Observatorio de costes de transportes de mercancías por carretera de Galicia",
@@ -667,9 +770,10 @@
   },
   {
     "description": "El Observatorio Social Barcelona es un instrumento de conocimiento de la realidad social de la ciudad que tiene como objetivos principales: Conocer y evaluar la situación y la evolución de las condiciones de vida de la población, la realidad de los diferentes colectivos y la evolución de los fenómenos y procesos sociales que afectan a la calidad de vida de las personas y a la cohesión social de la ciudad. Difundir y compartir conocimiento con la ciudadanía, las entidades y asociaciones, y con el colectivo profesional y técnico, directivo y político. Apoyar a la planificación y a la toma de decisiones.",
+    "location": "Barcelona",
     "name": "Observatorio Social Barcelona",
     "parents": ["Ajuntament de Barcelona"],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://ajuntament.barcelona.cat/dretssocials/es/content/observatorio-social-bcn"
   },
@@ -684,7 +788,9 @@
     "type": "publico"
   },
   {
+    "location": "Badajoz",
     "name": "Observatorio Socioeconómico de la Provincia de Badajoz",
+    "scope": "provincial",
     "type": "publico"
   },
   {
@@ -1213,7 +1319,7 @@
       "Ayuntamiento de Málaga",
       "Subdirección de Presupuestos, Control y Estudios"
     ],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://ota.malaga.eu"
   },
@@ -1378,8 +1484,10 @@
   },
   {
     "is_active": "None",
+    "location": "Gerona",
     "name": "Observatori Social, Ambiental i de Salut",
     "parents": ["Diputació de Girona"],
+    "scope": "provincial",
     "type": "publico",
     "website": "https://observatori.dipsalut.cat/es"
   },
@@ -1504,11 +1612,12 @@
   {
     "email": "observatoriodelaguaemasesa@emasesa.com",
     "from_date": "2017",
+    "location": "Sevilla",
     "name": "Observatorio del Agua",
     "parents": [
       "Empresa Metropolitana de Abastecimiento y Saneamiento de Aguas de Sevilla, S.A. (EMASESA)"
     ],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://www.emasesa.com/comprometidos-contigo/observatorio-del-agua/"
   },
@@ -1536,9 +1645,10 @@
         "name": "Publicó informes de seguimiento anuales de sus 2 objetivos en el periodo 2017-2022"
       }
     ],
+    "location": "Barcelona",
     "name": "Observatori del Programa Ajuntament+Sostenible",
     "parents": ["Ajuntament de Barcelona"],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://www.ajsosteniblebcn.cat/ca/observatori-a-s_99532"
   },
@@ -1824,9 +1934,10 @@
         "name": "Cita recomanada: Laia Palència, Maria José López, Catherine Pérez, Carles Ariza, Mercè Gotsens, Vanessa Puig-Barrachina, Lucía Artazcoz, Maribel Pasarín, Davide Malmusi, Carme Borrell (2020, 28 d'Octubre). Observatori de Salut i Impacte de Polítiques. https://ajuntament.barcelona.cat/observatorisalut/"
       }
     ],
+    "location": "Barcelona",
     "name": "Observatori de Salut i Impacte de Polítiques",
     "parents": ["Ajuntament de Barcelona"],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://ajuntament.barcelona.cat/observatorisalut"
   },
@@ -1985,9 +2096,10 @@
     ],
     "from_date": "2009",
     "is_active": "Si",
+    "location": "Rivas-Vaciamadrid",
     "name": "Observatorio Municipal de Personas con Discapacidades",
     "parents": ["Ayuntamiento de Rivas-Vaciamadrid"],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://www.rivasciudad.es/organos-de-participacion-ciudadana/foros-y-observatorios-locales/observatorio-municipal-de-personas-con-discapacidades/"
   },
@@ -2034,9 +2146,11 @@
     "email": "paborrego@alumnos.unex.es",
     "from_date": "El Observatorio del Cambio inició su andadura entre los años 2003 y 2004, años en los que se celebraron 20 sesiones temáticas que abarcaron cuestiones relacionadas con diferentes sectores y materias específicas de la ciudad. Posteriormente, del 2009  al 2011 se llevaron a cabo 13 nuevas sesiones. Todas estas sesiones están recogidas en sus correspondientes actas.",
     "is_active": "None",
+    "location": "Badajoz",
     "name": "Observatorio del Cambio",
     "parents": ["Ayuntamiento de Badajoz"],
     "stop_date": "El último informe es de 2015",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://www.aytobadajoz.es/es/empleo/estudios-y-estadisticas/observatorio-del-cambio"
   },
@@ -2168,8 +2282,10 @@
     "description": "Centro educativo y divulgativo de Valencia para formar, concienciar y sensibilizar frente al cambio climático.",
     "email": "observatori@climaienergia.com",
     "is_active": "Sí",
+    "location": "Valencia",
     "name": "Observatorio del Cambio Climático / Observatori del Canvi Climàtic",
     "parents": ["Ayuntamiento de Valencia"],
+    "scope": "municipal",
     "type": "publico",
     "website": "https://climaienergia.com/observatori/"
   },
@@ -2197,6 +2313,7 @@
     "from_date": "6 de octubre de 2006",
     "is_active": "Sí",
     "name": "Observatorio de Precios de los Productos Agroalimetarios de la Comunitat Valenciana",
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851"
   },
@@ -2234,9 +2351,10 @@
   {
     "email": "movilidad@malaga.eu",
     "is_active": "Sí",
+    "location": "Málaga",
     "name": "Observatorio de la Movilidad Viaria de Málaga (MOVIMA)",
     "parents": ["Ayuntamiento de Málaga"],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://movilidad.malaga.eu/es/lineas-de-trabajo/movima/"
   },
@@ -2245,12 +2363,14 @@
     "email": "visita@malaga.eu",
     "from_date": "2008",
     "is_active": "Sí",
+    "location": "Málaga",
     "name": "Observatorio turístico de Málaga",
     "parents": [
       "Ayuntamiento de Málaga",
       "Universidad de Málaga",
       "Área de Turismo de Málaga"
     ],
+    "scope": "municipal",
     "type": "publico",
     "website": "https://visita.malaga.eu/profesional/es/observatorio-turistico"
   },
@@ -2320,8 +2440,10 @@
     "email": "observatorio.social@malaga.eu",
     "from_date": "2011",
     "is_active": "None",
+    "location": "Málaga",
     "name": "Observatorio Municipal para la Inclusión Social",
     "parents": ["Área de Derechos Sociales"],
+    "scope": "municipal",
     "type": "publico",
     "website": "https://observatoriosocial.malaga.eu"
   },
@@ -2496,12 +2618,14 @@
   {
     "from_date": "2011",
     "is_active": "None",
+    "location": "Vizcaya",
     "name": "Observatorio de Residuos de Bizkaia",
     "parents": [
       "Garbiker",
       "Departamento de Medio Natural y Agricultura",
       "Diputación Foral de Bizkaia"
     ],
+    "scope": "provincial",
     "type": "publico",
     "website": "https://bizkaikohirihondakinenbehatokia.com/es/observatorio-de-residuos/"
   },
@@ -2553,6 +2677,8 @@
       "Generalitat Valenciana",
       "Ministerio de Trabajo y Economía Social"
     ],
+    "scope": "comunidad_valenciana",
+    "type": "publico",
     "website": "https://observatorimarinaalta.org"
   },
   {
@@ -2603,9 +2729,10 @@
       }
     ],
     "email": "observatoriobici@tenerife.es",
+    "location": "Tenerife",
     "name": "Observatorio de la Bicicleta",
     "parents": ["Cabildo de Tenerife"],
-    "scope": "local",
+    "scope": "provincial",
     "type": "publico",
     "website": "https://www.deportestenerife.es/oficina-virtual/observatorio-de-la-bicicleta/"
   },
@@ -2932,9 +3059,11 @@
     "description": "El Observatorio de Residuos Urbanos es un instrumento identificado como acción número 15 del vigente Plan de prevención y gestión de residuos urbanos de Araba-Álava, 2017-2030, abreviadamente PRU2030. <br> Es un instrumento de información, conocimiento y seguimiento permanente de aspectos relativos a la gestión de los residuos urbanos así como un punto de encuentro de todos los agentes interesados, favoreciendo la difusión de información técnica y académica sobre esta materia.",
     "from_date": "2015",
     "is_active": "Sí",
+    "location": "Álava",
     "name": "Observatorio de residuos",
     "parents": ["Diputación Foral de Álava / Arabako Foru Aldundia"],
     "type": "publico",
+    "scope": "provincial",
     "website": "https://web.araba.eus/es/medio-ambiente/residuos/observatorio-de-residuos"
   },
   {
@@ -2985,12 +3114,13 @@
     "website": "https://obsaludasturias.com/obsa"
   },
   {
+    "location": "Tenerife",
     "name": "Observatorio de la Calidad de Tenerife",
     "type": "publico",
     "website": "https://www.calidadtenerife.org",
     "email": "observatorio@tenerife.es",
     "description": "El Observatorio de la Calidad de Tenerife es una iniciativa del Cabildo Insular, orientada al estudio, análisis y evolución de las nuevas tendencias y modelos de calidad de gestión en el ámbito nacional e internacional, dirigida especialmente a monitorizar y fomentar la implantación de la calidad en Tenerife.\n\nCabildo de Tenerife",
-    "scope": "local",
+    "scope": "provincial",
     "parents": ["Cabildo de Tenerife"]
   }
 ]
