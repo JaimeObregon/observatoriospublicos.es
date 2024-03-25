@@ -633,8 +633,12 @@
     "type": "publico"
   },
   {
-    "name": "Observatorio Tecnológico",
-    "website": "http://educalab.es/intef/tecnologia/observatorio-tecnologico"
+    "description": "El Observatorio Tecnológico del INTEF es <q>un espacio de reflexión y análisis sobre la integración de las tecnologías de la información y la comunicación en la educación</q>. Su objetivo es <q>explorar, analizar y difundir las últimas tendencias y desarrollos en tecnología educativa para apoyar a docentes y profesionales del sector en la incorporación de innovaciones tecnológicas en el proceso de enseñanza-aprendizaje</q>. El <a href='http://recursostic.educacion.es/observatorio/web/'>sitio web original</a> ya no está disponible, en su lugar el sitio web indicado recoge los mejores artículos elaborados por el Observatorio.",
+    "from_date": "2009",
+    "name": "Observatorio Tecnológico del INTEF",
+    "website": "http://educalab.es/intef/tecnologia/observatorio-tecnologico",
+    "scope": "estatal",
+    "type": "publico"
   },
   {
     "name": "Observatorio Territorial de Andalucía",
