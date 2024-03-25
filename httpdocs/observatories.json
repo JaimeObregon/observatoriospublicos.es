@@ -409,12 +409,15 @@
     "website": "https://www.osman.es"
   },
   {
+    "from_date": "2005",
     "name": "Observatorio Español de la Economía Social",
     "parents": [
       "Ministerio de Trabajo y Economía Social",
       "Instituto Universitario de Economía Social y Cooperativa",
       "Universidad de Valencia"
     ],
+    "scope": "estatal",
+    "type": "publico",
     "website": "http://www.observatorioeconomiasocial.es"
   },
   {
