@@ -326,7 +326,22 @@
     "website": "https://www.omau-malaga.com"
   },
   {
-    "name": "Observatorio del Transporte y la Logística en España",
+    "description": "Se trata de una iniciativa que <q>proporciona una visión integral del sector del transporte y la logística en España</q>. Se centra en aspectos como la movilidad, socioeconomía, infraestructura, seguridad, sostenibilidad, transporte metropolitano y logística, ofreciendo datos, gráficos, mapas, indicadores y publicaciones anuales para mejorar y garantizar el buen funcionamiento del transporte y la logilística en el país​.",
+    "from_date": "2013",
+    "docs": [
+      {
+        "name": "Informes y otros elementos elaborados por el OTLE",
+        "url": "https://otle.transportes.gob.es/elementos-del-otle#dato-2"
+      },
+      {
+        "name": "Plan de Infraestructuras, Transporte y Vivienda 2012-2024 (PITVI), que regula su creación",
+        "url": "https://www.transportes.gob.es/recursos_mfom/arts14y24ley92006pitvi.pdf"
+      }
+    ],
+    "name": "Observatorio del Transporte y la Logística en España (OTLE)",
+    "parents": ["Ministerio de Transportes, Movilidad y Agenda Urbana"],
+    "scope": "estatal",
+    "type": "publico",
     "website": "https://otle.transportes.gob.es"
   },
   {
