@@ -374,7 +374,7 @@
       "Dirección General de Migraciones. Ministerio de Empleo y Seguridad Social."
     ],
     "scope": "autonómico",
-    "type": "mixto",
+    "type": "hibrido",
     "website": "www.odina.es"
   },
   {
@@ -2843,6 +2843,7 @@
     "is_active": "None",
     "name": "Observatorio de agresiones a profesionales del sistema sanitario público",
     "parents": ["Junta de Andalucía"],
+    "scope": "andalucia",
     "type": "publico",
     "website": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/todas-noticia/constituido-el-observatorio-de-agresiones-profesionales-del-sistema-sanitario-publico"
   },
@@ -2908,7 +2909,7 @@
     "is_active": "Sí",
     "name": "Observatorio de residuos",
     "parents": ["Diputación Foral de Álava / Arabako Foru Aldundia"],
-    "type": "provincial",
+    "type": "publico",
     "website": "https://web.araba.eus/es/medio-ambiente/residuos/observatorio-de-residuos"
   },
   {
