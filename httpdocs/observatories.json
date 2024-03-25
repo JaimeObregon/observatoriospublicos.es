@@ -368,6 +368,21 @@
     "website": "https://occet.es/"
   },
   {
+    "description": "Busca <q>responder a agresiones motivadas por LGTBIfobia ofreciendo servicios gratuitos y confidenciales</q>. Su misión incluye denunciar los delitos de odio y situaciones discriminatorias, contribuyendo a la lucha contra la homofobia, lesbofobia, transfobia y bifobia.",
+    "docs": [
+      {
+        "name": "Informes eleaborados por el Observatorio",
+        "url": "https://contraelodio.org/wp/informe/"
+      }
+    ],
+    "from_date": "2016",
+    "name": "Observatorio Madrileño contra la LGTBIfobia",
+    "parents": ["Arcópoli", "Consejería de Familia, Juventud y Política Social"],
+    "scope": "madrid",
+    "type": "hibrido",
+    "website": "https://contraelodio.org"
+  },
+  {
     "name": "Observatorio Español de Acuicultura",
     "website": "https://www.mapa.gob.es/es/pesca/temas/acuicultura/observatorio/"
   },
