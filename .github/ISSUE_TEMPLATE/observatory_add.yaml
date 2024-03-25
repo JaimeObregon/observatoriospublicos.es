@@ -40,7 +40,7 @@ body:
         - estatal
         - autonómico
         - provincial
-        - local
+        - municial
     validations:
       required: true
   - type: dropdown
