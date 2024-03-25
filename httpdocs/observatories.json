@@ -1484,8 +1484,10 @@
   },
   {
     "is_active": "None",
+    "location": "Gerona",
     "name": "Observatori Social, Ambiental i de Salut",
     "parents": ["Diputació de Girona"],
+    "scope": "provincial",
     "type": "publico",
     "website": "https://observatori.dipsalut.cat/es"
   },
@@ -2144,9 +2146,11 @@
     "email": "paborrego@alumnos.unex.es",
     "from_date": "El Observatorio del Cambio inició su andadura entre los años 2003 y 2004, años en los que se celebraron 20 sesiones temáticas que abarcaron cuestiones relacionadas con diferentes sectores y materias específicas de la ciudad. Posteriormente, del 2009  al 2011 se llevaron a cabo 13 nuevas sesiones. Todas estas sesiones están recogidas en sus correspondientes actas.",
     "is_active": "None",
+    "location": "Badajoz",
     "name": "Observatorio del Cambio",
     "parents": ["Ayuntamiento de Badajoz"],
     "stop_date": "El último informe es de 2015",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://www.aytobadajoz.es/es/empleo/estudios-y-estadisticas/observatorio-del-cambio"
   },
@@ -2278,8 +2282,10 @@
     "description": "Centro educativo y divulgativo de Valencia para formar, concienciar y sensibilizar frente al cambio climático.",
     "email": "observatori@climaienergia.com",
     "is_active": "Sí",
+    "location": "Valencia",
     "name": "Observatorio del Cambio Climático / Observatori del Canvi Climàtic",
     "parents": ["Ayuntamiento de Valencia"],
+    "scope": "municipal",
     "type": "publico",
     "website": "https://climaienergia.com/observatori/"
   },
@@ -2307,6 +2313,7 @@
     "from_date": "6 de octubre de 2006",
     "is_active": "Sí",
     "name": "Observatorio de Precios de los Productos Agroalimetarios de la Comunitat Valenciana",
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851"
   },
@@ -2356,12 +2363,14 @@
     "email": "visita@malaga.eu",
     "from_date": "2008",
     "is_active": "Sí",
+    "location": "Málaga",
     "name": "Observatorio turístico de Málaga",
     "parents": [
       "Ayuntamiento de Málaga",
       "Universidad de Málaga",
       "Área de Turismo de Málaga"
     ],
+    "scope": "municipal",
     "type": "publico",
     "website": "https://visita.malaga.eu/profesional/es/observatorio-turistico"
   },
@@ -2431,8 +2440,10 @@
     "email": "observatorio.social@malaga.eu",
     "from_date": "2011",
     "is_active": "None",
+    "location": "Málaga",
     "name": "Observatorio Municipal para la Inclusión Social",
     "parents": ["Área de Derechos Sociales"],
+    "scope": "municipal",
     "type": "publico",
     "website": "https://observatoriosocial.malaga.eu"
   },
@@ -2607,12 +2618,14 @@
   {
     "from_date": "2011",
     "is_active": "None",
+    "location": "Vizcaya",
     "name": "Observatorio de Residuos de Bizkaia",
     "parents": [
       "Garbiker",
       "Departamento de Medio Natural y Agricultura",
       "Diputación Foral de Bizkaia"
     ],
+    "scope": "provincial",
     "type": "publico",
     "website": "https://bizkaikohirihondakinenbehatokia.com/es/observatorio-de-residuos/"
   },
@@ -2664,6 +2677,8 @@
       "Generalitat Valenciana",
       "Ministerio de Trabajo y Economía Social"
     ],
+    "scope": "comunidad_valenciana",
+    "type": "publico",
     "website": "https://observatorimarinaalta.org"
   },
   {
@@ -2980,6 +2995,7 @@
     "is_active": "None",
     "name": "Observatorio de agresiones a profesionales del sistema sanitario público",
     "parents": ["Junta de Andalucía"],
+    "scope": "andalucia",
     "type": "publico",
     "website": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/todas-noticia/constituido-el-observatorio-de-agresiones-profesionales-del-sistema-sanitario-publico"
   },
@@ -3043,9 +3059,11 @@
     "description": "El Observatorio de Residuos Urbanos es un instrumento identificado como acción número 15 del vigente Plan de prevención y gestión de residuos urbanos de Araba-Álava, 2017-2030, abreviadamente PRU2030. <br> Es un instrumento de información, conocimiento y seguimiento permanente de aspectos relativos a la gestión de los residuos urbanos así como un punto de encuentro de todos los agentes interesados, favoreciendo la difusión de información técnica y académica sobre esta materia.",
     "from_date": "2015",
     "is_active": "Sí",
+    "location": "Álava",
     "name": "Observatorio de residuos",
     "parents": ["Diputación Foral de Álava / Arabako Foru Aldundia"],
-    "type": "provincial",
+    "type": "publico",
+    "scope": "provincial",
     "website": "https://web.araba.eus/es/medio-ambiente/residuos/observatorio-de-residuos"
   },
   {
