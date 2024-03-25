@@ -645,7 +645,12 @@
     "scope": "andalucia"
   },
   {
-    "name": "Observatorio para la Cibersociedad"
+    "description": "Proyecto de carácter abierto, colaborativo y autogestionado, en constante construcción y crecimiento que organizaba actividades, recopilaba materiales, editaba una revista digital, difundía trabajos de investigación y divulgación, pretendía ofrecer y construir una red de investigación y reflexión sobre lo cibersocial y fomentar el debate y el trabajo sobre la nueva realidad interconectada y digital de nuestra sociedad. En algún momento entre 2018 y 2020 degeneró en algo parecido a un blog personal y dejó de hacer mención a entes públicos.",
+    "is_active": "None",
+    "name": "Observatorio para la Cibersociedad",
+    "scope": "estatal",
+    "type": "hibrido",
+    "website": "http://cibersociedad.rediris.es"
   },
   {
     "name": "Sociedad de la Información en Navarra",
