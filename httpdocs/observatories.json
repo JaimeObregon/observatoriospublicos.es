@@ -657,7 +657,12 @@
     "scope": "navarra"
   },
   {
-    "name": "Observatorio de Prospectiva Tecnológica Industrial",
+    "description": "Analiza tendencias tecnológicas relevantes para el desarrollo económico y social futuro. Busca apoyar decisiones tecnológicas en el ámbito público y empresarial, destacando en prospectiva y vigilancia tecnológica para responder a un entorno tecnológico complejo y cambiante​​. Desde 2012 está integrado en la Escuela de Organización Industrial (EOI), momento desde el cual la web no tiene actividad.",
+    "from_date": "1997",
+    "name": "Observatorio de Prospectiva Tecnológica Industrial (OPTI)",
+    "parents": ["Escuela de Organización Industrial (EOI)", "Ministerio de Industria, Energía y Turismo"],
+    "scope": "estatal",
+    "type": "publico",
     "website": "http://www.opti.org"
   },
   {
