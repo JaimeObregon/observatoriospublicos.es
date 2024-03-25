@@ -386,7 +386,9 @@
   },
   {
     "name": "Observatorio Español de Acuicultura",
-    "website": "https://www.mapa.gob.es/es/pesca/temas/acuicultura/observatorio/"
+    "website": "https://www.mapa.gob.es/es/pesca/temas/acuicultura/observatorio/",
+    "scope": "estatal",
+    "type": "publico"
   },
   {
     "description": "Gestionado por la FECYT, <q>se centra en la producción y análisis de indicadores de I+D+i para España, destacando por publicar información sobre la producción científica española y su impacto</q>. Sigue funcionando como una pieza del FECYT, pero su sitio web <a href='https://web.archive.org/web/20220129095731/https://icono.fecyt.es/'>dejó de estar accesible en 2022</a> indicando que la información elaborada se puede encontrar en los sitios del FECYT y el <a href='https://www.ciencia.gob.es/Estrategias-y-Planes/Sistema-de-Informacion-sobre-Ciencia--Tecnologia-e-Innovacion--SICTI-.html'>SICTI</a>.</b>",
