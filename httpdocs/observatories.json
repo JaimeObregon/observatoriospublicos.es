@@ -358,12 +358,13 @@
   },
   {
     "email": "tenerife@oficinarenovables.es",
+    "location": "Tenerife",
     "name": "Observatorio del Cambio Climático y la Energía de Tenerife",
     "parents": [
       "Cabildo de Tenerife",
       "Area de Medio Natural, Sostenibilidad, Segurida y Emergencias"
     ],
-    "scope": "local",
+    "scope": "provincial",
     "type": "publico",
     "website": "https://occet.es/"
   },
@@ -532,9 +533,10 @@
   {
     "description": "El Observatorio de Datos Culturales de Barcelona es una iniciativa del Instituto de Cultura del Ayuntamiento de Barcelona que nació en 2015. La misión de este observatorio es elaborar y difundir datos, indicadores e informes sobre la realidad cultural de la ciudad, y poner toda la información al alcance de instituciones, agentes culturales, comunidad científica y público interesado de una manera ordenada y accesible, con el objetivo de ampliar y mejorar el conocimiento que tenemos sobre la vida cultural barcelonesa.",
     "from_date": "2015",
+    "location": "Barcelona",
     "name": "Observatorio de Datos Culturales de Barcelona",
     "parents": ["Ajuntament de Barcelona"],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://barcelonadadescultura.bcn.cat/?lang=es"
   },
@@ -736,9 +738,10 @@
   },
   {
     "description": "El Observatorio Social Barcelona es un instrumento de conocimiento de la realidad social de la ciudad que tiene como objetivos principales: Conocer y evaluar la situación y la evolución de las condiciones de vida de la población, la realidad de los diferentes colectivos y la evolución de los fenómenos y procesos sociales que afectan a la calidad de vida de las personas y a la cohesión social de la ciudad. Difundir y compartir conocimiento con la ciudadanía, las entidades y asociaciones, y con el colectivo profesional y técnico, directivo y político. Apoyar a la planificación y a la toma de decisiones.",
+    "location": "Barcelona",
     "name": "Observatorio Social Barcelona",
     "parents": ["Ajuntament de Barcelona"],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://ajuntament.barcelona.cat/dretssocials/es/content/observatorio-social-bcn"
   },
@@ -753,7 +756,9 @@
     "type": "publico"
   },
   {
+    "location": "Badajoz",
     "name": "Observatorio Socioeconómico de la Provincia de Badajoz",
+    "scope": "provincial",
     "type": "publico"
   },
   {
@@ -1282,7 +1287,7 @@
       "Ayuntamiento de Málaga",
       "Subdirección de Presupuestos, Control y Estudios"
     ],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://ota.malaga.eu"
   },
@@ -1573,11 +1578,12 @@
   {
     "email": "observatoriodelaguaemasesa@emasesa.com",
     "from_date": "2017",
+    "location": "Sevilla",
     "name": "Observatorio del Agua",
     "parents": [
       "Empresa Metropolitana de Abastecimiento y Saneamiento de Aguas de Sevilla, S.A. (EMASESA)"
     ],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://www.emasesa.com/comprometidos-contigo/observatorio-del-agua/"
   },
@@ -1605,9 +1611,10 @@
         "name": "Publicó informes de seguimiento anuales de sus 2 objetivos en el periodo 2017-2022"
       }
     ],
+    "location": "Barcelona",
     "name": "Observatori del Programa Ajuntament+Sostenible",
     "parents": ["Ajuntament de Barcelona"],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://www.ajsosteniblebcn.cat/ca/observatori-a-s_99532"
   },
@@ -1893,9 +1900,10 @@
         "name": "Cita recomanada: Laia Palència, Maria José López, Catherine Pérez, Carles Ariza, Mercè Gotsens, Vanessa Puig-Barrachina, Lucía Artazcoz, Maribel Pasarín, Davide Malmusi, Carme Borrell (2020, 28 d'Octubre). Observatori de Salut i Impacte de Polítiques. https://ajuntament.barcelona.cat/observatorisalut/"
       }
     ],
+    "location": "Barcelona",
     "name": "Observatori de Salut i Impacte de Polítiques",
     "parents": ["Ajuntament de Barcelona"],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://ajuntament.barcelona.cat/observatorisalut"
   },
@@ -2054,9 +2062,10 @@
     ],
     "from_date": "2009",
     "is_active": "Si",
+    "location": "Rivas-Vaciamadrid",
     "name": "Observatorio Municipal de Personas con Discapacidades",
     "parents": ["Ayuntamiento de Rivas-Vaciamadrid"],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://www.rivasciudad.es/organos-de-participacion-ciudadana/foros-y-observatorios-locales/observatorio-municipal-de-personas-con-discapacidades/"
   },
@@ -2303,9 +2312,10 @@
   {
     "email": "movilidad@malaga.eu",
     "is_active": "Sí",
+    "location": "Málaga",
     "name": "Observatorio de la Movilidad Viaria de Málaga (MOVIMA)",
     "parents": ["Ayuntamiento de Málaga"],
-    "scope": "local",
+    "scope": "municipal",
     "type": "publico",
     "website": "https://movilidad.malaga.eu/es/lineas-de-trabajo/movima/"
   },
@@ -2672,9 +2682,10 @@
       }
     ],
     "email": "observatoriobici@tenerife.es",
+    "location": "Tenerife",
     "name": "Observatorio de la Bicicleta",
     "parents": ["Cabildo de Tenerife"],
-    "scope": "local",
+    "scope": "provincial",
     "type": "publico",
     "website": "https://www.deportestenerife.es/oficina-virtual/observatorio-de-la-bicicleta/"
   },
@@ -3053,12 +3064,13 @@
     "website": "https://obsaludasturias.com/obsa"
   },
   {
+    "location": "Tenerife",
     "name": "Observatorio de la Calidad de Tenerife",
     "type": "publico",
     "website": "https://www.calidadtenerife.org",
     "email": "observatorio@tenerife.es",
     "description": "El Observatorio de la Calidad de Tenerife es una iniciativa del Cabildo Insular, orientada al estudio, análisis y evolución de las nuevas tendencias y modelos de calidad de gestión en el ámbito nacional e internacional, dirigida especialmente a monitorizar y fomentar la implantación de la calidad en Tenerife.\n\nCabildo de Tenerife",
-    "scope": "local",
+    "scope": "provincial",
     "parents": ["Cabildo de Tenerife"]
   }
 ]
