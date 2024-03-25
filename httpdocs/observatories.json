@@ -666,11 +666,16 @@
     "website": "http://www.opti.org"
   },
   {
+    "location": "Salamanca",
     "name": "Observatorio de formación en red Scopeo",
-    "website": "https://scopeo.usal.es"
+    "website": "https://scopeo.usal.es",
+    "scope": "provincial",
+    "type": "publico"
   },
   {
-    "name": "Observatorio Mujeres, Ciencia e Innovación"
+    "name": "Observatorio Mujeres, Ciencia e Innovación (OMCI)",
+    "scope": "estatal",
+    "type": "publico"
   },
   {
     "name": "Observatorio da Mobilidade de Terras de Galicia",
@@ -681,7 +686,10 @@
     "scope": "galicia"
   },
   {
-    "name": "Observatorio Coruñés contra a LGTBIfobia"
+    "location": "A Coruña",
+    "name": "Observatorio Coruñés contra a LGTBIfobia",
+    "scope": "municipal",
+    "type": "hibrido"
   },
   {
     "name": "Observatorio de costes de transportes de mercancías por carretera de Galicia",
