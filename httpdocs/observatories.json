@@ -19,6 +19,8 @@
     "website": "https://www.observatoriosaludmujeres.es"
   },
   {
+    "description": "El Observatorio del Ferrocarril en España (OFE) es un Informe de la Fundación de los Ferrocarriles Españoles que realiza en colaboración con el Ministerio de Transportes y Movilidad Sostenible y que tiene como misión fundamental recopilar y producir información precisa sobre un conjunto de indicadores, elaborados al efecto, que caracterizan la situación y evolución del sector ferroviario.",
+    "is_active": "No",
     "docs": [
       {
         "name": "Informe 2022",
@@ -42,7 +44,7 @@
       }
     ],
     "name": "Observatorio del Ferrocarril en España",
-    "parents": ["Ministerio de Transportes y Movilidad Sostenible"],
+    "parents": ["Ministerio de Transportes y Movilidad Sostenible","Fundación de los Ferrocarriles Españoles"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.transportes.gob.es/ferrocarriles/observatorios/observatorio-del-ferrocarril-en-espana"
@@ -2188,6 +2190,13 @@
     "website": "https://contratacionresponsablecanarias.org"
   },
   {
+    "description": "Según el [DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2006/11596).",
+    "is_active": "Sí",
+    "name": "Observatorio de Precios de los Productos Agroalimetarios de la Comunitat Valenciana",
+    "scope": "comunidad_valenciana",
+    "type": "publico",
+    "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851",
+    "from_date": "6 de octubre de 2006",
     "docs": [
       {
         "name": "DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana",
@@ -2935,6 +2944,7 @@
     "name": "Observatorio de residuos",
     "parents": ["Diputación Foral de Álava / Arabako Foru Aldundia"],
     "type": "publico",
+    "scope": "pais_vasco",
     "website": "https://web.araba.eus/es/medio-ambiente/residuos/observatorio-de-residuos"
   },
   {
