@@ -48,7 +48,7 @@
     "website": "https://www.transportes.gob.es/ferrocarriles/observatorios/observatorio-del-ferrocarril-en-espana"
   },
   {
-    "description": "Se <a href=\"https://www.omha.alcoi.org/wp-content/uploads/2022/03/TEXT-BOP-NUM-137-DE-220720-APROVACIO-DEFINITIVA.pdf\">constituye el 22-07-2020</a>, y a fecha de marzo de 2024 solo se ha reunido en <a href=\"https://www.omha.alcoi.org/es/que-es-omha/\">tres ocasiones</a>. Lamentablemente las actas de sus plenos no se pueden descargar. Tras las elecciones municipales de 2023, parece que el OMHA no ha tenido ninguna actividad.",
+    "description": "Se <a href=\"https://www.omha.alcoi.org/wp-content/uploads/2022/03/TEXT-BOP-NUM-137-DE-220720-APROVACIO-DEFINITIVA.pdf\">constituye el 22-07-2020</a>, y a fecha de marzo de 2024 solo se ha reunido en <a href=\"https://www.omha.alcoi.org/es/actas/\">tres ocasiones</a>. Tras las elecciones municipales de 2023, parece que el OMHA no ha tenido ninguna actividad.",
     "docs": [
       {
         "name": "Plan General de Ordenación Urbana",
@@ -67,7 +67,24 @@
     "url": "https://www.omha.alcoi.org"
   },
   {
+    "description" : "Este organismos pretende poner en valor el patrimonio natural-ambiental de los casi 500 ríos de Galicia, que funcionará como un órgano de asesoramiento sobre el estado ambiental, económico, social y cultural de los rios.<br/>No ha sido posible encontrar información sobre si el observatorio está activo o no, tampoco sobre su actividad, si la tuviere.",
+    "docs": [
+        {
+            "name": "Diario Oficial de Galicia",
+            "url": "https://www.xunta.gal/dog/Publicados/2018/20180215/AnuncioG0422-080218-0006_es.pdf"
+        },
+        {
+            "name": "La Administración al Día",
+            "url": "https://laadministracionaldia.inap.es/noticia.asp?id=1188617"
+        },
+        {
+            "name": "Galicia Ambiental - Noticia",
+            "url": "https://galiciaambiental.org/es/actualidad-ver/observatorio-dos-rios-de-galicia"
+        }
+    ],
     "name": "Observatorio Autonómico dos Ríos de Galicia",
+    "type": "publico",
+    "from_date": "25-01-2018",
     "scope": "galicia"
   },
   {
