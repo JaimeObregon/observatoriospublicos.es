@@ -1079,6 +1079,23 @@
     "website": "https://www.ikuspegi.eus/"
   },
   {
+    "name": "Observatorio de Precios Agrícolas y Ganaderos de Castilla y León",
+    "type": "publico",
+    "website": "https://agriculturaganaderia.jcyl.es/web/es/estadistica-informacion-agraria/observatorio.html#:~:text=El%20Observatorio%20muestra%20los%20precios%20en%20origen%20de,que%20paulatinamente%20puede%20ofrecerse%20informaci%C3%B3n%20sobre%20m%C3%A1s%20productos.",
+    "description": "El Observatorio de Precios es una herramienta de seguimiento y análisis de los precios en origen de los principales productos agrícolas y ganaderos de Castilla y León.\n\nSeguirlos y analizarlos con el máximo rigor y transparencia hará posible prever y detectar a tiempo las oscilaciones y desequilibrios entre la oferta y la demanda, lo que permitirá tomar las decisiones más correctas para mantener el equilibrio entre todos sus componentes y, en último término, podrá evitar que los consumidores asuman un sobrecoste injustificado y contribuirá a que los agricultores y ganaderos obtengan una retribución justa por sus producciones.\n\nEl Observatorio muestra los precios en origen de aquellos productos agrícolas y ganaderos en los que Castilla y León ocupa una posición relevante en el ámbito nacional por ser una de las principales productoras o por la calidad diferenciada de su producción, sin perjuicio de que paulatinamente puede ofrecerse información sobre más productos.",
+    "scope": "autonómico",
+    "from_date": "Septiembre de 2020",
+    "parents": [
+      "- Junta de Castilla y León"
+    ],
+    "docs": [
+      {
+        "name": "Informe mensual de precios en origen de los principales productos agrícolas y ganaderos de Castilla y León"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio Vasco LGTBI+",
     "scope": "pais_vasco",
     "twitter": "@BehatokiaLGTBI",
