@@ -1120,6 +1120,17 @@
     "website": "https://eeb-ove.eus/inicio/"
   },
   {
+    "name": "Observatorio Estatal de la Morosidad Privada",
+    "type": "publico",
+    "website": "https://www.mintur.gob.es/es-es/gabineteprensa/notasprensa/2024/paginas/20240430-observatorio-morosidad-privada.aspx",
+    "scope": "estatal",
+    "from_date": "30 abril 2024",
+    "parents": [
+      "Ministerio de Industria y Turismo"
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio Vasco de Vivienda",
     "scope": "pais_vasco",
     "type": "publico",
