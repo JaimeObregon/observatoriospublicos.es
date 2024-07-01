@@ -2638,6 +2638,18 @@
     "website": "https://movilidad.malaga.eu/es/lineas-de-trabajo/movima/"
   },
   {
+    "name": "Observatorio Municipal de la Discapacidad",
+    "type": "publico",
+    "website": "https://diversidad-funcional.ayto-fuenlabrada.es/observatorio-municipal-de-la-dependencia.php",
+    "email": "observatoriodependencia@ayto-fuenlabrada.es",
+    "description": "Es un órgano colegiado adscrito a la Concejalía de Bienestar Social del Ayuntamiento de Fuenlabrada, cuya misión es convertirse en referente para la medición, seguimiento, evaluación, análisis y difusión de información sobre el desarrollo de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia.\n\nEl Observatorio, recopila y difunde el conjunto de conocimientos, experiencias y buenas prácticas, ofreciendo una visión global y permanente de la situación y evolución de la Ley, que permite evaluar su impacto y el cumplimiento del mapa de recursos y servicios que determina, así como trasladar a otras administraciones la información que mejore la aplicación de la citada Ley.\n\nFunciones del Observatorio\n\n1. Constituir una base de información que pueda dar cuenta de la situación de la aplicación de la Ley a nivel local.\n\n2. Analizar las nuevas tendencias y cambios que se vayan produciendo en la aplicación de la Ley y factores asociados.\n\n3. Realizar investigaciones y estudios preparatorios y de viabilidad, organizar reuniones de técnicos y usuarios, y crear, si fuera necesario grupos de trabajo.\n\n4. Difundir los procesos anteriores y elaborar publicaciones e informes de carácter periódico sobre la temática.\n\n5. Facilitar el intercambio de información sobre la aplicación de la Ley con otros municipios y agentes sociales como empresas del sector, vecinos, técnicos, sindicatos, partidos políticos.\n\n6. Proponer un mapa de recursos lo que supondrá una mayor apuesta por la calidad.",
+    "scope": "local",
+    "parents": [
+      "Concejalía de Bienestar Social del Ayuntamiento de Fuenlabrada"
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "El objetivo de este informe estadístico, de carácter anual, es conocer de una forma completa e integrada las pautas de la visita y el perfil del visitante, tanto turistas como excursionistas, entre otros aspectos. Es decir, se trata de determinar los perfiles del visitante que llega a la ciudad de Málaga: cuáles son sus motivaciones iniciales, cómo organizan su viaje, qué tipo de actividades realizan durante su estancia, cómo valoran la oferta disponible y el viaje en función de sus expectativas iniciales, entre otros aspectos relevantes.",
     "email": "visita@malaga.eu",
     "from_date": "2008",
