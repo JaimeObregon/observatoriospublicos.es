@@ -776,6 +776,54 @@
     "website": "https://www.euskadi.eus/observatorio-vasco-cultura/"
   },
   {
+    "name": "Observatori de empleo de Gijón",
+    "type": "publico",
+    "website": "https://www.gijon.es/es/observatorio_empleo?observatorio=Sociedades%20Mercantiles%20constituidas",
+    "description": "\n\nAyuntamiento de Gijón",
+    "scope": "local",
+    "parents": [
+      "Ayuntamiento de Gijón"
+    ],
+    "docs": [
+      {
+        "name": "Informes mensuales de las siguientes áreas:"
+      },
+      {
+        "name": "Actividad económica"
+      },
+      {
+        "name": "Afiliaciones Seguridad Social"
+      },
+      {
+        "name": "Datos de empleo SADEI"
+      },
+      {
+        "name": "Informe ocupaciones"
+      },
+      {
+        "name": "Licencias IAE"
+      },
+      {
+        "name": "Mercado de trabajo"
+      },
+      {
+        "name": "Observatorio del tejido empresarial"
+      },
+      {
+        "name": "Paro registrado y contrataciones"
+      },
+      {
+        "name": "Población"
+      },
+      {
+        "name": "Siniestralidad laboral"
+      },
+      {
+        "name": "Sociedades Mercantiles constituidas"
+      }
+    ]
+  },
+  {
     "name": "Observatorio Nacional de las Telecomunicaciones y de la Sociedad de la Información",
     "scope": "estatal"
   },
