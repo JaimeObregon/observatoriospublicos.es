@@ -21,6 +21,28 @@
     "website": "https://www.observatoriosaludmujeres.es"
   },
   {
+    "name": "Observatorio Provincial de la Agenda Urbana en Granada",
+    "type": "publico",
+    "website": "https://opaugranada.es/",
+    "description": "Observatorio Provincial de todas las Agendas Urbanas Supramunicipales en la provincia de Granada\n\nSu objetivo es lograr:\r\n- La mejora de la calidad de vida de las personas.\r\n- La gestión eficiente de los servicios.\r\n- La sostenibilidad económica y ambiental.\r\n- El uso innovador de los recursos.\r\n- La innovación en las políticas públicas locales, para mejorar su eficacia y eficiencia.\n\nPara hacer posible estos objetivos y que puedan construirse las agendas urbanas en la provincia de Granada, hemos creado dos programas de Concertación específicos. Los Programas son:\n\n15422 Diseño de Agenda urbana 2030 para el desarrollo sostenible y el programa 15423 Asistencia técnica en la implementación inicial y consolidación de planes de acción de las agendas urbanas 2030\n\nLa intención es ampliar al conjunto de la provincia estos programas en el marco de la nueva concertación para el periodo 2022-2023. Incorporando al conjunto de los municipios, e incorporando dos Agendas urbanas importantes para el Conjunto de la Provincia; La Agenda Urbana del Área Metropolitana de Granada y la Agenda Urbana del conjunto de la Provincia como tal. Una agenda que tendrá la virtualidad de haberse construido de abajo arriba, e involucrando, haciendo participes a cientos de actores sociales y económicos que garantizan la calidad del proceso.\n\n- Diputación de Granada",
+    "scope": "estatal",
+    "parents": [
+      "- Diputación de Granada"
+    ],
+    "docs": [
+      {
+        "name": "- Agenda Urbana para el Desarrollo Sostenible Provincia de Granada 2022"
+      },
+      {
+        "name": "- Agendas urbanas de municipios (recopilación)"
+      },
+      {
+        "name": "- Agendas urbanas supramunicipales y provincial (recopilación)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "docs": [
       {
         "name": "Informe 2022",
