@@ -742,6 +742,14 @@
     "scope": "navarra"
   },
   {
+    "name": "Observatorio de la Producción Científica de la UA",
+    "type": "publico",
+    "website": "https://observatorio-cientifico.ua.es/",
+    "scope": "provincial",
+    "from_date": "Mayo 2024",
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio de Prospectiva Tecnológica Industrial",
     "website": "http://www.opti.org"
   },
