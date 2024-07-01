@@ -791,6 +791,31 @@
     "name": "Observatorio Profesional del Instituto Nacional de las Cualificaciones"
   },
   {
+    "name": "Observatorio de la Calidad de los Servicios Municipales (Alicante)",
+    "type": "publico",
+    "website": "https://www.alicante.es/es/gobierno-abierto/transparencia/conceptos/observatorio-calidad-servicios-municipales",
+    "email": "transparencia@alicante.es",
+    "description": "Integra, entre otros, los datos procedentes de los siguientes sistemas de información incluidos en el Plan de Calidad del Ayuntamiento de Alicant: Avisos de Incidencias; Oficina de Sugerencis y Reclamaciones; Redes Sociales y Web; Servicio Telefónica 010; Oficina de Atención Ciudadana (OAC); Solicitudes de Información\r\n(copia y pega de su página)\n\nAyuntamiento de Alicante",
+    "scope": "local",
+    "from_date": "2015",
+    "to_date": "Continúa",
+    "parents": [
+      "Ayuntamiento de Alicante"
+    ],
+    "docs": [
+      {
+        "name": "Informe del servicio telefónico del ayuntamiento de Alicante nº 010: Desde 2017"
+      },
+      {
+        "name": "Informe sobre redes sociales Desde 2015 (mejor no mirar los seguidores en Facebook y demás)"
+      },
+      {
+        "name": "Informe atención al ciudadano. Desde 2017"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio Tecnológico",
     "website": "http://educalab.es/intef/tecnologia/observatorio-tecnologico"
   },
