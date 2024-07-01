@@ -479,6 +479,19 @@
     "website": "https://fogga.xunta.gal/es/sector_lacteo/observatorio_del_sector_lacteo"
   },
   {
+    "name": "Observatorio de Igualdad de la Corporación RTVE",
+    "type": "publico",
+    "website": "https://www.rtve.es/observatorio-igualdad/",
+    "description": "El Observatorio de Igualdad de la CRTVE vela por el cumplimiento de los compromisos legales en materia de igualdad de la corporación, haciendo un seguimiento de los contenidos de RTVE y garantizando en ellos el respeto a la igualdad entre mujeres y hombres. Su objetivo es que la corporación sea referente en la defensa de la igualdad y la lucha para la erradicación de la violencia contra las mujeres.",
+    "scope": "estatal",
+    "from_date": "31 de enero de 2018",
+    "parents": [
+      "Sociedad Estatal de Participaciones Industriales",
+      "Ministerio de Hacienda"
+    ],
+    "is_active": "Si"
+  },
+  {
     "email": "tenerife@oficinarenovables.es",
     "name": "Observatorio del Cambio Climático y la Energía de Tenerife",
     "parents": [
