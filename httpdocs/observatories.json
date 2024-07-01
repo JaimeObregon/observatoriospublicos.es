@@ -2916,6 +2916,18 @@
     "website": "https://observatorimarinaalta.org"
   },
   {
+    "name": "Observatorio de Igualdad y Empleo",
+    "type": "publico",
+    "website": "https://www.observatorioigualdadyempleo.es/",
+    "description": "Acción de divulgación, análisis y sensibilización dirigido a mejorar el conocimiento sobre las desigualdades de género que se producen en el ámbito de empleo y emprendimiento y las claves para superarlas desde la corresponsabilidad de los distintos agentes que operan en el ámbito laboral.",
+    "scope": "autonómico",
+    "parents": [
+      "Instituto de la Mujer Castilla-La mancha",
+      "Junta de Castilla-La Mancha"
+    ],
+    "is_active": "Si"
+  },
+  {
     "is_active": "None",
     "name": "Observatorio de la Comunidad de Madrid de Víctimas del Delito",
     "parents": [
