@@ -2249,6 +2249,21 @@
     "website": "https://www.educa.jccm.es/educa-jccm/cm/educa_jccm/tkContent?idContent=62664&locale=en_UK&textOnly=false"
   },
   {
+    "name": "Observatorio por la Repoblación Rural de Castilla y León",
+    "type": "publico",
+    "website": "https://www.ubu.es/ubuverde/repoblacion-rural/observatorio-por-la-repoblacion-rural",
+    "email": "ubuverde@ubu.es",
+    "description": "Desde la Oficina Verde de la Universidad de Burgos (UbuVerde), y con la colaboración de Sodebur se ha creado un Observatorio por la Repoblacción Rural de castilla y León, cuyo objetivo es informar de la actualidad, analizar y determinar la evolución de la realidad demográfica en el medio rural de Castilla y león. Además, sensibilizar a la población y hacer ver la realidad de esta situación.\n\n- Oficina Verde de la Universidad de Burgos (UbuVerde)\r\n- Sodebur (Sociedad para el desarrollo de la povincia de Burgos)",
+    "scope": "provincial",
+    "parents": [
+      "- Univerisdad de Burgos",
+      "- Oficina Verde de la Universidad de Burgos (UbuVerde)",
+      "- Sodebur (Sociedad para el desarrollo de la povincia de Burgos)",
+      "- Diputación de Burgos"
+    ],
+    "is_active": "Si"
+  },
+  {
     "email": "smartcatalonia@gencat.cat",
     "is_active": "None",
     "name": "Observatori SmartCatalonia",
