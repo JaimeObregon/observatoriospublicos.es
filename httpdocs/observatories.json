@@ -2256,6 +2256,23 @@
     "website": "https://www.observatorioemancipacion.org/la-emancipacion-juvenil-en-espana-datos-generales/"
   },
   {
+    "name": "Observatori Social d'Inclusió i Acció Comunitària de Tarragona",
+    "type": "publico",
+    "website": "https://observatorisocial.tarragona.cat/",
+    "email": "observatorisocial@tarragona.cat",
+    "scope": "local",
+    "parents": [
+      "- Institut Municipal de Serveis Socials (IMSST), amb la col·laboració de l’Ajuntament de Tarragona",
+      "- Departament de Drets Socials de la Generalitat de Catalunya"
+    ],
+    "docs": [
+      {
+        "url": "https://observatorisocial.tarragona.cat/estudis-i-informes-de-ciutat/"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "Para aportar información útil al agricultor como apoyo en sus procesos de toma de decisiones.",
     "email": "observatorio.plagas@itacyl.es",
     "from_date": "2009",
