@@ -276,6 +276,24 @@
     "scope": "andalucia"
   },
   {
+    "name": "Observatorio Local de Empleo de Fuenlabrada",
+    "type": "publico",
+    "website": "https://cife.ayto-fuenlabrada.es/observatorio-local-empleo-fuenlabrada/",
+    "email": "observatorio.empleo@cife.ayto-fuenlabrada.es",
+    "description": "Tiene como principal cometido el análisis del mercado laboral en nuestro municipio, tanto en lo referente a los/as demandantes de empleo, como sobre las contrataciones realizadas en las empresas del municipio.\n\nLos objetivos del Observatorio Local de Empleo de Fuenlabrada son:\n\nProfundizar en el conocimiento del mercado de trabajo de Fuenlabrada, identificando las necesidades de las empresas.\n\nConocer las características del perfil general de las personas desempleadas: sexo, edad, niveles formativos, población más afectada, tiempo de permanencia en el desempleo, grupos profesionales, etc.\n\nConocer las características de las contrataciones realizadas en Fuenlabrada: nº contratos, características, ubicación por sectores de actividad, características de las personas contratadas, etc… También de las afiliaciones a la seguridad social\n\nDifundir los principales resultados y estadísticas, a través de Informes y Estudios:\n\nAyuntamiento de Fuenlabrada",
+    "scope": "local",
+    "from_date": "2015",
+    "parents": [
+      "Ayuntamiento de Fuenlabrada"
+    ],
+    "docs": [
+      {
+        "name": "Informes mensuales y anuales desde enero 2015."
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio de la Infancia de Cataluña / Observatori dels Drets dels Infants",
     "scope": "cataluna"
   },
