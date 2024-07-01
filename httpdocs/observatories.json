@@ -711,6 +711,39 @@
     "scope": "andalucia"
   },
   {
+    "name": "Observatorio Territorial Alentejo Extremadura y Centro de Portugal (OTALEX)",
+    "type": "publico",
+    "website": "http://www.ideotalex.eu/",
+    "description": "OTALEX está financiado por el programa europeo INTERREGIII A y tiene marcado como objetivo estudiar y mostrar la realidad de un territorio, compuesto por las regiones del **Alentejo** en Portugal y **Extremadura** en España, separado convencionalmente por una frontera administrativa pero unido por sus características físicas, ambientales, sociales y económicas. Se trata de espacios rurales de baja densidad demográfica donde los recursos naturales, culturales y la calidad ambiental conforman sus atractivos fundamentales.\n\nLa IDE OTALEX es el resultado del esfuerzo, el compromiso y la colaboración entre instituciones a los dos lados de la frontera, con implicación de los tres niveles administrativos: Estatal, Regional y Local. Muestra los trabajos de homogeneización y estandarización de datos del territorio Alentejo-Extremeño, a través de clientes de visualización de mapas, consulta de topónimos y consulta de catálogo, dentro de las líneas de INSPIRE.\n\n- Gobierno de Extremadura (Ordenación del Territorio)\r\n- Diputación de Cáceres (Área de Desarrollo Local y Formación)\r\n- Diputación de Badajoz\r\n- Instituto Geográfico Nacional\r\n- Comunidade Intermunicipal do Alentejo Central\r\n- Comunidade Intermunicipal do Alto Alentejo\r\n- Direção-Geral do Território (PT)\r\n- Universidad de Extremadura\r\n- Comissão de Coordenação e Desenvolvimento Regional do Alentejo\r\n- Empresa de Desenvolvimento de Infra-estruturas do Alqueva, S.A\r\n- Univerisdade de Évora\r\n- Instituto Politécnico de Castelo Branco",
+    "scope": "autonómico",
+    "from_date": "2006",
+    "to_date": "Junio 2015",
+    "parents": [
+      "- Gobierno de Extremadura",
+      "- Diputación Provincial de Cáceres (Área de Desarrollo Local y Formación)"
+    ],
+    "docs": [
+      {
+        "url": "Boletines:"
+      },
+      {
+        "name": "- [Boletín Informativo 6/2015](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/news_otc_6.pdf)"
+      },
+      {
+        "url": "Estudios:"
+      },
+      {
+        "name": "- [Estudio de Accesibilidad Viaria del Área OTALEX C](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/Estudio_Accesibilidad_Viaria_OTALEXC.pdf)"
+      },
+      {
+        "name": "- [Estudio de Indicadores de Sostenibilidad del Área de OTALEX C](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/Estudio_Ind_Sostenibilidad.pdf)"
+      },
+      {
+        "name": "- [Estudio Socioeconómico OTALEX C](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/Estudio_Socioeconomico_OTALEX_C.pdf)"
+      }
+    ]
+  },
+  {
     "name": "Observatorio del Mercado de Trabajo del Instituto Aragonés de Empleo",
     "scope": "aragon",
     "type": "publico"
