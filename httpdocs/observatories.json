@@ -1387,6 +1387,41 @@
     "website": "https://www.poderjudicial.es/cgpj/es/Temas/Violencia-domestica-y-de-genero/El-Observatorio-contra-la-violencia-domestica-y-de-genero/"
   },
   {
+    "name": "Observatorio Madrileño contra la LGTBIfobia",
+    "type": "publico",
+    "website": "https://contraelodio.org/wp/",
+    "description": "Desde principios de 2014 comenzaron a evidenciarse en la Comunidad de Madrid las agresiones motivadas por LGTBIfobia. El Ministerio del Interior registró un aumento de más del 100% en este tipo de agresiones frente a las registradas en 2013. En dicho Informe se puso de manifiesto que los delitos de odio motivados por identidad de género y orientación sexual fueron los más numerosos, con un porcentaje del 40% sobre el total.\n\nExplicar las causas de la violencia motivada por LGTBIfobia es complicado y requiere un profundo análisis, pero uno de los principales factores es la mayor visibilidad en la sociedad de la diversidad sexual y de género. Leyes como la del Matrimonio Igualitario no sólo supusieron una concesión de derechos, sino que permitieron aspirar a la igualdad real como nunca antes, normalizando en las vidas cotidianas actitudes, expresiones de género o gestos de cariño que antes se evitaban en público. Desterrada la idea de «volver a los armarios», se debe continuar con la defensa de la visibilidad en todos y cada uno de los espacios en la calle y en todos y cada uno de los espacios públicos, hasta la completa desaparición de las actitudes discriminatorias y la violencia motivadas por LGTBIfobia.\n\nUn delito de odio por LGTBIfobia es una infracción penal en la que la víctima, el lugar o el objeto de la infracción se seleccionan por su conexión, relación, afiliación, apoyo o pertenencia real o supuesta a un grupo basado en la identidad de género y/o la orientación sexual. Como el resto de delitos de odio, reciben un tratamiento diferente a nivel legal ya que no sólo están motivados por un odio infundado hacia un grupo en sí sino que además busca crear una amenaza a todas las personas que pertenecen al grupo de la víctima y a su entorno. Una persona es la víctima, pero su entorno y las personas del grupo al que pertenece sufren una agresión en su conjunto.\n\nEl Observatorio Madrileño Contra la LGTBIfobia de Arcópoli, desde el inicio de su andadura en 2016, monitoriza, registra y denuncia los delitos de odio, las situaciones discriminatorias y cualquier otro incidente motivado por LGTBIfobia. Monitorizar y registrar es imprescindible para conocer la realidad a la que nos enfrentamos, ya que históricamente las personas LGTBI y las que han sido percibidas como tal han sufrido agresiones que caen en el olvido. Además, año tras año la Agencia Europea de Derechos Fundamentales mantiene el dato de que 9 de cada 10 víctimas no denuncian, por lo que es de vital importancia trabajar ese aspecto y ofrecer las herramientas y el acompañamiento necesario en la lucha contra todos esos casos en los que se ha atacado la dignidad de las personas.\n\nEl Observatorio Madrileño Contra la LGTBIfobia busca crear una red de trabajo efectivo en la lucha contra la LGTBIfobia en la Comunidad de Madrid y para ello cuenta con la inestimable colaboración de varias asociaciones e instituciones, así como de personas anónimas que de forma desinteresada ponen en nuestro conocimiento incidentes de los que tienen conocimiento, facilitando nuestra labor.",
+    "scope": "autonómico",
+    "from_date": "2016",
+    "parents": [
+      "Comunidad de Madrid > Dirección General de Igualdad > Consejería de Familia, Juventud y Política Social"
+    ],
+    "docs": [
+      {
+        "name": "[Informe anual de 2016](http://www.contraelodio.org/informes/ene16jun16/informe_obsmad_ene16jun16.pdf)"
+      },
+      {
+        "name": "[Informe anual de 2017"
+      },
+      {
+        "name": "](http://www.contraelodio.org/informes/2017/informe_obsmad_2017.pdf)[Informe anual de 2018](http://www.contraelodio.org/informes/2018/informe_obsmad_comunidad_madrid_2018.pdf)"
+      },
+      {
+        "name": "[Informe anual de 2019](https://contraelodio.org/wp/wp-content/uploads/2020/10/Informe-Comunidad-de-Madrid-2019-v2.pdf)"
+      },
+      {
+        "name": "[Informe anual de 2020](https://contraelodio.org/wp/wp-content/uploads/2022/11/Informe-ObsMadLGTBl-2020.pdf)"
+      },
+      {
+        "name": "[Informe anual de 2021](https://contraelodio.org/wp/wp-content/uploads/2022/11/Informe-ObsMadLGTBI-2021-compressed-1.pdf)"
+      },
+      {
+        "name": "[Informe anual de 2022](https://contraelodio.org/wp/wp-content/uploads/2023/08/Informe-ObsMadLGTBI-2022_compressed_compressed-1.pdf)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "Nace <q>para analizar las condiciones de competitividad en relación con los precios y calidad de los servicios portuarios, y acordar las variables de competitividad sobre las que establecer recomendaciones</q>.",
     "email": "observatorio@puertos.es",
     "from_date": "2012-12-11",
