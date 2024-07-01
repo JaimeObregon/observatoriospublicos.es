@@ -1358,6 +1358,22 @@
     "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828"
   },
   {
+    "name": "Observatori esportiu de Mallorca (observatorio deportivo de Mallorca)",
+    "type": "publico",
+    "website": "https://esports.conselldemallorca.es/observatori-esportiu-de-mallorca",
+    "email": "esportbase@conselldemallorca.net",
+    "description": "El Observatorio Deportivo de Mallorca tiene el objetivo de fomentar una práctica deportiva responsable, unos hábitos saludables y la formación en torno a diferentes temas de actualidad deportiva.\n\nPlan de asesoramiento: formación y orientación dirigida a clubs, asociaciones de madres y padres de alumnos, federaciones deportivas, entrenadores...\r\nEls valors de l’esport: charlas impartidas por deportistas de alto nivel, que profundizan en los valores que aporta el ejercicio físico al desarrollo personal.",
+    "scope": "local",
+    "parents": [
+      "Consell de Mallorca"
+    ],
+    "docs": [
+      {
+        "name": "Meorias de"
+      }
+    ]
+  },
+  {
     "docs": [
       {
         "name": "Acta 2022",
