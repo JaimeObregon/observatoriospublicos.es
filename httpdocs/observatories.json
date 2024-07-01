@@ -447,6 +447,22 @@
     "name": "Observatorio del Medio Ambiente Urbano"
   },
   {
+    "name": "Iberifier",
+    "type": "publico",
+    "website": "https://iberifier.eu/",
+    "description": "IBERIFIER es un observatorio de medios digitales de España y Portugal, impulsado por la Comisión Europea y vinculado al [European Digital Media Observatory](https://edmo.eu/) (EDMO). Coordinado desde la Universidad de Navarra, está integrado por doce universidades, cinco organizaciones de verificación y agencias de noticias, y seis centros de investigación multidisciplinar.",
+    "scope": "estatal",
+    "parents": [
+      "Impulsado por la Comisión Europea y vinculado al [European Digital Media Observatory](https://edmo.eu/) (EDMO). Coordinado desde la Universidad de Navarra."
+    ],
+    "docs": [
+      {
+        "url": "https://iberifier.eu/2024/02/15/iberifier-reports-fact-checking-trends-in-spain-and-portugal/"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio del Transporte y la Logística en España",
     "website": "https://otle.transportes.gob.es"
   },
