@@ -459,6 +459,17 @@
     "name": "Observatorio Español contra la LGBTfobia"
   },
   {
+    "name": "Observatori del Paisatge de Catalunya",
+    "type": "publico",
+    "website": "https://www.catpaisatge.net/ca",
+    "email": "observatori@catpaisatge.net",
+    "scope": "autonómico",
+    "parents": [
+      "L’Observatori s’organitza en forma de consorci, està adscrit al Departament de Territori de la Generalitat de Catalunya i s’inclou a la Llei de protecció, gestió i ordenació del paisatge de Catalunya, que segueix els principis del Conveni europeu del paisatge. Es va constituir legalment el 30 de novembre de 2004 i els seus Estatuts van ser publicats al DOGC (Resolució PTO/3386/2004)."
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio Español de Acuicultura",
     "website": "https://www.mapa.gob.es/es/pesca/temas/acuicultura/observatorio/"
   },
