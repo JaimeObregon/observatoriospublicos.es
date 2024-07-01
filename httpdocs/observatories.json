@@ -83,6 +83,34 @@
     "scope": "galicia"
   },
   {
+    "name": "Observatorio Territorial de Estudios y Análisis de Granada (OTEA Granada)",
+    "type": "publico",
+    "website": "https://oteagranada.com/",
+    "description": "El Observatorio Territorial de Estudios y Análisis (OTEA) de Granada es una entidad esencial para el desarrollo y la planificación estratégica de la provincia. Su función es apoyar a las entidades locales en la promoción económica y el desarrollo sostenible, proporcionando estudios técnicos y asistencia en la modernización de servicios públicos. Además, OTEA juega un papel crucial en el seguimiento de la evolución del empleo y los sectores productivos, así como en la difusión de buenas prácticas que pueden ser aplicadas en diferentes contextos, fortaleciendo así la gestión territorial y la economía circular.\n\n- Diputación de Granada",
+    "scope": "provincial",
+    "parents": [
+      "- Diputación de Granada. Delegación de Empleo y Desarrollo sostenible"
+    ],
+    "docs": [
+      {
+        "name": "Consulta de datos:"
+      },
+      {
+        "name": "- [Sistema de Información Socioeconómica](https://oteagranada.com/sistema-informacion.php)"
+      },
+      {
+        "name": "- [Datos sobre Reto Demográfico](https://oteagranada.com/reto-demografico.php)"
+      },
+      {
+        "url": "Informes:"
+      },
+      {
+        "name": "- Recopilación de informes de la Diputación de Granada y otras entidades"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "Es una entidad que supervisa y reporta el progreso y estado de la administración electrónica en España. Publica mensualmente un boletín con indicadores clave, recolectando datos propios y de terceros para ofrecer una visión completa del desarrollo y avance de la digitalización de los servicios administrativos en el país. Su función principal es proporcionar información actualizada y relevante que ayude en la transformación digital y mejora de la administración electrónica.",
     "docs": [
       {
