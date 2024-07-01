@@ -93,6 +93,71 @@
     "url": "https://www.omha.alcoi.org"
   },
   {
+    "name": "Observatorio de la Despoblación de Guadalajara",
+    "type": "publico",
+    "website": "https://despoblacionguadalajara.es/",
+    "email": "observatorio.despoblacion@fgua.es",
+    "description": "El Observatorio es un punto de encuentro para discutir políticas y estrategias contra la despoblación y mejorar el medio rural. Está abierto a la colaboración con instituciones y organizaciones sin fines de lucro.\r\n- **Función**: Sirve como concentrador de estudios e investigaciones sobre despoblación, y es un centro de innovación en políticas públicas basadas en evidencias.\r\n- **Convenio**: La Diputación de Guadalajara y la Fundación General de la Universidad de Alcalá colaboran para diagnosticar la evolución de la población y la actividad económica en las zonas rurales de Guadalajara\r\n- **Pilares**: Incluye la recopilación de datos, repositorio de estudios, elaboración de estudios monográficos, evaluación de políticas públicas y organización de eventos",
+    "scope": "provincial",
+    "from_date": "11 de febrero de 2023",
+    "parents": [
+      "- Instituto Universitario de Análisis Económico y Social (IAES). Universidad de Alcalá. https://iaes.uah.es/",
+      "- Fundación General de la Universidad de Alcalá (FGUA). https://www.fgua.es/",
+      "- Diputación provincial de Guadalajara. https://dguadalajara.es/"
+    ],
+    "docs": [
+      {
+        "name": "**Cuadernos de la despoblación:**"
+      },
+      {
+        "name": "- [Cuaderno de Despoblación - 1 Jóvenes y Despoblación](https://despoblacionguadalajara.es/cuadernos-de-la-despoblacion-1/)"
+      },
+      {
+        "name": "- [Cuaderno de Despoblación - 2 Emprendimiento en entornos rurales](https://despoblacionguadalajara.es/cuadernos-de-la-despoblacion-2/)"
+      },
+      {
+        "name": "**Documentos de trabajo:**"
+      },
+      {
+        "name": "- [Diagnóstico estratégico de la vivienda rural en la Provincia de Guadalajara](https://despoblacionguadalajara.es/diagnostico-estrategico-de-la-vivienda-rural-en-la-provincia-de-guadalajara/)"
+      },
+      {
+        "name": "[**Boletines informativos:**](https://despoblacionguadalajara.es/category/boletines-informativos/)"
+      },
+      {
+        "name": "- Matriz DAFO-CAME de la Vivienda Rural en la Provincia de Guadalajara"
+      },
+      {
+        "name": "- Seguimiento de la Estrategia Regional Frente a la Despoblación"
+      },
+      {
+        "name": "- Clasificación de las zonas despobladas de la provincia de Guadalajara"
+      },
+      {
+        "name": "- Caracterización demográfica de Guadalajara"
+      },
+      {
+        "name": "**Jornadas y talleres**"
+      },
+      {
+        "name": "**Bases de datos** (recopilación de diversas fuentes):"
+      },
+      {
+        "name": "- Demografía"
+      },
+      {
+        "name": "- Mercado Laboral"
+      },
+      {
+        "name": "- Sociedad"
+      },
+      {
+        "name": "- Economía"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio Autonómico dos Ríos de Galicia",
     "scope": "galicia"
   },
