@@ -3960,5 +3960,35 @@
     "scope": "provincial",
     "from_date": "2017",
     "is_active": "Si"
+  },
+  {
+    "name": "Observatorio de igualdad de genero en el ámbito de la cultura",
+    "type": "publico",
+    "website": "https://www.cultura.gob.es/cultura/mc/espacio-de-igualdad/observatorio-igualdad-genero-cultura.html#",
+    "description": "El objeto del Observatorio es el impulso de la presencia de las mujeres y de la igualdad de oportunidades en todas las manifestaciones culturales y en puestos de responsabilidad competencia del Ministerio de Cultura. Para cumplir este objetivo, el Observatorio analizará la información en materia de género para detectar situaciones de desigualdad y establecer medidas correctoras, propiciará la producción artística y la representación femenina en las distintas manifestaciones culturales, impulsará la elaboración de censos de expertas en igualdad de género y cultura, y promocionará el trabajo de las mujeres y su participación equilibrada en jurados y órganos de valoración.",
+    "scope": "estatal",
+    "from_date": "2019",
+    "parents": ["Ministerio de cultura"],
+    "docs": [
+      {
+        "name": "[Indicadores estadísticos culturales vinculados al libro y desgloses por sexo (29 de febrero de 2024)](https://www.cultura.gob.es/dam/jcr:0c086bfc-82c2-4d16-9b39-3b9e5ffdb4eb/datos-estadisticos-libro.pdf)"
+      },
+      {
+        "name": "[Indicadores estadísticos culturales vinculados al cine y desgloses por sexo (29 de febrero de 2024)](https://www.cultura.gob.es/dam/jcr:11b857df-a9a2-45c3-82ab-3a8f1f661310/datos-estadisticos-cine.pdf)"
+      },
+      {
+        "name": "[Indicadores estadísticos culturales vinculados a bellas artes y bienes culturales y desgloses por sexo (29 de febrero de 2024)](https://www.cultura.gob.es/dam/jcr:74fa19d0-5025-40a4-bf27-23bc0cd53e63/datos-estadisticos-bellas-artes.pdf)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
+    "name": "Observatori de la Seguretat Viària",
+    "type": "publico",
+    "website": "https://transit.gencat.cat/ca/seguretat_viaria/observatori/",
+    "description": "Reducir la frecuencia y gravedad de los accidentes de tráfico e incrementar los medios y recursos destinados a la prevención de siniestros y a la atención de las víctimas",
+    "scope": "autonómico",
+    "parents": ["Servei Català de Trànsit"],
+    "is_active": "Si"
   }
 ]
