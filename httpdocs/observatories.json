@@ -1916,6 +1916,34 @@
     "website": "https://www.ub.edu/portal/web/observatori-sistema-penal/presentacio"
   },
   {
+    "name": "Observatorio español del mercado del vino",
+    "type": "mixto",
+    "website": "https://www.oemv.es/",
+    "email": "info@oemv.es",
+    "description": "Promover, impulsar y apoyar el conocimiento de los mercados nacional e internacionales del vino y los productos vitivinícolas, en todos sus ámbitos y canales, incluyendo especificidades relativas a distribución y consumidores. Ver [Sobre nosotros](https://www.oemv.es/sobre-nosotros)\n\nMinisterio de Agricultura, Pesca y Alimentación\r\nICEX\r\nFederación Española del Vino",
+    "scope": "estatal",
+    "from_date": "25 de marzo de 2008.",
+    "parents": [
+      "Dicen que es independiente pero económicamente no lo es, depende de financiación pública.",
+      "«..._aunque el Observatorio tiene su origen en el pacto entre el MARM, la Federación Española del Vino, la Secretaría General de Comercio y el ICEX, y se financia en parte importante con fondos públicos, es una Fundación independiente de cualquier organismo_» Ver [Sobre nosotros](https://www.oemv.es/sobre-nosotros)"
+    ],
+    "docs": [
+      {
+        "name": "[Exportaciones españolas de vino - AÑO 2023](https://www.oemv.es/exportaciones-espanolas-de-vino-ano-2023)"
+      },
+      {
+        "name": "[Exportaciones de vino con DOCa Rioja - Año 2023](https://www.oemv.es/exportaciones-de-vino-con-doca-rioja-ano-2023)"
+      },
+      {
+        "name": "[Exportaciones de vino de Francia | Año 2023](https://www.oemv.es/exportaciones-de-vino-de-francia-ano-2023)"
+      },
+      {
+        "name": "Más en [Informes](https://www.oemv.es/informes)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "is_active": "None",
     "name": "Observatori Social, Ambiental i de Salut",
     "parents": [
