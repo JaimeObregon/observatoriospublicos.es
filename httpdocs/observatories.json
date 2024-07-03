@@ -3794,5 +3794,95 @@
     "scope": "local",
     "type": "publico",
     "website": "https://www.calidadtenerife.org"
+  },
+  {
+    "name": "Observatorio de la Publicidad e Información no Sexista del Principado de Asturias.",
+    "type": "publico",
+    "website": "https://iam.asturias.es/observatorio-de-la-publicidad-e-informacion-no-sexista",
+    "email": "institutoasturianodelamujer@asturias.org",
+    "description": "El Observatorio de la Publicidad e Información no Sexista nace para recoger todas aquellas quejas o denuncias que puedan atentar contra la imagen o dignidad de las mujeres en medios de comunicación y/o publicitarios.\n\nInstituto Asturiano de la Mujer.",
+    "scope": "autonómico",
+    "from_date": "2013",
+    "parents": [
+      "Instituto Asturiano de la Mujer. Consejería de Presidencia, Reto Demográfico, Igualdad y Turismo. Gobierno del Principado de Asturias."
+    ],
+    "docs": [
+      {
+        "name": "-Denuncias recibidas (2014-2023):"
+      },
+      {
+        "url": "https://iam.asturias.es/documents/269132/3354977/DENUNCIAS+PUBLICIDAD.pdf/3d615fff-1cfc-5817-b401-32c1e2d5b31f"
+      },
+      {
+        "name": "- Díptico Observatorio:"
+      },
+      {
+        "url": "https://iam.asturias.es/documents/269132/3354977/DENUNCIAS+PUBLICIDAD.pdf/3d615fff-1cfc-5817-b401-32c1e2d5b31f"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
+    "name": "Observatorio Asturiano de Servicios Sociales (OBSERVASS)",
+    "type": "publico",
+    "website": "https://observass.com/",
+    "email": "Formulario Web",
+    "description": "Sistema de información que permita la adecuada dirección, planificación y evaluación de los servicios sociales.\n\nLa creación del Observatorio Asturiano de Servicios Sociales tiene la finalidad de:\r\n-Aportar y analizar información que permita un mejor conocimiento de la situación de los servicios sociales del Principado de Asturias con el fin favorecer la toma de decisiones en el diseño y desarrollo de políticas sociales.\r\n-Asesorar a la Dirección General con competencia en materia de planificación de servicios sociales en el ejercicio de sus funciones como unidad estadística.\r\n-Facilitar la labor a profesionales del ámbito técnico y/o científico relacionados con los servicios sociales.\r\n-Materializar el derecho que tiene la ciudadanía de acceso a la información que obra en poder de la Administración sobre los servicios que presta y de su impacto en la sociedad.\n\nSe organiza en un Consejo Rector y una Comisión Asesora cuya composición se detalla en el [Decreto 35/2017, de 31 de mayo, por el que se crea y se regula el Observatorio Asturiano de Servicios Sociales (OBSERVASS)], BOPA 132 de 9-vi-2017 (https://sede.asturias.es/bopa/2017/06/09/2017-06449.pdf)",
+    "scope": "autonómico",
+    "from_date": "31/05/2017\r\n[Decreto 35/2017, de 31 de mayo, por el que se crea y se regula el Observatorio Asturiano de Servicios Sociales (OBSERVASS)] BOPA 132 de 9-vi-2017 \r\n(https://sede.asturias.es/bopa/2017/06/09/2017-06449.pdf)",
+    "parents": [
+      "Consejería de Derechos Sociales y Bienestar. Gobierno del Principado de Asturias."
+    ],
+    "docs": [
+      {
+        "name": "-INFORME | 17 DE ABRIL DE 2023"
+      },
+      {
+        "name": "[Indicador Sintético de Resistencia a la Pobreza y la Exclusión Social]"
+      },
+      {
+        "name": "(https://observass.com/wp-content/uploads/2023/04/Indicador-sint%C3%A9tico-resistencia-a-la-pobrezadef.pdf)"
+      },
+      {
+        "name": "-ESTUDIO | 18 DE JUNIO DE 2021"
+      },
+      {
+        "name": "[Previsión de Demanda de Cuidados Residenciales Para Personas Mayores en Asturias]"
+      },
+      {
+        "name": "(https://observass.com/wp-content/uploads/2021/06/PREVISIO%CC%81N-DEMANDA-CUIDADOS-RESIDENCIALES-PERSONAS-MAYORES.pdf)"
+      },
+      {
+        "name": "-INFORME | 5 DE ABRIL DE 2019"
+      },
+      {
+        "name": "[Mujeres y Servicios Sociales. Asturias]"
+      },
+      {
+        "name": "(https://observass.com/wp-content/uploads/2019/04/InfoObservASS-MUJERES-Y-SERVICIOS-SOCIALES-1.pdf)"
+      },
+      {
+        "name": "-INFORME | 5 DE ABRIL DE 2019"
+      },
+      {
+        "name": "[Anexo estadístico. Mujeres y Servicios Sociales. Asturias]"
+      },
+      {
+        "name": "(https://observass.com/wp-content/uploads/2019/04/ANEXO-ESTADISTICO-INOBSERVASS-N3.xls)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
+    "name": "Observatorio de Convivencia Escolar de Cantabria",
+    "type": "publico",
+    "website": "https://www.educantabria.es/diversidad/convivencia",
+    "description": "El Observatorio para la Convivencia Escolar de Cantabria es una organización colegiada de carácter consultivo que tiene como objetivo dotar a la administración educativa de las herramientas necesarias para la prevención y mejora del clima escolar en Cantabria.\n\nPresidencia: (Consejero de Educación, Formación Profesional y Universidades)\r\nVicepresidencia (Directora General de Centros e Infraestructuras Educativas)\r\nSecretario.\r\nVocales.",
+    "scope": "autonómico",
+    "from_date": "13 de octubre de 2006",
+    "parents": [
+      "Consejería de Educación, Formación Profesional y Universidades de Cantabria."
+    ],
+    "is_active": "Si"
   }
 ]
