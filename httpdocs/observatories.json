@@ -1110,6 +1110,24 @@
     "website": "https://www.coruna.gal/igualdade/es/servicios/observatorio"
   },
   {
+    "name": "Observatorio Eólico de Galicia",
+    "type": "mixto",
+    "website": "observatorio.eolico.uvigo.es",
+    "email": "observatorio.eolico@uvigo.gal",
+    "description": "El observatorio, liderado por el Grupo de Investigación en Economía Ecológica, Agroecología e Historia, tiene por objeto realizar investigaciones sobre el sector eólico en Galicia para transferir conocimiento entre los agentes participantes, además de favorecer la transparencia de los procesos de ocupación de terrenos destinados a parques eólicos e identificar y mostrar los impactos que la energía eólica genera en el mundo rural.",
+    "scope": "autonómico",
+    "from_date": "10 enero de  2019",
+    "parents": [
+      "Universidad de Vigo"
+    ],
+    "docs": [
+      {
+        "name": "[AnálisisRecursoEólico.pdf](https://github.com/JaimeObregon/observatoriospublicos.es/files/14844459/AnalisisRecursoEolico.pdf)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "location": "A Coruña",
     "name": "Observatorio Turístico de A Coruña",
     "parents": ["Concello de A Coruña", "Universidade da Coruña"],
@@ -1275,6 +1293,24 @@
     "scope": "pais_vasco",
     "type": "publico",
     "website": "https://www.euskadi.eus/gobierno-vasco/observatorio-comercio"
+  },
+  {
+    "name": "OBSERVATORIO DE MEDIO AMBIENTE URBANO",
+    "type": "publico",
+    "website": "https://www.omau-malaga.com",
+    "email": "info@omau-malaga.com",
+    "description": "El OMAU desarrolla tres campos de trabajo. (1) Por una parte, realiza el seguimiento de indicadores medioambientales tanto de la ciudad de Málaga, como de las ciudades socias. En el caso de la Ciudad de Málaga los indicadores de seguimiento están directamente relacionados con la puesta en práctica en 2006 de la Agenda 21. Para el conjunto de los socios se emplea el Sistema Integrado de Indicadores Urbanos realizados junto a UN-HABITAT de Naciones Unidas, con un conjunto inicial de 37 indicadores.\n\nLos indicadores de seguimiento son un instrumento muy útil para confrontar situaciones ambientales urbanas en diferentes periodos de tiempo, para conocer y saber si avanzamos hacía los objetivos propuestos o tenemos problemas para alcanzar las metas establecidas en la Agenda 21. En algunos de los indicadores empleamos el soporte GIS para realizar el seguimiento periódico.\n\n(2) El OMAU es también un centro de intercambio de experiencias donde, de forma regular, se celebran conferencias o mesas redondas sobre temas de actualidad en el campo del Medio Ambiente Urbano. En 2004 y 2005 se celebraron los primeros cursos de formación, tanto presencial, como on line, que deben tener su continuidad anual, incorporando propuestas de trabajo o formatos novedosos que se realicen en otros ámbitos.\n\n(3) El Centro de Documentación del Programa URB-AL (CDPU) asienta su sede en el Observatorio, reforzando la biblioteca convencional y virtual que el OMAU dispone. El CDPU supone la concentración de toda la información desarrollada por el Programa URB-AL desde 1995, periodo en el que se desarrollaron 13 redes de ciudades que agruparon a 2.500 ciudades europeas y americanas. El CDPU ha recuperado los 192 proyectos URB-AL aprobados por la Comisión Europea, y que se desarrollaron entre 1998 y previsiblemente 2009. La Web del CDPU posibilita encontrar la documentación de los diferentes proyectos tanto a través de un buscador temático, como a través de su relación original con una determinada Red, funcionando a modo de biblioteca virtual de Buenas Practicas Urbanas.\n\nEn un principio es gestionado por dos funcionarios municipales, uno de ellos responsable del observatorio. Contrató 14 falsos autónomos cuyo despido fue anulado por el Tribunal Superior de Justicia y tuvieron que ser readmitidos.",
+    "scope": "local",
+    "from_date": "2005",
+    "parents": [
+      "Auntamiento de Málaga, servicio de programas. Dependiente del Área de Gobierno de innovación, digitalización urbana, promoción de la inversión tecnológica y empresarial y captación de inversiones."
+    ],
+    "docs": [
+      {
+        "name": "En su página WEB indica que hay mas de cien informes, pero no permite abrir ninguno de ellos."
+      }
+    ],
+    "is_active": "Si"
   },
   {
     "name": "Observatorio Vasco del Emprendimiento",
