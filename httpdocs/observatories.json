@@ -1156,6 +1156,24 @@
     "website": "https://www.coruna.gal/igualdade/es/servicios/observatorio"
   },
   {
+    "name": "Observatorio Eólico de Galicia",
+    "type": "mixto",
+    "website": "observatorio.eolico.uvigo.es",
+    "email": "observatorio.eolico@uvigo.gal",
+    "description": "El observatorio, liderado por el Grupo de Investigación en Economía Ecológica, Agroecología e Historia, tiene por objeto realizar investigaciones sobre el sector eólico en Galicia para transferir conocimiento entre los agentes participantes, además de favorecer la transparencia de los procesos de ocupación de terrenos destinados a parques eólicos e identificar y mostrar los impactos que la energía eólica genera en el mundo rural.",
+    "scope": "autonómico",
+    "from_date": "10 enero de  2019",
+    "parents": [
+      "Universidad de Vigo"
+    ],
+    "docs": [
+      {
+        "name": "[AnálisisRecursoEólico.pdf](https://github.com/JaimeObregon/observatoriospublicos.es/files/14844459/AnalisisRecursoEolico.pdf)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "location": "A Coruña",
     "name": "Observatorio Turístico de A Coruña",
     "parents": [
