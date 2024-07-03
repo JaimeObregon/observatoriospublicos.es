@@ -2818,6 +2818,18 @@
     "website": "https://www.rivasciudad.es/organos-de-participacion-ciudadana/foros-y-observatorios-locales/observatorio-municipal-de-personas-con-discapacidades/"
   },
   {
+    "name": "Observatorio de la ciudad",
+    "type": "publico",
+    "website": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Observatorio-de-la-Ciudad/?vgnextfmt=default&vgnextchannel=ec38d941c9b25710VgnVCM2000001f4a900aRCRD",
+    "description": "El Observatorio de la Ciudad, instrumento de evaluación de la gestión municipal y de difusión e información de sus resultados a la ciudadanía, tiene como finalidad impulsar de forma institucional la evaluación de la gestión municipal, la rendición de cuentas y la efectividad de los principios de transparencia y participación, teniendo en cuenta especialmente la percepción que tiene la ciudadanía de la calidad de los servicios municipales.",
+    "scope": "local",
+    "from_date": "27 de Febrero de 2020",
+    "parents": [
+      "Ayuntamiento de Madrid"
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "Este Observatorio tiene sobre la mesa los retos identificados para la industria en la región: el crecimiento de la internacionalización de un sector que es responsable de uno de cada tres euros de las exportaciones de la Comunidad Autónoma, así como la digitalización, la sostenibilidad y la innovación en la industria.",
     "from_date": "30 de agosto de 2022 (30/08/2022)",
     "is_active": "Sí",
