@@ -3884,5 +3884,24 @@
       "Consejería de Educación, Formación Profesional y Universidades de Cantabria."
     ],
     "is_active": "Si"
+  },
+  {
+    "name": "Observatorio de la cuenca Saja-Besaya",
+    "type": "publico",
+    "website": "https://observatoriosabe.es",
+    "email": "info@observatoriosabe.es",
+    "description": "El Observatorio de la cuenca Saja-Besaya, denominado Observatorio SABE, es un órgano independiente, de carácter técnico y multidisciplinar, que trabaja por implementar mejoras en nuestros ecosistemas, paisajes, estuarios, zonas forestales o urbanas, entre otras.\n\nConsejo Asesor:\n\n> El Consejo Asesor está compuesto por Soledad Nogués, profesora titular de Urbanística y Ordenación del Territorio de la Universidad de Cantabria y Torrelaveguense ilustre 2016, Jesús Tortosa, Director General de la Cámara de Comercio de Cantabria, Leandro Morante, exdirector del CIMA de Torrelavega, Sonsoles Pérez, Jefa de seguridad, higiene, medio ambiente y calidad de Solvay, Felipe González, delegado en Cantabria de SEO Birdlife, y Fernando Isasi, Director gerente de la Red Cántabra de Desarrollo Rural.\n\nConsejo Rector:\n\n>  14 personas (6 de las entidades incorporadas, 6 del Consejo Asesor y 2 de la secretaría y dirección).",
+    "scope": "autonómico",
+    "from_date": "1 de Junio del 2022",
+    "parents": [
+      "Instituto de Hidráulica Ambiental",
+      "Universidad de Cantabria"
+    ],
+    "docs": [
+      {
+        "url": "https://observatoriosabe.es/documentos"
+      }
+    ],
+    "is_active": "Si"
   }
 ]
