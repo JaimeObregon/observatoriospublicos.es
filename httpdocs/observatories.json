@@ -1038,6 +1038,14 @@
     "type": "publico"
   },
   {
+    "name": "Observatorio Nacional de Tecnología y Sociedad",
+    "type": "publico",
+    "website": "https://www.ontsi.es/",
+    "scope": "estatal",
+    "parents": ["Red.es"],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio del Mercado de Trabajo del Servicio Público de Empleo del Principado de Asturias",
     "scope": "asturias",
     "type": "publico"
