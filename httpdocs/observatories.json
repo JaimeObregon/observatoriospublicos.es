@@ -2192,6 +2192,16 @@
   },
   {
     "is_active": "None",
+    "name": "Observatorio Canario de Empleo",
+    "parents": [
+      "Gobierno de Canarias"
+    ],
+    "scope": "canarias",
+    "type": "publico",
+    "website": "https://obecan.es"
+  },
+  {
+    "is_active": "None",
     "name": "Observatorio Canario de la Salud",
     "parents": [
       "Gobierno de Canarias"
@@ -2427,7 +2437,8 @@
     "parents": [
       "Consejería de Presidencia"
     ],
-    "scope": "melilla"
+    "scope": "melilla",
+    "website": "https://elfarodemelilla.es/echa-a-andar-el-observatorio-economico-de-melilla/"
   },
   {
     "description": "El Observatorio de precios agrarios muestra semanalmente la evolución del precio que percibe el productor (origen) y el que paga el consumidor (destino). También incorpora costes de producción de diferentes cultivos y especies ganaderas que se irán completando semana a semana.",
@@ -2668,6 +2679,51 @@
     ],
     "scope": "estatal",
     "website": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-323"
+  },
+  {
+    "name": "Observatorio de Igualdad de Oportunidades entre Mujeres y Hombres. (Asturias)",
+    "type": "publico",
+    "website": "https://iam.asturias.es/observatorio-de-igualdad-de-oportunidades",
+    "email": "institutoasturianodelamujer@asturias.org",
+    "description": "El objetivo es la recogida sistemática de datos por medio de estadísticas desagregadas por sexos con el fin de conocer objetivamente la realidad específica de la igualdad de oportunidades entre mujeres y hombres en la Comunidad Autónoma del Principado de Asturias.\n\nInstituto Asturiano de la Mujer",
+    "scope": "autonómico",
+    "from_date": "1999",
+    "parents": [
+      "Instituto Asturiano de la Mujer. Consejería de Presidencia, Reto Demográfico, Igualdad y Turismo. Gobierno del Principado de Asturias."
+    ],
+    "docs": [
+      {
+        "name": "-\"Asturianas en Cifras 2020\""
+      },
+      {
+        "name": "(https://iam.asturias.es/documents/269132/370594/Asturianas+en+Cifras+2020.pdf/6871db73-2232-7de7-7b55-ad7df2f1deb8)"
+      },
+      {
+        "name": "-Informe Situación Mujeres y Hombres en Asturias 2019."
+      },
+      {
+        "name": "(https://iam.asturias.es/documents/269132/325679/Informe-Situaci%C3%B3n-Mujeres-y-Hombres-en-Asturias-2019.pdf/fc98a35d-6add-2358-5482-bcb536406b97)"
+      },
+      {
+        "name": "-Situacion-Mujeres-y-Hombres-en-Asturias-2017."
+      },
+      {
+        "name": "(https://iam.asturias.es/documents/269132/273932/Situacion-Mujeres-y-Hombres-en-Asturias-2017.pdf/9b838275-a1e9-7310-316d-b3a745569123)"
+      },
+      {
+        "name": "-Situación Mujeres y Hombres Asturias 2016."
+      },
+      {
+        "name": "(https://iam.asturias.es/documents/269132/273932/Situaci%C3%B3n-Mujeres-y-Hombres-Asturias-2016.pdf/0c9590b7-f7f1-3cf1-1bc5-3c628ea85e13)"
+      },
+      {
+        "name": "-Situación de mujeres y hombres en Asturias 2015."
+      },
+      {
+        "name": "(https://iam.asturias.es/documents/269132/273932/Situaci%C3%B3n-de-mujeres-y-hombres-en-Asturias-2015.pdf/5e41cd82-f376-0bcb-9e00-7efcc78fbba5)"
+      }
+    ],
+    "is_active": "Si"
   },
   {
     "name": "Observatori de l'economia local de Sabadell",
@@ -3011,8 +3067,8 @@
   {
     "docs": [
       {
-        "name": "Informe monogràfic 2021: Dimensió comunitària als barris de Catalunya",
-        "url": "https://dretssocials.gencat.cat/web/.content/03ambits_tematics/19_civisme_i_valors/observatori/informes/Monografic-dinamiques-comunitaries-als-barris_1121_febrer-2022.pdf"
+        "url": "https://dretssocials.gencat.cat/web/.content/03ambits_tematics/19_civisme_i_valors/observatori/informes/Monografic-dinamiques-comunitaries-als-barris_1121_febrer-2022.pdf",
+        "name": "Informe monogràfic 2021: Dimensió comunitària als barris de Catalunya"
       }
     ],
     "is_active": "None",
@@ -3026,6 +3082,11 @@
     "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/civisme_i_valors/observatori/"
   },
   {
+    "is_active": "None",
+    "parents": [
+      "Gobierno del Principado de Asturias",
+      "Consejería de Salud"
+    ],
     "docs": [
       {
         "name": "Decreto 63/2020, de 16 de julio, por el que se regulan la organización y el funcionamiento del Observatorio de la Muerte Digna y de las Comisiones de Mortalidad de las Áreas de Salud",
@@ -3068,6 +3129,11 @@
     "website": "https://contratacionresponsablecanarias.org"
   },
   {
+    "from_date": "6 de octubre de 2006",
+    "is_active": "Sí",
+    "name": "Observatorio de Precios de los Productos Agroalimetarios de la Comunitat Valenciana",
+    "type": "publico",
+    "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851",
     "description": "Según el [DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2006/11596).",
     "docs": [
       {
@@ -3582,7 +3648,15 @@
     ],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://observatorioia.gva.es/es/"
+    "website": "https://observatorioia.gva.es/es/",
+    "description": "Para conocer un poco más sobre la historia de la Inteligencia Artificial, identificar a los agentes implicados y comenzar a manejarse con los términos más habituales empleados en este campo.",
+    "from_date": "9 de junio de 2023",
+    "docs": [
+      {
+        "name": "DECRETO 85/2023, de 9 de junio, del Consell, de creación del Observatorio de la Inteligencia Artificial de la Comunitat Valenciana",
+        "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2023/6578&L=1"
+      }
+    ]
   },
   {
     "is_active": "None",
@@ -3822,6 +3896,7 @@
     "parents": [
       "Junta de Andalucía"
     ],
+    "description": "Aún no han creado su propia pagina pero su constitución aparece mencionada en varias páginas oficiales de la Junta de Andalucía, arriba uno de las noticias al respecto",
     "scope": "andalucia",
     "type": "publico",
     "website": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/todas-noticia/constituido-el-observatorio-de-agresiones-profesionales-del-sistema-sanitario-publico"
