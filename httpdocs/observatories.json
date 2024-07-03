@@ -318,6 +318,19 @@
     "scope": "asturias"
   },
   {
+    "name": "Observatori del patrimoni natural i la biodiversitat",
+    "type": "mixto",
+    "website": "https://observatorinatura.cat/",
+    "email": "info@observatorinatura.cat",
+    "description": "El Observatorio del patrimonio natural y la biodiversidad es el ente de referencia responsable de mejorar la organización, integración, tratamiento, difusión y accesibilidad de la información sobre el patrimonio natural y la biodiversidad en Cataluña.\n\nEsta información es clave para conocer la riqueza natural del país, evaluar el estado de conservación de las especies, hábitats y espacios naturales, y orientar y priorizar adecuadamente los esfuerzos y las políticas de gestión para garantizar su conservación. El Observatorio quiere también informar y sensibilizar a la ciudadanía para que sea un actor participativo y crítico, con criterio y con un papel relevante en la toma de decisiones colectivas e individuales sobre la conservación de la naturaleza en Cataluña.\n\n- museu de ciėncies naturals de Barcelona\r\n- Institut catalá d’ornitologia\r\n- Diputació Barcelona\r\n- GEA Research Group Aquatic Ecology UVIC-UCC\r\n- Institut de ciències naturals\r\n- Institut d'ecologia aquàtica\r\n- CREAF\r\n- Excel-léncia Severo Ochoa\r\n- Universitat de Girona. Departament de ciències ambientals\r\n- Museu de ciències naturals de Granollers\r\n- CTFC\r\n- Institut catalá de recerca per a la Governança del mar\r\n- IRTA\r\n- IRBio (Institut de recerca de la Biodiversitat, Universitat de Barcelona)\r\n- CEAB\r\n- Institut d'edtudis catalans\r\n- Zoo Barcelona\r\n- Diputació de Girona",
+    "scope": "autonómico",
+    "from_date": "6 de Julio de 2022",
+    "parents": [
+      "Generalitat de Catalunya, Departament d'acció climatica, alimentació y agenda rural"
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio de Infancia del País Vasco",
     "scope": "pais_vasco"
   },
