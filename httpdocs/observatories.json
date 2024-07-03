@@ -729,6 +729,24 @@
     "scope": "galicia"
   },
   {
+    "name": "OBSERVATORIO MUNICIPAL DE VIVIENDA EN ALQUILER DE ALICANTE",
+    "type": "publico",
+    "website": "https://www.alicante.es/es/contenidos/observatorio-municipal-vivienda-alquiler-alicante",
+    "description": "1. conocer, la situación del precio del mercado de alquiler libre en la ciudad.\n\nAyuntamiento de Alicante\n\nLa tarea la hace una consultora externa ( Factoría, Gestión y Consultoría, s.l.)",
+    "scope": "local",
+    "from_date": "2012",
+    "to_date": "Continúa",
+    "parents": [
+      "Patronato de la Vivienda del Ayuntamiento de Alicante"
+    ],
+    "docs": [
+      {
+        "name": "Ninguno (que haya encontrado). Sólo el \"cuadro de mando\" que elaboran otros"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio Galego de Acción Voluntaria",
     "scope": "galicia"
   },
@@ -2100,6 +2118,16 @@
     "scope": "canarias",
     "type": "publico",
     "website": "https://www.gobiernodecanarias.org/medioambiente/organos/observatorio-canario-del-cambio-climatico/"
+  },
+  {
+    "is_active": "None",
+    "name": "Observatorio Canario de la Juventud",
+    "parents": [
+      "Gobierno de Canarias"
+    ],
+    "scope": "canarias",
+    "type": "publico",
+    "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/"
   },
   {
     "is_active": "None",
