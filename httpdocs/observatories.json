@@ -1966,14 +1966,6 @@
   },
   {
     "is_active": "None",
-    "name": "Observatorio Canario de la Juventud",
-    "parents": ["Gobierno de Canarias"],
-    "scope": "canarias",
-    "type": "publico",
-    "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/"
-  },
-  {
-    "is_active": "None",
     "name": "Observatorio Industrial de Canarias",
     "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
