@@ -3903,5 +3903,62 @@
       }
     ],
     "is_active": "Si"
+  },
+  {
+    "name": "Observatorio ciudadano",
+    "type": "mixto",
+    "website": "https://www.oaib.es/observatorio-ciudadano/",
+    "email": "info@oaib.es",
+    "description": "La confianza de los ciudadanos en las instituciones públicas se gana con dificultad y se pierde fácilmente. Lo ideal es que las instituciones públicas actúen de manera socialmente responsable y ética para ganar y mantener la confianza de los ciudadanos en las instituciones públicas y políticas.\n\nLos ciudadanos activos son cruciales en la lucha contra la corrupción: llaman la atención sobre la gravedad de este problema, elevan la conciencia pública sobre su impacto, y actúan como vigilantes efectivos de cargos públicos y partidos monitorizándolos y manteniéndolos bajo un escrutinio constante en términos de rendición de cuentas y capacidad de respuesta. Esto conduce poco a poco a un mecanismo de autocontrol, ya que obliga a los cargos y funcionarios públicos a comportarse éticamente y ofrecer un gobierno limpio. Por el contrario, altos niveles de percepción de mala gobernanza o corrupción, conducen a la frustración de los ciudadanos con su sector público, a la apatía pública, a la falta de compromiso cívico y a la falta de confianza en el proceso político y democrático, y finalmente también al aumento del fraude fiscal, que es la otra cara de la misma moneda.\n\nLa Convención de las Naciones Unidas contra la Corrupción (UNCAC) proporciona la base para la participación ciudadana en los esfuerzos anticorrupción en el artículo 13, que obliga a los Estados miembros a «tomar las medidas adecuadas para promover la participación activa de individuos y grupos ajenos al sector público, como la sociedad civil, las organizaciones no gubernamentales y las organizaciones comunitarias, en la prevención y la lucha contra la corrupción «, y exige a los Estados miembros que proporcionen vías de participación pública en la toma de decisiones.\n\nEste Observatorio pretende contribuir dentro de sus posibilidades, a esta participación activa de la ciudadanía a favor de la transparencia en el diseño de las políticas públicas, y de la integridad en su ejecución.\n\nundefined",
+    "scope": "autonómico",
+    "from_date": "N/A",
+    "to_date": "N/A",
+    "parents": [
+      "- Parlamento de les Illes",
+      "- Oficina de Prevención y Lucha contra la Corrupción en las Illes Balears"
+    ],
+    "docs": [
+      {
+        "name": "N/A"
+      }
+    ]
+  },
+  {
+    "name": "Observatorio ciutadano de la Sequía",
+    "type": "publico",
+    "website": "https://www.creaf.cat/es/observatorio-ciutadano-de-la-sequia",
+    "email": "contacte@creaf.uab.cat",
+    "description": "El Observatorio Ciudadano de la Sequía es un proyecto de ciencia ciudadana que tiene por objetivo avanzar en el mejor conocimiento del riesgo de sequía en España.",
+    "scope": "estatal",
+    "from_date": "Noviembre 2020"
+  },
+  {
+    "name": "Observatorio de Turismo Sostenible de Mallorca",
+    "type": "publico",
+    "website": "https://stomallorca.com",
+    "email": "hello@stomallorca.com",
+    "description": "STO Mallorca nace en el marco del [Plan de Recuperación, Transformación y Resiliencia del Gobierno de España](https://www.mincotur.gob.es/es-es/recuperacion-transformacion-resiliencia/paginas/plan-recuperacion-transformacion-resiliencia.aspx) con los fondos europeos Next Generation EU alineados con el plan estratégico de la FMT.\n\nEl Observatorio de Turismo Sostenible de Mallorca tiene como misión generar información de valor que permita guiar las decisiones del sector público y privado, dotando de inteligencia toda la cadena de valor de forma que se incrementa su competitividad y productividad, teniendo siempre en consideración los principios directores de la sostenibilidad.\n\nEl Observatorio de Turismo Sostenible de Mallorca tiene como misión generar información de valor que permita guiar las decisiones del sector público y privado, dotando de inteligencia toda la cadena de valor de forma que se incrementa su competitividad y productividad, teniendo siempre en consideración los principios directores de la sostenibilidad.\n\n- La Agencia de Estrategia Turística de las Islas Baleares (AETIB)\r\n- La Federación de Entidades Locales de las Islas Baleares (FELIB)\r\n- La Cámara de Comercio de Mallorca\r\n- AENA (Aeropuertos Españoles y Navegación Aérea)\r\n- La Autoridad Portuaria de Baleares (APB)\r\n- La Agencia Estatal de Meteorología (AEMET)\r\n- El Instituto de Estadística de las Illes Balears (IBESTAT)\r\n- Federación Empresarial Hotelera de Mallorca\r\n- Agrupación de Cadenas Hoteleras Baleares\r\n- Agrupación Empresarial de Agencias de Viaje de Baleares\r\n- Creado en 1905, Fomento del Turismo de Mallorca\r\n- La Fundación Impulsa Balears\r\n- El clúster internacional de las Tecnologías de la Información y la Comunicación aplicadas al Turismo (TURISTEC)\r\n- La Universitat de les Illes Balears (UIB)",
+    "scope": "local",
+    "from_date": "N/A",
+    "parents": [
+      "- Consell de Mallorca",
+      "- Fundación Mallorca Turismo",
+      "- Conselleria Model Econòmic, Turisme i Treball"
+    ],
+    "docs": [
+      {
+        "name": "[Informe de coyuntura 2022](https://stomallorca.com/informes/)"
+      }
+    ]
+  },
+  {
+    "name": "Observatori socioeconòmic d'Osona",
+    "type": "publico",
+    "website": "http://www.observatorisocioeconomicosona.cat/",
+    "email": "observatori@creaccio.cat",
+    "description": "-eina de monitorització de la realitat i la competitivitat comarcal \r\n-Observatori de prospectiva i anàlisi de les megatendències de futur.\n\nAjuntament de Vic - Creacció\r\nAjuntament de Manlleu\r\nCambra d'Osona\r\nUVic\r\nCEDO",
+    "scope": "provincial",
+    "from_date": "2017",
+    "is_active": "Si"
   }
 ]
