@@ -2,9 +2,7 @@
   {
     "description": "<a href=\"https://twitter.com/Monica_Garcia_G/status/1768227454223565199\">Anunciado</a> en rueda de prensa por la ministra de Sanidad el 14 de marzo de 2024.",
     "name": "Observatorio contra el Fraude y la Corrupción Sanitaria",
-    "parents": [
-      "Ministerio de Sanidad"
-    ],
+    "parents": ["Ministerio de Sanidad"],
     "scope": "estatal",
     "type": "publico"
   },
@@ -65,7 +63,8 @@
     ],
     "name": "Observatorio del Ferrocarril en España",
     "parents": [
-      "Ministerio de Transportes y Movilidad Sostenible"
+      "Ministerio de Transportes y Movilidad Sostenible",
+      "Fundación de los Ferrocarriles Españoles"
     ],
     "scope": "estatal",
     "type": "publico",
@@ -221,10 +220,7 @@
       }
     ],
     "name": "Observatorio de Igualdad de Oportunidades entre Mujeres y Hombres",
-    "parents": [
-      "Ministerio de Igualdad",
-      "Instituto de las Mujeres"
-    ],
+    "parents": ["Ministerio de Igualdad", "Instituto de las Mujeres"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.inmujeres.gob.es/observatorios/observIgualdad/home.htm"
@@ -251,10 +247,7 @@
   },
   {
     "name": "Observatorio de la Imagen de las Mujeres",
-    "parents": [
-      "Ministerio de Igualdad",
-      "Instituto de las Mujeres"
-    ],
+    "parents": ["Ministerio de Igualdad", "Instituto de las Mujeres"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.inmujeres.gob.es/observatorios/observImg/home.htm"
@@ -318,17 +311,17 @@
     "scope": "asturias"
   },
   {
-    "name": "Observatori del patrimoni natural i la biodiversitat",
-    "type": "mixto",
-    "website": "https://observatorinatura.cat/",
-    "email": "info@observatorinatura.cat",
     "description": "El Observatorio del patrimonio natural y la biodiversidad es el ente de referencia responsable de mejorar la organización, integración, tratamiento, difusión y accesibilidad de la información sobre el patrimonio natural y la biodiversidad en Cataluña.\n\nEsta información es clave para conocer la riqueza natural del país, evaluar el estado de conservación de las especies, hábitats y espacios naturales, y orientar y priorizar adecuadamente los esfuerzos y las políticas de gestión para garantizar su conservación. El Observatorio quiere también informar y sensibilizar a la ciudadanía para que sea un actor participativo y crítico, con criterio y con un papel relevante en la toma de decisiones colectivas e individuales sobre la conservación de la naturaleza en Cataluña.\n\n- museu de ciėncies naturals de Barcelona\r\n- Institut catalá d’ornitologia\r\n- Diputació Barcelona\r\n- GEA Research Group Aquatic Ecology UVIC-UCC\r\n- Institut de ciències naturals\r\n- Institut d'ecologia aquàtica\r\n- CREAF\r\n- Excel-léncia Severo Ochoa\r\n- Universitat de Girona. Departament de ciències ambientals\r\n- Museu de ciències naturals de Granollers\r\n- CTFC\r\n- Institut catalá de recerca per a la Governança del mar\r\n- IRTA\r\n- IRBio (Institut de recerca de la Biodiversitat, Universitat de Barcelona)\r\n- CEAB\r\n- Institut d'edtudis catalans\r\n- Zoo Barcelona\r\n- Diputació de Girona",
-    "scope": "autonómico",
+    "email": "info@observatorinatura.cat",
     "from_date": "6 de Julio de 2022",
+    "is_active": "Si",
+    "name": "Observatori del patrimoni natural i la biodiversitat",
     "parents": [
       "Generalitat de Catalunya, Departament d'acció climatica, alimentació y agenda rural"
     ],
-    "is_active": "Si"
+    "scope": "autonómico",
+    "type": "mixto",
+    "website": "https://observatorinatura.cat/"
   },
   {
     "name": "Observatorio de Infancia del País Vasco",
@@ -373,9 +366,7 @@
   {
     "email": "observatorio.museos@cultura.gob.es",
     "name": "Observatorio de Museos de España",
-    "parents": [
-      "Ministerio de Cultura"
-    ],
+    "parents": ["Ministerio de Cultura"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.cultura.gob.es/observatorio-museos-espana/el-observatorio-de-museos-de-espana.html"
@@ -384,10 +375,7 @@
     "description": "Publica informes de precios agrícolas y ganaderos.",
     "is_active": "Sí",
     "name": "Observatorio de Precios y Mercados de la Junta de Andalucía",
-    "parents": [
-      "Consejeria de Agricultura y Pesca",
-      "Junta de Andalucia"
-    ],
+    "parents": ["Consejeria de Agricultura y Pesca", "Junta de Andalucia"],
     "scope": "andalucia",
     "type": "publico",
     "website": "https://www.juntadeandalucia.es/agriculturaypesca/observatorio"
@@ -414,16 +402,12 @@
       }
     ],
     "name": "Observatorio de Salud y Cambio Climático",
-    "parents": [
-      "Ministerio de Ciencia e Innovación"
-    ],
+    "parents": ["Ministerio de Ciencia e Innovación"],
     "scope": "estatal"
   },
   {
     "name": "Observatorio de Vivienda y Suelo",
-    "parents": [
-      "Ministerio de Transportes y Movilidad Sostenible"
-    ],
+    "parents": ["Ministerio de Transportes y Movilidad Sostenible"],
     "scope": "estatal"
   },
   {
@@ -465,9 +449,7 @@
     "from_date": "25 de marzo de 2015",
     "is_active": "Sí",
     "name": "Observatorio Aragonés de la Juventud",
-    "parents": [
-      "Instituto Aragonés de la Juventud"
-    ],
+    "parents": ["Instituto Aragonés de la Juventud"],
     "scope": "aragon",
     "type": "publico",
     "website": "https://www.aragon.es/-/presentacion-1"
@@ -580,10 +562,7 @@
   },
   {
     "name": "Observatorio de Salud y Medio Ambiente de Andalucía",
-    "parents": [
-      "Junta de Andalucía",
-      "Consejería de Salud y Consumo"
-    ],
+    "parents": ["Junta de Andalucía", "Consejería de Salud y Consumo"],
     "scope": "andalucia",
     "type": "publico",
     "website": "https://www.osman.es"
@@ -599,18 +578,14 @@
   },
   {
     "name": "Observatorio Español de las Drogas y las Adicciones",
-    "parents": [
-      "Ministerio de Sanidad"
-    ],
+    "parents": ["Ministerio de Sanidad"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/home.htm"
   },
   {
     "name": "Observatorio Español del Racismo y la Xenofobia",
-    "parents": [
-      "Ministerio de Inclusión, Seguridad Social y Migraciones"
-    ],
+    "parents": ["Ministerio de Inclusión, Seguridad Social y Migraciones"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.inclusion.gob.es/oberaxe/"
@@ -742,22 +717,20 @@
     "scope": "galicia"
   },
   {
-    "name": "OBSERVATORIO MUNICIPAL DE VIVIENDA EN ALQUILER DE ALICANTE",
-    "type": "publico",
-    "website": "https://www.alicante.es/es/contenidos/observatorio-municipal-vivienda-alquiler-alicante",
     "description": "1. conocer, la situación del precio del mercado de alquiler libre en la ciudad.\n\nAyuntamiento de Alicante\n\nLa tarea la hace una consultora externa ( Factoría, Gestión y Consultoría, s.l.)",
-    "scope": "local",
-    "from_date": "2012",
-    "to_date": "Continúa",
-    "parents": [
-      "Patronato de la Vivienda del Ayuntamiento de Alicante"
-    ],
     "docs": [
       {
         "name": "Ninguno (que haya encontrado). Sólo el \"cuadro de mando\" que elaboran otros"
       }
     ],
-    "is_active": "Si"
+    "from_date": "2012",
+    "is_active": "Si",
+    "name": "OBSERVATORIO MUNICIPAL DE VIVIENDA EN ALQUILER DE ALICANTE",
+    "parents": ["Patronato de la Vivienda del Ayuntamiento de Alicante"],
+    "scope": "local",
+    "to_date": "Continúa",
+    "type": "publico",
+    "website": "https://www.alicante.es/es/contenidos/observatorio-municipal-vivienda-alquiler-alicante"
   },
   {
     "name": "Observatorio Galego de Acción Voluntaria",
@@ -767,9 +740,7 @@
     "description": "El Observatorio de Datos Culturales de Barcelona es una iniciativa del Instituto de Cultura del Ayuntamiento de Barcelona que nació en 2015. La misión de este observatorio es elaborar y difundir datos, indicadores e informes sobre la realidad cultural de la ciudad, y poner toda la información al alcance de instituciones, agentes culturales, comunidad científica y público interesado de una manera ordenada y accesible, con el objetivo de ampliar y mejorar el conocimiento que tenemos sobre la vida cultural barcelonesa.",
     "from_date": "2015",
     "name": "Observatorio de Datos Culturales de Barcelona",
-    "parents": [
-      "Ajuntament de Barcelona"
-    ],
+    "parents": ["Ajuntament de Barcelona"],
     "scope": "local",
     "type": "publico",
     "website": "https://barcelonadadescultura.bcn.cat/?lang=es"
@@ -789,9 +760,7 @@
   {
     "is_active": "No",
     "name": "Observatorio Nacional 5G",
-    "parents": [
-      "Ministerio de Economía"
-    ],
+    "parents": ["Ministerio de Economía"],
     "scope": "estatal"
   },
   {
@@ -812,10 +781,7 @@
     ],
     "is_active": "No",
     "name": "Observatorio Nacional contra el Despoblamiento",
-    "parents": [
-      "Gobierno de Cantabria",
-      "Ayuntamiento de Valderredible"
-    ],
+    "parents": ["Gobierno de Cantabria", "Ayuntamiento de Valderredible"],
     "scope": "estatal"
   },
   {
@@ -1144,9 +1110,7 @@
   {
     "description": "El Observatorio Social Barcelona es un instrumento de conocimiento de la realidad social de la ciudad que tiene como objetivos principales: Conocer y evaluar la situación y la evolución de las condiciones de vida de la población, la realidad de los diferentes colectivos y la evolución de los fenómenos y procesos sociales que afectan a la calidad de vida de las personas y a la cohesión social de la ciudad. Difundir y compartir conocimiento con la ciudadanía, las entidades y asociaciones, y con el colectivo profesional y técnico, directivo y político. Apoyar a la planificación y a la toma de decisiones.",
     "name": "Observatorio Social Barcelona",
-    "parents": [
-      "Ajuntament de Barcelona"
-    ],
+    "parents": ["Ajuntament de Barcelona"],
     "scope": "local",
     "type": "publico",
     "website": "https://ajuntament.barcelona.cat/dretssocials/es/content/observatorio-social-bcn"
@@ -1179,9 +1143,7 @@
   },
   {
     "name": "Observatorio de Prevención de Riesgos Laborales de la Comunidad Autónoma de la Región de Murcia",
-    "parents": [
-      "Gobierno de la Región de Murcia"
-    ],
+    "parents": ["Gobierno de la Región de Murcia"],
     "scope": "region_de_murcia",
     "type": "publico",
     "website": "https://www.carm.es/web/pagina?IDCONTENIDO=740&IDTIPO=140"
@@ -1203,32 +1165,26 @@
     "scope": "region_de_murcia"
   },
   {
-    "name": "Observatorio de Competencias Digitales de la Comunidad de Madrid",
-    "type": "publico",
-    "website": "https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-competencias-digitales-comunidad-madrid",
     "description": "El Observatorio es el grupo de trabajo de la Comunidad de Madrid para la evaluación, el seguimiento y la propuesta de las acciones a realizar en el marco del Plan de Capacitación Digital para los Ciudadanos de la Comunidad de Madrid 2022-2025.\n\nCompetencias\r\na) Definir y perfeccionar el sistema de indicadores del Plan, elaborando planes de seguimiento trimestrales que permitan evaluar el desarrollo, resultado e impacto del plan.\r\nb) Difundir en la sociedad los contenidos y objetivos del Plan de Capacitación Digital para los Ciudadanos de la Comunidad de Madrid 2022-2025, y recoger las propuestas e iniciativas sociales que surjan en su desarrollo.\r\nc) Detectar cualquier desviación operativa y trasladar la información al grupo operativo para permitir la toma de decisiones basadas en las evidencias encontradas en los distintos informes de seguimiento.\r\nd) Fomentar la cooperación y colaboración en las actuaciones de las distintas consejerías en materia de desarrollo de competencias digitales para evitar solapamientos y duplicidades, proponiendo una solución a las consejerías implicadas en caso de que se produjeran intersecciones entre los colectivos en riesgo de exclusión social, sin perjuicio de las competencias atribuidas a cada una de ellas.\r\ne) Identificar nuevas propuestas y casos de éxito que puedan ser replicados en el ámbito del Plan.",
-    "scope": "autonómico",
     "from_date": "14 de Febrero de 2024",
-    "parents": [
-      "Consejería de digitalización de la Comunidad de Madrid"
-    ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "name": "Observatorio de Competencias Digitales de la Comunidad de Madrid",
+    "parents": ["Consejería de digitalización de la Comunidad de Madrid"],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-competencias-digitales-comunidad-madrid"
   },
   {
     "location": "A Coruña",
     "name": "Observatorio Urbano de A Coruña",
-    "parents": [
-      "Concello de A Coruña"
-    ],
+    "parents": ["Concello de A Coruña"],
     "scope": "municipal",
     "website": "https://www.coruna.gal/encifras/es/observatorios-municipales/observatorio-urbano-de-a-coruna"
   },
   {
     "location": "A Coruña",
     "name": "Observatorio Municipal de Igualdade e Diversidade",
-    "parents": [
-      "Concello de A Coruña"
-    ],
+    "parents": ["Concello de A Coruña"],
     "scope": "municipal",
     "website": "https://www.coruna.gal/igualdade/es/servicios/observatorio"
   },
@@ -1251,10 +1207,7 @@
   {
     "location": "A Coruña",
     "name": "Observatorio Turístico de A Coruña",
-    "parents": [
-      "Concello de A Coruña",
-      "Universidade da Coruña"
-    ],
+    "parents": ["Concello de A Coruña", "Universidade da Coruña"],
     "scope": "municipal",
     "website": "https://acorunaot.udc.es"
   },
@@ -1365,9 +1318,7 @@
   {
     "location": "Alcalá de Henares",
     "name": "Observatorio Urbano de Alcalá de Henares",
-    "parents": [
-      "Ayuntamiento de Alcalá de Henares"
-    ],
+    "parents": ["Ayuntamiento de Alcalá de Henares"],
     "scope": "municipal",
     "type": "publico",
     "website": "https://www.ayto-alcaladehenares.es/el-salon-de-plenos-acoge-el-acto-ejecutivo-del-plan-de-accion-de-la-agenda-urbana-de-alcala/"
@@ -1375,9 +1326,7 @@
   {
     "location": "Alcalá de Henares",
     "name": "Observatorio de Violencia de Género de Alcalá",
-    "parents": [
-      "Ayuntamiento de Alcalá de Henares"
-    ],
+    "parents": ["Ayuntamiento de Alcalá de Henares"],
     "scope": "municipal",
     "type": "publico",
     "website": "https://www.ayto-alcaladehenares.es/el-observatorio-de-violencia-de-genero-de-alcala-ha-atendido-a-mas-de-1500-mujeres-desde-2004-2/"
@@ -1403,9 +1352,7 @@
   {
     "location": "Alcalá de Henares",
     "name": "Observatorio Sociodemográfico del Ayuntamiento de Alcalá de Henares",
-    "parents": [
-      "Ayuntamiento de Alcalá de Henares"
-    ],
+    "parents": ["Ayuntamiento de Alcalá de Henares"],
     "scope": "municipal",
     "type": "publico",
     "website": "https://urbanismo.ayto-alcaladehenares.es/observatorio-sociodemografico-2/"
@@ -1413,9 +1360,7 @@
   {
     "location": "Alcalá de Henares",
     "name": "Observatorio Alcalá en Cifras",
-    "parents": [
-      "Ayuntamiento de Alcalá de Henares"
-    ],
+    "parents": ["Ayuntamiento de Alcalá de Henares"],
     "scope": "municipal",
     "type": "publico",
     "website": "https://www.ayto-alcaladehenares.es/presentacion-del-observatorio-urbano-alcala-en-cifras/"
@@ -1508,9 +1453,9 @@
   },
   {
     "name": "Observatorio para la Innovación y la Prospectiva del Mercado de Trabajo en Extremadura",
+    "scope": "autonómico",
     "type": "publico",
-    "website": "https://administracion.gob.es/pagFront/espanaAdmon/directorioOrganigramas/fichaUnidadOrganica.htm?idUnidOrganica=138480&origenUO=comunidadesAutonomas&volver=volverFicha&imprimir=1",
-    "scope": "autonómico"
+    "website": "https://administracion.gob.es/pagFront/espanaAdmon/directorioOrganigramas/fichaUnidadOrganica.htm?idUnidOrganica=138480&origenUO=comunidadesAutonomas&volver=volverFicha&imprimir=1"
   },
   {
     "description": "El Observatorio de Precios es una herramienta de seguimiento y análisis de los precios en origen de los principales productos agrícolas y ganaderos de Castilla y León.\n\nSeguirlos y analizarlos con el máximo rigor y transparencia hará posible prever y detectar a tiempo las oscilaciones y desequilibrios entre la oferta y la demanda, lo que permitirá tomar las decisiones más correctas para mantener el equilibrio entre todos sus componentes y, en último término, podrá evitar que los consumidores asuman un sobrecoste injustificado y contribuirá a que los agricultores y ganaderos obtengan una retribución justa por sus producciones.\n\nEl Observatorio muestra los precios en origen de aquellos productos agrícolas y ganaderos en los que Castilla y León ocupa una posición relevante en el ámbito nacional por ser una de las principales productoras o por la calidad diferenciada de su producción, sin perjuicio de que paulatinamente puede ofrecerse información sobre más productos.",
@@ -1661,9 +1606,7 @@
     "email": "estudis_prospectiva.daam@gencat.cat",
     "is_active": "Sí",
     "name": "Observatori Agroalimentari de Preus",
-    "parents": [
-      "Generalitat de Catalunya"
-    ],
+    "parents": ["Generalitat de Catalunya"],
     "scope": "cataluna",
     "type": "publico",
     "website": "https://agricultura.gencat.cat/ca/departament/estadistiques/observatori-agroalimentari-preus/"
@@ -1738,9 +1681,7 @@
     "from_date": "2012-12-11",
     "is_active": "Sí",
     "name": "Observatorio Permanente del Mercado de los Servicios Portuarios",
-    "parents": [
-      "Puertos del Estado"
-    ],
+    "parents": ["Puertos del Estado"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://observatorio.puertos.es/Paginas/Observatorio.aspx"
@@ -1750,10 +1691,7 @@
     "email": "Observatorio.SP@sergas.gal",
     "is_active": "Sí",
     "name": "Observatorio de Salud Pública de Galicia",
-    "parents": [
-      "Dirección General de Salud Pública",
-      "Xunta de Galicia"
-    ],
+    "parents": ["Dirección General de Salud Pública", "Xunta de Galicia"],
     "scope": "galicia",
     "type": "publico",
     "website": "https://observatoriosaudepublica.sergas.gal/es"
@@ -1773,19 +1711,19 @@
     "website": "https://www.mapa.gob.es/es/desarrollo-rural/temas/gestion-sostenible-regadios/regadio-espanya/default_1.2.2.aspx"
   },
   {
-    "name": "Observatorio de Gobierno Abierto de la Diputación Provincial de Alicante",
-    "type": "publico",
-    "website": "http://dipalicante.gobiernoabierto.femp.es/es/municipios/municipios/inicio",
-    "email": "transparencia@diputacionalicante.es",
     "description": "Rellenando un cuestionario de materias de Gobierno Abierto de el % de cumplimiento respecto a cada uno de los bloques y tu la posición de un municipio respecto a la media\n\nDiputación de Alicante",
-    "scope": "provincial",
-    "parents": ["Diputación de Alicante"],
     "docs": [
       {
         "name": "NInguno"
       }
     ],
-    "is_active": "Si"
+    "email": "transparencia@diputacionalicante.es",
+    "is_active": "Si",
+    "name": "Observatorio de Gobierno Abierto de la Diputación Provincial de Alicante",
+    "parents": ["Diputación de Alicante"],
+    "scope": "provincial",
+    "type": "publico",
+    "website": "http://dipalicante.gobiernoabierto.femp.es/es/municipios/municipios/inicio"
   },
   {
     "description": "El Observatorio Coruñés contra a LGTBIfobia es un servicio dedicado a la escucha, asesosamiento, registro y denuncia de los incidentes o delitos de odio con un componente LGTBIfobico.",
@@ -1838,9 +1776,7 @@
     "description": "Para <q>aumentar el nivel de “empleabilidad” de nuestro estudiantado y colectivo <i>alumni</i></q>.",
     "email": "observatorio@umh.es",
     "name": "Observatorio Ocupacional de la Universidad Miguel Hernández",
-    "parents": [
-      "Universidad Miguel Hernández"
-    ],
+    "parents": ["Universidad Miguel Hernández"],
     "scope": "comunidad_valenciana",
     "website": "https://observatorio.umh.es/"
   },
@@ -1902,9 +1838,7 @@
   {
     "description": "Para <q>proporcionar información relacionada con el sector que facilite su conocimiento, potencial, alternativas de aplicación, principales indicadores de impacto y difusión de casos de éxito</q>.",
     "name": "Observatorio Galego da Biomasa",
-    "parents": [
-      "Xunta de Galicia"
-    ],
+    "parents": ["Xunta de Galicia"],
     "scope": "galicia",
     "type": "publico",
     "website": "http://www.observatoriobiomasa.gal"
@@ -1924,29 +1858,25 @@
   },
   {
     "name": "Observatorio de Precios de Canarias",
-    "parents": [
-      "Gobierno de Canarias"
-    ],
+    "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
     "website": "https://www.gobiernodecanarias.org/agp/sgt/temas/estadistica/CM-observatorio.html"
   },
   {
-    "name": "Observatorio Desarrollo Rural y  Local (Universidad de Murcia)",
-    "type": "publico",
-    "website": "https://www.um.es/observalocal/",
     "description": "Según su web\r\nLa promoción de iniciativas para contribuir al desarrollo sostenible del medio rural\r\nSensibilizar y dinamizar al población del medio rural y local sobre la capacidad de los territorios de establecer procesos autónomos de desarrollo y cambio a partir de los recursos y potencialidades endógena.\r\nParticipar apoyando activamente los procesos de desarrollo que se desarrollen en ámbitos locales y rurales.\r\nIntegrar diferentes áreas de conocimiento en el análisis y la intervención en el desarrollo local y rural.\r\nContribuir y promover procesos de planificación estratégica en ámbitos locales y rurales.\r\nPromover y mejorar la gobernanza en ámbitos locales y rurales.\n\nLo que se ve: Un par de informes y la estadística de datos de empleo, tomados de otras fuentes\n\nUniversidad de Murcia",
-    "scope": "autonómico",
-    "from_date": "Hay estadísticas e informes de 2015",
-    "to_date": "Desde 2017 no se incluyen nuevos informes\r\nAparecen páginas con datos actualizados, pero parecen páginas zombis que funcionan solas",
-    "parents": [
-      "Universidad de Murcia"
-    ],
     "docs": [
       {
         "name": "Boletín laboral de Murcia. Básicamente, volver a incluir los datos que publica la Seguridad Social."
       }
-    ]
+    ],
+    "from_date": "Hay estadísticas e informes de 2015",
+    "name": "Observatorio Desarrollo Rural y  Local (Universidad de Murcia)",
+    "parents": ["Universidad de Murcia"],
+    "scope": "autonómico",
+    "to_date": "Desde 2017 no se incluyen nuevos informes\r\nAparecen páginas con datos actualizados, pero parecen páginas zombis que funcionan solas",
+    "type": "publico",
+    "website": "https://www.um.es/observalocal/"
   },
   {
     "description": "El Observatorio de la desigualdad se concibe para que Aragón pueda dotarse de herramientas adecuadas para generar indicadores estables de desigualdad en diversos ámbitos, que faciliten un análisis informado y nutran el debate social sobre estas cuestiones.",
@@ -2074,9 +2004,7 @@
     "from_date": "Mayo de 2001",
     "is_active": "Sí",
     "name": "Observatori del Sistema Penal i els Drets Humans (OSPDH)",
-    "parents": [
-      "Universitat de Barcelona"
-    ],
+    "parents": ["Universitat de Barcelona"],
     "scope": "barcelona",
     "type": "publico",
     "website": "https://www.ub.edu/portal/web/observatori-sistema-penal/presentacio"
@@ -2112,9 +2040,7 @@
   {
     "is_active": "None",
     "name": "Observatori Social, Ambiental i de Salut",
-    "parents": [
-      "Diputació de Girona"
-    ],
+    "parents": ["Diputació de Girona"],
     "type": "publico",
     "website": "https://observatori.dipsalut.cat/es"
   },
@@ -2123,9 +2049,7 @@
     "from_date": "Septiembre de 2013",
     "is_active": "Sí",
     "name": "Observatorio de Emancipación",
-    "parents": [
-      "Consejo de la Juventud de España"
-    ],
+    "parents": ["Consejo de la Juventud de España"],
     "scope": "estatal",
     "type": "hibrido",
     "website": "https://www.cje.org/observatorio-de-emancipacion/"
@@ -2133,9 +2057,7 @@
   {
     "is_active": "None",
     "name": "Observatorio Canario de la Economía Azul",
-    "parents": [
-      "Gobierno de Canarias"
-    ],
+    "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
     "website": "https://www.gobiernodecanarias.org/economia/ocea/"
@@ -2143,29 +2065,15 @@
   {
     "is_active": "None",
     "name": "Observatorio Canario del Cambio Climático",
-    "parents": [
-      "Gobierno de Canarias"
-    ],
+    "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
     "website": "https://www.gobiernodecanarias.org/medioambiente/organos/observatorio-canario-del-cambio-climatico/"
   },
   {
     "is_active": "None",
-    "name": "Observatorio Canario de la Juventud",
-    "parents": [
-      "Gobierno de Canarias"
-    ],
-    "scope": "canarias",
-    "type": "publico",
-    "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/"
-  },
-  {
-    "is_active": "None",
     "name": "Observatorio Industrial de Canarias",
-    "parents": [
-      "Gobierno de Canarias"
-    ],
+    "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
     "website": "https://oic.itccanarias.org/"
@@ -2173,9 +2081,7 @@
   {
     "is_active": "None",
     "name": "Observatorio Canario de las Telecomunicaciones y de la Sociedad de la Información",
-    "parents": [
-      "Gobierno de Canarias"
-    ],
+    "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
     "website": "https://www.octsi.es/"
@@ -2183,9 +2089,7 @@
   {
     "is_active": "None",
     "name": "Observatorio Turístico de Canarias",
-    "parents": [
-      "Gobierno de Canarias"
-    ],
+    "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
     "website": "https://www.gobiernodecanarias.org/turismo/estadisticas_y_estudios/"
@@ -2193,9 +2097,7 @@
   {
     "is_active": "None",
     "name": "Observatorio Canario de Empleo",
-    "parents": [
-      "Gobierno de Canarias"
-    ],
+    "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
     "website": "https://obecan.es"
@@ -2203,9 +2105,7 @@
   {
     "is_active": "None",
     "name": "Observatorio Canario de la Salud",
-    "parents": [
-      "Gobierno de Canarias"
-    ],
+    "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
     "website": "https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=ba5d4671-60dc-11ed-9e04-cd68079ec7ca&idCarpeta=61e907e3-d473-11e9-9a19-e5198e027117"
@@ -2213,9 +2113,7 @@
   {
     "is_active": "None",
     "name": "Observatorio de la Energía de Canarias",
-    "parents": [
-      "Gobierno de Canarias"
-    ],
+    "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
     "website": "https://www3.gobiernodecanarias.org/ceic/energia/oecan/"
@@ -2223,9 +2121,7 @@
   {
     "is_active": "None",
     "name": "Observatorio de la I+D+i de Canarias",
-    "parents": [
-      "Gobierno de Canarias"
-    ],
+    "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
     "website": "https://www.obidic.es"
@@ -2235,10 +2131,7 @@
     "email": "infogen@uvigo.es",
     "is_active": "Sí",
     "name": "Observatorio Municipal Galego",
-    "parents": [
-      "Universidade de Vigo",
-      "Xunta de Galicia"
-    ],
+    "parents": ["Universidade de Vigo", "Xunta de Galicia"],
     "scope": "galicia",
     "type": "publico",
     "website": "http://www.observatorioredlocalis.com"
@@ -2246,9 +2139,7 @@
   {
     "is_active": "Sí",
     "name": "Observatorio Andaluz de la Publicidad no Sexista",
-    "parents": [
-      "Junta de Andalucía"
-    ],
+    "parents": ["Junta de Andalucía"],
     "scope": "andalucia",
     "type": "publico",
     "website": "https://www.juntadeandalucia.es/institutodelamujer/index.php/observatorio-andaluz-de-publicidad-no-sexista"
@@ -2257,10 +2148,7 @@
     "description": "Busca suministrar información de todos los aspectos relativos al suelo empresarial, con el objetivo de que administraciones, empresas públicas y privadas, y cualquier persona interesada en este ámbito se encuentren en las condiciones idóneas para adoptar decisiones eficaces y adaptadas a las necesidades del país.",
     "is_active": "None",
     "name": "Observatorio do Solo Empresarial de Galicia",
-    "parents": [
-      "Instituto Galego da Vivenda e Solo",
-      "Xunta de Galicia"
-    ],
+    "parents": ["Instituto Galego da Vivenda e Solo", "Xunta de Galicia"],
     "scope": "galicia",
     "type": "publico",
     "website": "https://www.observatoriodosoloempresarial.gal"
@@ -2270,10 +2158,7 @@
     "from_date": "17/12/2010",
     "is_active": "None",
     "name": "Observatorio do Comercio de Galicia",
-    "parents": [
-      "Dirección Xeral de Comercio",
-      "Xunta de Galicia"
-    ],
+    "parents": ["Dirección Xeral de Comercio", "Xunta de Galicia"],
     "scope": "galicia",
     "type": "publico"
   },
@@ -2292,10 +2177,7 @@
     "description": "Para la elaboración de estudios sobre oportunidades, impacto y potencial industrial en Galicia.",
     "is_active": "Sí",
     "name": "Observatorio da Eólica Mariña de Galicia",
-    "parents": [
-      "Xunta de Galicia",
-      "Instituto Enerxético de Galicia"
-    ],
+    "parents": ["Xunta de Galicia", "Instituto Enerxético de Galicia"],
     "scope": "galicia",
     "type": "publico",
     "website": "https://www.inega.gal/es/inega/puntos-de-encuentro-energeticos/observatorios"
@@ -2303,9 +2185,7 @@
   {
     "description": "El Observatorio de Gestión de EUSKALIT es un servicio cuyo objetivo es identificar, analizar y recopilar la información destacada de todo el mundo sobre la gestión avanzada y hacérsela llegar de forma accesible a las organizaciones y otros grupos de interés de Euskadi, para así ampliar su conocimiento en este ámbito.",
     "name": "Observatorio de Gestión de EUSKALIT",
-    "parents": [
-      "EUSKALIT, Fundación Vasca para la Excelencia"
-    ],
+    "parents": ["EUSKALIT, Fundación Vasca para la Excelencia"],
     "scope": "pais_vasco",
     "type": "publico",
     "website": "https://www.euskalit.net/observatorio/es/"
@@ -2318,9 +2198,7 @@
       }
     ],
     "name": "Observatori del Programa Ajuntament+Sostenible",
-    "parents": [
-      "Ajuntament de Barcelona"
-    ],
+    "parents": ["Ajuntament de Barcelona"],
     "scope": "local",
     "type": "publico",
     "website": "https://www.ajsosteniblebcn.cat/ca/observatori-a-s_99532"
@@ -2434,9 +2312,7 @@
     "from_date": "11/12/2023",
     "is_active": "Sí",
     "name": "Observatorio Económico de Melilla",
-    "parents": [
-      "Consejería de Presidencia"
-    ],
+    "parents": ["Consejería de Presidencia"],
     "scope": "melilla",
     "website": "https://elfarodemelilla.es/echa-a-andar-el-observatorio-economico-de-melilla/"
   },
@@ -2446,9 +2322,7 @@
     "from_date": "2010",
     "is_active": "Sí",
     "name": "Observatorio de Precios Agrarios",
-    "parents": [
-      "Gobierno de la Rioja"
-    ],
+    "parents": ["Gobierno de la Rioja"],
     "scope": "la_rioja",
     "type": "publico",
     "website": "https://www.larioja.org/agricultura/es/estadistica-agraria/observatorio-precios-agrarios"
@@ -2495,9 +2369,7 @@
     "from_date": "2012",
     "is_active": "Sí",
     "name": "Observatorio Joven",
-    "parents": [
-      "Consejo de la Juventud"
-    ],
+    "parents": ["Consejo de la Juventud"],
     "scope": "navarra",
     "type": "publico",
     "website": "https://www.juventudnavarra.es/es/observatorio-joven"
@@ -2520,10 +2392,7 @@
     ],
     "is_active": "Sí",
     "name": "Observatorio de Salud Publica de Navarra",
-    "parents": [
-      "Deapartamento de Salud/Osasunbidea",
-      "Gobierno de Navarra"
-    ],
+    "parents": ["Deapartamento de Salud/Osasunbidea", "Gobierno de Navarra"],
     "scope": "navarra",
     "stop_date": "a dìa de hoy sigue funcionando. Publica algunas excel con datos hasta al menos 2023",
     "type": "publico",
@@ -2561,9 +2430,7 @@
     "from_date": "Mayo 2017",
     "is_active": "Sí",
     "name": "Observatorio CIBIM",
-    "parents": [
-      "Ministerio de Transportes, Movilidad y Agenda Urbana"
-    ],
+    "parents": ["Ministerio de Transportes, Movilidad y Agenda Urbana"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://cibim.transportes.gob.es/observatorio-cibim"
@@ -2594,17 +2461,7 @@
     "website": "https://www.obcp.es"
   },
   {
-    "name": "Observatorio Comercial del Puerto de Alicante",
-    "type": "publico",
-    "website": "https://www.puertoalicante.com/negocio/observatorio/",
-    "email": "observatoriocomercial@puertoalicante.com",
     "description": "impulsar el espíritu comercial y transmitirlo a todo el colectivo empresarial de la provincia de Alicante y su hinterland.\n\nse crea este Observatorio Comercial con el que se persigue producir, recopilar y evaluar información referente a la actividad económica y logística de la provincia, así como de los flujos de transporte marítimo exterior, con el fin de poder ofrecer un servicio del Puerto de Alicante más atractivo para el tejido empresarial y acorde a sus necesidades\n\nAutoridad Portuaria de Alicante\r\nComunidad Portuaria\r\nCámara de Comercio\r\nComunidad Empresarial\r\nComunidad Marítima\r\nComunidad Logística Portuaria",
-    "scope": "provincial",
-    "from_date": "Las noticias indican que en 2021",
-    "to_date": "sigue",
-    "parents": [
-      "Puerto de Alicante"
-    ],
     "docs": [
       {
         "name": "No ha generado ninguno"
@@ -2613,10 +2470,17 @@
         "name": "Sólo se recoge el organigrama de cada una de sus secciones y una sección de noticias vinculadas al tema (seis noticias en el último año)"
       }
     ],
-    "is_active": "Si"
+    "email": "observatoriocomercial@puertoalicante.com",
+    "from_date": "Las noticias indican que en 2021",
+    "is_active": "Si",
+    "name": "Observatorio Comercial del Puerto de Alicante",
+    "parents": ["Puerto de Alicante"],
+    "scope": "provincial",
+    "to_date": "sigue",
+    "type": "publico",
+    "website": "https://www.puertoalicante.com/negocio/observatorio/"
   },
   {
-    "is_active": "None",
     "email": "observatorioinfancia.assda@juntadeandalucia.es",
     "is_active": "None",
     "name": "Observatorio de la Infancia y Adolescencia de Andalucía",
@@ -2643,9 +2507,7 @@
       }
     ],
     "name": "Observatori de Salut i Impacte de Polítiques",
-    "parents": [
-      "Ajuntament de Barcelona"
-    ],
+    "parents": ["Ajuntament de Barcelona"],
     "scope": "local",
     "type": "publico",
     "website": "https://ajuntament.barcelona.cat/observatorisalut"
@@ -2681,16 +2543,7 @@
     "website": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-323"
   },
   {
-    "name": "Observatorio de Igualdad de Oportunidades entre Mujeres y Hombres. (Asturias)",
-    "type": "publico",
-    "website": "https://iam.asturias.es/observatorio-de-igualdad-de-oportunidades",
-    "email": "institutoasturianodelamujer@asturias.org",
     "description": "El objetivo es la recogida sistemática de datos por medio de estadísticas desagregadas por sexos con el fin de conocer objetivamente la realidad específica de la igualdad de oportunidades entre mujeres y hombres en la Comunidad Autónoma del Principado de Asturias.\n\nInstituto Asturiano de la Mujer",
-    "scope": "autonómico",
-    "from_date": "1999",
-    "parents": [
-      "Instituto Asturiano de la Mujer. Consejería de Presidencia, Reto Demográfico, Igualdad y Turismo. Gobierno del Principado de Asturias."
-    ],
     "docs": [
       {
         "name": "-\"Asturianas en Cifras 2020\""
@@ -2723,7 +2576,16 @@
         "name": "(https://iam.asturias.es/documents/269132/273932/Situaci%C3%B3n-de-mujeres-y-hombres-en-Asturias-2015.pdf/5e41cd82-f376-0bcb-9e00-7efcc78fbba5)"
       }
     ],
-    "is_active": "Si"
+    "email": "institutoasturianodelamujer@asturias.org",
+    "from_date": "1999",
+    "is_active": "Si",
+    "name": "Observatorio de Igualdad de Oportunidades entre Mujeres y Hombres. (Asturias)",
+    "parents": [
+      "Instituto Asturiano de la Mujer. Consejería de Presidencia, Reto Demográfico, Igualdad y Turismo. Gobierno del Principado de Asturias."
+    ],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://iam.asturias.es/observatorio-de-igualdad-de-oportunidades"
   },
   {
     "name": "Observatori de l'economia local de Sabadell",
@@ -2788,9 +2650,7 @@
     "email": "info@fepa18.org",
     "is_active": "Sí",
     "name": "Observatorio de la Emancipación Juvenil en España",
-    "parents": [
-      "Ministerio de Derecho Sociales y Agenda 2030"
-    ],
+    "parents": ["Ministerio de Derecho Sociales y Agenda 2030"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.observatorioemancipacion.org/la-emancipacion-juvenil-en-espana-datos-generales/"
@@ -2818,9 +2678,7 @@
     "from_date": "2009",
     "is_active": "Sí",
     "name": "Observatorio de plagas y enfermedades agrícolas de Castilla y León",
-    "parents": [
-      "Junta de Castilla y León"
-    ],
+    "parents": ["Junta de Castilla y León"],
     "scope": "castilla_y_leon",
     "type": "publico",
     "website": "https://plagas.itacyl.es"
@@ -2878,24 +2736,20 @@
     "from_date": "2009",
     "is_active": "Si",
     "name": "Observatorio Municipal de Personas con Discapacidades",
-    "parents": [
-      "Ayuntamiento de Rivas-Vaciamadrid"
-    ],
+    "parents": ["Ayuntamiento de Rivas-Vaciamadrid"],
     "scope": "local",
     "type": "publico",
     "website": "https://www.rivasciudad.es/organos-de-participacion-ciudadana/foros-y-observatorios-locales/observatorio-municipal-de-personas-con-discapacidades/"
   },
   {
-    "name": "Observatorio de la ciudad",
-    "type": "publico",
-    "website": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Observatorio-de-la-Ciudad/?vgnextfmt=default&vgnextchannel=ec38d941c9b25710VgnVCM2000001f4a900aRCRD",
     "description": "El Observatorio de la Ciudad, instrumento de evaluación de la gestión municipal y de difusión e información de sus resultados a la ciudadanía, tiene como finalidad impulsar de forma institucional la evaluación de la gestión municipal, la rendición de cuentas y la efectividad de los principios de transparencia y participación, teniendo en cuenta especialmente la percepción que tiene la ciudadanía de la calidad de los servicios municipales.",
-    "scope": "local",
     "from_date": "27 de Febrero de 2020",
-    "parents": [
-      "Ayuntamiento de Madrid"
-    ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "name": "Observatorio de la ciudad",
+    "parents": ["Ayuntamiento de Madrid"],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Observatorio-de-la-Ciudad/?vgnextfmt=default&vgnextchannel=ec38d941c9b25710VgnVCM2000001f4a900aRCRD"
   },
   {
     "description": "Este Observatorio tiene sobre la mesa los retos identificados para la industria en la región: el crecimiento de la internacionalización de un sector que es responsable de uno de cada tres euros de las exportaciones de la Comunidad Autónoma, así como la digitalización, la sostenibilidad y la innovación en la industria.",
@@ -2956,9 +2810,7 @@
     "from_date": "El Observatorio del Cambio inició su andadura entre los años 2003 y 2004, años en los que se celebraron 20 sesiones temáticas que abarcaron cuestiones relacionadas con diferentes sectores y materias específicas de la ciudad. Posteriormente, del 2009  al 2011 se llevaron a cabo 13 nuevas sesiones. Todas estas sesiones están recogidas en sus correspondientes actas.",
     "is_active": "None",
     "name": "Observatorio del Cambio",
-    "parents": [
-      "Ayuntamiento de Badajoz"
-    ],
+    "parents": ["Ayuntamiento de Badajoz"],
     "stop_date": "El último informe es de 2015",
     "type": "publico",
     "website": "https://www.aytobadajoz.es/es/empleo/estudios-y-estadisticas/observatorio-del-cambio"
@@ -3024,9 +2876,7 @@
     "email": "observatoriotransformacion@gmail.com",
     "is_active": "Sí",
     "name": "Observatorio de Transformación y Participación de Castilla y León",
-    "parents": [
-      "Junta de Castilla y León"
-    ],
+    "parents": ["Junta de Castilla y León"],
     "scope": "castilla_y_leon",
     "type": "publico",
     "website": "https://www.observatoriotransformacion.com"
@@ -3040,10 +2890,7 @@
     ],
     "is_active": "Sí",
     "name": "Observatori del Treball i Model Productiu",
-    "parents": [
-      "Departament d'Empresa i Treball",
-      "Generalitat de Catalunya"
-    ],
+    "parents": ["Departament d'Empresa i Treball", "Generalitat de Catalunya"],
     "scope": "cataluna",
     "type": "publico",
     "website": "https://observatoritreball.gencat.cat/ca/inici"
@@ -3067,26 +2914,18 @@
   {
     "docs": [
       {
-        "url": "https://dretssocials.gencat.cat/web/.content/03ambits_tematics/19_civisme_i_valors/observatori/informes/Monografic-dinamiques-comunitaries-als-barris_1121_febrer-2022.pdf",
-        "name": "Informe monogràfic 2021: Dimensió comunitària als barris de Catalunya"
+        "name": "Informe monogràfic 2021: Dimensió comunitària als barris de Catalunya",
+        "url": "https://dretssocials.gencat.cat/web/.content/03ambits_tematics/19_civisme_i_valors/observatori/informes/Monografic-dinamiques-comunitaries-als-barris_1121_febrer-2022.pdf"
       }
     ],
     "is_active": "None",
     "name": "Observatori de Civisme i Valors",
-    "parents": [
-      "Departament de Drets Socials",
-      "Generalitat de Catalunya"
-    ],
+    "parents": ["Departament de Drets Socials", "Generalitat de Catalunya"],
     "scope": "cataluna",
     "type": "publico",
     "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/civisme_i_valors/observatori/"
   },
   {
-    "is_active": "None",
-    "parents": [
-      "Gobierno del Principado de Asturias",
-      "Consejería de Salud"
-    ],
     "docs": [
       {
         "name": "Decreto 63/2020, de 16 de julio, por el que se regulan la organización y el funcionamiento del Observatorio de la Muerte Digna y de las Comisiones de Mortalidad de las Áreas de Salud",
@@ -3095,10 +2934,7 @@
     ],
     "is_active": "None",
     "name": "Observatorio de la Muerte Digna y de las Comisiones de Mortalidad de las Áreas de Salud.",
-    "parents": [
-      "Gobierno del Principado de Asturias",
-      "Consejería de Salud"
-    ],
+    "parents": ["Gobierno del Principado de Asturias", "Consejería de Salud"],
     "scope": "asturias",
     "type": "publico",
     "website": "https://www.astursalud.es/noticias/-/noticias/omd"
@@ -3108,9 +2944,7 @@
     "email": "observatori@climaienergia.com",
     "is_active": "Sí",
     "name": "Observatorio del Cambio Climático / Observatori del Canvi Climàtic",
-    "parents": [
-      "Ayuntamiento de Valencia"
-    ],
+    "parents": ["Ayuntamiento de Valencia"],
     "type": "publico",
     "website": "https://climaienergia.com/observatori/"
   },
@@ -3129,11 +2963,6 @@
     "website": "https://contratacionresponsablecanarias.org"
   },
   {
-    "from_date": "6 de octubre de 2006",
-    "is_active": "Sí",
-    "name": "Observatorio de Precios de los Productos Agroalimetarios de la Comunitat Valenciana",
-    "type": "publico",
-    "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851",
     "description": "Según el [DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2006/11596).",
     "docs": [
       {
@@ -3183,9 +3012,7 @@
     "email": "movilidad@malaga.eu",
     "is_active": "Sí",
     "name": "Observatorio de la Movilidad Viaria de Málaga (MOVIMA)",
-    "parents": [
-      "Ayuntamiento de Málaga"
-    ],
+    "parents": ["Ayuntamiento de Málaga"],
     "scope": "local",
     "type": "publico",
     "website": "https://movilidad.malaga.eu/es/lineas-de-trabajo/movima/"
@@ -3283,9 +3110,7 @@
     "from_date": "2011",
     "is_active": "None",
     "name": "Observatorio Municipal para la Inclusión Social",
-    "parents": [
-      "Área de Derechos Sociales"
-    ],
+    "parents": ["Área de Derechos Sociales"],
     "type": "publico",
     "website": "https://observatoriosocial.malaga.eu"
   },
@@ -3300,10 +3125,7 @@
     "from_date": "Aproximadamente 2016 (primeros estudios publicados como observatorio)",
     "is_active": "Sí",
     "name": "De la Realidad Social de Navarra",
-    "parents": [
-      "Servicios sociales, empleo y vivienda",
-      "Gobierno de Navarra"
-    ],
+    "parents": ["Servicios sociales, empleo y vivienda", "Gobierno de Navarra"],
     "scope": "navarra",
     "type": "publico",
     "website": "https://www.observatoriorealidadsocial.es"
@@ -3437,9 +3259,7 @@
   {
     "is_active": "None",
     "name": "Observatorio Aragonés del Arte en la Esfera Pública",
-    "parents": [
-      "Universidad de Zaragoza"
-    ],
+    "parents": ["Universidad de Zaragoza"],
     "scope": "aragon",
     "type": "publico",
     "website": "https://oaaep.unizar.es/"
@@ -3457,10 +3277,7 @@
     ],
     "is_active": "Sí",
     "name": "Observatorio Canario de la Juventud",
-    "parents": [
-      "Gobierno de Canarias",
-      "Dirección General de Juventud"
-    ],
+    "parents": ["Gobierno de Canarias", "Dirección General de Juventud"],
     "scope": "canarias",
     "type": "publico",
     "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/"
@@ -3553,10 +3370,7 @@
   {
     "is_active": "None",
     "name": "Observatorio de Resultados del Servicio Madrileño de Salud",
-    "parents": [
-      "Comunidad de Madrid",
-      "Consejería de Sanidad"
-    ],
+    "parents": ["Comunidad de Madrid", "Consejería de Sanidad"],
     "scope": "comunidad_de_madrid",
     "type": "publico",
     "website": "https://www.comunidad.madrid/servicios/salud/observatorio-resultados-servicio-madrileno-salud"
@@ -3591,9 +3405,7 @@
     ],
     "email": "observatoriobici@tenerife.es",
     "name": "Observatorio de la Bicicleta",
-    "parents": [
-      "Cabildo de Tenerife"
-    ],
+    "parents": ["Cabildo de Tenerife"],
     "scope": "local",
     "type": "publico",
     "website": "https://www.deportestenerife.es/oficina-virtual/observatorio-de-la-bicicleta/"
@@ -3623,10 +3435,7 @@
   {
     "is_active": "None",
     "name": "Observatorio de Normativa Electoral Valenciana",
-    "parents": [
-      "Generalitat Valenciana",
-      "Conselleria de Justicia e Interior"
-    ],
+    "parents": ["Generalitat Valenciana", "Conselleria de Justicia e Interior"],
     "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://cjusticia.gva.es/es/web/processos-electorals/observatori-electoral"
@@ -3648,15 +3457,7 @@
     ],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://observatorioia.gva.es/es/",
-    "description": "Para conocer un poco más sobre la historia de la Inteligencia Artificial, identificar a los agentes implicados y comenzar a manejarse con los términos más habituales empleados en este campo.",
-    "from_date": "9 de junio de 2023",
-    "docs": [
-      {
-        "name": "DECRETO 85/2023, de 9 de junio, del Consell, de creación del Observatorio de la Inteligencia Artificial de la Comunitat Valenciana",
-        "url": "https://dogv.gva.es/es/resultat-dogv?signatura=2023/6578&L=1"
-      }
-    ]
+    "website": "https://observatorioia.gva.es/es/"
   },
   {
     "is_active": "None",
@@ -3694,10 +3495,7 @@
   {
     "is_active": "None",
     "name": "Observatorio Valenciano de la Cultura",
-    "parents": [
-      "Generalitat Valenciana",
-      "Consellería de Cultura y Deporte"
-    ],
+    "parents": ["Generalitat Valenciana", "Consellería de Cultura y Deporte"],
     "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://ovc.gva.es/es/observatori"
@@ -3741,9 +3539,7 @@
   {
     "is_active": "None",
     "name": "Observatorio Fiscal de la Comunitat Valenciana",
-    "parents": [
-      "Agència Tributària Valenciana"
-    ],
+    "parents": ["Agència Tributària Valenciana"],
     "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://atv.gva.es/es/observatori-fiscal"
@@ -3752,9 +3548,7 @@
     "email": "oasi@aragon.es",
     "is_active": "Sí",
     "name": "Observatorio Aragonés de la Sociedad de la Información (OASI)",
-    "parents": [
-      "Gobierno de Aragón"
-    ],
+    "parents": ["Gobierno de Aragón"],
     "scope": "aragon",
     "type": "publico",
     "website": "https://www.aragon.es/-/estudios-1"
@@ -3786,10 +3580,7 @@
     "email": "oscn@navarra.es",
     "is_active": "None",
     "name": "Observatorio de Salud Pública de Navarra",
-    "parents": [
-      "Gobierno de Navarra",
-      "Departamento de Salud"
-    ],
+    "parents": ["Gobierno de Navarra", "Departamento de Salud"],
     "scope": "navarra",
     "type": "publico",
     "website": "https://portalsalud.navarra.es/es/observatorio"
@@ -3797,10 +3588,7 @@
   {
     "is_active": "Sí",
     "name": "Observatorio de la Cadena Alimentaria y de la Madera de Euskadi",
-    "parents": [
-      "Hazi",
-      "Gobierno Vasco"
-    ],
+    "parents": ["Hazi", "Gobierno Vasco"],
     "scope": "pais_vasco",
     "type": "publico",
     "website": "https://behatoki.eus"
@@ -3809,9 +3597,7 @@
     "email": "omigualdad@oc.mde.es",
     "is_active": "None",
     "name": "Observatorio Militar para la Igualdad entre Mujeres y Hombres en las Fuerzas Armadas",
-    "parents": [
-      "Ministerio de Defensa"
-    ],
+    "parents": ["Ministerio de Defensa"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.defensa.gob.es/ministerio/organigrama/subdef/omi/"
@@ -3840,9 +3626,7 @@
   {
     "is_active": "None",
     "name": "Observatorio de Precios de los Alimentos",
-    "parents": [
-      "Ministerio de Agricultura, Pesca y Alimentación"
-    ],
+    "parents": ["Ministerio de Agricultura, Pesca y Alimentación"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.mapa.gob.es/es/alimentacion/servicios/observatorio-de-precios-de-los-alimentos/estudios-e-informes/default.aspx"
@@ -3850,10 +3634,7 @@
   {
     "is_active": "None",
     "name": "Observatorio de la muerte digna",
-    "parents": [
-      "Gobierno de Navarra",
-      "Departamento de Salud"
-    ],
+    "parents": ["Gobierno de Navarra", "Departamento de Salud"],
     "scope": "navarra",
     "type": "publico",
     "website": "http://www.nafarroa.gob.es/home_es/Temas/Portal+de+la+Salud/Ciudadania/Me+cuido/Al+final+de+la+vida/Observatorio+de+la+Muerte+Digna/"
@@ -3861,9 +3642,7 @@
   {
     "is_active": "None",
     "name": "Observatorio de Uso de Medicamentos",
-    "parents": [
-      "Ministerio de Sanidad"
-    ],
+    "parents": ["Ministerio de Sanidad"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.aemps.gob.es/medicamentos-de-uso-humano/observatorio-de-uso-de-medicamentos/"
@@ -3871,9 +3650,7 @@
   {
     "is_active": "None",
     "name": "Observatorio de la Nutrición y de Estudio de la Obesidad (AESAN)",
-    "parents": [
-      "Ministerio de Derechos Sociales, Consumo y Agenda 2030"
-    ],
+    "parents": ["Ministerio de Derechos Sociales, Consumo y Agenda 2030"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.aesan.gob.es/AECOSAN/web/nutricion/seccion/observatorio.htm"
@@ -3882,9 +3659,7 @@
     "email": "sgfomon.sscc@mincotur.es",
     "is_active": "Sí",
     "name": "Observatorio del comercio 4.0",
-    "parents": [
-      "Ministerio de Economía, Comercio y Empresa"
-    ],
+    "parents": ["Ministerio de Economía, Comercio y Empresa"],
     "scope": "estatal",
     "type": "publico",
     "website": "https://comercio.gob.es/ComercioInterior/Observatorio/Paginas/default.aspx"
@@ -3893,10 +3668,7 @@
     "description": "Aún no han creado su propia pagina pero su constitución aparece mencionada en varias páginas oficiales de la Junta de Andalucía, arriba uno de las noticias al respecto",
     "is_active": "None",
     "name": "Observatorio de agresiones a profesionales del sistema sanitario público",
-    "parents": [
-      "Junta de Andalucía"
-    ],
-    "description": "Aún no han creado su propia pagina pero su constitución aparece mencionada en varias páginas oficiales de la Junta de Andalucía, arriba uno de las noticias al respecto",
+    "parents": ["Junta de Andalucía"],
     "scope": "andalucia",
     "type": "publico",
     "website": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/todas-noticia/constituido-el-observatorio-de-agresiones-profesionales-del-sistema-sanitario-publico"
@@ -3952,9 +3724,7 @@
     "email": "bizikidetza.convivencia@vitoria-gasteiz.org",
     "is_active": "Sí",
     "name": "Observatorio de Convivencia",
-    "parents": [
-      "Ayuntamiento de Vitoria-Gasteiz"
-    ],
+    "parents": ["Ayuntamiento de Vitoria-Gasteiz"],
     "scope": "estatal",
     "type": "publico",
     "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u50993cf2_1781a8edc14__7e4c"
@@ -3964,9 +3734,8 @@
     "from_date": "2015",
     "is_active": "Sí",
     "name": "Observatorio de residuos",
-    "parents": [
-      "Diputación Foral de Álava / Arabako Foru Aldundia"
-    ],
+    "parents": ["Diputación Foral de Álava / Arabako Foru Aldundia"],
+    "scope": "pais_vasco",
     "type": "publico",
     "website": "https://web.araba.eus/es/medio-ambiente/residuos/observatorio-de-residuos"
   },
@@ -4023,8 +3792,7 @@
     "name": "Observatorio de la Calidad de Tenerife",
     "parents": ["Cabildo de Tenerife"],
     "scope": "local",
-    "parents": [
-      "Cabildo de Tenerife"
-    ]
+    "type": "publico",
+    "website": "https://www.calidadtenerife.org"
   }
 ]
