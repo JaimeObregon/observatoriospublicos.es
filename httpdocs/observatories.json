@@ -65,8 +65,7 @@
     ],
     "name": "Observatorio del Ferrocarril en España",
     "parents": [
-      "Ministerio de Transportes y Movilidad Sostenible",
-      "Fundación de los Ferrocarriles Españoles"
+      "Ministerio de Transportes y Movilidad Sostenible"
     ],
     "scope": "estatal",
     "type": "publico",
@@ -1882,6 +1881,23 @@
     "scope": "canarias",
     "type": "publico",
     "website": "https://www.gobiernodecanarias.org/agp/sgt/temas/estadistica/CM-observatorio.html"
+  },
+  {
+    "name": "Observatorio Desarrollo Rural y  Local (Universidad de Murcia)",
+    "type": "publico",
+    "website": "https://www.um.es/observalocal/",
+    "description": "Según su web\r\nLa promoción de iniciativas para contribuir al desarrollo sostenible del medio rural\r\nSensibilizar y dinamizar al población del medio rural y local sobre la capacidad de los territorios de establecer procesos autónomos de desarrollo y cambio a partir de los recursos y potencialidades endógena.\r\nParticipar apoyando activamente los procesos de desarrollo que se desarrollen en ámbitos locales y rurales.\r\nIntegrar diferentes áreas de conocimiento en el análisis y la intervención en el desarrollo local y rural.\r\nContribuir y promover procesos de planificación estratégica en ámbitos locales y rurales.\r\nPromover y mejorar la gobernanza en ámbitos locales y rurales.\n\nLo que se ve: Un par de informes y la estadística de datos de empleo, tomados de otras fuentes\n\nUniversidad de Murcia",
+    "scope": "autonómico",
+    "from_date": "Hay estadísticas e informes de 2015",
+    "to_date": "Desde 2017 no se incluyen nuevos informes\r\nAparecen páginas con datos actualizados, pero parecen páginas zombis que funcionan solas",
+    "parents": [
+      "Universidad de Murcia"
+    ],
+    "docs": [
+      {
+        "name": "Boletín laboral de Murcia. Básicamente, volver a incluir los datos que publica la Seguridad Social."
+      }
+    ]
   },
   {
     "description": "El Observatorio de la desigualdad se concibe para que Aragón pueda dotarse de herramientas adecuadas para generar indicadores estables de desigualdad en diversos ámbitos, que faciliten un análisis informado y nutran el debate social sobre estas cuestiones.",
@@ -3802,8 +3818,9 @@
     "from_date": "2015",
     "is_active": "Sí",
     "name": "Observatorio de residuos",
-    "parents": ["Diputación Foral de Álava / Arabako Foru Aldundia"],
-    "scope": "pais_vasco",
+    "parents": [
+      "Diputación Foral de Álava / Arabako Foru Aldundia"
+    ],
     "type": "publico",
     "website": "https://web.araba.eus/es/medio-ambiente/residuos/observatorio-de-residuos"
   },
@@ -3860,8 +3877,8 @@
     "name": "Observatorio de la Calidad de Tenerife",
     "parents": ["Cabildo de Tenerife"],
     "scope": "local",
-    "parents": ["Cabildo de Tenerife"],
-    "type": "publico",
-    "website": "https://www.calidadtenerife.org"
+    "parents": [
+      "Cabildo de Tenerife"
+    ]
   }
 ]
