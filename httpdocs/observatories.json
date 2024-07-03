@@ -761,6 +761,15 @@
     "website": "https://www.euskadi.eus/observatorio-vasco-cultura/"
   },
   {
+    "name": "Observatorio I+D+i Universidad Politécnica de Madrid",
+    "type": "publico",
+    "website": "https://www.upm.es/observatorio/vi/index.jsp",
+    "description": "El Observatorio de I+d+I tiene como objetivo aunar toda la información de la actividad investigadora y de la innovación que se realiza en la universidad para que sea pública y accesible para la comunidad universitaria, el tejido empresarial y en general para cualquier usuario interesado en la producción científica que se realiza en la UPM y en los resultados generados.",
+    "scope": "estatal",
+    "parents": ["Consejo Social UPM"],
+    "is_active": "Si"
+  },
+  {
     "name": "OBSERVATORIO PARA EL ANÁLISIS Y VISIBILIDAD DE LA EXCLUSIÓN SOCIAL",
     "type": "publico",
     "website": "https://www.urjc.es/estudiar-en-la-urjc/vida-universitaria/4682-observatorio-para-el-analisis-y-visibilidad-de-la-exclusion-social",
@@ -1117,9 +1126,7 @@
     "description": "El observatorio, liderado por el Grupo de Investigación en Economía Ecológica, Agroecología e Historia, tiene por objeto realizar investigaciones sobre el sector eólico en Galicia para transferir conocimiento entre los agentes participantes, además de favorecer la transparencia de los procesos de ocupación de terrenos destinados a parques eólicos e identificar y mostrar los impactos que la energía eólica genera en el mundo rural.",
     "scope": "autonómico",
     "from_date": "10 enero de  2019",
-    "parents": [
-      "Universidad de Vigo"
-    ],
+    "parents": ["Universidad de Vigo"],
     "docs": [
       {
         "name": "[AnálisisRecursoEólico.pdf](https://github.com/JaimeObregon/observatoriospublicos.es/files/14844459/AnalisisRecursoEolico.pdf)"
