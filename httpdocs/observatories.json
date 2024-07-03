@@ -1659,6 +1659,26 @@
     "website": "https://www.mapa.gob.es/es/desarrollo-rural/temas/gestion-sostenible-regadios/regadio-espanya/default_1.2.2.aspx"
   },
   {
+    "name": "Observatorio Coruñés contra a LGTBIfobia",
+    "type": "mixto",
+    "website": "alasacoruna.org/observatorio-corunes-contra-la-lgtbifobia/",
+    "email": "info@alascoruna.org",
+    "description": "El Observatorio Coruñés contra a LGTBIfobia es un servicio dedicado a la escucha, asesosamiento, registro y denuncia de los incidentes o delitos de odio con un componente LGTBIfobico.",
+    "scope": "local",
+    "from_date": "2017",
+    "parents": [
+      "Ayuntamiento de A Coruña",
+      "Deputación da Coruña",
+      "Xunta de Galicia"
+    ],
+    "docs": [
+      {
+        "name": "[Informe-2022.pdf](https://github.com/JaimeObregon/observatoriospublicos.es/files/14858622/Informe-2022.pdf)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "Para <q>la obtención y análisis sistemático de información y datos objetivos del sector necesario para conocer su historia, estructura, impacto económico y realidad actual del arte jondo, así como una herramienta para su evaluación</q>.",
     "email": "institutoandaluz.flamenco@juntadeandalucia.es",
     "from_date": "21 de marzo de 2007",
