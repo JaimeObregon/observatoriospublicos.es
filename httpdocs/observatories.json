@@ -2380,6 +2380,12 @@
     "website": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-323"
   },
   {
+    "name": "Observatori de l'economia local de Sabadell",
+    "type": "mixto",
+    "website": "https://www.vaporllonch.cat/observatori-economia-local",
+    "scope": "local"
+  },
+  {
     "description": "El Observatorio de Servicios Sociales y Dependencia se configura como un órgano colegiado, de composición interdepartamental, con funciones asesoras, de investigación, formación y trasferencia del conocimiento en materia de servicios sociales y dependencia; que ejercerá sus funciones con plena autonomía y sin dependencia funcional de ningún órgano. El Observatorio pretende contribuir también a la reflexión y mejora de la práctica profesional, promoviendo el trabajo interdisciplinar, un buen clima laboral que cuide a las personas cuidadoras, la agilización y simplificación de trámites, la formación continua, así como la evaluación de procesos y resultados.",
     "is_active": "Sí",
     "name": "Observatorio de servicios sociales y dependencia de Castilla-La Mancha",
