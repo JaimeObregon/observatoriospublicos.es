@@ -65,7 +65,8 @@
     ],
     "name": "Observatorio del Ferrocarril en España",
     "parents": [
-      "Ministerio de Transportes y Movilidad Sostenible"
+      "Ministerio de Transportes y Movilidad Sostenible",
+      "Fundación de los Ferrocarriles Españoles"
     ],
     "scope": "estatal",
     "type": "publico",
@@ -2944,6 +2945,13 @@
     "website": "https://contratacionresponsablecanarias.org"
   },
   {
+    "description": "Según el [DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2006/11596).",
+    "is_active": "Sí",
+    "name": "Observatorio de Precios de los Productos Agroalimetarios de la Comunitat Valenciana",
+    "scope": "comunidad_valenciana",
+    "type": "publico",
+    "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851",
+    "from_date": "6 de octubre de 2006",
     "docs": [
       {
         "name": "DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana",
@@ -3767,6 +3775,7 @@
       "Diputación Foral de Álava / Arabako Foru Aldundia"
     ],
     "type": "publico",
+    "scope": "pais_vasco",
     "website": "https://web.araba.eus/es/medio-ambiente/residuos/observatorio-de-residuos"
   },
   {
