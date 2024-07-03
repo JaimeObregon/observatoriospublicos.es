@@ -11,6 +11,8 @@ Y estamos catalogándolos en [observatoriospublicos.es](https://observatoriospub
 
 # Desarrollo
 
+Se necesita node versión 20 o superior.
+
 Arranca el servidor de desarrollo con `yarn serve` o `npm run serve`.
 
 El repositorio incluye una tarea configurada para que esto suceda automáticamente al abrir el proyecto en Visual Studio Code.

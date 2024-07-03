@@ -454,6 +454,35 @@
     "website": "https://fogga.xunta.gal/es/sector_lacteo/observatorio_del_sector_lacteo"
   },
   {
+    "name": "Observatorio de Precios y Cadena de Valor del Sector Agroalimentario de la Comunidad Autónoma de Extremadura",
+    "type": "publico",
+    "website": "https://agrobservex.juntaex.es/",
+    "email": "observatorio.precios.ext@tragsa.es",
+    "scope": "autonómico",
+    "from_date": "[DECRETO 25/2023, de 29 de marzo, por el que se crea y regula el Observatorio de Precios y Cadena de Valor del Sector Agroalimentario de la Comunidad Autónoma de Extremadura.](http://doe.juntaex.es/eli/es-ex/d/2023/03/29/25)",
+    "parents": [
+      "CONSEJERÍA DE AGRICULTURA, DESARROLLO RURAL, POBLACIÓN Y TERRITORIO"
+    ],
+    "docs": [
+      {
+        "name": "COSTES DE PRODUCCIÓN 2022 - Estudio de costes de producción de la uva"
+      },
+      {
+        "name": "COSTES DE PRODUCCIÓN 2022 - Estudio de costes de producción del tabaco"
+      },
+      {
+        "name": "COSTES DE PRODUCCIÓN 2022 - Estudio de costes de producción del tomate"
+      },
+      {
+        "name": "COSTES DE PRODUCCIÓN 2022 - Estudio de costes de producción de la ciruela y la cereza"
+      },
+      {
+        "name": "COSTES DE PRODUCCIÓN 2021 - [...] sobre la campaña de 2021 de la producción de bovino para sacrificio."
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio de Igualdad de la Corporación RTVE",
     "type": "publico",
     "website": "https://www.rtve.es/observatorio-igualdad/",
