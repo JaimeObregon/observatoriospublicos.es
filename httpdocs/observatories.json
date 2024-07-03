@@ -21,6 +21,26 @@
     "website": "https://www.observatoriosaludmujeres.es"
   },
   {
+    "description": "Observatorio Provincial de todas las Agendas Urbanas Supramunicipales en la provincia de Granada\n\nSu objetivo es lograr:\r\n- La mejora de la calidad de vida de las personas.\r\n- La gestión eficiente de los servicios.\r\n- La sostenibilidad económica y ambiental.\r\n- El uso innovador de los recursos.\r\n- La innovación en las políticas públicas locales, para mejorar su eficacia y eficiencia.\n\nPara hacer posible estos objetivos y que puedan construirse las agendas urbanas en la provincia de Granada, hemos creado dos programas de Concertación específicos. Los Programas son:\n\n15422 Diseño de Agenda urbana 2030 para el desarrollo sostenible y el programa 15423 Asistencia técnica en la implementación inicial y consolidación de planes de acción de las agendas urbanas 2030\n\nLa intención es ampliar al conjunto de la provincia estos programas en el marco de la nueva concertación para el periodo 2022-2023. Incorporando al conjunto de los municipios, e incorporando dos Agendas urbanas importantes para el Conjunto de la Provincia; La Agenda Urbana del Área Metropolitana de Granada y la Agenda Urbana del conjunto de la Provincia como tal. Una agenda que tendrá la virtualidad de haberse construido de abajo arriba, e involucrando, haciendo participes a cientos de actores sociales y económicos que garantizan la calidad del proceso.\n\n- Diputación de Granada",
+    "docs": [
+      {
+        "name": "- Agenda Urbana para el Desarrollo Sostenible Provincia de Granada 2022"
+      },
+      {
+        "name": "- Agendas urbanas de municipios (recopilación)"
+      },
+      {
+        "name": "- Agendas urbanas supramunicipales y provincial (recopilación)"
+      }
+    ],
+    "is_active": "Si",
+    "name": "Observatorio Provincial de la Agenda Urbana en Granada",
+    "parents": ["- Diputación de Granada"],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://opaugranada.es/"
+  },
+  {
     "docs": [
       {
         "name": "Informe 2022",
@@ -45,7 +65,8 @@
     ],
     "name": "Observatorio del Ferrocarril en España",
     "parents": [
-      "Ministerio de Transportes y Movilidad Sostenible"
+      "Ministerio de Transportes y Movilidad Sostenible",
+      "Fundación de los Ferrocarriles Españoles"
     ],
     "scope": "estatal",
     "type": "publico",
@@ -71,6 +92,71 @@
     "url": "https://www.omha.alcoi.org"
   },
   {
+    "description": "El Observatorio es un punto de encuentro para discutir políticas y estrategias contra la despoblación y mejorar el medio rural. Está abierto a la colaboración con instituciones y organizaciones sin fines de lucro.\r\n- **Función**: Sirve como concentrador de estudios e investigaciones sobre despoblación, y es un centro de innovación en políticas públicas basadas en evidencias.\r\n- **Convenio**: La Diputación de Guadalajara y la Fundación General de la Universidad de Alcalá colaboran para diagnosticar la evolución de la población y la actividad económica en las zonas rurales de Guadalajara\r\n- **Pilares**: Incluye la recopilación de datos, repositorio de estudios, elaboración de estudios monográficos, evaluación de políticas públicas y organización de eventos",
+    "docs": [
+      {
+        "name": "**Cuadernos de la despoblación:**"
+      },
+      {
+        "name": "- [Cuaderno de Despoblación - 1 Jóvenes y Despoblación](https://despoblacionguadalajara.es/cuadernos-de-la-despoblacion-1/)"
+      },
+      {
+        "name": "- [Cuaderno de Despoblación - 2 Emprendimiento en entornos rurales](https://despoblacionguadalajara.es/cuadernos-de-la-despoblacion-2/)"
+      },
+      {
+        "name": "**Documentos de trabajo:**"
+      },
+      {
+        "name": "- [Diagnóstico estratégico de la vivienda rural en la Provincia de Guadalajara](https://despoblacionguadalajara.es/diagnostico-estrategico-de-la-vivienda-rural-en-la-provincia-de-guadalajara/)"
+      },
+      {
+        "name": "[**Boletines informativos:**](https://despoblacionguadalajara.es/category/boletines-informativos/)"
+      },
+      {
+        "name": "- Matriz DAFO-CAME de la Vivienda Rural en la Provincia de Guadalajara"
+      },
+      {
+        "name": "- Seguimiento de la Estrategia Regional Frente a la Despoblación"
+      },
+      {
+        "name": "- Clasificación de las zonas despobladas de la provincia de Guadalajara"
+      },
+      {
+        "name": "- Caracterización demográfica de Guadalajara"
+      },
+      {
+        "name": "**Jornadas y talleres**"
+      },
+      {
+        "name": "**Bases de datos** (recopilación de diversas fuentes):"
+      },
+      {
+        "name": "- Demografía"
+      },
+      {
+        "name": "- Mercado Laboral"
+      },
+      {
+        "name": "- Sociedad"
+      },
+      {
+        "name": "- Economía"
+      }
+    ],
+    "email": "observatorio.despoblacion@fgua.es",
+    "from_date": "11 de febrero de 2023",
+    "is_active": "Si",
+    "name": "Observatorio de la Despoblación de Guadalajara",
+    "parents": [
+      "- Instituto Universitario de Análisis Económico y Social (IAES). Universidad de Alcalá. https://iaes.uah.es/",
+      "- Fundación General de la Universidad de Alcalá (FGUA). https://www.fgua.es/",
+      "- Diputación provincial de Guadalajara. https://dguadalajara.es/"
+    ],
+    "scope": "provincial",
+    "type": "publico",
+    "website": "https://despoblacionguadalajara.es/"
+  },
+  {
     "name": "Observatorio Autonómico dos Ríos de Galicia",
     "scope": "galicia"
   },
@@ -81,6 +167,34 @@
   {
     "name": "Observatorio da Violencia no Contorno Laboral",
     "scope": "galicia"
+  },
+  {
+    "description": "El Observatorio Territorial de Estudios y Análisis (OTEA) de Granada es una entidad esencial para el desarrollo y la planificación estratégica de la provincia. Su función es apoyar a las entidades locales en la promoción económica y el desarrollo sostenible, proporcionando estudios técnicos y asistencia en la modernización de servicios públicos. Además, OTEA juega un papel crucial en el seguimiento de la evolución del empleo y los sectores productivos, así como en la difusión de buenas prácticas que pueden ser aplicadas en diferentes contextos, fortaleciendo así la gestión territorial y la economía circular.\n\n- Diputación de Granada",
+    "docs": [
+      {
+        "name": "Consulta de datos:"
+      },
+      {
+        "name": "- [Sistema de Información Socioeconómica](https://oteagranada.com/sistema-informacion.php)"
+      },
+      {
+        "name": "- [Datos sobre Reto Demográfico](https://oteagranada.com/reto-demografico.php)"
+      },
+      {
+        "url": "Informes:"
+      },
+      {
+        "name": "- Recopilación de informes de la Diputación de Granada y otras entidades"
+      }
+    ],
+    "is_active": "Si",
+    "name": "Observatorio Territorial de Estudios y Análisis de Granada (OTEA Granada)",
+    "parents": [
+      "- Diputación de Granada. Delegación de Empleo y Desarrollo sostenible"
+    ],
+    "scope": "provincial",
+    "type": "publico",
+    "website": "https://oteagranada.com/"
   },
   {
     "description": "Es una entidad que supervisa y reporta el progreso y estado de la administración electrónica en España. Publica mensualmente un boletín con indicadores clave, recolectando datos propios y de terceros para ofrecer una visión completa del desarrollo y avance de la digitalización de los servicios administrativos en el país. Su función principal es proporcionar información actualizada y relevante que ayude en la transformación digital y mejora de la administración electrónica.",
@@ -115,6 +229,26 @@
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.inmujeres.gob.es/observatorios/observIgualdad/home.htm"
+  },
+  {
+    "description": "Pretende ser un órgano técnico de análisis y diagnóstico de la situación de los y las jóvenes en nuestro país y de apoyo a la formulación de iniciativas, programas y políticas de juventud. Sus fines principales son: servir de cauce de participación de los jóvenes que viven en España mediante la expresión de sus opiniones sobre aquellos aspectos que les afectan; estudiar la realidad juvenil y las transformaciones que se van produciendo en la población joven; contribuir a la orientación y a la actualización de las políticas de juventud y de las actuaciones que desde las administraciones públicas y desde la sociedad se llevan a cabo dirigidas a la juventud; y analizar la imagen de los jóvenes en los medios de comunicación proponiendo medidas para mejorarla.\n\nElabora y difunde regularmente datos estadísticos, encuestas de opinión, estudios e investigaciones sobre la juventud y mantiene un fondo documental especializado que puede ser consultado a través de esta web o en su biblioteca.\n\nAdemás, edita periódicamente la Revista de Estudios de Juventud, en formato digital y en papel, en la que se abordan en profundidad y de manera monográfica, por parte de distintos expertos, los temas más relevantes relacionados con el ámbito juvenil.",
+    "docs": [
+      {
+        "name": "[Jóvenes y Paro Registrado. Febrero 2024](https://www.injuve.es/observatorio/formacion-empleo-y-vivienda/jovenes-y-paro-registrado-febrero-2024)"
+      },
+      {
+        "name": "[Revista de Estudios de Juventud 128. Diálogos entre Educación y Consentimiento](https://www.injuve.es/observatorio/valores-actitudes-y-participacion/revista-de-estudios-de-juventud-128-dialogos-entre-educacion-y-consentimiento)"
+      },
+      {
+        "name": "[Educación y Consentimiento, claves de una sexualidad libre, sana y respetuosa](https://www.injuve.es/prensa/noticia/educacion-y-consentimiento-claves-de-una-sexualidad-libre-sana-y-respetuosa)"
+      }
+    ],
+    "is_active": "Si",
+    "name": "Observatorio de la Juventud en España",
+    "parents": ["Ministerio de Juventud e Infancia > INJUVE"],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://www.injuve.es/observatorio"
   },
   {
     "name": "Observatorio de la Imagen de las Mujeres",
@@ -159,6 +293,22 @@
   {
     "name": "Observatorio de la Infancia de Andalucía",
     "scope": "andalucia"
+  },
+  {
+    "description": "Tiene como principal cometido el análisis del mercado laboral en nuestro municipio, tanto en lo referente a los/as demandantes de empleo, como sobre las contrataciones realizadas en las empresas del municipio.\n\nLos objetivos del Observatorio Local de Empleo de Fuenlabrada son:\n\nProfundizar en el conocimiento del mercado de trabajo de Fuenlabrada, identificando las necesidades de las empresas.\n\nConocer las características del perfil general de las personas desempleadas: sexo, edad, niveles formativos, población más afectada, tiempo de permanencia en el desempleo, grupos profesionales, etc.\n\nConocer las características de las contrataciones realizadas en Fuenlabrada: nº contratos, características, ubicación por sectores de actividad, características de las personas contratadas, etc… También de las afiliaciones a la seguridad social\n\nDifundir los principales resultados y estadísticas, a través de Informes y Estudios:\n\nAyuntamiento de Fuenlabrada",
+    "docs": [
+      {
+        "name": "Informes mensuales y anuales desde enero 2015."
+      }
+    ],
+    "email": "observatorio.empleo@cife.ayto-fuenlabrada.es",
+    "from_date": "2015",
+    "is_active": "Si",
+    "name": "Observatorio Local de Empleo de Fuenlabrada",
+    "parents": ["Ayuntamiento de Fuenlabrada"],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://cife.ayto-fuenlabrada.es/observatorio-local-empleo-fuenlabrada/"
   },
   {
     "name": "Observatorio de la Infancia de Cataluña / Observatori dels Drets dels Infants",
@@ -232,6 +382,7 @@
   },
   {
     "description": "Su misión es <q>Generar información relevante y de calidad a políticos, gestores, investigadores, profesionales de la salud y a la sociedad civil en general con el fin de mejorar las políticas, programas y servicios sanitarios-sociosanitarios de forma que respondan equitativa y eficientemente a las necesidades de salud de la población y a la reducción de las desigualdades en salud en Cantabria</Q>.",
+    "email": "rasines.l@fmvaldecilla.es",
     "name": "Observatorio de Salud Pública de Cantabria",
     "parents": [
       "Consejería de Sanidad",
@@ -240,7 +391,6 @@
     ],
     "scope": "cantabria",
     "type": "publico",
-    "email": "rasines.l@fmvaldecilla.es",
     "website": "https://fmvaldecilla.es/unidad/observatorio-de-salud-publica-de-cantabria/"
   },
   {
@@ -311,7 +461,20 @@
     "website": "https://www.aragon.es/-/presentacion-1"
   },
   {
-    "name": "Observatorio del Medio Ambiente Urbano"
+    "description": "IBERIFIER es un observatorio de medios digitales de España y Portugal, impulsado por la Comisión Europea y vinculado al [European Digital Media Observatory](https://edmo.eu/) (EDMO). Coordinado desde la Universidad de Navarra, está integrado por doce universidades, cinco organizaciones de verificación y agencias de noticias, y seis centros de investigación multidisciplinar.",
+    "docs": [
+      {
+        "url": "https://iberifier.eu/2024/02/15/iberifier-reports-fact-checking-trends-in-spain-and-portugal/"
+      }
+    ],
+    "is_active": "Si",
+    "name": "Iberifier",
+    "parents": [
+      "Impulsado por la Comisión Europea y vinculado al [European Digital Media Observatory](https://edmo.eu/) (EDMO). Coordinado desde la Universidad de Navarra."
+    ],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://iberifier.eu/"
   },
   {
     "name": "Observatorio del Transporte y la Logística en España",
@@ -330,6 +493,48 @@
     "website": "https://fogga.xunta.gal/es/sector_lacteo/observatorio_del_sector_lacteo"
   },
   {
+    "docs": [
+      {
+        "name": "COSTES DE PRODUCCIÓN 2022 - Estudio de costes de producción de la uva"
+      },
+      {
+        "name": "COSTES DE PRODUCCIÓN 2022 - Estudio de costes de producción del tabaco"
+      },
+      {
+        "name": "COSTES DE PRODUCCIÓN 2022 - Estudio de costes de producción del tomate"
+      },
+      {
+        "name": "COSTES DE PRODUCCIÓN 2022 - Estudio de costes de producción de la ciruela y la cereza"
+      },
+      {
+        "name": "COSTES DE PRODUCCIÓN 2021 - [...] sobre la campaña de 2021 de la producción de bovino para sacrificio."
+      }
+    ],
+    "email": "observatorio.precios.ext@tragsa.es",
+    "from_date": "[DECRETO 25/2023, de 29 de marzo, por el que se crea y regula el Observatorio de Precios y Cadena de Valor del Sector Agroalimentario de la Comunidad Autónoma de Extremadura.](http://doe.juntaex.es/eli/es-ex/d/2023/03/29/25)",
+    "is_active": "Si",
+    "name": "Observatorio de Precios y Cadena de Valor del Sector Agroalimentario de la Comunidad Autónoma de Extremadura",
+    "parents": [
+      "CONSEJERÍA DE AGRICULTURA, DESARROLLO RURAL, POBLACIÓN Y TERRITORIO"
+    ],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://agrobservex.juntaex.es/"
+  },
+  {
+    "description": "El Observatorio de Igualdad de la CRTVE vela por el cumplimiento de los compromisos legales en materia de igualdad de la corporación, haciendo un seguimiento de los contenidos de RTVE y garantizando en ellos el respeto a la igualdad entre mujeres y hombres. Su objetivo es que la corporación sea referente en la defensa de la igualdad y la lucha para la erradicación de la violencia contra las mujeres.",
+    "from_date": "31 de enero de 2018",
+    "is_active": "Si",
+    "name": "Observatorio de Igualdad de la Corporación RTVE",
+    "parents": [
+      "Sociedad Estatal de Participaciones Industriales",
+      "Ministerio de Hacienda"
+    ],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://www.rtve.es/observatorio-igualdad/"
+  },
+  {
     "email": "tenerife@oficinarenovables.es",
     "name": "Observatorio del Cambio Climático y la Energía de Tenerife",
     "parents": [
@@ -342,6 +547,17 @@
   },
   {
     "name": "Observatorio Español contra la LGBTfobia"
+  },
+  {
+    "email": "observatori@catpaisatge.net",
+    "is_active": "Si",
+    "name": "Observatori del Paisatge de Catalunya",
+    "parents": [
+      "L’Observatori s’organitza en forma de consorci, està adscrit al Departament de Territori de la Generalitat de Catalunya i s’inclou a la Llei de protecció, gestió i ordenació del paisatge de Catalunya, que segueix els principis del Conveni europeu del paisatge. Es va constituir legalment el 30 de novembre de 2004 i els seus Estatuts van ser publicats al DOGC (Resolució PTO/3386/2004)."
+    ],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://www.catpaisatge.net/ca"
   },
   {
     "name": "Observatorio Español de Acuicultura",
@@ -390,6 +606,12 @@
   {
     "name": "Observatorio Estatal de Condiciones de Trabajo",
     "scope": "estatal"
+  },
+  {
+    "name": "Observatorio de Familia de la Ciudad de Orihuela",
+    "scope": "local",
+    "type": "publico",
+    "website": "https://www.orihuela.es/la-concejalia-de-familia-presenta-el-observatorio-de-familia-de-la-ciudad-de-orihuela/"
   },
   {
     "name": "Observatorio Estatal de Familias",
@@ -441,6 +663,29 @@
   {
     "name": "Observatorio Estatal de los Servicios Deportivos a las Administraciones Públicas",
     "scope": "estatal"
+  },
+  {
+    "description": "El Observatorio Socioeconómico aporta la información necesaria para el diagnóstico a los procesos de planificación, facilitando indicadores de evolución socioeconómica al personal técnico que trabaja en desarrollo local.\n\n- Diputación Provincial de Cáceres",
+    "docs": [
+      {
+        "url": "Enlaces:"
+      },
+      {
+        "name": "- [Análisis del sector agroalimentario de la Provincia de Cáceres. Abril 2018](http://observatorio.dip-caceres.es/Observatorio2/documentosPDF/Estudios%20recientes/23-sector_agroalimentario.pdf)"
+      },
+      {
+        "name": "- [Estudio de tendencias y oportunidades del emprendimiento - Completo. Abril 2017](http://observatorio.dip-caceres.es/Observatorio2/documentosPDF/Estudios%20recientes/12-Estudio_tendencias_oportunidades-completo.pdf)"
+      },
+      {
+        "name": "- [Informe socioeconómico de la provincia de Cáceres. Abril 2015](http://observatorio.dip-caceres.es/Observatorio2/documentosPDF/Estudios%20recientes/11-INFORME_SOCIOECON%C3%93MICO_2015.pdf)"
+      }
+    ],
+    "email": "observatorio@dip-caceres.es",
+    "name": "Observatorio Socioeconómico Provincial de la Diputación de Cáceres",
+    "parents": ["- Diputación Provincial de Cáceres"],
+    "scope": "provincial",
+    "type": "publico",
+    "website": "http://observatorio.dip-caceres.es/"
   },
   {
     "name": "Observatorio de la Comunidad de Castilla y León (Sección de Género)",
@@ -572,6 +817,103 @@
     "website": "https://www.euskadi.eus/observatorio-vasco-cultura/"
   },
   {
+    "description": "El Observatorio de I+d+I tiene como objetivo aunar toda la información de la actividad investigadora y de la innovación que se realiza en la universidad para que sea pública y accesible para la comunidad universitaria, el tejido empresarial y en general para cualquier usuario interesado en la producción científica que se realiza en la UPM y en los resultados generados.",
+    "is_active": "Si",
+    "name": "Observatorio I+D+i Universidad Politécnica de Madrid",
+    "parents": ["Consejo Social UPM"],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://www.upm.es/observatorio/vi/index.jsp"
+  },
+  {
+    "description": "El Observatorio para el Análisis y Visibilidad de la Exclusión Social , nace con el propósito de investigar situaciones, procesos y estructuras de exclusión social, darles visibilidad con campañas de comunicación y crear proyectos de intervención para colaborar en su erradicación. Se materializa así, como una manifestación más de la responsabilidad social universitaria, el firme compromiso de la Universidad Rey Juan Carlos en apostar por la igualdad de todas las personas, así como en la generación de oportunidades vitales para ellas. Este Observatorio está formado por un grupo interdisciplinar de PDIs, liderados desde la Sociología (investigación social) y el Trabajo Social (intervención social) de esta Universidad. Por su parte, el Grupo IDEX, líder en comunicación social, será el socio externo que implementaría la estrategia de difusión y sensibilización de la realidad investigada, financiándose a través de RSC de empresas. Se une la Universidad y la sociedad civil en la mejora de la calidad de vida de las personas más vulnerables.\n\nOBJETIVOS:\n\nInvestigar y analizar situaciones, procesos y estructuras de exclusión social.\r\nLanzar campañas mediáticas para sensibilizar a la sociedad en general, de las situaciones, procesos y estructuras de exclusión social previamente estudiadas.\r\nGenerar proyectos de intervención social para los fenómenos analizados.",
+    "docs": [
+      {
+        "name": "Líneas de investigación abiertas:"
+      },
+      {
+        "name": "Personas LGTBI en situación de vulnerabilidad."
+      },
+      {
+        "name": "“Estudio sociológico de las personas LGTBI sin hogar en la Comunidad de Madrid”   https://faciam.org/wp-content/uploads/2019/04/Informe-LGTBI-sin-hogar-18-junio.pdf."
+      },
+      {
+        "url": "https://canal.uned.es/video/5d1de262a3eeb026438b4570?track_id=5d1de2aba3eeb096438b4567"
+      },
+      {
+        "url": "https://orgullodepadres.com/"
+      },
+      {
+        "name": "Sociología Jurídica y Trabajo Social Forense. http://trabajosocialforense.com/"
+      },
+      {
+        "name": "\" Construcción de escala de intensidad de violencia de género\""
+      },
+      {
+        "name": "\" Validez predictiva de la escala de intensidad de violencia de género\" (EN CURSO)"
+      },
+      {
+        "name": "Pobreza y desigualdad"
+      },
+      {
+        "name": "“Sucesos Vitales Estresantes (SVE) en personas sin hogar. Elaboración de una escala de detección del riesgo de sinhogarismo como herramienta de prevención” (EN CURSO)"
+      }
+    ],
+    "email": "observatorio.exclusion@urjc.es",
+    "is_active": "Si",
+    "name": "OBSERVATORIO PARA EL ANÁLISIS Y VISIBILIDAD DE LA EXCLUSIÓN SOCIAL",
+    "parents": ["Universidad Rey Juan Carlos"],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://www.urjc.es/estudiar-en-la-urjc/vida-universitaria/4682-observatorio-para-el-analisis-y-visibilidad-de-la-exclusion-social"
+  },
+  {
+    "description": "\n\nAyuntamiento de Gijón",
+    "docs": [
+      {
+        "name": "Informes mensuales de las siguientes áreas:"
+      },
+      {
+        "name": "Actividad económica"
+      },
+      {
+        "name": "Afiliaciones Seguridad Social"
+      },
+      {
+        "name": "Datos de empleo SADEI"
+      },
+      {
+        "name": "Informe ocupaciones"
+      },
+      {
+        "name": "Licencias IAE"
+      },
+      {
+        "name": "Mercado de trabajo"
+      },
+      {
+        "name": "Observatorio del tejido empresarial"
+      },
+      {
+        "name": "Paro registrado y contrataciones"
+      },
+      {
+        "name": "Población"
+      },
+      {
+        "name": "Siniestralidad laboral"
+      },
+      {
+        "name": "Sociedades Mercantiles constituidas"
+      }
+    ],
+    "name": "Observatori de empleo de Gijón",
+    "parents": ["Ayuntamiento de Gijón"],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://www.gijon.es/es/observatorio_empleo?observatorio=Sociedades%20Mercantiles%20constituidas"
+  },
+  {
     "name": "Observatorio Nacional de las Telecomunicaciones y de la Sociedad de la Información",
     "scope": "estatal"
   },
@@ -587,6 +929,29 @@
     "name": "Observatorio Profesional del Instituto Nacional de las Cualificaciones"
   },
   {
+    "description": "Integra, entre otros, los datos procedentes de los siguientes sistemas de información incluidos en el Plan de Calidad del Ayuntamiento de Alicant: Avisos de Incidencias; Oficina de Sugerencis y Reclamaciones; Redes Sociales y Web; Servicio Telefónica 010; Oficina de Atención Ciudadana (OAC); Solicitudes de Información\r\n(copia y pega de su página)\n\nAyuntamiento de Alicante",
+    "docs": [
+      {
+        "name": "Informe del servicio telefónico del ayuntamiento de Alicante nº 010: Desde 2017"
+      },
+      {
+        "name": "Informe sobre redes sociales Desde 2015 (mejor no mirar los seguidores en Facebook y demás)"
+      },
+      {
+        "name": "Informe atención al ciudadano. Desde 2017"
+      }
+    ],
+    "email": "transparencia@alicante.es",
+    "from_date": "2015",
+    "is_active": "Si",
+    "name": "Observatorio de la Calidad de los Servicios Municipales (Alicante)",
+    "parents": ["Ayuntamiento de Alicante"],
+    "scope": "local",
+    "to_date": "Continúa",
+    "type": "publico",
+    "website": "https://www.alicante.es/es/gobierno-abierto/transparencia/conceptos/observatorio-calidad-servicios-municipales"
+  },
+  {
     "name": "Observatorio Tecnológico",
     "website": "http://educalab.es/intef/tecnologia/observatorio-tecnologico"
   },
@@ -600,6 +965,14 @@
   {
     "name": "Sociedad de la Información en Navarra",
     "scope": "navarra"
+  },
+  {
+    "from_date": "Mayo 2024",
+    "is_active": "Si",
+    "name": "Observatorio de la Producción Científica de la UA",
+    "scope": "provincial",
+    "type": "publico",
+    "website": "https://observatorio-cientifico.ua.es/"
   },
   {
     "name": "Observatorio de Prospectiva Tecnológica Industrial",
@@ -619,9 +992,6 @@
   {
     "name": "Observatorio Galego da Xuventude",
     "scope": "galicia"
-  },
-  {
-    "name": "Observatorio Coruñés contra a LGTBIfobia"
   },
   {
     "name": "Observatorio de costes de transportes de mercancías por carretera de Galicia",
@@ -686,9 +1056,50 @@
     "scope": "andalucia"
   },
   {
+    "description": "OTALEX está financiado por el programa europeo INTERREGIII A y tiene marcado como objetivo estudiar y mostrar la realidad de un territorio, compuesto por las regiones del **Alentejo** en Portugal y **Extremadura** en España, separado convencionalmente por una frontera administrativa pero unido por sus características físicas, ambientales, sociales y económicas. Se trata de espacios rurales de baja densidad demográfica donde los recursos naturales, culturales y la calidad ambiental conforman sus atractivos fundamentales.\n\nLa IDE OTALEX es el resultado del esfuerzo, el compromiso y la colaboración entre instituciones a los dos lados de la frontera, con implicación de los tres niveles administrativos: Estatal, Regional y Local. Muestra los trabajos de homogeneización y estandarización de datos del territorio Alentejo-Extremeño, a través de clientes de visualización de mapas, consulta de topónimos y consulta de catálogo, dentro de las líneas de INSPIRE.\n\n- Gobierno de Extremadura (Ordenación del Territorio)\r\n- Diputación de Cáceres (Área de Desarrollo Local y Formación)\r\n- Diputación de Badajoz\r\n- Instituto Geográfico Nacional\r\n- Comunidade Intermunicipal do Alentejo Central\r\n- Comunidade Intermunicipal do Alto Alentejo\r\n- Direção-Geral do Território (PT)\r\n- Universidad de Extremadura\r\n- Comissão de Coordenação e Desenvolvimento Regional do Alentejo\r\n- Empresa de Desenvolvimento de Infra-estruturas do Alqueva, S.A\r\n- Univerisdade de Évora\r\n- Instituto Politécnico de Castelo Branco",
+    "docs": [
+      {
+        "url": "Boletines:"
+      },
+      {
+        "name": "- [Boletín Informativo 6/2015](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/news_otc_6.pdf)"
+      },
+      {
+        "url": "Estudios:"
+      },
+      {
+        "name": "- [Estudio de Accesibilidad Viaria del Área OTALEX C](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/Estudio_Accesibilidad_Viaria_OTALEXC.pdf)"
+      },
+      {
+        "name": "- [Estudio de Indicadores de Sostenibilidad del Área de OTALEX C](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/Estudio_Ind_Sostenibilidad.pdf)"
+      },
+      {
+        "name": "- [Estudio Socioeconómico OTALEX C](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/Estudio_Socioeconomico_OTALEX_C.pdf)"
+      }
+    ],
+    "from_date": "2006",
+    "name": "Observatorio Territorial Alentejo Extremadura y Centro de Portugal (OTALEX)",
+    "parents": [
+      "- Gobierno de Extremadura",
+      "- Diputación Provincial de Cáceres (Área de Desarrollo Local y Formación)"
+    ],
+    "scope": "autonómico",
+    "to_date": "Junio 2015",
+    "type": "publico",
+    "website": "http://www.ideotalex.eu/"
+  },
+  {
     "name": "Observatorio del Mercado de Trabajo del Instituto Aragonés de Empleo",
     "scope": "aragon",
     "type": "publico"
+  },
+  {
+    "is_active": "Si",
+    "name": "Observatorio Nacional de Tecnología y Sociedad",
+    "parents": ["Red.es"],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://www.ontsi.es/"
   },
   {
     "name": "Observatorio del Mercado de Trabajo del Servicio Público de Empleo del Principado de Asturias",
@@ -778,6 +1189,22 @@
     ],
     "scope": "municipal",
     "website": "https://www.coruna.gal/igualdade/es/servicios/observatorio"
+  },
+  {
+    "description": "El observatorio, liderado por el Grupo de Investigación en Economía Ecológica, Agroecología e Historia, tiene por objeto realizar investigaciones sobre el sector eólico en Galicia para transferir conocimiento entre los agentes participantes, además de favorecer la transparencia de los procesos de ocupación de terrenos destinados a parques eólicos e identificar y mostrar los impactos que la energía eólica genera en el mundo rural.",
+    "docs": [
+      {
+        "name": "[AnálisisRecursoEólico.pdf](https://github.com/JaimeObregon/observatoriospublicos.es/files/14844459/AnalisisRecursoEolico.pdf)"
+      }
+    ],
+    "email": "observatorio.eolico@uvigo.gal",
+    "from_date": "10 enero de  2019",
+    "is_active": "Si",
+    "name": "Observatorio Eólico de Galicia",
+    "parents": ["Universidad de Vigo"],
+    "scope": "autonómico",
+    "type": "mixto",
+    "website": "observatorio.eolico.uvigo.es"
   },
   {
     "location": "A Coruña",
@@ -914,6 +1341,24 @@
     "website": "https://www.ayto-alcaladehenares.es/el-observatorio-de-violencia-de-genero-de-alcala-ha-atendido-a-mas-de-1500-mujeres-desde-2004-2/"
   },
   {
+    "description": "La Autoridad Independiente de Responsabilidad Fiscal (AIReF) tiene por objeto velar por la sostenibilidad de las finanzas públicas como vía para asegurar el crecimiento económico y el bienestar de la sociedad española a medio y largo plazo.",
+    "docs": [
+      {
+        "name": "Informe sobre los Presupuestos Iniciales de las AAPP 2024"
+      }
+    ],
+    "from_date": "8 de marzo de 2023",
+    "is_active": "Si",
+    "name": "Observatorio de Hallazgos-Propuestas Evaluaciones",
+    "parents": [
+      "AIREF (Autoridad Independiente de Responsabilidad Fiscal)",
+      "\"Nuestra misión es garantizar el cumplimiento efectivo del principio de sostenibilidad financiera por las Administraciones Públicas\""
+    ],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://www.airef.es/es/buscador-hallazgos/"
+  },
+  {
     "location": "Alcalá de Henares",
     "name": "Observatorio Sociodemográfico del Ayuntamiento de Alcalá de Henares",
     "parents": [
@@ -940,11 +1385,38 @@
     "website": "https://www.euskadi.eus/gobierno-vasco/observatorio-comercio"
   },
   {
+    "description": "El OMAU desarrolla tres campos de trabajo. (1) Por una parte, realiza el seguimiento de indicadores medioambientales tanto de la ciudad de Málaga, como de las ciudades socias. En el caso de la Ciudad de Málaga los indicadores de seguimiento están directamente relacionados con la puesta en práctica en 2006 de la Agenda 21. Para el conjunto de los socios se emplea el Sistema Integrado de Indicadores Urbanos realizados junto a UN-HABITAT de Naciones Unidas, con un conjunto inicial de 37 indicadores.\n\nLos indicadores de seguimiento son un instrumento muy útil para confrontar situaciones ambientales urbanas en diferentes periodos de tiempo, para conocer y saber si avanzamos hacía los objetivos propuestos o tenemos problemas para alcanzar las metas establecidas en la Agenda 21. En algunos de los indicadores empleamos el soporte GIS para realizar el seguimiento periódico.\n\n(2) El OMAU es también un centro de intercambio de experiencias donde, de forma regular, se celebran conferencias o mesas redondas sobre temas de actualidad en el campo del Medio Ambiente Urbano. En 2004 y 2005 se celebraron los primeros cursos de formación, tanto presencial, como on line, que deben tener su continuidad anual, incorporando propuestas de trabajo o formatos novedosos que se realicen en otros ámbitos.\n\n(3) El Centro de Documentación del Programa URB-AL (CDPU) asienta su sede en el Observatorio, reforzando la biblioteca convencional y virtual que el OMAU dispone. El CDPU supone la concentración de toda la información desarrollada por el Programa URB-AL desde 1995, periodo en el que se desarrollaron 13 redes de ciudades que agruparon a 2.500 ciudades europeas y americanas. El CDPU ha recuperado los 192 proyectos URB-AL aprobados por la Comisión Europea, y que se desarrollaron entre 1998 y previsiblemente 2009. La Web del CDPU posibilita encontrar la documentación de los diferentes proyectos tanto a través de un buscador temático, como a través de su relación original con una determinada Red, funcionando a modo de biblioteca virtual de Buenas Practicas Urbanas.\n\nEn un principio es gestionado por dos funcionarios municipales, uno de ellos responsable del observatorio. Contrató 14 falsos autónomos cuyo despido fue anulado por el Tribunal Superior de Justicia y tuvieron que ser readmitidos.",
+    "docs": [
+      {
+        "name": "En su página WEB indica que hay mas de cien informes, pero no permite abrir ninguno de ellos."
+      }
+    ],
+    "email": "info@omau-malaga.com",
+    "from_date": "2005",
+    "is_active": "Si",
+    "name": "OBSERVATORIO DE MEDIO AMBIENTE URBANO",
+    "parents": [
+      "Auntamiento de Málaga, servicio de programas. Dependiente del Área de Gobierno de innovación, digitalización urbana, promoción de la inversión tecnológica y empresarial y captación de inversiones."
+    ],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://www.omau-malaga.com"
+  },
+  {
     "name": "Observatorio Vasco del Emprendimiento",
     "scope": "pais_vasco",
     "twitter": "@eeb_ove",
     "type": "publico",
     "website": "https://eeb-ove.eus/inicio/"
+  },
+  {
+    "from_date": "30 abril 2024",
+    "is_active": "Si",
+    "name": "Observatorio Estatal de la Morosidad Privada",
+    "parents": ["Ministerio de Industria y Turismo"],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://www.mintur.gob.es/es-es/gabineteprensa/notasprensa/2024/paginas/20240430-observatorio-morosidad-privada.aspx"
   },
   {
     "name": "Observatorio Vasco de Vivienda",
@@ -991,6 +1463,21 @@
     "twitter": "@ikuspegi_eus",
     "type": "publico",
     "website": "https://www.ikuspegi.eus/"
+  },
+  {
+    "description": "El Observatorio de Precios es una herramienta de seguimiento y análisis de los precios en origen de los principales productos agrícolas y ganaderos de Castilla y León.\n\nSeguirlos y analizarlos con el máximo rigor y transparencia hará posible prever y detectar a tiempo las oscilaciones y desequilibrios entre la oferta y la demanda, lo que permitirá tomar las decisiones más correctas para mantener el equilibrio entre todos sus componentes y, en último término, podrá evitar que los consumidores asuman un sobrecoste injustificado y contribuirá a que los agricultores y ganaderos obtengan una retribución justa por sus producciones.\n\nEl Observatorio muestra los precios en origen de aquellos productos agrícolas y ganaderos en los que Castilla y León ocupa una posición relevante en el ámbito nacional por ser una de las principales productoras o por la calidad diferenciada de su producción, sin perjuicio de que paulatinamente puede ofrecerse información sobre más productos.",
+    "docs": [
+      {
+        "name": "Informe mensual de precios en origen de los principales productos agrícolas y ganaderos de Castilla y León"
+      }
+    ],
+    "from_date": "Septiembre de 2020",
+    "is_active": "Si",
+    "name": "Observatorio de Precios Agrícolas y Ganaderos de Castilla y León",
+    "parents": ["- Junta de Castilla y León"],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://agriculturaganaderia.jcyl.es/web/es/estadistica-informacion-agraria/observatorio.html#:~:text=El%20Observatorio%20muestra%20los%20precios%20en%20origen%20de,que%20paulatinamente%20puede%20ofrecerse%20informaci%C3%B3n%20sobre%20m%C3%A1s%20productos."
   },
   {
     "name": "Observatorio Vasco LGTBI+",
@@ -1085,6 +1572,20 @@
     "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828"
   },
   {
+    "description": "El Observatorio Deportivo de Mallorca tiene el objetivo de fomentar una práctica deportiva responsable, unos hábitos saludables y la formación en torno a diferentes temas de actualidad deportiva.\n\nPlan de asesoramiento: formación y orientación dirigida a clubs, asociaciones de madres y padres de alumnos, federaciones deportivas, entrenadores...\r\nEls valors de l’esport: charlas impartidas por deportistas de alto nivel, que profundizan en los valores que aporta el ejercicio físico al desarrollo personal.",
+    "docs": [
+      {
+        "name": "Meorias de"
+      }
+    ],
+    "email": "esportbase@conselldemallorca.net",
+    "name": "Observatori esportiu de Mallorca (observatorio deportivo de Mallorca)",
+    "parents": ["Consell de Mallorca"],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://esports.conselldemallorca.es/observatori-esportiu-de-mallorca"
+  },
+  {
     "docs": [
       {
         "name": "Acta 2022",
@@ -1149,6 +1650,41 @@
     "website": "https://www.poderjudicial.es/cgpj/es/Temas/Violencia-domestica-y-de-genero/El-Observatorio-contra-la-violencia-domestica-y-de-genero/"
   },
   {
+    "description": "Desde principios de 2014 comenzaron a evidenciarse en la Comunidad de Madrid las agresiones motivadas por LGTBIfobia. El Ministerio del Interior registró un aumento de más del 100% en este tipo de agresiones frente a las registradas en 2013. En dicho Informe se puso de manifiesto que los delitos de odio motivados por identidad de género y orientación sexual fueron los más numerosos, con un porcentaje del 40% sobre el total.\n\nExplicar las causas de la violencia motivada por LGTBIfobia es complicado y requiere un profundo análisis, pero uno de los principales factores es la mayor visibilidad en la sociedad de la diversidad sexual y de género. Leyes como la del Matrimonio Igualitario no sólo supusieron una concesión de derechos, sino que permitieron aspirar a la igualdad real como nunca antes, normalizando en las vidas cotidianas actitudes, expresiones de género o gestos de cariño que antes se evitaban en público. Desterrada la idea de «volver a los armarios», se debe continuar con la defensa de la visibilidad en todos y cada uno de los espacios en la calle y en todos y cada uno de los espacios públicos, hasta la completa desaparición de las actitudes discriminatorias y la violencia motivadas por LGTBIfobia.\n\nUn delito de odio por LGTBIfobia es una infracción penal en la que la víctima, el lugar o el objeto de la infracción se seleccionan por su conexión, relación, afiliación, apoyo o pertenencia real o supuesta a un grupo basado en la identidad de género y/o la orientación sexual. Como el resto de delitos de odio, reciben un tratamiento diferente a nivel legal ya que no sólo están motivados por un odio infundado hacia un grupo en sí sino que además busca crear una amenaza a todas las personas que pertenecen al grupo de la víctima y a su entorno. Una persona es la víctima, pero su entorno y las personas del grupo al que pertenece sufren una agresión en su conjunto.\n\nEl Observatorio Madrileño Contra la LGTBIfobia de Arcópoli, desde el inicio de su andadura en 2016, monitoriza, registra y denuncia los delitos de odio, las situaciones discriminatorias y cualquier otro incidente motivado por LGTBIfobia. Monitorizar y registrar es imprescindible para conocer la realidad a la que nos enfrentamos, ya que históricamente las personas LGTBI y las que han sido percibidas como tal han sufrido agresiones que caen en el olvido. Además, año tras año la Agencia Europea de Derechos Fundamentales mantiene el dato de que 9 de cada 10 víctimas no denuncian, por lo que es de vital importancia trabajar ese aspecto y ofrecer las herramientas y el acompañamiento necesario en la lucha contra todos esos casos en los que se ha atacado la dignidad de las personas.\n\nEl Observatorio Madrileño Contra la LGTBIfobia busca crear una red de trabajo efectivo en la lucha contra la LGTBIfobia en la Comunidad de Madrid y para ello cuenta con la inestimable colaboración de varias asociaciones e instituciones, así como de personas anónimas que de forma desinteresada ponen en nuestro conocimiento incidentes de los que tienen conocimiento, facilitando nuestra labor.",
+    "docs": [
+      {
+        "name": "[Informe anual de 2016](http://www.contraelodio.org/informes/ene16jun16/informe_obsmad_ene16jun16.pdf)"
+      },
+      {
+        "name": "[Informe anual de 2017"
+      },
+      {
+        "name": "](http://www.contraelodio.org/informes/2017/informe_obsmad_2017.pdf)[Informe anual de 2018](http://www.contraelodio.org/informes/2018/informe_obsmad_comunidad_madrid_2018.pdf)"
+      },
+      {
+        "name": "[Informe anual de 2019](https://contraelodio.org/wp/wp-content/uploads/2020/10/Informe-Comunidad-de-Madrid-2019-v2.pdf)"
+      },
+      {
+        "name": "[Informe anual de 2020](https://contraelodio.org/wp/wp-content/uploads/2022/11/Informe-ObsMadLGTBl-2020.pdf)"
+      },
+      {
+        "name": "[Informe anual de 2021](https://contraelodio.org/wp/wp-content/uploads/2022/11/Informe-ObsMadLGTBI-2021-compressed-1.pdf)"
+      },
+      {
+        "name": "[Informe anual de 2022](https://contraelodio.org/wp/wp-content/uploads/2023/08/Informe-ObsMadLGTBI-2022_compressed_compressed-1.pdf)"
+      }
+    ],
+    "from_date": "2016",
+    "is_active": "Si",
+    "name": "Observatorio Madrileño contra la LGTBIfobia",
+    "parents": [
+      "Comunidad de Madrid > Dirección General de Igualdad > Consejería de Familia, Juventud y Política Social"
+    ],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://contraelodio.org/wp/"
+  },
+  {
     "description": "Nace <q>para analizar las condiciones de competitividad en relación con los precios y calidad de los servicios portuarios, y acordar las variables de competitividad sobre las que establecer recomendaciones</q>.",
     "email": "observatorio@puertos.es",
     "from_date": "2012-12-11",
@@ -1206,6 +1742,26 @@
     "is_active": "Si"
   },
   {
+    "description": "El Observatorio Coruñés contra a LGTBIfobia es un servicio dedicado a la escucha, asesosamiento, registro y denuncia de los incidentes o delitos de odio con un componente LGTBIfobico.",
+    "docs": [
+      {
+        "name": "[Informe-2022.pdf](https://github.com/JaimeObregon/observatoriospublicos.es/files/14858622/Informe-2022.pdf)"
+      }
+    ],
+    "email": "info@alascoruna.org",
+    "from_date": "2017",
+    "is_active": "Si",
+    "name": "Observatorio Coruñés contra a LGTBIfobia",
+    "parents": [
+      "Ayuntamiento de A Coruña",
+      "Deputación da Coruña",
+      "Xunta de Galicia"
+    ],
+    "scope": "local",
+    "type": "mixto",
+    "website": "alasacoruna.org/observatorio-corunes-contra-la-lgtbifobia/"
+  },
+  {
     "description": "Para <q>la obtención y análisis sistemático de información y datos objetivos del sector necesario para conocer su historia, estructura, impacto económico y realidad actual del arte jondo, así como una herramienta para su evaluación</q>.",
     "email": "institutoandaluz.flamenco@juntadeandalucia.es",
     "from_date": "21 de marzo de 2007",
@@ -1220,10 +1776,10 @@
     "website": "https://www.juntadeandalucia.es/cultura/flamenco/content/observatorio-del-flamenco"
   },
   {
-    "email": "bobsvivi@cantabria.es",
     "description": "Es un foro de debate, de análisis crítico, de reflexión y generador de propuestas de actuaciones para avanzar en un modelo de sociedad en el que la vivienda cumpla con las características que se recogen en la Nueva Agenda Urbana, un modelo de ciudad en que se facilite el acceso a una vivienda digna accesible, eficiente, sostenible y en el que quepamos por igual.",
-    "name": "Observatorio de Vivienda y Suelo",
+    "email": "bobsvivi@cantabria.es",
     "from_date": "2016",
+    "name": "Observatorio de Vivienda y Suelo",
     "parents": [
       "Dirección General de Vivienda",
       "Consejería de Fomento, Ordenación del Territorio y Medio Ambiente",
@@ -1452,6 +2008,7 @@
   {
     "description": "El Observatorio del Sistema Penal y los Derechos Humanos (OSPDH) de la Universidad de Barcelona es un Centro de Investigación, creado en el mes de mayo de 2001, integrado por profesores/as universitarios de la UB y otras Universidades nacionales, de Europa y de América Latina, así como por profesionales de instituciones y organizaciones de defensa de derechos humanos, estudiantes avanzados de programas de postgrado y doctorados y activistas que se desempeñan en la lucha por la promoción de derechos y garantías básicas.",
     "email": "observatori.ospdh@ub.edu",
+    "from_date": "Mayo de 2001",
     "is_active": "Sí",
     "name": "Observatori del Sistema Penal i els Drets Humans (OSPDH)",
     "parents": [
@@ -1459,8 +2016,35 @@
     ],
     "scope": "barcelona",
     "type": "publico",
-    "from_date": "Mayo de 2001",
     "website": "https://www.ub.edu/portal/web/observatori-sistema-penal/presentacio"
+  },
+  {
+    "description": "Promover, impulsar y apoyar el conocimiento de los mercados nacional e internacionales del vino y los productos vitivinícolas, en todos sus ámbitos y canales, incluyendo especificidades relativas a distribución y consumidores. Ver [Sobre nosotros](https://www.oemv.es/sobre-nosotros)\n\nMinisterio de Agricultura, Pesca y Alimentación\r\nICEX\r\nFederación Española del Vino",
+    "docs": [
+      {
+        "name": "[Exportaciones españolas de vino - AÑO 2023](https://www.oemv.es/exportaciones-espanolas-de-vino-ano-2023)"
+      },
+      {
+        "name": "[Exportaciones de vino con DOCa Rioja - Año 2023](https://www.oemv.es/exportaciones-de-vino-con-doca-rioja-ano-2023)"
+      },
+      {
+        "name": "[Exportaciones de vino de Francia | Año 2023](https://www.oemv.es/exportaciones-de-vino-de-francia-ano-2023)"
+      },
+      {
+        "name": "Más en [Informes](https://www.oemv.es/informes)"
+      }
+    ],
+    "email": "info@oemv.es",
+    "from_date": "25 de marzo de 2008.",
+    "is_active": "Si",
+    "name": "Observatorio español del mercado del vino",
+    "parents": [
+      "Dicen que es independiente pero económicamente no lo es, depende de financiación pública.",
+      "«..._aunque el Observatorio tiene su origen en el pacto entre el MARM, la Federación Española del Vino, la Secretaría General de Comercio y el ICEX, y se financia en parte importante con fondos públicos, es una Fundación independiente de cualquier organismo_» Ver [Sobre nosotros](https://www.oemv.es/sobre-nosotros)"
+    ],
+    "scope": "estatal",
+    "type": "mixto",
+    "website": "https://www.oemv.es/"
   },
   {
     "is_active": "None",
@@ -1502,16 +2086,6 @@
     "scope": "canarias",
     "type": "publico",
     "website": "https://www.gobiernodecanarias.org/medioambiente/organos/observatorio-canario-del-cambio-climatico/"
-  },
-  {
-    "is_active": "None",
-    "name": "Observatorio Canario de la Juventud",
-    "parents": [
-      "Gobierno de Canarias"
-    ],
-    "scope": "canarias",
-    "type": "publico",
-    "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/"
   },
   {
     "is_active": "None",
@@ -1936,8 +2510,8 @@
     "website": "https://www.obcp.es"
   },
   {
-    "is_active": "None",
     "email": "observatorioinfancia.assda@juntadeandalucia.es",
+    "is_active": "None",
     "name": "Observatorio de la Infancia y Adolescencia de Andalucía",
     "parents": [
       "Agencia de Servicios Sociales y Dependencia",
@@ -1998,6 +2572,12 @@
     ],
     "scope": "estatal",
     "website": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-323"
+  },
+  {
+    "name": "Observatori de l'economia local de Sabadell",
+    "scope": "local",
+    "type": "mixto",
+    "website": "https://www.vaporllonch.cat/observatori-economia-local"
   },
   {
     "description": "El Observatorio de Servicios Sociales y Dependencia se configura como un órgano colegiado, de composición interdepartamental, con funciones asesoras, de investigación, formación y trasferencia del conocimiento en materia de servicios sociales y dependencia; que ejercerá sus funciones con plena autonomía y sin dependencia funcional de ningún órgano. El Observatorio pretende contribuir también a la reflexión y mejora de la práctica profesional, promoviendo el trabajo interdisciplinar, un buen clima laboral que cuide a las personas cuidadoras, la agilización y simplificación de trámites, la formación continua, así como la evaluación de procesos y resultados.",
@@ -2062,6 +2642,23 @@
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.observatorioemancipacion.org/la-emancipacion-juvenil-en-espana-datos-generales/"
+  },
+  {
+    "docs": [
+      {
+        "url": "https://observatorisocial.tarragona.cat/estudis-i-informes-de-ciutat/"
+      }
+    ],
+    "email": "observatorisocial@tarragona.cat",
+    "is_active": "Si",
+    "name": "Observatori Social d'Inclusió i Acció Comunitària de Tarragona",
+    "parents": [
+      "- Institut Municipal de Serveis Socials (IMSST), amb la col·laboració de l’Ajuntament de Tarragona",
+      "- Departament de Drets Socials de la Generalitat de Catalunya"
+    ],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://observatorisocial.tarragona.cat/"
   },
   {
     "description": "Para aportar información útil al agricultor como apoyo en sus procesos de toma de decisiones.",
@@ -2161,6 +2758,21 @@
     "scope": "castilla_la_mancha",
     "type": "publico",
     "website": "https://www.educa.jccm.es/educa-jccm/cm/educa_jccm/tkContent?idContent=62664&locale=en_UK&textOnly=false"
+  },
+  {
+    "description": "Desde la Oficina Verde de la Universidad de Burgos (UbuVerde), y con la colaboración de Sodebur se ha creado un Observatorio por la Repoblacción Rural de castilla y León, cuyo objetivo es informar de la actualidad, analizar y determinar la evolución de la realidad demográfica en el medio rural de Castilla y león. Además, sensibilizar a la población y hacer ver la realidad de esta situación.\n\n- Oficina Verde de la Universidad de Burgos (UbuVerde)\r\n- Sodebur (Sociedad para el desarrollo de la povincia de Burgos)",
+    "email": "ubuverde@ubu.es",
+    "is_active": "Si",
+    "name": "Observatorio por la Repoblación Rural de Castilla y León",
+    "parents": [
+      "- Univerisdad de Burgos",
+      "- Oficina Verde de la Universidad de Burgos (UbuVerde)",
+      "- Sodebur (Sociedad para el desarrollo de la povincia de Burgos)",
+      "- Diputación de Burgos"
+    ],
+    "scope": "provincial",
+    "type": "publico",
+    "website": "https://www.ubu.es/ubuverde/repoblacion-rural/observatorio-por-la-repoblacion-rural"
   },
   {
     "email": "smartcatalonia@gencat.cat",
@@ -2348,6 +2960,7 @@
     "website": "https://contratacionresponsablecanarias.org"
   },
   {
+    "description": "Según el [DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2006/11596).",
     "docs": [
       {
         "name": "DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana",
@@ -2357,6 +2970,7 @@
     "from_date": "6 de octubre de 2006",
     "is_active": "Sí",
     "name": "Observatorio de Precios de los Productos Agroalimetarios de la Comunitat Valenciana",
+    "scope": "comunidad_valenciana",
     "type": "publico",
     "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851"
   },
@@ -2401,6 +3015,18 @@
     "scope": "local",
     "type": "publico",
     "website": "https://movilidad.malaga.eu/es/lineas-de-trabajo/movima/"
+  },
+  {
+    "description": "Es un órgano colegiado adscrito a la Concejalía de Bienestar Social del Ayuntamiento de Fuenlabrada, cuya misión es convertirse en referente para la medición, seguimiento, evaluación, análisis y difusión de información sobre el desarrollo de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia.\n\nEl Observatorio, recopila y difunde el conjunto de conocimientos, experiencias y buenas prácticas, ofreciendo una visión global y permanente de la situación y evolución de la Ley, que permite evaluar su impacto y el cumplimiento del mapa de recursos y servicios que determina, así como trasladar a otras administraciones la información que mejore la aplicación de la citada Ley.\n\nFunciones del Observatorio\n\n1. Constituir una base de información que pueda dar cuenta de la situación de la aplicación de la Ley a nivel local.\n\n2. Analizar las nuevas tendencias y cambios que se vayan produciendo en la aplicación de la Ley y factores asociados.\n\n3. Realizar investigaciones y estudios preparatorios y de viabilidad, organizar reuniones de técnicos y usuarios, y crear, si fuera necesario grupos de trabajo.\n\n4. Difundir los procesos anteriores y elaborar publicaciones e informes de carácter periódico sobre la temática.\n\n5. Facilitar el intercambio de información sobre la aplicación de la Ley con otros municipios y agentes sociales como empresas del sector, vecinos, técnicos, sindicatos, partidos políticos.\n\n6. Proponer un mapa de recursos lo que supondrá una mayor apuesta por la calidad.",
+    "email": "observatoriodependencia@ayto-fuenlabrada.es",
+    "is_active": "Si",
+    "name": "Observatorio Municipal de la Discapacidad",
+    "parents": [
+      "Concejalía de Bienestar Social del Ayuntamiento de Fuenlabrada"
+    ],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://diversidad-funcional.ayto-fuenlabrada.es/observatorio-municipal-de-la-dependencia.php"
   },
   {
     "description": "El objetivo de este informe estadístico, de carácter anual, es conocer de una forma completa e integrada las pautas de la visita y el perfil del visitante, tanto turistas como excursionistas, entre otros aspectos. Es decir, se trata de determinar los perfiles del visitante que llega a la ciudad de Málaga: cuáles son sus motivaciones iniciales, cómo organizan su viaje, qué tipo de actividades realizan durante su estancia, cómo valoran la oferta disponible y el viaje en función de sus expectativas iniciales, entre otros aspectos relevantes.",
@@ -2726,6 +3352,18 @@
       "Ministerio de Trabajo y Economía Social"
     ],
     "website": "https://observatorimarinaalta.org"
+  },
+  {
+    "description": "Acción de divulgación, análisis y sensibilización dirigido a mejorar el conocimiento sobre las desigualdades de género que se producen en el ámbito de empleo y emprendimiento y las claves para superarlas desde la corresponsabilidad de los distintos agentes que operan en el ámbito laboral.",
+    "is_active": "Si",
+    "name": "Observatorio de Igualdad y Empleo",
+    "parents": [
+      "Instituto de la Mujer Castilla-La mancha",
+      "Junta de Castilla-La Mancha"
+    ],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://www.observatorioigualdadyempleo.es/"
   },
   {
     "is_active": "None",
@@ -3143,9 +3781,8 @@
     "from_date": "2015",
     "is_active": "Sí",
     "name": "Observatorio de residuos",
-    "parents": [
-      "Diputación Foral de Álava / Arabako Foru Aldundia"
-    ],
+    "parents": ["Diputación Foral de Álava / Arabako Foru Aldundia"],
+    "scope": "pais_vasco",
     "type": "publico",
     "website": "https://web.araba.eus/es/medio-ambiente/residuos/observatorio-de-residuos"
   },
@@ -3197,14 +3834,15 @@
     "website": "https://obsaludasturias.com/obsa"
   },
   {
-    "name": "Observatorio de la Calidad de Tenerife",
-    "type": "publico",
-    "website": "https://www.calidadtenerife.org",
-    "email": "observatorio@tenerife.es",
     "description": "El Observatorio de la Calidad de Tenerife es una iniciativa del Cabildo Insular, orientada al estudio, análisis y evolución de las nuevas tendencias y modelos de calidad de gestión en el ámbito nacional e internacional, dirigida especialmente a monitorizar y fomentar la implantación de la calidad en Tenerife.\n\nCabildo de Tenerife",
+    "email": "observatorio@tenerife.es",
+    "name": "Observatorio de la Calidad de Tenerife",
+    "parents": ["Cabildo de Tenerife"],
     "scope": "local",
     "parents": [
       "Cabildo de Tenerife"
     ]
+    "type": "publico",
+    "website": "https://www.calidadtenerife.org"
   }
 ]
