@@ -1203,6 +1203,18 @@
     "scope": "region_de_murcia"
   },
   {
+    "name": "Observatorio de Competencias Digitales de la Comunidad de Madrid",
+    "type": "publico",
+    "website": "https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-competencias-digitales-comunidad-madrid",
+    "description": "El Observatorio es el grupo de trabajo de la Comunidad de Madrid para la evaluación, el seguimiento y la propuesta de las acciones a realizar en el marco del Plan de Capacitación Digital para los Ciudadanos de la Comunidad de Madrid 2022-2025.\n\nCompetencias\r\na) Definir y perfeccionar el sistema de indicadores del Plan, elaborando planes de seguimiento trimestrales que permitan evaluar el desarrollo, resultado e impacto del plan.\r\nb) Difundir en la sociedad los contenidos y objetivos del Plan de Capacitación Digital para los Ciudadanos de la Comunidad de Madrid 2022-2025, y recoger las propuestas e iniciativas sociales que surjan en su desarrollo.\r\nc) Detectar cualquier desviación operativa y trasladar la información al grupo operativo para permitir la toma de decisiones basadas en las evidencias encontradas en los distintos informes de seguimiento.\r\nd) Fomentar la cooperación y colaboración en las actuaciones de las distintas consejerías en materia de desarrollo de competencias digitales para evitar solapamientos y duplicidades, proponiendo una solución a las consejerías implicadas en caso de que se produjeran intersecciones entre los colectivos en riesgo de exclusión social, sin perjuicio de las competencias atribuidas a cada una de ellas.\r\ne) Identificar nuevas propuestas y casos de éxito que puedan ser replicados en el ámbito del Plan.",
+    "scope": "autonómico",
+    "from_date": "14 de Febrero de 2024",
+    "parents": [
+      "Consejería de digitalización de la Comunidad de Madrid"
+    ],
+    "is_active": "Si"
+  },
+  {
     "location": "A Coruña",
     "name": "Observatorio Urbano de A Coruña",
     "parents": [
