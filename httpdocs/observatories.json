@@ -4389,5 +4389,28 @@
       }
     ],
     "website": "https://osib.uib.cat"
+  },
+  {
+    "from_date": "2024",
+    "name": "Observatorio de Autónomos de Aragón",
+    "website": "https://www.aragonhoy.es/vicepresidencia-segunda-economia-empleo-industria/gobierno-aragon-sella-ata-upta-acuerdo-desarrollar-programa-segunda-oportunidad-96693",
+    "scope": "aragon",
+    "type": "mixto",
+    "description": "Anunciado el 4 de julio de 2024 sin más detalles. Enmarcado en una subvención de 150.000 € para el Programa de Segunda Oportunidad del Gobierno de Aragón.",
+    "parents": [
+      "Consejera de Economía, Empleo e Industria",
+      "Gobierno de Aragón"
+    ]
+  },
+  {
+    "name": "Observatorio Aragonés del Consumo",
+    "website": "https://www.aragon.es/-/observatorio-aragones-de-consumo",
+    "scope": "aragon",
+    "type": "publico",
+    "description": "Iniciativa de la Dirección General de Protección de Consumidores y &nbsp;Usuarios y de la Universidad de Zaragoza para, en el marco de las líneas de investigación ya consolidadas, dar un nuevo paso en el servicio a los consumidores aragoneses, integrando la información existente en las bases de datos del Centro de Información y Documentación Aragonés de Consumo (CIDAC) —señaladamente la información de prensa y los estudios realizados por otras entidades— y el Sistema de Información de Consumo —fundamentalmente los datos sobre consultas, reclamaciones y denuncias, campañas y arbitraje—, y completándola con información procedente de forma directa del consumidor — mediante encuestas.",
+    "parents": [
+      "Consejera de Economía, Empleo e Industria",
+      "Gobierno de Aragón"
+    ]
   }
 ]
