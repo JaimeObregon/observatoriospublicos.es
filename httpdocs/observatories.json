@@ -3762,7 +3762,7 @@
     "is_active": "Sí",
     "name": "Observatorio de Convivencia",
     "parents": ["Ayuntamiento de Vitoria-Gasteiz"],
-    "scope": "estatal",
+    "scope": "local",
     "type": "publico",
     "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u50993cf2_1781a8edc14__7e4c"
   },
