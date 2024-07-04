@@ -436,11 +436,6 @@
     "scope": "estatal"
   },
   {
-    "name": "Observatorio de Vivienda y Suelo",
-    "parents": ["Ministerio de Transportes y Movilidad Sostenible"],
-    "scope": "estatal"
-  },
-  {
     "description": "Para <q>conocer la realidad de la juventud aragonesa desde un enfoque integral, con el fin de orientar las políticas de juventud adecuándolas a sus necesidades reales, así como plantear actuaciones eficaces dirigidas a dicho colectivo, lo que implica obtener información relevante, sistemática y actualizada, sobre la situación actual de los jóvenes aragoneses, así como su evolución a lo largo del tiempo y los principales factores que inciden en la misma</q>.",
     "docs": [
       {
@@ -1802,6 +1797,11 @@
   },
   {
     "description": "Es un foro de debate, de análisis crítico, de reflexión y generador de propuestas de actuaciones para avanzar en un modelo de sociedad en el que la vivienda cumpla con las características que se recogen en la Nueva Agenda Urbana, un modelo de ciudad en que se facilite el acceso a una vivienda digna accesible, eficiente, sostenible y en el que quepamos por igual.",
+    "docs": [
+      {
+        "name": "En \"novedades\" el último informe data de abril de 2021"
+      }
+    ],
     "email": "bobsvivi@cantabria.es",
     "from_date": "2016",
     "name": "Observatorio de Vivienda y Suelo",
@@ -1811,6 +1811,7 @@
       "Gobierno de Cantabria"
     ],
     "scope": "cantabria",
+    "to_date": "parece que en 2021 \"muere\"",
     "website": "https://www.observatoriovivienda.cantabria.es"
   },
   {
@@ -4140,5 +4141,231 @@
     "scope": "estatal",
     "type": "mixto",
     "website": "https://1mayo.ccoo.es/noticia:682134--CCOO_presenta_el_Observatorio_Social_de_las_personas_mayores_2023&opc_id=2910c4b71f6f452242c8bad8cf5f8f7e"
+  },
+  {
+    "description": "Procesar e difundir a información dispoñible sobre a sinistralidade laboral en Galicia, con propostas de mellora respecto á PRL e condicións de traballo.\r\nElaboración de documentación estatística derivada do tratamento dos datos que atanen á sinistralidade laboral, entendendo tanto accidentes de traballo como enfermidades profesionais e enfermidades relacionadas co traballo.\r\nElaboración de informes, documentos técnicos e estudos das distintas disciplinas preventivas en PRL, que a súa vez son o resultado do traballo do persoal técnico do ISSGA a través de programas executados polo propio Instituto. Isto tendo en conta os sucesivos mandatos tanto das estratexias galegas en materia de SST, como dos plans anuais de actividades do ISSGA.\r\nRealización de campañas, alertas e difusión de documentación técnica para a promoción da PRL e o mellor cumprimento da normativa.",
+    "docs": [
+      {
+        "name": "La siniestralidad laboral en Galicia en el año 2023"
+      },
+      {
+        "name": "Las enfermedades profesionales en Galicia en el año 2023"
+      },
+      {
+        "name": "Siniestralidad laboral de los conductores profesionales_Galicia_2014 -2018"
+      },
+      {
+        "name": "Siniestralidad laboral en los servicios de alojamiento y de comidas y bebidas_Galicia_2014 -2018"
+      },
+      {
+        "name": "Análise da mortalidade por accidente de traballo en Galicia. 2005-2017"
+      },
+      {
+        "name": "Siniestralidad del personal trabajador por cuenta propia o autónomo. Años 2009-2016"
+      }
+    ],
+    "is_active": "Si",
+    "name": "Observatorio Galego de Condicións de Traballo",
+    "parents": ["Instituto De Seguridade E Saúde Laboral De Galicia - Issga"],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://issga.xunta.gal/gl/observatorio"
+  },
+  {
+    "description": "El Observatorio de la realidad de las personas jóvenes es una herramienta fundamental para mantener un conocimiento actualizado de la realidad y poder plantear y ejecutar acciones que respondan a las necesidades y expectativas de las y los destinatarios de las políticas de juventud que materializa este Plan Joven.\n\nLos informes analizan diferentes ámbitos de la realidad, especialmente aquellos relacionados con la emancipación del colectivo joven: empleo, formación y vivienda, pero complementándolo con otros aspectos que ayudan en el camino de autonomía de las personas jóvenes: salud, actividad deportiva, euskera..",
+    "docs": [
+      {
+        "name": "Informe especial: Estudio-diagnóstico sobre el estado de la salud mental en la población joven de Vitoria-Gasteiz"
+      },
+      {
+        "name": "Informe del Observatorio de la realidad joven de Vitoria-Gasteiz"
+      },
+      {
+        "name": "Informe especial: Mascarilla, cuadrilla y pintalabios. El impacto de la pandemia y sus repercusiones en la población joven LGTBI+ en Vitoria-Gasteiz"
+      },
+      {
+        "name": "Informe especial: El impacto de los ERTE en la población joven de Vitoria-Gasteiz"
+      },
+      {
+        "name": "Informe especial: El impacto del covid-19 en la población joven de Vitoria-Gasteiz"
+      },
+      {
+        "name": "Informe del Observatorio Plan Joven año 2020"
+      }
+    ],
+    "email": "gazteria@vitoria-gasteiz.org",
+    "is_active": "Si",
+    "name": "Observatorio de la realidad de las personas jóvenes",
+    "parents": ["Ayuntamiento de Vitoria-Gasteiz"],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u7538efd3_12da74c12a4__7fa5"
+  },
+  {
+    "description": "Se reúne después de 7 años en 2020.\r\nhttps://www.universidades.gob.es/el-observatorio-de-becas-se-reune-siete-anos-despues-para-abordar-la-reforma-del-sistema/",
+    "from_date": "2010",
+    "is_active": "Si",
+    "name": "Observatorio Universitario de Becas, Ayudas al Estudio y Rendimiento Académico",
+    "parents": ["Min. Educación. Min. Universidades"],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://www.boe.es/eli/es/rd/2010/10/01/1220/con"
+  },
+  {
+    "is_active": "Si",
+    "name": "Observatorio del edadismo",
+    "parents": [
+      "Ministerio de Derechos Sociales Consumo y Agenda 2030",
+      "https://blogciudades.imserso.es/-/el-observatorio-del-edadismo-publica-guia-para-una-comunicacion-libre-de-edadismo-hacia-las-personas-mayores-y-el-edadismo-hacia-las-personas-mayores-en-las-sentencias-del-tribunal-constitucional"
+    ],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://www.observatoriodeledadismo.es/"
+  },
+  {
+    "description": "El fin fundacional del OAG es garantizar que el puerto de Granadilla se construya y gestione de manera respetuosa con el medio ambiente, controlando el estado y las tendencias de la biodiversidad local y garantizando al mismo tiempo, la aplicación adecuada de las medidas correctores y compensatorias",
+    "email": "info@oag-fundacion.org",
+    "name": "Observatorio Ambiental Granadilla",
+    "parents": [
+      "Gobierno de Canarias",
+      "Consejería de Transición Ecológica y Energía",
+      "Autoridad Portuaria de S/C de Tenerife",
+      "Ministerio para la Transición Ecológica",
+      "Universidad de La Laguna"
+    ],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://www.oag-fundacion.org/"
+  },
+  {
+    "from_date": "2011",
+    "is_active": "Si",
+    "name": "Observatorio de Sistemas de Salud y Salud Pública",
+    "parents": [
+      "Escuela Andaluza de Salud Pública, Consejería de Salud y Consumo"
+    ],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://www.easp.es/osp/"
+  },
+  {
+    "description": "una herramienta que facilita, a través de la publicación de boletines estadísticos electrónicos, la utilización integrada de los datos disponibles en las principales fuentes estadísticas oficiales",
+    "docs": [
+      {
+        "name": "[](https://www.mivau.gob.es/urbanismo-y-suelo/suelo/observatorio-de-vivienda-y-suelo)"
+      }
+    ],
+    "is_active": "Si",
+    "name": "Observatorio de Vivienda y Suelo",
+    "parents": ["Ministerio de Vivienda y Agenda Urbana"],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://www.mivau.gob.es/urbanismo-y-suelo/suelo/observatorio-de-vivienda-y-suelo"
+  },
+  {
+    "docs": [
+      {
+        "url": "https://www.transportes.gob.es/recursos_mfom/listado/recursos/observatoriocostesenero2023.pdf"
+      }
+    ],
+    "is_active": "Si",
+    "name": "Observatorio de costes del transporte de mercancías (MINT)",
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://www.transportes.gob.es/transporte-terrestre/servicios-al-transportista/observatorios-del-transporte/observatorios-del-transporte-de-mercancias-por-carretera/observatorios-costes-transporte-mercancias"
+  },
+  {
+    "description": "La misión de OPIMEC es “Coordinar, desarrollar y establecer desde Andalucía, como eje en España y el ámbito internacional, las estructuras básicas precisas para la creación y consolidación de una comunidad global en el campo de las enfermedades crónicas complejas y la pluripatología, mediante la búsqueda sistemática y selección rigurosa de innovaciones y contenidos de interés así como la promoción de la colaboración y el intercambio científico y técnico\".",
+    "is_active": "Si",
+    "name": "Observatorio de Prácticas Innovadoras en el Manejo de Enfermedades Crónicas Complejas",
+    "parents": ["Consejería de Salud y Consumo de la Junta de Andalucía"],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://www.opimec.org/"
+  },
+  {
+    "description": "Consorcio de Infraestructuras de Investigación Europeas (EMSO ERIC).",
+    "is_active": "Si",
+    "name": "Observatorio Europeo Multidisciplinar de los Fondos Marinos y de la Columna de Agua",
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://www.boe.es/eli/es/ai/2019/05/03/(1)"
+  },
+  {
+    "description": "De acuerdo con la Declaración Universal del derecho de los Animales que es aprobada por la Unesco el 27 de octubre de 1978 y ratificada posteriormente por las Naciones Unidas, los animales son seres vivos sensibles que tienen unos derechos que la especie humana tiene que respetar. Los animales de compañía son cada vez más variados, y en todas las legislaciones modernas se les otorga la consideración de un bien juridíco a proteger.\n\nEl Ayuntamiento tiene el deber de proteger a los animales, de acuerdo a las normas y principios constitucionales vigentes, sin prejuicio también de velar por la seguridad de las personas y de sus bienes. Por otra parte, es prioridad de este gobierno municipal aumentar la protección de los animales y aumentar la convivencia de estos con las personas.\n\nPor todo esto se ha creado el Observatorio de Protección Animal del ayuntamiento de Alcoy.",
+    "docs": [
+      {
+        "name": "[Acta 2022](https://www.alcoi.org/export/sites/default/es/areas/sanidad/descargas/Acta_2022_11.pdf)"
+      }
+    ],
+    "email": "sanitat@alcoi.org",
+    "name": "Observatorio Municipal de Protección Animal de Alcoi",
+    "parents": ["Ayuntamiento de Alcoy"],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://www.alcoi.org/es/areas/sanidad/bienestar_animal/observatorio_proteccion.html"
+  },
+  {
+    "is_active": "Si",
+    "name": "Observatorio de Politicas Ambientales",
+    "parents": ["Ministerio de Ciencia e Innovación"],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://www.actualidadjuridicaambiental.com/wp-content/uploads/2022/11/2022-OPAM.pdf"
+  },
+  {
+    "docs": [
+      {
+        "name": "Núm. 9, suplemento, 2021. --Principales cifras actualizadas para el año 2018"
+      }
+    ],
+    "name": "Observatorio Hispano-Francés de Tráfico en los Pirineos",
+    "parents": ["Ministerio de Transportes, Movilidad y Agenda Urbana"],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://cpage.mpr.gob.es/producto/observatorio-hispano-frances-de-trafico-en-los-pirineos-11/"
+  },
+  {
+    "description": "El Observatorio de Personas Tituladas es un proyecto del Consejo Social de la Universidade de Vigo creado con el propósito de que la universidad realice un seguimiento de las personas tituladas y coordine todo lo relativo al antiguo estudiantado.\n\nUniversidade de Vigo",
+    "from_date": "29 de abril de 2016",
+    "is_active": "Si",
+    "name": "Observatorio de Personas Tituladas de la Universidade de Vigo",
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "http://observatorio.uvigo.gal/es/"
+  },
+  {
+    "is_active": "Si",
+    "name": "Observatorio de empleo y actividad económica",
+    "parents": ["Ayuntamiento de Albacete"],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://www.albacete.es/es/empleo-promocion-economica/empleo/observatorio-empleo"
+  },
+  {
+    "description": "El Observatorio Social de Álava se crea precisamente como una herramienta de información complementaria sobre la actividad de los Servicios Sociales en el Territorio Histórico. A través de esta web, la Diputación Foral de Álava pretende poner a disposición de los técnicos que trabajan en el área de Bienestar Social y de la ciudadanía en general un núcleo de datos estadísticos que permitan:\nConocer las principales magnitudes de la red alavesa de Servicios Sociales.\nRealizar comparaciones entre diferentes cuadrillas y/o municipios.\nValorar la adecuación de los recursos disponibles a las necesidades presentes en el Territorio Histórico.\nEvaluar la adecuación de los servicios en referencia a una serie de estándares de buena práctica.\nRealizar un seguimiento de la evolución de los Servicios Sociales en el Territorio Histórico.",
+    "docs": [
+      {
+        "name": "Valoraciones de dependencia. Álava 2022 [PDF]"
+      },
+      {
+        "name": "Plazas en servicios residenciales y de atención diurna. Álava 2022 [PDF]"
+      },
+      {
+        "name": "Personas usuarias de servicios sociales. Álava 2022 [PDF]"
+      },
+      {
+        "name": "Gasto público en servicios y prestaciones sociales. Álava 2020 [PDF]"
+      }
+    ],
+    "is_active": "Si",
+    "name": "Observatorio de Servicios Sociales de Araba",
+    "parents": [
+      "Instituto Foral de Bienestar Social (IFBS)",
+      "Diputación Foral de Álava"
+    ],
+    "scope": "provincial",
+    "type": "publico",
+    "website": "https://www.dataraba.eus"
   }
 ]
