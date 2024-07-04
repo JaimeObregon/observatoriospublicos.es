@@ -4441,5 +4441,13 @@
       "Consejera de Economía, Empleo e Industria",
       "Gobierno de Aragón"
     ]
+  },
+  {
+    "name": "Observatorio Turístico de Gipuzkoa",
+    "website": "https://www.ondavasca.com/nace-el-observatorio-turistico-de-gipuzkoa/",
+    "parents": ["Diputación de Gipuzkoa"],
+    "description": "Para <q>recabar la información necesaria sobre el turismo y ponerla a disposición de la industria turística del territorio para que esta pueda tomar las decisiones más adecuadas y anticiparse a los retos del sector</q>",
+    "scope": "gipuzkoa",
+    "type": "publico"
   }
 ]
