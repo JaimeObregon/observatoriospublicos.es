@@ -4365,5 +4365,29 @@
     "scope": "provincial",
     "type": "publico",
     "website": "https://www.dataraba.eus"
+  },
+  {
+    "is_active": "Si",
+    "from_date": "2008",
+    "name": "Observatori Social de les Illes Balears",
+    "scope": "islas_baleares",
+    "parents": [
+      "Govern de les Illes Balears",
+      "Universitat de les Illes Balears",
+      "Càtedra d’Innovació Social “la Caixa”"
+    ],
+    "description": "Aquest projecte va néixer a la UIB l'any 2008 com a resultat del conveni de col·laboració entre el Govern Balear i la Universitat de les Illes Balears en matèria de serveis socials. Aquella primera etapa es va desenvolupar entre 2008 i 2012. Ara, en un context difícil de nou, la Universitat de les Illes Balears, a través de la Càtedra d’Innovació Social “la Caixa”, dóna un nou impuls a l'Observatori Social de les Illes Balears, amb l’objectiu de recollir i generar informació per millorar el coneixement de la situació social de Mallorca, Menorca, Eivissa i Formentera i detectar situacions emergents, punts crítics i respostes innovadores que facilitin la cohesió i la justícia social.",
+    "type": "publico",
+    "docs": [
+      {
+        "name": "La renda mínima d'inserció i la gestió del risc social",
+        "url": "https://osib.uib.cat/digitalAssets/235/235725_informe01.pdf"
+      },
+      {
+        "name": "La diversidad familiar en las islas Baleares. Continuidades y nuevas tendencias.",
+        "url": "https://osib.uib.cat/digitalAssets/235/235728_informe02.pdf"
+      }
+    ],
+    "website": "https://osib.uib.cat"
   }
 ]
