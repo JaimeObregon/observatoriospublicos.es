@@ -543,6 +543,11 @@
     "name": "Observatorio Español contra la LGBTfobia"
   },
   {
+    "docs": [
+      {
+        "name": "[Facebook](https://www.facebook.com/catpaisatge/?locale=es_ES) - [Instagram](https://www.instagram.com/arxiucatpaisatge/) - [Vimeo](https://vimeo.com/catpaisatge) - [X](https://twitter.com/catpaisatge?lang=es)"
+      }
+    ],
     "email": "observatori@catpaisatge.net",
     "is_active": "Si",
     "name": "Observatori del Paisatge de Catalunya",
@@ -669,7 +674,7 @@
     ],
     "email": "observatorio@dip-caceres.es",
     "name": "Observatorio Socioeconómico Provincial de la Diputación de Cáceres",
-    "parents": ["- Diputación Provincial de Cáceres"],
+    "parents": ["Diputación Provincial de Cáceres"],
     "scope": "provincial",
     "type": "publico",
     "website": "http://observatorio.dip-caceres.es/"
@@ -3796,16 +3801,7 @@
     "website": "https://www.calidadtenerife.org"
   },
   {
-    "name": "Observatorio de la Publicidad e Información no Sexista del Principado de Asturias.",
-    "type": "publico",
-    "website": "https://iam.asturias.es/observatorio-de-la-publicidad-e-informacion-no-sexista",
-    "email": "institutoasturianodelamujer@asturias.org",
     "description": "El Observatorio de la Publicidad e Información no Sexista nace para recoger todas aquellas quejas o denuncias que puedan atentar contra la imagen o dignidad de las mujeres en medios de comunicación y/o publicitarios.\n\nInstituto Asturiano de la Mujer.",
-    "scope": "autonómico",
-    "from_date": "2013",
-    "parents": [
-      "Instituto Asturiano de la Mujer. Consejería de Presidencia, Reto Demográfico, Igualdad y Turismo. Gobierno del Principado de Asturias."
-    ],
     "docs": [
       {
         "name": "-Denuncias recibidas (2014-2023):"
@@ -3820,19 +3816,19 @@
         "url": "https://iam.asturias.es/documents/269132/3354977/DENUNCIAS+PUBLICIDAD.pdf/3d615fff-1cfc-5817-b401-32c1e2d5b31f"
       }
     ],
-    "is_active": "Si"
+    "email": "institutoasturianodelamujer@asturias.org",
+    "from_date": "2013",
+    "is_active": "Si",
+    "name": "Observatorio de la Publicidad e Información no Sexista del Principado de Asturias.",
+    "parents": [
+      "Instituto Asturiano de la Mujer. Consejería de Presidencia, Reto Demográfico, Igualdad y Turismo. Gobierno del Principado de Asturias."
+    ],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://iam.asturias.es/observatorio-de-la-publicidad-e-informacion-no-sexista"
   },
   {
-    "name": "Observatorio Asturiano de Servicios Sociales (OBSERVASS)",
-    "type": "publico",
-    "website": "https://observass.com/",
-    "email": "Formulario Web",
     "description": "Sistema de información que permita la adecuada dirección, planificación y evaluación de los servicios sociales.\n\nLa creación del Observatorio Asturiano de Servicios Sociales tiene la finalidad de:\r\n-Aportar y analizar información que permita un mejor conocimiento de la situación de los servicios sociales del Principado de Asturias con el fin favorecer la toma de decisiones en el diseño y desarrollo de políticas sociales.\r\n-Asesorar a la Dirección General con competencia en materia de planificación de servicios sociales en el ejercicio de sus funciones como unidad estadística.\r\n-Facilitar la labor a profesionales del ámbito técnico y/o científico relacionados con los servicios sociales.\r\n-Materializar el derecho que tiene la ciudadanía de acceso a la información que obra en poder de la Administración sobre los servicios que presta y de su impacto en la sociedad.\n\nSe organiza en un Consejo Rector y una Comisión Asesora cuya composición se detalla en el [Decreto 35/2017, de 31 de mayo, por el que se crea y se regula el Observatorio Asturiano de Servicios Sociales (OBSERVASS)], BOPA 132 de 9-vi-2017 (https://sede.asturias.es/bopa/2017/06/09/2017-06449.pdf)",
-    "scope": "autonómico",
-    "from_date": "31/05/2017\r\n[Decreto 35/2017, de 31 de mayo, por el que se crea y se regula el Observatorio Asturiano de Servicios Sociales (OBSERVASS)] BOPA 132 de 9-vi-2017 \r\n(https://sede.asturias.es/bopa/2017/06/09/2017-06449.pdf)",
-    "parents": [
-      "Consejería de Derechos Sociales y Bienestar. Gobierno del Principado de Asturias."
-    ],
     "docs": [
       {
         "name": "-INFORME | 17 DE ABRIL DE 2023"
@@ -3871,104 +3867,108 @@
         "name": "(https://observass.com/wp-content/uploads/2019/04/ANEXO-ESTADISTICO-INOBSERVASS-N3.xls)"
       }
     ],
-    "is_active": "Si"
+    "email": "Formulario Web",
+    "from_date": "31/05/2017\r\n[Decreto 35/2017, de 31 de mayo, por el que se crea y se regula el Observatorio Asturiano de Servicios Sociales (OBSERVASS)] BOPA 132 de 9-vi-2017 \r\n(https://sede.asturias.es/bopa/2017/06/09/2017-06449.pdf)",
+    "is_active": "Si",
+    "name": "Observatorio Asturiano de Servicios Sociales (OBSERVASS)",
+    "parents": [
+      "Consejería de Derechos Sociales y Bienestar",
+      "Gobierno del Principado de Asturias"
+    ],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://observass.com/"
   },
   {
-    "name": "Observatorio de Convivencia Escolar de Cantabria",
-    "type": "publico",
-    "website": "https://www.educantabria.es/diversidad/convivencia",
     "description": "El Observatorio para la Convivencia Escolar de Cantabria es una organización colegiada de carácter consultivo que tiene como objetivo dotar a la administración educativa de las herramientas necesarias para la prevención y mejora del clima escolar en Cantabria.\n\nPresidencia: (Consejero de Educación, Formación Profesional y Universidades)\r\nVicepresidencia (Directora General de Centros e Infraestructuras Educativas)\r\nSecretario.\r\nVocales.",
-    "scope": "autonómico",
     "from_date": "13 de octubre de 2006",
+    "is_active": "Si",
+    "name": "Observatorio de Convivencia Escolar de Cantabria",
     "parents": [
       "Consejería de Educación, Formación Profesional y Universidades de Cantabria."
     ],
-    "is_active": "Si"
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://www.educantabria.es/diversidad/convivencia"
   },
   {
-    "name": "Observatorio de la cuenca Saja-Besaya",
-    "type": "publico",
-    "website": "https://observatoriosabe.es",
-    "email": "info@observatoriosabe.es",
     "description": "El Observatorio de la cuenca Saja-Besaya, denominado Observatorio SABE, es un órgano independiente, de carácter técnico y multidisciplinar, que trabaja por implementar mejoras en nuestros ecosistemas, paisajes, estuarios, zonas forestales o urbanas, entre otras.\n\nConsejo Asesor:\n\n> El Consejo Asesor está compuesto por Soledad Nogués, profesora titular de Urbanística y Ordenación del Territorio de la Universidad de Cantabria y Torrelaveguense ilustre 2016, Jesús Tortosa, Director General de la Cámara de Comercio de Cantabria, Leandro Morante, exdirector del CIMA de Torrelavega, Sonsoles Pérez, Jefa de seguridad, higiene, medio ambiente y calidad de Solvay, Felipe González, delegado en Cantabria de SEO Birdlife, y Fernando Isasi, Director gerente de la Red Cántabra de Desarrollo Rural.\n\nConsejo Rector:\n\n>  14 personas (6 de las entidades incorporadas, 6 del Consejo Asesor y 2 de la secretaría y dirección).",
-    "scope": "autonómico",
-    "from_date": "1 de Junio del 2022",
-    "parents": [
-      "Instituto de Hidráulica Ambiental",
-      "Universidad de Cantabria"
-    ],
     "docs": [
       {
         "url": "https://observatoriosabe.es/documentos"
       }
     ],
-    "is_active": "Si"
+    "email": "info@observatoriosabe.es",
+    "from_date": "1 de Junio del 2022",
+    "is_active": "Si",
+    "name": "Observatorio de la cuenca Saja-Besaya",
+    "parents": [
+      "Instituto de Hidráulica Ambiental",
+      "Universidad de Cantabria"
+    ],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://observatoriosabe.es"
   },
   {
-    "name": "Observatorio ciudadano",
-    "type": "mixto",
-    "website": "https://www.oaib.es/observatorio-ciudadano/",
-    "email": "info@oaib.es",
     "description": "La confianza de los ciudadanos en las instituciones públicas se gana con dificultad y se pierde fácilmente. Lo ideal es que las instituciones públicas actúen de manera socialmente responsable y ética para ganar y mantener la confianza de los ciudadanos en las instituciones públicas y políticas.\n\nLos ciudadanos activos son cruciales en la lucha contra la corrupción: llaman la atención sobre la gravedad de este problema, elevan la conciencia pública sobre su impacto, y actúan como vigilantes efectivos de cargos públicos y partidos monitorizándolos y manteniéndolos bajo un escrutinio constante en términos de rendición de cuentas y capacidad de respuesta. Esto conduce poco a poco a un mecanismo de autocontrol, ya que obliga a los cargos y funcionarios públicos a comportarse éticamente y ofrecer un gobierno limpio. Por el contrario, altos niveles de percepción de mala gobernanza o corrupción, conducen a la frustración de los ciudadanos con su sector público, a la apatía pública, a la falta de compromiso cívico y a la falta de confianza en el proceso político y democrático, y finalmente también al aumento del fraude fiscal, que es la otra cara de la misma moneda.\n\nLa Convención de las Naciones Unidas contra la Corrupción (UNCAC) proporciona la base para la participación ciudadana en los esfuerzos anticorrupción en el artículo 13, que obliga a los Estados miembros a «tomar las medidas adecuadas para promover la participación activa de individuos y grupos ajenos al sector público, como la sociedad civil, las organizaciones no gubernamentales y las organizaciones comunitarias, en la prevención y la lucha contra la corrupción «, y exige a los Estados miembros que proporcionen vías de participación pública en la toma de decisiones.\n\nEste Observatorio pretende contribuir dentro de sus posibilidades, a esta participación activa de la ciudadanía a favor de la transparencia en el diseño de las políticas públicas, y de la integridad en su ejecución.\n\nundefined",
-    "scope": "autonómico",
-    "from_date": "N/A",
-    "to_date": "N/A",
-    "parents": [
-      "- Parlamento de les Illes",
-      "- Oficina de Prevención y Lucha contra la Corrupción en las Illes Balears"
-    ],
     "docs": [
       {
         "name": "N/A"
       }
-    ]
-  },
-  {
-    "name": "Observatorio ciutadano de la Sequía",
-    "type": "publico",
-    "website": "https://www.creaf.cat/es/observatorio-ciutadano-de-la-sequia",
-    "email": "contacte@creaf.uab.cat",
-    "description": "El Observatorio Ciudadano de la Sequía es un proyecto de ciencia ciudadana que tiene por objetivo avanzar en el mejor conocimiento del riesgo de sequía en España.",
-    "scope": "estatal",
-    "from_date": "Noviembre 2020"
-  },
-  {
-    "name": "Observatorio de Turismo Sostenible de Mallorca",
-    "type": "publico",
-    "website": "https://stomallorca.com",
-    "email": "hello@stomallorca.com",
-    "description": "STO Mallorca nace en el marco del [Plan de Recuperación, Transformación y Resiliencia del Gobierno de España](https://www.mincotur.gob.es/es-es/recuperacion-transformacion-resiliencia/paginas/plan-recuperacion-transformacion-resiliencia.aspx) con los fondos europeos Next Generation EU alineados con el plan estratégico de la FMT.\n\nEl Observatorio de Turismo Sostenible de Mallorca tiene como misión generar información de valor que permita guiar las decisiones del sector público y privado, dotando de inteligencia toda la cadena de valor de forma que se incrementa su competitividad y productividad, teniendo siempre en consideración los principios directores de la sostenibilidad.\n\nEl Observatorio de Turismo Sostenible de Mallorca tiene como misión generar información de valor que permita guiar las decisiones del sector público y privado, dotando de inteligencia toda la cadena de valor de forma que se incrementa su competitividad y productividad, teniendo siempre en consideración los principios directores de la sostenibilidad.\n\n- La Agencia de Estrategia Turística de las Islas Baleares (AETIB)\r\n- La Federación de Entidades Locales de las Islas Baleares (FELIB)\r\n- La Cámara de Comercio de Mallorca\r\n- AENA (Aeropuertos Españoles y Navegación Aérea)\r\n- La Autoridad Portuaria de Baleares (APB)\r\n- La Agencia Estatal de Meteorología (AEMET)\r\n- El Instituto de Estadística de las Illes Balears (IBESTAT)\r\n- Federación Empresarial Hotelera de Mallorca\r\n- Agrupación de Cadenas Hoteleras Baleares\r\n- Agrupación Empresarial de Agencias de Viaje de Baleares\r\n- Creado en 1905, Fomento del Turismo de Mallorca\r\n- La Fundación Impulsa Balears\r\n- El clúster internacional de las Tecnologías de la Información y la Comunicación aplicadas al Turismo (TURISTEC)\r\n- La Universitat de les Illes Balears (UIB)",
-    "scope": "local",
+    ],
+    "email": "info@oaib.es",
     "from_date": "N/A",
+    "name": "Observatorio ciudadano",
+    "parents": [
+      "- Parlamento de les Illes",
+      "- Oficina de Prevención y Lucha contra la Corrupción en las Illes Balears"
+    ],
+    "scope": "autonómico",
+    "to_date": "N/A",
+    "type": "mixto",
+    "website": "https://www.oaib.es/observatorio-ciudadano/"
+  },
+  {
+    "description": "El Observatorio Ciudadano de la Sequía es un proyecto de ciencia ciudadana que tiene por objetivo avanzar en el mejor conocimiento del riesgo de sequía en España.",
+    "email": "contacte@creaf.uab.cat",
+    "from_date": "Noviembre 2020",
+    "name": "Observatorio ciutadano de la Sequía",
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://www.creaf.cat/es/observatorio-ciutadano-de-la-sequia"
+  },
+  {
+    "description": "STO Mallorca nace en el marco del [Plan de Recuperación, Transformación y Resiliencia del Gobierno de España](https://www.mincotur.gob.es/es-es/recuperacion-transformacion-resiliencia/paginas/plan-recuperacion-transformacion-resiliencia.aspx) con los fondos europeos Next Generation EU alineados con el plan estratégico de la FMT.\n\nEl Observatorio de Turismo Sostenible de Mallorca tiene como misión generar información de valor que permita guiar las decisiones del sector público y privado, dotando de inteligencia toda la cadena de valor de forma que se incrementa su competitividad y productividad, teniendo siempre en consideración los principios directores de la sostenibilidad.\n\nEl Observatorio de Turismo Sostenible de Mallorca tiene como misión generar información de valor que permita guiar las decisiones del sector público y privado, dotando de inteligencia toda la cadena de valor de forma que se incrementa su competitividad y productividad, teniendo siempre en consideración los principios directores de la sostenibilidad.\n\n- La Agencia de Estrategia Turística de las Islas Baleares (AETIB)\r\n- La Federación de Entidades Locales de las Islas Baleares (FELIB)\r\n- La Cámara de Comercio de Mallorca\r\n- AENA (Aeropuertos Españoles y Navegación Aérea)\r\n- La Autoridad Portuaria de Baleares (APB)\r\n- La Agencia Estatal de Meteorología (AEMET)\r\n- El Instituto de Estadística de las Illes Balears (IBESTAT)\r\n- Federación Empresarial Hotelera de Mallorca\r\n- Agrupación de Cadenas Hoteleras Baleares\r\n- Agrupación Empresarial de Agencias de Viaje de Baleares\r\n- Creado en 1905, Fomento del Turismo de Mallorca\r\n- La Fundación Impulsa Balears\r\n- El clúster internacional de las Tecnologías de la Información y la Comunicación aplicadas al Turismo (TURISTEC)\r\n- La Universitat de les Illes Balears (UIB)",
+    "docs": [
+      {
+        "name": "[Informe de coyuntura 2022](https://stomallorca.com/informes/)"
+      }
+    ],
+    "email": "hello@stomallorca.com",
+    "from_date": "N/A",
+    "name": "Observatorio de Turismo Sostenible de Mallorca",
     "parents": [
       "- Consell de Mallorca",
       "- Fundación Mallorca Turismo",
       "- Conselleria Model Econòmic, Turisme i Treball"
     ],
-    "docs": [
-      {
-        "name": "[Informe de coyuntura 2022](https://stomallorca.com/informes/)"
-      }
-    ]
+    "scope": "local",
+    "type": "publico",
+    "website": "https://stomallorca.com"
   },
   {
-    "name": "Observatori socioeconòmic d'Osona",
-    "type": "publico",
-    "website": "http://www.observatorisocioeconomicosona.cat/",
-    "email": "observatori@creaccio.cat",
     "description": "-eina de monitorització de la realitat i la competitivitat comarcal \r\n-Observatori de prospectiva i anàlisi de les megatendències de futur.\n\nAjuntament de Vic - Creacció\r\nAjuntament de Manlleu\r\nCambra d'Osona\r\nUVic\r\nCEDO",
-    "scope": "provincial",
+    "email": "observatori@creaccio.cat",
     "from_date": "2017",
-    "is_active": "Si"
+    "is_active": "Si",
+    "name": "Observatori socioeconòmic d'Osona",
+    "scope": "provincial",
+    "type": "publico",
+    "website": "http://www.observatorisocioeconomicosona.cat/"
   },
   {
-    "name": "Observatorio de igualdad de genero en el ámbito de la cultura",
-    "type": "publico",
-    "website": "https://www.cultura.gob.es/cultura/mc/espacio-de-igualdad/observatorio-igualdad-genero-cultura.html#",
     "description": "El objeto del Observatorio es el impulso de la presencia de las mujeres y de la igualdad de oportunidades en todas las manifestaciones culturales y en puestos de responsabilidad competencia del Ministerio de Cultura. Para cumplir este objetivo, el Observatorio analizará la información en materia de género para detectar situaciones de desigualdad y establecer medidas correctoras, propiciará la producción artística y la representación femenina en las distintas manifestaciones culturales, impulsará la elaboración de censos de expertas en igualdad de género y cultura, y promocionará el trabajo de las mujeres y su participación equilibrada en jurados y órganos de valoración.",
-    "scope": "estatal",
-    "from_date": "2019",
-    "parents": ["Ministerio de cultura"],
     "docs": [
       {
         "name": "[Indicadores estadísticos culturales vinculados al libro y desgloses por sexo (29 de febrero de 2024)](https://www.cultura.gob.es/dam/jcr:0c086bfc-82c2-4d16-9b39-3b9e5ffdb4eb/datos-estadisticos-libro.pdf)"
@@ -3980,15 +3980,101 @@
         "name": "[Indicadores estadísticos culturales vinculados a bellas artes y bienes culturales y desgloses por sexo (29 de febrero de 2024)](https://www.cultura.gob.es/dam/jcr:74fa19d0-5025-40a4-bf27-23bc0cd53e63/datos-estadisticos-bellas-artes.pdf)"
       }
     ],
-    "is_active": "Si"
+    "from_date": "2019",
+    "is_active": "Si",
+    "name": "Observatorio de igualdad de genero en el ámbito de la cultura",
+    "parents": ["Ministerio de cultura"],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://www.cultura.gob.es/cultura/mc/espacio-de-igualdad/observatorio-igualdad-genero-cultura.html#"
   },
   {
-    "name": "Observatori de la Seguretat Viària",
-    "type": "publico",
-    "website": "https://transit.gencat.cat/ca/seguretat_viaria/observatori/",
     "description": "Reducir la frecuencia y gravedad de los accidentes de tráfico e incrementar los medios y recursos destinados a la prevención de siniestros y a la atención de las víctimas",
-    "scope": "autonómico",
+    "is_active": "Si",
+    "name": "Observatori de la Seguretat Viària",
     "parents": ["Servei Català de Trànsit"],
-    "is_active": "Si"
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://transit.gencat.cat/ca/seguretat_viaria/observatori/"
+  },
+  {
+    "description": "De acuerdo con el Decreto 81/2008, de 25 de julio, por el que se crea y regula el Observatorio del Trabajo de las Illes Balears, éste tiene como finalidad gestionar la obtención y la recopilación de los principales datos sociolaborales de las Illes Balears y profundizar en el estudio y la investigación de las características del empleo y el paro, así como de todos los aspectos relacionados con el mercado laboral (coste de trabajo, accidentes laborales, conflictos, condiciones y calidad de vida laborales, formación profesional e inserción laboral, seguridad y higiene en el trabajo, etc.)",
+    "docs": [
+      {
+        "name": "- Nota coyuntura laboral, enero 2024"
+      },
+      {
+        "name": "- Nota coyuntura laboral, diciembre 2023"
+      }
+    ],
+    "email": "otib@dgplaes.caib.es",
+    "from_date": "2005",
+    "is_active": "Si",
+    "name": "Observatorio de Trabajo de las Islas Baleares",
+    "parents": ["- Govern de les Illes Balears"],
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://www.caib.es/sites/observatorideltreball/es/portada-10648/"
+  },
+  {
+    "description": "Sus actividades incluyen la reunión periódica de sus miembros sobre temas particulares relativos al desarrollo de la industria en España, la realización de estudios de caso y conferencias de expertos, así como la elaboración de un informe anual sobre el estado de las finanzas islámicas en España.",
+    "from_date": "20 de junio de 2017",
+    "is_active": "Si",
+    "name": "Observatorio de Finanzas Islámicas en España SCIEF-Casa Árabe",
+    "parents": [
+      "Ministerio de Asuntos Exteriores",
+      "Unión Europea y de Cooperación (MAEUEC)",
+      "Agencia Española de Cooperación Internacional para el Desarrollo (AECID)",
+      "Junta de Andalucía",
+      "Comunidad de Madrid",
+      "Ayuntamiento de Madrid",
+      "Ayuntamiento de Córdoba"
+    ],
+    "scope": "estatal",
+    "type": "mixto",
+    "website": "https://www.casaarabe.es/eventos-arabes/show/observatorio-de-finanzas-islamicas-en-espana"
+  },
+  {
+    "description": "El “Observatorio Agenda Provincia de Cáceres” se concibe con el objetivo de integrar de forma estructurada tanto la información socioeconómica, como la generada en las distintas acciones incluidas en el Plan de Acción de Diputación de Cáceres.\n\nEste observatorio permitirá realizar el seguimiento de la evolución de los indicadores registrados actualmente y de aquellos que se incorporen durante la consecución de las acciones incluidas en el Plan de Acción de Diputación de Cáceres, constituyendo una herramienta fundamental tanto para las tareas de planificación de Diputación de Cáceres como para la transferencia de resultados a la ciudadanía.",
+    "docs": [
+      {
+        "name": "Mñ´´as que informes parece que se limita a recoger indicadores sobre diferentes objetivos, relacionados con los denominados Objetivos de Desarrollo Sostenibles"
+      }
+    ],
+    "email": "datos-territoriales@dip-caceres.es",
+    "from_date": "11 de diciembre de 2021\n\n\"Diputación de Cáceres desarrolla el “Observatorio Agenda Provincia de Cáceres” con cargo a la ayuda concedida el 11 de diciembre de 2021 por el Ministerio de Transportes, Movilidad y Agenda Urbana, para la elaboración de proyectos piloto de planes de acción local de la Agenda Urbana Española.\"",
+    "is_active": "Si",
+    "name": "Observatorio Agenda Provincia de Cáceres",
+    "parents": ["Diputación de Cáceres"],
+    "scope": "provincial",
+    "type": "publico",
+    "website": "https://observatoriodipcc.dip-caceres.es/"
+  },
+  {
+    "email": "info@observatorigarrotxa.cat",
+    "is_active": "Si",
+    "name": "Observatori per al Desenvolupament Sostenible de la Garrotxa",
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://www.observatorigarrotxa.cat/"
+  },
+  {
+    "is_active": "Si",
+    "name": "Observatori del Partits Polítics de Catalunya",
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://www.upf.edu/web/opcat"
+  },
+  {
+    "docs": [
+      {
+        "url": "https://www.upf.edu/web/opa/estudis/-/asset_publisher/IrXIFT9fCBC2/content/la-produccio-de-cinema-a-catalunya-2022-1/maximized"
+      }
+    ],
+    "is_active": "Si",
+    "name": "Observatorio de la Producción Audidovisual",
+    "scope": "autonómico",
+    "type": "publico",
+    "website": "https://www.upf.edu/web/opa"
   }
 ]
