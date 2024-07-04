@@ -4457,5 +4457,28 @@
     "type": "publico",
     "scope": "local",
     "description": "La página municipal que explica este observatorio está caída en el momento en el que escribo esto…"
+  },
+  {
+    "name": "Observatorio de Juventud de las Illes Balears (OBJIB)",
+    "website": "https://www.caib.es/sites/objib/es/inici-33505/",
+    "parents": [
+      "Instituto Balear de la Juventud (IBJOVE) de la Consejería de Asuntos Sociales y Deportes",
+      "Departamento de Promoción Económica y Desarrollo Local del Consejo de Mallorca",
+      "Dirección Insular de Participación y Juventud",
+      "Universitat de les Illes Balears      "
+    ],
+    "type": "publico",
+    "scope": "islas_baleares",
+    "docs": [
+      {
+        "name": "Jóvenes Baleares en Cifras, noviembre 2010",
+        "url": "https://www.caib.es/sites/objib/es/objib-37191/archivopub.do?ctrl=MCRST945ZI90003&id=90003"
+      },
+      {
+        "name": "Resumen Estudio Políticas Locales de Juventud en las Islas Baleares, 2010",
+        "url": "https://www.caib.es/sites/objib/es/objib-37191/archivopub.do?ctrl=MCRST945ZI121418&id=121418"
+      }
+    ],
+    "description": "Es <q>el órgano que de una manera estructurada y planificada recoge, gestiona, procesa y genera estudios relacionados con el ámbito de la juventud</q>."
   }
 ]
