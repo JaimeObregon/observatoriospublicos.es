@@ -381,8 +381,38 @@
     "website": "https://www.juntadeandalucia.es/agriculturaypesca/observatorio"
   },
   {
-    "description": "Su misión es <q>Generar información relevante y de calidad a políticos, gestores, investigadores, profesionales de la salud y a la sociedad civil en general con el fin de mejorar las políticas, programas y servicios sanitarios-sociosanitarios de forma que respondan equitativa y eficientemente a las necesidades de salud de la población y a la reducción de las desigualdades en salud en Cantabria</Q>.",
+    "description": "Su misión es <q>Generar información relevante y de calidad a políticos, gestores, investigadores, profesionales de la salud y a la sociedad civil en general con el fin de mejorar las políticas, programas y servicios sanitarios-sociosanitarios de forma que respondan equitativa y eficientemente a las necesidades de salud de la población y a la reducción de las desigualdades en salud en Cantabria</q>.",
+    "docs": [
+      {
+        "url": "https://fmvaldecilla.es/unidad/proyectos-ospc/"
+      },
+      {
+        "name": "[Estudio de Covid persistente en Cantabria 2023](https://fmvaldecilla.es/proyectos-ospc/estudio-de-covid-persistente-en-cantabria-2023/)"
+      },
+      {
+        "name": "[Historia social en Atención Primaria de salud de Cantabria 2012-2013](https://fmvaldecilla.es/proyectos-ospc/historia-social-en-atencion-primaria-de-salud-de-cantabria-2012-2013/)"
+      },
+      {
+        "name": "[Informe encuesta discapacidad auditiva 2023](https://fmvaldecilla.es/proyectos-ospc/informe-encuesta-discapacidad-auditiva-2023/)"
+      },
+      {
+        "name": "[Encuesta daño cerebral 2023](https://fmvaldecilla.es/proyectos-ospc/encuesta-dano-cerebral/)"
+      },
+      {
+        "name": "[Estudio sobre determinantes de la salud de la población gitana cántabra](https://fmvaldecilla.es/proyectos-ospc/estudio-sobre-determinantes-de-la-salud-de-la-poblacion-gitana-cantabra/)"
+      },
+      {
+        "name": "[Estudio sobre determinantes de la salud y acceso a servicios sanitarios de la población inmigrante en Cantabria](https://fmvaldecilla.es/proyectos-ospc/estudio-sobre-determinantes-de-la-salud-y-acceso-a-servicios-sanitarios-de-la-poblacion-inmigrante-en-cantabria/)"
+      },
+      {
+        "name": "[Estudio sobre las necesidades de los servicios y la asistencia sociosanitaria en personas en situación de discapacidad en Cantabria 2019](https://fmvaldecilla.es/proyectos-ospc/estudio-sobre-las-necesidades-de-los-servicios-y-la-asistencia-sociosanitaria-en-personas-en-situacion-de-discapacidad-en-cantabria/)"
+      },
+      {
+        "name": "[Análisis de género](https://fmvaldecilla.es/proyectos-ospc/analisis-de-genero/)"
+      }
+    ],
     "email": "rasines.l@fmvaldecilla.es",
+    "from_date": "El Patronato de la FMV, en sesión celebrada el 8 de julio de 2005, acordó crear un Observatorio de Salud iniciando su actividad en septiembre de 2006.",
     "name": "Observatorio de Salud Pública de Cantabria",
     "parents": [
       "Consejería de Sanidad",
@@ -999,8 +1029,14 @@
     "scope": "galicia"
   },
   {
+    "description": "1. Este observatorio, para a consecución dos seus fins, exercerá as seguintes funcións:\n\na) Actuar como órgano de recompilación, análise e intercambio da información dispoñible en diferentes fontes autonómicas, estatais e internacionais sobre a familia e os nenos, nenas e adolescentes.\n\nb) Propoñer a realización de estudos, investigacións e informes técnicos que permitan un mellor coñecemento da situación da familia e da infancia en Galicia e a detección das súas necesidades e demandas sociais.\n\nc) Avaliar o impacto das políticas fiscais, laborais e sociais desenvolvidas polos distintos departamentos das administracións na situación das familias e da infancia galegas.\n\nd) Formular propostas e recomendacións sobre liñas estratéxicas e prioridades de actuación en materia de políticas familiares e de infancia no ámbito da Comunidade Autónoma Galega.\n\ne) Servir de canle para a actuación coordinada e harmónica entre os distintos departamentos das administracións públicas no ámbito da familia e a infancia.\n\nf) Canalizar as propostas das organizacións sociais que desenvolven as súas actividades no ámbito da familia e da infancia.\n\ng) Promover as actuacións necesarias para sensibilizar a toda a cidadanía no coñecemento e respecto dos dereitos da infancia en Galicia e no mundo.\n\nh) Promover a elaboración e desenvolvemento dos plans e estratexias de familia, de infancia e adolescencia e avaliar a súa execución.\n\ni) Elaborar informes e ditames por petición dos órganos competentes da Comunidade Autónoma sobre as materias da súa competencia.\n\nj) Impulsar a incorporación da perspectiva da familia e infancia no ordenamento xurídico galego, de xeito que se tomen en consideración as necesidades da infancia, da adolescencia e das familias galegas.\n\nk) Participar, elevar propostas e manter contactos con outros órganos de similar natureza, promovendo os encontros entre profesionais e persoas expertas, tanto no ámbito autonómico e estatal como internacional, para facilitar o intercambio de experiencias, investigacións e traballos nesta materia.\n\n2. No exercicio das funcións establecidas neste artigo terase en conta e integrarase de xeito transversal a perspectiva de xénero e a relación recíproca entre familia e infancia e igualdade de xénero.\n\ntitular da consellería competente en materia de familia\r\n titular da dirección xeral competente en materia de familia\r\n funcionaria da consellería competente en materia de familia\r\n persoa en representación do órgano competente en materia de estatística\r\npersoa en representación da Delegación do Goberno en Galicia\r\npersoa en representación da Federación Galega de Municipios e Provincias (Fegamp)\r\npersoa en representación de cada unha das tres universidades galegas\r\npersoa representante da Fiscalía da Comunidade Autónoma de Galicia\r\nUn número de persoas equivalente ao de representantes sindicais en representación da Confederación de Empresarios de Galicia (CEG)\r\npersoa en representación de cada unha das organizacións sindicais intersectoriais máis representativas de Galicia, así como das presentes na Mesa Xeral de Negociación das Administracións Públicas que non teñan a condición de máis representativas\r\npersoa representante da Plataforma de Organizacións da Infancia de Galicia (POI Galicia)\r\npersoa en representación da Fundación UNICEF-Comité Español",
+    "from_date": "29 de abril de 2019",
+    "is_active": "Si",
     "name": "Observatorio Gallego de la Familia y de la Infancia",
-    "scope": "galicia"
+    "parents": ["Consellería competente en materia de familia"],
+    "scope": "galicia",
+    "type": "publico",
+    "website": "https://www.xunta.gal/dog/Publicados/2019/20190429/AnuncioG0425-150419-0001_gl.html"
   },
   {
     "description": "A través del Observatorio pretendemos facilitar el acceso a la información y al conocimiento de todos los aspectos relacionados con el mundo de la vivienda, de manera que administraciones, empresas públicas y personales y cualquier interesado en este mundo estén en las mejores condiciones para adoptar decisiones eficaces y adaptadas a las necesidades del país. Del trabajo de unos y otros saldrá la información, estudios y trabajos que periódicamente verano a luz a través de esta web y de los boletines y publicaciones del Observatorio que estarán la disposición de los interesados en las diferentes secciones de este sitio.",
@@ -4076,5 +4112,33 @@
     "scope": "autonómico",
     "type": "publico",
     "website": "https://www.upf.edu/web/opa"
+  },
+  {
+    "docs": [
+      {
+        "name": "[Informes Tourist Info (2014-2023)](https://www.alcoyturismo.com/pag/4174/observatorio-turistico.html)"
+      }
+    ],
+    "email": "touristinfo@alcoi.org",
+    "from_date": "2014",
+    "is_active": "Si",
+    "name": "Observatorio turístico de Alcoi",
+    "parents": ["Ayuntamiento de Alcoy"],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://www.alcoyturismo.com/pag/4174/observatorio-turistico.html"
+  },
+  {
+    "is_active": "Si",
+    "name": "Observatorio Social de las personas mayores",
+    "parents": [
+      "Ministerio de Derechos Sociales y Agenda 2020",
+      "Comisiones Obreras",
+      "https://imserso.es/documents/20123/0/enclaverural600054.pdf/653f3c37-2372-3c0d-55bd-857f1ed6edbc",
+      "https://www.ccoo.es/5aff3a3f46f581965359353a8f53ff10000059.pdf"
+    ],
+    "scope": "estatal",
+    "type": "mixto",
+    "website": "https://1mayo.ccoo.es/noticia:682134--CCOO_presenta_el_Observatorio_Social_de_las_personas_mayores_2023&opc_id=2910c4b71f6f452242c8bad8cf5f8f7e"
   }
 ]
