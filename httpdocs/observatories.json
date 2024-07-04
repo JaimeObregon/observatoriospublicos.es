@@ -1139,11 +1139,6 @@
     "type": "publico"
   },
   {
-    "name": "Observatorio del Trabajo del Servicio de Ocupación de las Illes Balears",
-    "scope": "islas_baleares",
-    "type": "publico"
-  },
-  {
     "description": "El Observatorio Social Barcelona es un instrumento de conocimiento de la realidad social de la ciudad que tiene como objetivos principales: Conocer y evaluar la situación y la evolución de las condiciones de vida de la población, la realidad de los diferentes colectivos y la evolución de los fenómenos y procesos sociales que afectan a la calidad de vida de las personas y a la cohesión social de la ciudad. Difundir y compartir conocimiento con la ciudadanía, las entidades y asociaciones, y con el colectivo profesional y técnico, directivo y político. Apoyar a la planificación y a la toma de decisiones.",
     "name": "Observatorio Social Barcelona",
     "parents": ["Ajuntament de Barcelona"],
@@ -4038,17 +4033,20 @@
     "description": "De acuerdo con el Decreto 81/2008, de 25 de julio, por el que se crea y regula el Observatorio del Trabajo de las Illes Balears, éste tiene como finalidad gestionar la obtención y la recopilación de los principales datos sociolaborales de las Illes Balears y profundizar en el estudio y la investigación de las características del empleo y el paro, así como de todos los aspectos relacionados con el mercado laboral (coste de trabajo, accidentes laborales, conflictos, condiciones y calidad de vida laborales, formación profesional e inserción laboral, seguridad y higiene en el trabajo, etc.)",
     "docs": [
       {
-        "name": "- Nota coyuntura laboral, enero 2024"
+        "name": "Nota coyuntura laboral, enero 2024"
       },
       {
-        "name": "- Nota coyuntura laboral, diciembre 2023"
+        "name": "Nota coyuntura laboral, diciembre 2023"
       }
     ],
     "email": "otib@dgplaes.caib.es",
     "from_date": "2005",
     "is_active": "Si",
-    "name": "Observatorio de Trabajo de las Islas Baleares",
-    "parents": ["- Govern de les Illes Balears"],
+    "name": "Observatorio del trabajo del Servicio de Ocupación de las Islas Baleares",
+    "parents": [
+      "Govern de les Illes Balears",
+      "Consejería de Empresa, Ocupación y Energía"
+    ],"
     "scope": "autonómico",
     "type": "publico",
     "website": "https://www.caib.es/sites/observatorideltreball/es/portada-10648/"
