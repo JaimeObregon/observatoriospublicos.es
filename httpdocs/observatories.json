@@ -4449,5 +4449,13 @@
     "description": "Para <q>recabar la información necesaria sobre el turismo y ponerla a disposición de la industria turística del territorio para que esta pueda tomar las decisiones más adecuadas y anticiparse a los retos del sector</q>",
     "scope": "gipuzkoa",
     "type": "publico"
+  },
+  {
+    "name": "Observatorio Social",
+    "website": "https://www.valencia.es/cas/actualidad/-/content/observatorio-social-1",
+    "parents": ["Ayuntamiento de València"],
+    "type": "publico",
+    "scope": "local",
+    "description": "La página municipal que explica este observatorio está caída en el momento en el que escribo esto…"
   }
 ]
