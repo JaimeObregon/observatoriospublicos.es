@@ -289,7 +289,7 @@
       "Fundación Ibercivis"
     ],
     "scope": "estatal",
-    "type": "hibrido",
+    "type": "mixto",
     "website": "https://ciencia-ciudadana.es"
   },
   {
@@ -695,7 +695,7 @@
       "Dirección General de Migraciones. Ministerio de Empleo y Seguridad Social."
     ],
     "scope": "autonómico",
-    "type": "hibrido",
+    "type": "mixto",
     "website": "www.odina.es"
   },
   {
@@ -2117,7 +2117,7 @@
     "name": "Observatorio de Emancipación",
     "parents": ["Consejo de la Juventud de España"],
     "scope": "estatal",
-    "type": "hibrido",
+    "type": "mixto",
     "website": "https://www.cje.org/observatorio-de-emancipacion/"
   },
   {
@@ -2766,14 +2766,11 @@
     "type": "mixto",
     "website": "https://minob.org/espanol/",
     "email": "mail@minob.org",
-    "description": "MINOB recoge infracciones y casos de malas prácticas en la minería a partir de las denuncias realizadas por la ciudadanía y los colectivos sociales, siempre tratadas de forma confidencial, y que pueden incluir un amplio abanico de impactos y situaciones, como puede ser:\n\nContaminación del agua, el suelo y la atmósfera\r\nImpactos en áreas y especies protegidas o bienes culturales\r\nImpacto en la salud de las personas, la agricultura o la pesca\r\nCasos de corrupción o supervisión administrativa insuficiente\r\nAusencia de autorizaciones o de evaluación del impacto ambiental\r\nDeficiencias en la restauración y garantías económicas insuficientes\r\nObstáculos a la participación pública, al acceso a la información o a la justicia\r\nAtaques o amenazas a comunidades y activistas y uso de ingeniería social\r\nInvasión u ocupación de tierras\r\nVulneraciones de los derechos de las personas trabajadoras, incluida la sindicalización y las malas condiciones de trabajo y seguridad\r\nMalversación de fondos públicos\n\nMINOB es una herramienta a disposición de los actores sociales interesados en las industrias extractivas y en la documentación y prevención futura de sus impactos. Establece un sistema de seguimiento y alerta temprana para detectar, mapear y denunciar las malas conductas y las malas prácticas del sector minero en Portugal y España.\n\nEl Observatorio Ibérico de la Minería (MINOB) es una iniciativa de ciudadanía ambiental puesta en marcha con el apoyo del [Ministerio de Derechos Sociales y la Agenda 2030](https://www.mdsocialesa2030.gob.es/) por el [Centro de Saberes para a Sustentabilidade](http://www.saberes.eu/css/), un [Centro Regional de Especialización en Educación para el Desarrollo Sostenible](https://www.rcenetwork.org/portal/) reconocido oficialmente por la [Universidad de las Naciones Unidas](https://unu.edu/).",
+    "description": "Recoge infracciones y casos de malas prácticas en la minería a partir de las denuncias realizadas por la ciudadanía y los colectivos sociales.",
     "scope": "estatal",
     "from_date": "17/11/2022",
     "parents": ["Ministerio de Derechos Sociales Consumo y Agenda 2030"],
     "docs": [
-      {
-        "name": "1. INFORMES"
-      },
       {
         "name": "Minería y derechos sociales en la península ibérica"
       },

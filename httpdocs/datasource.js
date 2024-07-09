@@ -5,7 +5,7 @@ const types = [
     name: 'Público',
   },
   {
-    key: 'hibrido',
+    key: 'mixto',
     name: 'Público-privado',
   },
 ]
