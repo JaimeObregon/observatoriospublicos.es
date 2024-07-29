@@ -1071,6 +1071,18 @@
     "scope": "navarra"
   },
   {
+    "name": "Observatorio de Mujeres, Ciencia e Innovación",
+    "type": "publico",
+    "website": "https://www.ciencia.gob.es/Secc-Servicios/Igualdad/OMCI.html",
+    "description": "El Observatorio de Mujeres, Ciencia e Innovación (OMCI) es un órgano colegiado interministerial que tiene la responsabilidad de analizar y realizar el seguimiento y medición de impactos sobre la situación de las mujeres en el ámbito de la investigación, el desarrollo y la innovación; así como fomentar, proponer, asesorar e impulsar la realización de políticas públicas y de actuaciones en dichos ámbitos para acabar con los obstáculos visibles e invisibles para una igualdad de género real y efectiva; y promover la mejora de la situación de las mujeres en el Sistema Español de Ciencia, Tecnología e Innovación.\n\nEl fin último del Observatorio es avanzar hacia la igualdad de género en los ámbitos de la ciencia, la tecnología y la innovación, en sus dos vertientes, la presencia equilibrada de mujeres y hombres en todos los ámbitos y niveles y la integración transversal de la perspectiva de género en la I+D+I.",
+    "scope": "estatal",
+    "from_date": "27 de octubre de 2020",
+    "parents": [
+      "Ministerio de Ciencia, Innovación y Universidades"
+    ],
+    "is_active": "Si"
+  },
+  {
     "from_date": "Mayo 2024",
     "is_active": "Si",
     "name": "Observatorio de la Producción Científica de la UA",
