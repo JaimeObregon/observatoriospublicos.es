@@ -1282,6 +1282,39 @@
     "scope": "region_de_murcia"
   },
   {
+    "name": "Xarxa d'Observatoris del Desenvolupament Econòmic Local (XODEL)",
+    "type": "publico",
+    "website": "https://xodel.diba.cat",
+    "email": "xodel@diba.cat",
+    "description": "La Xarxa d’Observatoris del Desenvolupament Econòmic Local (XODEL) és un espai on es\r\ngenera, es comparteix i es difon informació i on es fomenta el debat, la reflexió i l’intercanvi\r\nd’experiències entre els observatoris membres.\n\nLa Xarxa està composta de 21 observatoris i coordinada per l’Oficina Tècnica d’Estratègies per al\r\nDesenvolupament Econòmic de l’Àrea de Desenvolupament Econòmic i Turisme de la Diputació\r\nde Barcelona.\n\nLa Xarxa disposa d’una comunitat virtual (https://xodel.diba.cat), una eina de comunicació\r\nhoritzontal que permet al grup comunicar-se, treballar de manera col·laborativa i gestionar\r\nconeixement distribuït mitjançant diverses eines de participació.\n\nLa Xarxa està composta de 21 observatoris i coordinada per l’Oficina Tècnica d’Estratègies per al\r\nDesenvolupament Econòmic de l’Àrea de Desenvolupament Econòmic i Turisme de la Diputació\r\nde Barcelona\n\n**Observatoris**\n\n**_Observatoris municipals_**\n\n[Observatori de desenvolupament local de Badalona](http://www.badalona.cat/)\n\n[Observatori econòmic i social de Barberà del Vallès](https://www.bdv.cat/observatori-economic-i-social)\n\n[Departament d’estudis de la Gerència de política econòmica i desenvolupament local (Barcelona)](https://ajuntament.barcelona.cat/economiatreball/ca/documents)\n\n[Observatori socioeconòmic de l'Hospitalet de Llobregat](http://www.dinamitzaciolocallh.cat/)\n\n[Servei d’estratègia i governança (Mataró)](https://www.mataro.cat/ca/la-ciutat/observatori-de-ciutat)\n\n[Gabinet d’estudis i estadístiques (Rubí)](https://www.rubi.cat/ca/ajuntament/transparencia/observatoridelaciutat/gabinet-destudis-i-estadistiques)\n\n[Observatori de l’economia local (Sabadell)](http://www.vaporllonch.cat/observatori-economia-local)\n\n[Observatori socioeconòmic de Grameimpuls (Santa Coloma de Gramenet)](https://www.grameimpuls.cat/observatori/)\n\n[Servei d’estudis i Observatori de la ciutat (Terrassa) ](http://www.terrassa.cat/servei-estudis)\n\n**_Observatoris supramunicipals_**\n\n[Observatori del desenvolupament local de l'Alt Penedès i del Garraf](https://mancomunitat.cat/temes/banc-de-dades-socioeconomiques/)\n\n[Observatori socioeconòmic de l’Anoia](http://www.observatorianoia.cat/)\n\n[Observatori del Bages](https://www.manresa.cat/web/article/1006-informacio-socioeconomica)\n\n[Observatori comarcal del Baix Llobregat](http://www.elbaixllobregat.cat/observatori)\n\n[Observatori de desenvolupament local del Berguedà](http://www.adbergueda.cat/territori)\n\n[Observatori de desenvolupament local del Maresme](http://www.ccmaresme.cat/observatori)\n\n[Observatori Metropolità](https://agenciaeconomica.amb.cat/)\n\n[Observatori estratègic del Moianès](http://www.ccmoianes.cat/observatori/que-es-lobservatori-estrategic-del-moianes/)\n\n[Observatori socioeconòmic d’Osona](http://www.observatorisocioeconomicosona.cat/)\n\n[Observatori de la Riera de Caldes](http://www.rieradecaldes.com/observatori.html)\n\n[Observatori comarcal del Vallès Occidental](https://www.consellvallesoccidental.cat/observatori/)\n\n[L’Observatori – Centre d’estudis del Vallès Oriental](https://www.vallesoriental.cat/ambits/lobservatori-centre-destudis/)",
+    "scope": "provincial",
+    "from_date": "1994-2024: 30 anys d’observació socioeconòmica\n\n[Acte de celebració del trentè aniversari de la\r\nXarxa d’Observatoris del Desenvolupament Econòmic Local (XODEL)](https://www.diba.cat/documents/d/economieslocals/jornadaxodel-30-anys)",
+    "parents": [
+      "Catàleg de productes i serveis",
+      "Xarxa d’observatoris del desenvolupament econòmic local (XODEL). [Edició 2024](https://xodel.diba.cat/sites/xodel.diba.cat/files/cataleg_xodel_2024.pdf)",
+      "Correspondència i consultes",
+      "Diputació de Barcelona",
+      "Àrea de Desenvolupament Econòmic i Turisme",
+      "Gerència de Serveis de Promoció Econòmica i Ocupació",
+      "Oficina Tècnica d’Estratègies per al Desenvolupament Econòmic",
+      "Recinte Maternitat. Pavelló Mestral",
+      "Travessera de les Corts, 131-159. 08028. Barcelona",
+      "Telèfon 934 049 171",
+      "xodel@diba.cat http://www.diba.cat/web/economieslocals",
+      "La versió digital del Catàleg es troba disponible a http://xodel.diba.cat/",
+      "[otra web](https://www.diba.cat/web/economieslocals/xodel)"
+    ],
+    "docs": [
+      {
+        "url": "https://xodel.diba.cat/documents/productes-i-serveis-de-la-xodel-2014"
+      },
+      {
+        "name": "Hi ha disponibles els catàlegs des de l'any 2011."
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "El Observatorio es el grupo de trabajo de la Comunidad de Madrid para la evaluación, el seguimiento y la propuesta de las acciones a realizar en el marco del Plan de Capacitación Digital para los Ciudadanos de la Comunidad de Madrid 2022-2025.\n\nCompetencias\r\na) Definir y perfeccionar el sistema de indicadores del Plan, elaborando planes de seguimiento trimestrales que permitan evaluar el desarrollo, resultado e impacto del plan.\r\nb) Difundir en la sociedad los contenidos y objetivos del Plan de Capacitación Digital para los Ciudadanos de la Comunidad de Madrid 2022-2025, y recoger las propuestas e iniciativas sociales que surjan en su desarrollo.\r\nc) Detectar cualquier desviación operativa y trasladar la información al grupo operativo para permitir la toma de decisiones basadas en las evidencias encontradas en los distintos informes de seguimiento.\r\nd) Fomentar la cooperación y colaboración en las actuaciones de las distintas consejerías en materia de desarrollo de competencias digitales para evitar solapamientos y duplicidades, proponiendo una solución a las consejerías implicadas en caso de que se produjeran intersecciones entre los colectivos en riesgo de exclusión social, sin perjuicio de las competencias atribuidas a cada una de ellas.\r\ne) Identificar nuevas propuestas y casos de éxito que puedan ser replicados en el ámbito del Plan.",
     "from_date": "14 de Febrero de 2024",
     "is_active": "Si",
