@@ -1453,6 +1453,15 @@
     "website": "https://www.inclusion.gob.es/web/opi/estadisticas/observatorio_permanente_inmigracion"
   },
   {
+    "name": "Observatorio Ibérico Fluvial",
+    "type": "publico",
+    "website": "https://ebd.csic.es/",
+    "description": "Observatorio impulsado por medio centenar de especialistas en ecología, con el objetivo de proporcionar nuevos datos y herramientas que ayuden a preservar la salud de los ríos y mitigar los efectos del cambio climático. Este observatorio constará de seis áreas de estudio que cubrirán las distintas zonas climáticas de la península ibérica –desde las zonas áridas del sur hasta la Cordillera Cantábrica-, en las cuales se hará un seguimiento anual para entender las dinámicas a largo plazo de los ecosistemas fluviales.\n\nCoordinado por la [Estación Biológica de Doñana (EBD)](https://ebd.csic.es/), perteneciente al Consejo Superior de Investigaciones Científicas (CSIC).",
+    "scope": "estatal",
+    "from_date": "23 de marzo de 2022",
+    "is_active": "Si"
+  },
+  {
     "docs": [
       {
         "name": "Informe Ejecutivo del XV Informe Anual del Observatorio Estatal de Violencia sobre la Mujer 2021",
