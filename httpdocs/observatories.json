@@ -1541,7 +1541,7 @@
     "website": "https://www.observatoriovascosobreacoso.com/"
   },
   {
-    "name": "Observatorio Vasco de la Juventud - Gobierno Vasco",
+    "name": "Observatorio Vasco de la Juventud",
     "scope": "pais_vasco",
     "twitter": "@gaztebehatokia",
     "type": "publico",
@@ -4665,5 +4665,25 @@
     "scope": "islas_baleares",
     "type": "publico",
     "website": "https://www.caib.es/sites/objib/es/inici-33505/"
+  },
+  {
+    "name": "Observatorio Vasco del Comercio",
+    "scope": "pais_vasco",
+    "website": "https://www.euskadi.eus/gobierno-vasco/observatorio-comercio/"
+  },
+  {
+    "name": "Observatorio Vasco de los Servicios Sociales",
+    "scope": "pais_vasco",
+    "website": "https://www.behatuz.eus/es/"
+  },
+  {
+    "name": "Observatorio Vasco de la Cadena Alimentaria de Euskadi",
+    "scope": "pais_vasco",
+    "website": "https://behatoki.eus/"
+  },
+  {
+    "name": "Observatorio Mujer Empresa",
+    "scope": "pais_vasco",
+    "website": "https://www.aedbiz.org/observatorio-aed/"
   }
 ]
