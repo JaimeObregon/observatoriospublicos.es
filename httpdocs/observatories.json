@@ -4689,6 +4689,26 @@
     "website": "https://www.easp.es/osp/"
   },
   {
+    "name": "Observatorio de la Calidad del Sistema Español de Universidades",
+    "type": "publico",
+    "website": "https://www.aneca.es/web/guest/observatorio-de-la-calidad-del-sistema-espanol-de-universidades",
+    "description": "Este Observatorio tiene como objetivo proporcionar claves sobre la calidad del sistema universitario español que puedan contribuir a la reflexión de diversos agentes interesados para la mejora de la calidad del mismo.",
+    "scope": "estatal",
+    "from_date": "21-12-2001",
+    "parents": [
+      "ANECA -> ministerio de universidades"
+    ],
+    "docs": [
+      {
+        "name": "informes temáticos: https://www.aneca.es/informes-sobre-la-mejora-de-la-calidad"
+      },
+      {
+        "name": "infomres sobre calidad universitaria (hasta 2019) : [Informes sobre calidad universitaria](https://www.aneca.es/informes-sobre-calidad-universitaria)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "una herramienta que facilita, a través de la publicación de boletines estadísticos electrónicos, la utilización integrada de los datos disponibles en las principales fuentes estadísticas oficiales",
     "docs": [
       {
