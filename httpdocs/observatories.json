@@ -1141,6 +1141,23 @@
     "website": "https://www.xunta.gal/dog/Publicados/2019/20190429/AnuncioG0425-150419-0001_gl.html"
   },
   {
+    "name": "Observatorio de la Vida Militar",
+    "type": "publico",
+    "website": "https://www.observatoriodelavidamilitar.es/",
+    "email": "info@observatoriodelavidamilitar.es",
+    "description": "a) Efectuar análisis y propuestas de actuación sobre el ejercicio de los derechos fundamentales y libertades públicas por los miembros de las Fuerzas Armadas.\r\nb) Elaborar, de oficio o a petición de parte, informes y estudios sobre el régimen de personal y las condiciones de vida en las Fuerzas Armadas.\r\nc) Proponer medidas que ayuden a la conciliación de la vida profesional, personal y familiar de los militares.\r\nd) Promover la adaptación del régimen del personal militar a los cambios que se operen en la sociedad y en la función pública.\r\ne) Analizar los problemas que en el entorno familiar de los afectados se producen como consecuencia de su disponibilidad, movilidad geográfica y de su específico ejercicio profesional que conlleva la participación en operaciones en el exterior.\r\nf) Evaluar la aportación adicional de recursos humanos a las Fuerzas Armadas a través de las diferentes modalidades de reservistas.\r\ng) Velar por la aplicación a los militares retirados de la normativa que ampara sus derechos pasivos y asistenciales y, en su caso, efectuar propuestas de mejora sobre ésta.\n\nSe compone de nueve personalidades de reconocido prestigio en el ámbito de la Defensa, recursos humanos o en derechos fundamentales y libertades públicas, elegidos cinco por el Congreso y cuatro por el Senado para un mandato de cinco años.",
+    "scope": "estatal",
+    "from_date": "El Observatorio se constituyó el 14 de enero de 2014.",
+    "parents": [
+      "Cortes Generales"
+    ],
+    "docs": [
+      {
+        "url": "https://publicaciones.defensa.gob.es/media/downloadable/files/links/m/e/memoria_informe_observatorio_vida_militar_2022.pdf"
+      }
+    ]
+  },
+  {
     "description": "A través del Observatorio pretendemos facilitar el acceso a la información y al conocimiento de todos los aspectos relacionados con el mundo de la vivienda, de manera que administraciones, empresas públicas y personales y cualquier interesado en este mundo estén en las mejores condiciones para adoptar decisiones eficaces y adaptadas a las necesidades del país. Del trabajo de unos y otros saldrá la información, estudios y trabajos que periódicamente verano a luz a través de esta web y de los boletines y publicaciones del Observatorio que estarán la disposición de los interesados en las diferentes secciones de este sitio.",
     "docs": [
       {
