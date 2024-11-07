@@ -4456,8 +4456,7 @@
     "website": "https://www.aragoncambioclimatico.es/observatorio/",
     "email": "cambioclimatico@aragon.es",
     "description": "El Observatorio del Cambio Climático en Aragón se configura como un espacio para la información, la investigación y la transferencia de conocimientos, dando cabida a todos aquellos aspectos ambientales, territoriales, sociales y económicos que de una u otra forma se pueden ver interferidos por el actual proceso de cambio climático antropogénico.\n\nSe crea con la vocación de recopilar toda la información científica que los distintos investigadores y grupos de investigación de la Comunidad Autónoma de Aragón han generado y generan sobre el cambio climático, su identificación, mitigación y adaptación, sin olvidar todos aquellos datos e informaciones que desde la gestión territorial u otros actores implicados en el tema puedan generarse. De esta forma, tanto en su función de repositorio de información científica como en aquella de enlace a los distintos organismos y colectivos implicados, este Observatorio ha de ser el punto de partida de cualquier iniciativa que surja de acción por el clima en nuestra Comunidad.\n\nSe trata, por tanto, de un instrumento colectivo al servicio de la Región, que permita construir y mantener una plataforma de información contrastada y veraz, para facilitar e impulsar la investigación y la elaboración de políticas y estrategias de mitigación, adaptación y concienciación sobre cambio climático en Aragón.\n\nDirección General de Cambio Climático y Educación Ambiental del Departamento de Agricultura, Ganadería y Medio Ambiente del Gobierno de Aragón: https://www.aragoncambioclimatico.es/politica-privacidad/",
-    "scope": "estatal",
-    "from_date": "¿2020? -> https://www.famcp.es/circular-2002020-observatorio-del-cambio-climatico-aragon/",
+    "scope": "aragon",
     "parents": [
       "Gobierno de Aragón"
     ],
