@@ -2326,6 +2326,15 @@
     "website": "https://www.gobiernodecanarias.org/medioambiente/organos/observatorio-canario-del-cambio-climatico/"
   },
   {
+    "name": "Observatorio de la Criminalidad Organizada Transnacional",
+    "type": "publico",
+    "website": "https://ocot.usal.es",
+    "email": "crimtrans@usal.es",
+    "description": "El Observatorio de la Criminalidad Organizada Transnacional (OCOT) es un espacio interdisciplinario, crítico, reflexivo y de formación-acción que congrega una amplia red internacional de profesores e investigadores dedicados al estudio de la criminalidad organizada de modo pormenorizado. Es, además, un ambiente de alto nivel académico-científico y creciente reconocimiento nacional e internacional en la materia, especialmente dado su carácter pionero en el modo con el que aborda la temática estudiada, la calificada producción científica que impulsa, los distintos proyectos de investigación con financiación nacional que le dan cuerpo y la responsabilidad social que caracterizan sus acciones y reflexiones.",
+    "scope": "estatal",
+    "is_active": "Si"
+  },
+  {
     "is_active": "None",
     "name": "Observatorio Industrial de Canarias",
     "parents": [
