@@ -1659,6 +1659,17 @@
     "website": "https://www.ikuspegi.eus/"
   },
   {
+    "name": "Observatorio de tendencias de mercamadrid",
+    "type": "publico",
+    "website": "https://www.mercamadrid.es/observatorio-tendencias-hosteleria/",
+    "scope": "local",
+    "to_date": "Este tuit es de hace diez horas https://x.com/Mercasa_mercas/status/1830508788413051179",
+    "parents": [
+      "Mercamadrid que dependen del ayuntamiento de madrid"
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio para la Innovación y la Prospectiva del Mercado de Trabajo en Extremadura",
     "scope": "autonómico",
     "type": "publico",
