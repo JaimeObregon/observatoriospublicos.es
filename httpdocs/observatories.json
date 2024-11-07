@@ -3737,6 +3737,20 @@
     "website": "https://oaaep.unizar.es/"
   },
   {
+    "name": "Observatorio Europeo de Desiertos Rurales Alimentarios y de Ejercicio Físico (DESERT)",
+    "type": "publico",
+    "website": "De momento no tiene, pero está vinculado con la Universidad de Zaragoza (https://ucc.unizar.es/)",
+    "email": "ianton@unizar.es",
+    "description": "El objetivo de este proyecto es no solo identificar, cartografiar y perfilar los desiertos alimentarios y de ejercicio físico en zonas rurales, si no también definir el concepto de desierto rural de ejercicio físico, explorar estrategias para mejorar la salud y el bienestar de las personas que viven en zonas rurales, y colaborar con las comunidades, empresas y servicios para abordar las inequidades que sufren las personas que viven en áreas rurales despobladas, desatendidas y, a menudo, desfavorecidas. Los resultados de esta investigación serán publicados a través del Observatorio Europeo de Desiertos Alimentarios y de Ejercicio Físico en Zonas Rurales.\n\nEl proyecto DESERT, con un presupuesto total de 638.591€, ha sido cofinanciado por la Unión Europea a través del programa E4Health Partnership y durará 3 años (2024-2027). Ambos socios reciben fondos del Instituto de Salud Carlos III, a través de la AES 2023, con código AC23_2/00039 y AC23_2/00003 en el marco de Partnership Fostering a European Research Area for Health (ERA4Health) GA nº 101095426 del Programa de Investigación e Innovación Horizonte Europa de la Unión Europea.\n\nNoticias sobre la creación de un Observatorio Europeo de Desiertos Rurales Alimentarios y de Ejercicio Físico:\r\n1. [Universidad de Zaragoza](https://ucc.unizar.es/noticia/aragon-impulsara-la-creacion-de-un-observatorio-europeo-de-desiertos-rurales-alimentarios-y)\r\n2. [Heraldo de Aragón](https://www.heraldo.es/noticias/aragon/2024/05/13/aragon-impulsara-creacion-observatorio-europeo-desiertos-rurales-alimentarios-ejercicio-fisico-1733325.html)\r\n3. [Agenda de la reunión (PDF)](https://www.iisaragon.es/wp-content/uploads/2024/05/DESERT-Kick-off.pdf)\n\n- Universidad de Zaragoza (pública)\r\n- Instituto de Investigación Sanitaria de Aragón (IISA) ([pública](https://contrataciondelestado.es/wps/poc?uri=deeplink%3AperfilContratante&idBp=%2F5d2hWOr17umq21uxhbaVQ%3D%3D))",
+    "scope": "provincial",
+    "from_date": "2024",
+    "to_date": "2027 (3 años de duración)",
+    "parents": [
+      "- Financiado por el Instituto de Salud Carlos III (ISCIII) [entidad pública].",
+      "- Cofinanciado por la Unión Europea a través del programa E4Health Partnership."
+    ]
+  },
+  {
     "docs": [
       {
         "name": "Enlace",
