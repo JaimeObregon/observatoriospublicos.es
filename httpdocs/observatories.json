@@ -4269,6 +4269,18 @@
     "website": "https://observatori-igualtat.es/es/"
   },
   {
+    "name": "Observatorio Aragonés de Familia",
+    "type": "publico",
+    "website": "https://www.aragon.es/-/observatorio-aragones-de-familia",
+    "description": "Órgano colegiado de carácter consultivo y de impulso al desarrollo de las políticas del Gobierno de Aragón de apoyo a las familias.\n\nObjetivos\r\n- Conocer, desde una perspectiva multisectorial, la situación, calidad de vida y demandas de las familias en Aragón.\r\n- Asesorar y realizar el seguimiento de la incidencia que sobre las familias aragonesas tienen las políticas públicas.\r\n- Promover mejoras sociales, económicas y legislativas que redunden en beneficio y apoyo de las familias aragonesas.\r\n- Estimular la investigación y el conocimiento de la realidad socio-económica de las familias en Aragón.\n\nGobierno de Aragón",
+    "scope": "autonómico",
+    "from_date": "2004",
+    "parents": [
+      "Gobierno de Aragón"
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "El Observatorio tratará de desarrollar tres líneas fundamentales: generar un espacio de conocimiento sobre la información en salud en Asturias a través de una serie de informes periódicos; garantizar que esta información llegue de la forma más comprensible al mayor número de agentes de salud posibles, destacando la importancia de un abordaje de los determinantes sociales de la salud y, finalmente, vincular la información en salud de los indicadores a las diferentes actuaciones comunitarias en salud que se están desarrollando en Asturias.\n\nDirección General de Salud Pública. Consejería de Sanidad. Gobierno del Principado de Asturias.\r\nSupervisión: School of Public Health and Medicine de la Universidad de Wisconsin-Madison.",
     "docs": [
       {
