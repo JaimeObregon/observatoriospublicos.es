@@ -1330,9 +1330,9 @@
     "type": "mixto",
     "website": "https://www.fundaciobit.org/observatori/",
     "description": "les actuacions incloses a l’OBSI es centren en les següents línies d’actuació:\n\nDifondre i facilitar informació sobre el grau d’implantació de les TIC a les Illes Balears.\r\nMesurar el grau de desenvolupament de la SI, mitjançant la selecció d’indicadors.\r\nGenerar estudis quantitatius i qualitatius que permetin comparar l’evolució de la Societat de la Informació a les Illes Balears.\r\nPotenciar la revisió i la renovació d’indicadors disponibles.\r\nCrear un inventari de bones pràctiques.\r\nServir a la societat balear com a referent i com a fòrum de discussió.\r\nSuggerir, guiar o planificar polítiques d’actuació, a partir de les necessitats detectades.\r\nMesurar l’impacte dels programes públics referents al foment de la Societat de la Informació.",
-    "scope": "autonómico",
+    "scope": "islas_baleares",
     "parents": [
-      "govern de les illes balears"
+      "Govern de les Illes Balears",
     ],
     "docs": [
       {
