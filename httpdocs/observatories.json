@@ -3833,6 +3833,18 @@
     "website": "https://observatorisalut.gencat.cat/ca/observatori_mort"
   },
   {
+    "name": "Observatorio de Conducta Ética de la Guardia Civil",
+    "type": "publico",
+    "website": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16600",
+    "description": "El Observatorio de Conducta Ética de la Guardia Civil, con el nivel orgánico que se determine en la relación de puestos de trabajo, es el órgano responsable de centralizar las labores de seguimiento, impulso y evaluación de la aplicación del Código de Conducta en la Guardia Civil",
+    "scope": "estatal",
+    "from_date": "10 de agosto de 2024",
+    "parents": [
+      "Guardia Civil", "Ministerio del Interior"
+    ],
+    "is_active": "Si"
+  },
+  {
     "email": "observatori@creama.org",
     "from_date": "2018",
     "is_active": "Sí",
