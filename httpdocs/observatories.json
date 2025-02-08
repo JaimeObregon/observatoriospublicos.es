@@ -1326,6 +1326,52 @@
     "scope": "region_de_murcia"
   },
   {
+    "name": "Observatori Balear de la Societat de la Informació (OBSI)",
+    "type": "mixto",
+    "website": "https://www.fundaciobit.org/observatori/",
+    "description": "les actuacions incloses a l’OBSI es centren en les següents línies d’actuació:\n\nDifondre i facilitar informació sobre el grau d’implantació de les TIC a les Illes Balears.\r\nMesurar el grau de desenvolupament de la SI, mitjançant la selecció d’indicadors.\r\nGenerar estudis quantitatius i qualitatius que permetin comparar l’evolució de la Societat de la Informació a les Illes Balears.\r\nPotenciar la revisió i la renovació d’indicadors disponibles.\r\nCrear un inventari de bones pràctiques.\r\nServir a la societat balear com a referent i com a fòrum de discussió.\r\nSuggerir, guiar o planificar polítiques d’actuació, a partir de les necessitats detectades.\r\nMesurar l’impacte dels programes públics referents al foment de la Societat de la Informació.",
+    "scope": "islas_baleares",
+    "parents": [
+      "Govern de les Illes Balears",
+    ],
+    "docs": [
+      {
+        "name": "[11.Informe “Dones TIC a les Illes Balears”, 2021](https://www.fundaciobit.org/informe-11-dones-tic-de-les-illes-balears-2021/)"
+      },
+      {
+        "name": "[10.Directori i Mapa del comerç electrònic de les Illes Balears, (2020).](https://www.fundaciobit.org/wp-content/uploads/2020/09/10.-Informe-Mapa-Botigues-Virtuals.pdf)"
+      },
+      {
+        "name": "[9.Dades del ParcBit, (2019).](https://www.fundaciobit.org/wp-content/uploads/2020/03/9.-Empreses-del-ParcBit-2018-2019.pdf)"
+      },
+      {
+        "name": "[8.La cobertura de la banda ampla a les Illes Balears, (2018).](https://www.fundaciobit.org/wp-content/uploads/2020/03/8.-Informe-Cobertura-Banda-ampla-2018.pdf)"
+      },
+      {
+        "name": "[7.Dades del ParcBit, (2018).](https://www.fundaciobit.org/wp-content/uploads/2020/03/7.-Empreses-del-ParcBit-2017-2018.pdf)"
+      },
+      {
+        "name": "[6.Informe de mobilitat del ParcBit, (2017-2018).](https://www.fundaciobit.org/wp-content/uploads/2020/03/6.-Informe-Mobilitat-ParcBit-2017-2018.pdf)"
+      },
+      {
+        "name": "[5.Dades del ParcBit (2017).](https://www.fundaciobit.org/wp-content/uploads/2020/03/5.-Empreses-del-ParcBit-2016-2017.pdf)"
+      },
+      {
+        "name": "[4.Directori d’empreses TIC de Balears, (2016).](https://www.fundaciobit.org/wp-content/uploads/2020/03/4.-Directori-dempreses-TIC-de-Balears-2016.pdf)"
+      },
+      {
+        "name": "[3.La cobertura de la banda ampla a les Illes Balears, (2015).](https://www.fundaciobit.org/wp-content/uploads/2020/03/3.-Informe-Cobertura-Banda-ampla-2015.pdf)"
+      },
+      {
+        "name": "[2.La cobertura de la banda ampla a les Illes Balears, (2014).](https://www.fundaciobit.org/wp-content/uploads/2020/03/2.-Informe-Cobertura-Banda-ampla-2014.pdf)"
+      },
+      {
+        "name": "[1.La eInclusió a les Illes Balears, (2014).](https://www.fundaciobit.org/wp-content/uploads/2020/03/Informe-eInclusio-2014.pdf)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "La Xarxa d’Observatoris del Desenvolupament Econòmic Local (XODEL) és un espai on es\r\ngenera, es comparteix i es difon informació i on es fomenta el debat, la reflexió i l’intercanvi\r\nd’experiències entre els observatoris membres.\n\nLa Xarxa està composta de 21 observatoris i coordinada per l’Oficina Tècnica d’Estratègies per al\r\nDesenvolupament Econòmic de l’Àrea de Desenvolupament Econòmic i Turisme de la Diputació\r\nde Barcelona.\n\nLa Xarxa disposa d’una comunitat virtual (https://xodel.diba.cat), una eina de comunicació\r\nhoritzontal que permet al grup comunicar-se, treballar de manera col·laborativa i gestionar\r\nconeixement distribuït mitjançant diverses eines de participació.\n\nLa Xarxa està composta de 21 observatoris i coordinada per l’Oficina Tècnica d’Estratègies per al\r\nDesenvolupament Econòmic de l’Àrea de Desenvolupament Econòmic i Turisme de la Diputació\r\nde Barcelona\n\n**Observatoris**\n\n**_Observatoris municipals_**\n\n[Observatori de desenvolupament local de Badalona](http://www.badalona.cat/)\n\n[Observatori econòmic i social de Barberà del Vallès](https://www.bdv.cat/observatori-economic-i-social)\n\n[Departament d’estudis de la Gerència de política econòmica i desenvolupament local (Barcelona)](https://ajuntament.barcelona.cat/economiatreball/ca/documents)\n\n[Observatori socioeconòmic de l'Hospitalet de Llobregat](http://www.dinamitzaciolocallh.cat/)\n\n[Servei d’estratègia i governança (Mataró)](https://www.mataro.cat/ca/la-ciutat/observatori-de-ciutat)\n\n[Gabinet d’estudis i estadístiques (Rubí)](https://www.rubi.cat/ca/ajuntament/transparencia/observatoridelaciutat/gabinet-destudis-i-estadistiques)\n\n[Observatori de l’economia local (Sabadell)](http://www.vaporllonch.cat/observatori-economia-local)\n\n[Observatori socioeconòmic de Grameimpuls (Santa Coloma de Gramenet)](https://www.grameimpuls.cat/observatori/)\n\n[Servei d’estudis i Observatori de la ciutat (Terrassa) ](http://www.terrassa.cat/servei-estudis)\n\n**_Observatoris supramunicipals_**\n\n[Observatori del desenvolupament local de l'Alt Penedès i del Garraf](https://mancomunitat.cat/temes/banc-de-dades-socioeconomiques/)\n\n[Observatori socioeconòmic de l’Anoia](http://www.observatorianoia.cat/)\n\n[Observatori del Bages](https://www.manresa.cat/web/article/1006-informacio-socioeconomica)\n\n[Observatori comarcal del Baix Llobregat](http://www.elbaixllobregat.cat/observatori)\n\n[Observatori de desenvolupament local del Berguedà](http://www.adbergueda.cat/territori)\n\n[Observatori de desenvolupament local del Maresme](http://www.ccmaresme.cat/observatori)\n\n[Observatori Metropolità](https://agenciaeconomica.amb.cat/)\n\n[Observatori estratègic del Moianès](http://www.ccmoianes.cat/observatori/que-es-lobservatori-estrategic-del-moianes/)\n\n[Observatori socioeconòmic d’Osona](http://www.observatorisocioeconomicosona.cat/)\n\n[Observatori de la Riera de Caldes](http://www.rieradecaldes.com/observatori.html)\n\n[Observatori comarcal del Vallès Occidental](https://www.consellvallesoccidental.cat/observatori/)\n\n[L’Observatori – Centre d’estudis del Vallès Oriental](https://www.vallesoriental.cat/ambits/lobservatori-centre-destudis/)",
     "docs": [
       {
