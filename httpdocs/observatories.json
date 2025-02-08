@@ -3428,17 +3428,11 @@
   {
     "name": "Observatori de l'Administració Digital",
     "type": "publico",
-    "website": "https://administraciodigital.gencat.cat/ca/administracio-digital/observatori-dadministracio-digital/index.html",
-    "description": "\n\nVaya vd a saber",
-    "scope": "autonómico",
-    "from_date": "14/12/2024\n\nhttps://administraciodigital.gencat.cat/ca/administracio-digital/observatori-dadministracio-digital/index.html",
+    "website": "https://oad.administraciodigital.gencat.cat",
+    "scope": "cataluna",
     "parents": [
-      "Presidència. Telecomunicacions i transformació digital."
-    ],
-    "docs": [
-      {
-        "name": "Ninguno"
-      }
+      "Presidència. Telecomunicacions i transformació digital",
+      "Generalitat de Catalunya"
     ],
     "is_active": "Si"
   },
