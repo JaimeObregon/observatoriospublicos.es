@@ -1285,6 +1285,19 @@
     "website": "https://ajuntament.barcelona.cat/dretssocials/es/content/observatorio-social-bcn"
   },
   {
+    "name": "Espacio de Observación de Inteligencia Artificial (IA) en español",
+    "type": "publico",
+    "website": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8544",
+    "description": "Que el objeto del convenio es colaborar para el desarrollo y creación de un Observatorio de Inteligencia Artificial (IA) en español, que analice la brecha de desarrollo inglés/español en IA.\n\nEn el convenio se prevé la elaboración de un índice que establezca, cuantitativa y cualitativamente, la diferencia entre las tecnologías del lenguaje en estos idiomas, en relación con cuatro ámbitos:\n\n- el estado del arte,\n- las soluciones de mercado,\n- el nivel de adopción de las tecnologías\n- y la experiencia de usuario.\n\nPara cada uno de estos aspectos se producirá anualmente (durante un periodo de tres años) un informe con conclusiones cuantitativas y cualitativas, así como indicadores para cada uno de los ámbitos que se integrarán en un único indicador agregado de la distancia entre las dos lenguas a efectos tecnológicos.",
+    "scope": "estatal",
+    "from_date": "Marzo 2023",
+    "to_date": "30 de junio de 2026",
+    "parents": [
+      "Entidad Pública Empresarial Red.es, M.P.",
+      "Universidad Nacional de Educación a Distancia (UNED)"
+    ]
+  },
+  {
     "name": "Observatorio de Empleo y Formación del Servicio Cántabro de Empleo",
     "scope": "cantabria",
     "type": "publico"
