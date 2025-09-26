@@ -1003,6 +1003,16 @@
     "website": "https://www.urjc.es/estudiar-en-la-urjc/vida-universitaria/4682-observatorio-para-el-analisis-y-visibilidad-de-la-exclusion-social"
   },
   {
+    "name": "Observatorio Andaluz de Cultivos Frutales Exóticos",
+    "type": "publico",
+    "website": "https://www.go-exotika.com/",
+    "email": "cmartinez@fundaciontecnova.com",
+    "scope": "autonómico",
+    "parents": [
+      "Consejería de Agricultura, Ganadería, Pesca y Desarrollo Sostenible de la Junta de Andalucía"
+    ]
+  },
+  {
     "description": "\n\nAyuntamiento de Gijón",
     "docs": [
       {
@@ -1292,6 +1302,19 @@
     "website": "https://ajuntament.barcelona.cat/dretssocials/es/content/observatorio-social-bcn"
   },
   {
+    "name": "Espacio de Observación de Inteligencia Artificial (IA) en español",
+    "type": "publico",
+    "website": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8544",
+    "description": "Que el objeto del convenio es colaborar para el desarrollo y creación de un Observatorio de Inteligencia Artificial (IA) en español, que analice la brecha de desarrollo inglés/español en IA.\n\nEn el convenio se prevé la elaboración de un índice que establezca, cuantitativa y cualitativamente, la diferencia entre las tecnologías del lenguaje en estos idiomas, en relación con cuatro ámbitos:\n\n- el estado del arte,\n- las soluciones de mercado,\n- el nivel de adopción de las tecnologías\n- y la experiencia de usuario.\n\nPara cada uno de estos aspectos se producirá anualmente (durante un periodo de tres años) un informe con conclusiones cuantitativas y cualitativas, así como indicadores para cada uno de los ámbitos que se integrarán en un único indicador agregado de la distancia entre las dos lenguas a efectos tecnológicos.",
+    "scope": "estatal",
+    "from_date": "Marzo 2023",
+    "to_date": "30 de junio de 2026",
+    "parents": [
+      "Entidad Pública Empresarial Red.es, M.P.",
+      "Universidad Nacional de Educación a Distancia (UNED)"
+    ]
+  },
+  {
     "name": "Observatorio de Empleo y Formación del Servicio Cántabro de Empleo",
     "scope": "cantabria",
     "type": "publico"
@@ -1304,6 +1327,39 @@
   {
     "name": "Observatorio Socioeconómico de la Provincia de Badajoz",
     "type": "publico"
+  },
+  {
+    "name": "Observatorio Ocupacional y Empresarial de ILDEFE",
+    "type": "publico",
+    "website": "https://ildefe.es/informacion-corporativa/observatorio-ocupacional/",
+    "email": "ildefe@ildefe.es",
+    "description": "El Observatorio Ocupacional y Empresarial de ILDEFE realiza Informes del Mercado Laboral trimestralmente.\nILDEFE (Instituto Leonés de Desarrollo Económico, Formación y Empleo) es la Agencia de Desarrollo Local del Ayuntamiento de León.",
+    "scope": "local",
+    "from_date": "2008",
+    "parents": [
+      "Ayuntamiento de León"
+    ],
+    "docs": [
+      {
+        "name": "- https://ildefe.es/wp-content/uploads/2025/08/2-trimestre-2025.pdf"
+      },
+      {
+        "name": "- https://ildefe.es/wp-content/uploads/2025/05/1-trimestre-2025.pdf"
+      },
+      {
+        "name": "- https://ildefe.es/wp-content/uploads/2025/03/4-trimestre-2024.pdf"
+      },
+      {
+        "name": "- https://ildefe.es/wp-content/uploads/2024/11/3-trimestre-2024.pdf"
+      },
+      {
+        "name": "- https://ildefe.es/wp-content/uploads/2024/07/2024-2T-Informe-Completo.pdf"
+      },
+      {
+        "name": "- https://ildefe.es/wp-content/uploads/2024/05/InformeMercadoLaboral_informecompleto1T24.pdf"
+      }
+    ],
+    "is_active": "Si"
   },
   {
     "name": "Observatorio del Sector TIC en Extremadura",
@@ -1739,6 +1795,19 @@
     "website": "https://www.ikuspegi.eus/"
   },
   {
+    "name": "Observatorio para la Prevención del Tabaquismo",
+    "type": "publico",
+    "website": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6742",
+    "description": "Como parte de la nueva estructura de prevención, se restablece el Observatorio para la Prevención del Tabaquismo, órgano de coordinación interadministrativa para el seguimiento de políticas públicas en esta materia. Su creación responde a la necesidad de reforzar la gobernanza y la evaluación en la lucha contra el tabaquismo, después de su supresión en 2014.",
+    "scope": "estatal",
+    "from_date": "Septiembre de 2025",
+    "to_date": "Se suprimió en 2014. En septiembre de 2025 se restableció.",
+    "parents": [
+      "Ministerio de Sanidad"
+    ],
+    "is_active": "Si"
+  },
+  {
     "is_active": "Si",
     "name": "Observatorio de Tendencias de Mercamadrid",
     "parents": [
@@ -2165,19 +2234,6 @@
     "website": "http://www.observatoriobiomasa.gal"
   },
   {
-    "description": "Profundizar <q>en el conocimiento sobre los sectores culturales y creativos, y sistematizar la información cuantitativa y cualitativa en el ámbito de la cultura y la creatividad en Navarra que ayude en la elaboración de las políticas culturales y la toma de decisiones, investigue en tendencias, conexiones con otros sectores, etc., identifique las buenas prácticas y experiencias que se desarrollan dentro y fuera de Navarra, y fomente el conocimiento de los públicos de la cultura y la creatividad</q>.",
-    "email": "cultura@navarra.es",
-    "is_active": "Sí",
-    "name": "Observatorio Navarro de la Cultura",
-    "parents": [
-      "Dirección General de Cultura - Institución Príncipe de Viana",
-      "Departamento de Cultura, Deporte y Juventud del Gobierno de Navarra"
-    ],
-    "scope": "navarra",
-    "type": "publico",
-    "website": "https://www.culturanavarra.es/es/presentacion-8"
-  },
-  {
     "name": "Observatorio de Precios de Canarias",
     "parents": [
       "Gobierno de Canarias"
@@ -2241,7 +2297,6 @@
         "url": "https://www.bde.es/f/webbe/INF/MenuHorizontal/Observatorio_margenes_empresariales/20231218_OME_T3.pdf"
       }
     ],
-    "email": "cultura@navarra.es",
     "from_date": "2023-07-03",
     "is_active": "Sí",
     "name": "Observatorio de Márgenes Empresariales",
@@ -2252,7 +2307,7 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.bde.es/wbe/es/inicio/observatorio-margenes-empresariales/"
+    "website": "https://www.observatoriomargenes.es/wme/es/"
   },
   {
     "description": "Profundizar <q>en el conocimiento sobre los sectores culturales y creativos, y sistematizar la información cuantitativa y cualitativa en el ámbito de la cultura y la creatividad en Navarra que ayude en la elaboración de las políticas culturales y la toma de decisiones, investigue en tendencias, conexiones con otros sectores, etc., identifique las buenas prácticas y experiencias que se desarrollan dentro y fuera de Navarra, y fomente el conocimiento de los públicos de la cultura y la creatividad</q>.",
@@ -2266,31 +2321,6 @@
     "scope": "navarra",
     "type": "publico",
     "website": "https://www.culturanavarra.es/es/presentacion-8"
-  },
-  {
-    "description": "El Observatorio de márgenes empresariales es un proyecto conjunto del Ministerio de Asuntos Económicos y Transformación Digital, el Banco de España y la Agencia Tributaria que tiene como objetivo disponer de información para el seguimiento y el análisis de los márgenes empresariales y de mejorar el conocimiento sobre su evolución y sus implicaciones para el conjunto de la economía.",
-    "docs": [
-      {
-        "name": "Objetivo del Observatorio y primer informe trimestral (Julio 2023)",
-        "url": "https://www.bde.es/f/webbe/INF/MenuHorizontal/Observatorio_margenes_empresariales/20230703_OME_Briefing.pdf"
-      },
-      {
-        "name": "Informe Trimestral 2023 T3",
-        "url": "https://www.bde.es/f/webbe/INF/MenuHorizontal/Observatorio_margenes_empresariales/20231218_OME_T3.pdf"
-      }
-    ],
-    "email": "cultura@navarra.es",
-    "from_date": "2023-07-03",
-    "is_active": "Sí",
-    "name": "Observatorio de Márgenes Empresariales",
-    "parents": [
-      "Ministerio de Asuntos Económicos y Transformación Digital (MINECO)",
-      "Banco de España (BdE)",
-      "Agencia Estatal de Administración Tributaria (AEAT)"
-    ],
-    "scope": "estatal",
-    "type": "publico",
-    "website": "https://www.bde.es/wbe/es/inicio/observatorio-margenes-empresariales/"
   },
   {
     "description": "h) Publicar y difundir estudios, materiales y experiencias de educación para la convivencia y cultura de paz. i) Elaborar un informe anual sobre el estado de la convivencia y la conflictividad en los centros educativos, para lo que requerirá el apoyo informativo, documental y técnico de otras Administraciones Públicas con competencia en la materia y de los propios órganos y entidades de la Consejería competente en materia de educación, así como de entidades e instituciones privadas. j) Cualquier otra función de apoyo y asesoramiento vinculada a la recogida, análisis, difusión de la información y la investigación y la promoción de actuaciones en todas las materias relacionadas con la mejora de la convivencia en el ámbito de los centros educativos.",
@@ -2443,16 +2473,6 @@
     "scope": "canarias",
     "type": "publico",
     "website": "https://www.gobiernodecanarias.org/turismo/estadisticas_y_estudios/"
-  },
-  {
-    "is_active": "None",
-    "name": "Observatorio Canario de Empleo",
-    "parents": [
-      "Gobierno de Canarias"
-    ],
-    "scope": "canarias",
-    "type": "publico",
-    "website": "https://obecan.es"
   },
   {
     "is_active": "None",
@@ -4191,6 +4211,18 @@
     "website": "https://behatoki.eus"
   },
   {
+    "name": "Observatorio Valenciano de las familias",
+    "type": "publico",
+    "website": "https://comunica.gva.es/va/detalle?id=392558560&site=373409432",
+    "description": "Observatorio desarrollará, entre otras acciones, la elaboración de protocolos de colaboración entre los organismos públicos y las entidades del tercer sector para mejorar la intervención conjunta, así como el asesoramiento y la monitorización del grado de cumplimiento de los derechos de las familias, y la elaboración de la Estrategia Valenciana por las Familias para analizar las necesidades en este ámbito. \nhttps://comunica.gva.es/va/detalle?id=392558560&site=373409432",
+    "scope": "autonómico",
+    "from_date": "14/5/2025",
+    "parents": [
+      "Generalitat Valenciana"
+    ],
+    "is_active": "Si"
+  },
+  {
     "email": "omigualdad@oc.mde.es",
     "is_active": "None",
     "name": "Observatorio Militar para la Igualdad entre Mujeres y Hombres en las Fuerzas Armadas",
@@ -4200,27 +4232,6 @@
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.defensa.gob.es/ministerio/organigrama/subdef/omi/"
-  },
-  {
-    "description": [
-      "Ofrece bases de datos, anuales y trimestrales, procedentes del Impuesto sobre Sociedades y de los modelos de IVA y retenciones sobre rendimientos del trabajo. La población objeto de estudio en cada año son todas aquellas empresas no financieras que tengan declaraciones de estos tres impuestos, con la única exclusión de empresas en actividades con un alto porcentaje de operaciones exentas a efectos del IVA."
-    ],
-    "docs": [
-      {
-        "name": "4.1 Indicadores de precios(159 KB - xlsx)",
-        "url": "https://sede.agenciatributaria.gob.es/static_files/Sede/Tema/Estadisticas/Observatorio_margenes_empresariales/Datos_margenes_empresariales/Indicadores_de_precios.xlsx"
-      }
-    ],
-    "is_active": "Sí",
-    "name": "Observatorio de Márgenes Empresariales",
-    "parents": [
-      "Ministerio de Asuntos Económicos y Transformación Digital",
-      "Banco de España",
-      "Agencia Estatal de Administración Tributaria"
-    ],
-    "scope": "estatal",
-    "type": "publico",
-    "website": "https://sede.agenciatributaria.gob.es/Sede/estadisticas/observatorio-margenes-empresariales/observatorio-margenes-empresariales.html"
   },
   {
     "is_active": "None",
