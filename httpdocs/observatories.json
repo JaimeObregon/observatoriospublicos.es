@@ -604,12 +604,11 @@
     ],
     "email": "observatori@catpaisatge.net",
     "is_active": "Si",
-    "name": "Observatori del Paisatge de Catalunya",
-    "parents": [
-      "L’Observatori s’organitza en forma de consorci, està adscrit al Departament de Territori de la Generalitat de Catalunya i s’inclou a la Llei de protecció, gestió i ordenació del paisatge de Catalunya, que segueix els principis del Conveni europeu del paisatge. Es va constituir legalment el 30 de novembre de 2004 i els seus Estatuts van ser publicats al DOGC (Resolució PTO/3386/2004)."
-    ],
+    "name": "Observatorio del Paisaje de Cataluña / Observatori del Paisatge de Catalunya",
+    "parents": ["Departament de Territori", "Generalitat de Catalunya"],
     "scope": "autonómico",
     "type": "publico",
+    "description": "Entidad de asesoramiento de la administración catalana y de concienciación de la sociedad en general en materia de paisaje.",
     "website": "https://www.catpaisatge.net/ca"
   },
   {
