@@ -1755,6 +1755,19 @@
     "website": "https://www.ikuspegi.eus/"
   },
   {
+    "name": "Observatorio para la Prevención del Tabaquismo",
+    "type": "publico",
+    "website": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6742",
+    "description": "Como parte de la nueva estructura de prevención, se restablece el Observatorio para la Prevención del Tabaquismo, órgano de coordinación interadministrativa para el seguimiento de políticas públicas en esta materia. Su creación responde a la necesidad de reforzar la gobernanza y la evaluación en la lucha contra el tabaquismo, después de su supresión en 2014.",
+    "scope": "estatal",
+    "from_date": "Septiembre de 2025",
+    "to_date": "Se suprimió en 2014. En septiembre de 2025 se restableció.",
+    "parents": [
+      "Ministerio de Sanidad"
+    ],
+    "is_active": "Si"
+  },
+  {
     "is_active": "Si",
     "name": "Observatorio de Tendencias de Mercamadrid",
     "parents": [
