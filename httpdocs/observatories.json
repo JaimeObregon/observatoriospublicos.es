@@ -5182,6 +5182,18 @@
     "website": "https://www.aedbiz.org/observatorio-aed/"
   },
   {
+    "name": "Observatorio y Consejo Social para el Reto Demográfico",
+    "type": "publico",
+    "website": "https://www.asturias.es/ast/web/gobierno-abierto/detalle/-/categories/694424?p_r_p_categoryId=694424&_com_liferay_asset_categories_navigation_web_portlet_AssetCategoriesNavigationPortlet_articleId=3237489&articleId=3237489&title=Observatorio%20y%20Consejo%20Social%20para%20el%20Reto%20Demogr%C3%A1fico&redirect=https%3A%2F%2Fwww.asturias.es%2Fast%2Fweb%2Fgobierno-abierto%2Fgeneral%2F-%2Fcategories%2F694424%3Fp_r_p_categoryId%3D694424",
+    "description": "\n\n- Presidencia: el/la titular de la Consejería competente en materia de reto demográfico\n- Vicepresidencia: el/la titular de la Dirección General competente en materia de reto demográfico.\n- Secretaría: una persona funcionaria de la Consejería a la que esté adscrito el Observatorio.\n- Vocalías:\n-- Cinco vocales designados por el Consejo de Gobierno del Principado de Asturias.\n-- Dos representantes del sector empresarial, designados por la Federación Asturiana de Empresarios (FADE).\n-- Tres representantes del movimiento asociativo, especialmente vinculado a la zona rural, designados por la persona titular de la Consejería competente en materia de reto demográfico, teniendo en cuenta su representación en el ámbito supramunicipal e implantación en el territorio.\n-- Un representante de la Sociedad Asturiana de Estudios Económicos e Industriales (SADEI).\n-- Un representante de la Federación Asturiana de Concejos (FAC).\n-- Un representante de la Universidad de Oviedo.\n-- Dos representantes de las organizaciones sindicales más representativas en el Principado de Asturias.\n-- Un representante de la Federación Asturiana de Parroquias rurales (FAPAR).\n-- Un representante del Consejo Asturiano de la Mujer del Principado de Asturias.\n-- Un representante del Consejo Asturiano de la Juventud del Principado de Asturias.\n-- Además de los anteriores, la Administración General del Estado podrá designar una vocalía en el Observatorio.",
+    "scope": "autonómico",
+    "from_date": "Octubre 2025: [Decreto 68/2024, de 25 de octubre](https://sede.asturias.es/bopa/2024/11/08/2024-09599.pdf), por el que se regulan las funciones, composición y régimen de funcionamiento del Observatorio y Consejo Social para el Reto Demográfico.",
+    "parents": [
+      "Consejería de Presidencia, Reto Demográfico, Igualdad y Turismo (Gobierno de Asturias)"
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "Creado en 2016, está constituido por un grupo de trabajo cuya finalidad es el estudio, la investigación, la formación, la divulgación, la promoción y la elaboración de estrategias para la Cooperación para el Desarrollo y la Educación para la Ciudadanía Global en la provincia de Zaragoza.",
     "email": "catcodes@unizar.es",
     "from_date": "2016",
