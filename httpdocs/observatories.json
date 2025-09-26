@@ -3896,6 +3896,25 @@
     "website": "https://obecan.es"
   },
   {
+    "name": "Observatorio Desca",
+    "type": "mixto",
+    "website": "https://observatoridesc.org/es",
+    "email": "hola@observatoridesca.org",
+    "description": "El Observatori DESCA es un centro para la defensa de los Derechos Humanos que concentra sus esfuerzos en desmontar la percepción devaluada de los Derechos Económicos, Sociales, Culturales y Ambientales –derecho a la vivienda, al trabajo, a la educación, a la salud, a la alimentación, al ambiente sano- en relación a otros derechos considerados fundamentales como los derechos civiles y políticos y los derechos patrimoniales. Para ello, el Observatorio combina la incidencia política con la investigación, el asesoramiento y la organización de cursos y jornadas y litigios estratégicos. Así, se promueven investigaciones y pubicaciones, se organizan seminarios y formaciones y se acompañan reivindicaciones y luchas populares. Todo ello, sin perder de vista la importancia del trabajo en red, tanto a nivel local como global, y de la participación en campañas sociales.\n\nMiembros: [Amnistia Internacional](http://www.amnistiacatalunya.org/) (observadores), [Centre de Drets Humans Irídia](http://iridia.cat/es/), [Comissions Obreres de Catalunya](http://www.ccoo.cat/), [Dones juristes](http://donesjuristes.cat/), Grup Antropologia Jurídica del ICA, [Institut de Drets Humans de Catalunya](http://www.idhc.org/es/), [Intersindical Alternativa de Catalunya](http://iac.cat/); Martí Batllori, Gonzalo Boyé, Isabel Elba, Raquel Rodríguez, Miguel Ruiz, Raúl Márquez y Gisela Torrents.",
+    "scope": "estatal",
+    "from_date": "Lo desconozco, solo hay memorias desde 2021",
+    "parents": [
+      "Ayuntamiento de Barcelona y Agencia Catalana de Cooperación al Desarrollo.",
+      "Según la memoria de 2023, el 89,48% de los ingresos son subvenciones y donaciones, de las cuales, el 46,97% son del Ayuntamiento de Barcelona y el 49,21% de la Agencia Catalana de Cooperación al Desarrollo."
+    ],
+    "docs": [
+      {
+        "name": "En las memorias, se especifican https://observatoridesc.org/es/transparencia"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "docs": [
       {
         "name": "Listado de documentos publicados: Documentos e informes",
