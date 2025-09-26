@@ -4181,6 +4181,18 @@
     "website": "https://behatoki.eus"
   },
   {
+    "name": "Observatorio Valenciano de las familias",
+    "type": "publico",
+    "website": "https://comunica.gva.es/va/detalle?id=392558560&site=373409432",
+    "description": "Observatorio desarrollará, entre otras acciones, la elaboración de protocolos de colaboración entre los organismos públicos y las entidades del tercer sector para mejorar la intervención conjunta, así como el asesoramiento y la monitorización del grado de cumplimiento de los derechos de las familias, y la elaboración de la Estrategia Valenciana por las Familias para analizar las necesidades en este ámbito. \nhttps://comunica.gva.es/va/detalle?id=392558560&site=373409432",
+    "scope": "autonómico",
+    "from_date": "14/5/2025",
+    "parents": [
+      "Generalitat Valenciana"
+    ],
+    "is_active": "Si"
+  },
+  {
     "email": "omigualdad@oc.mde.es",
     "is_active": "None",
     "name": "Observatorio Militar para la Igualdad entre Mujeres y Hombres en las Fuerzas Armadas",
