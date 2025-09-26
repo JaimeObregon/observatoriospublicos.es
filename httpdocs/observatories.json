@@ -859,6 +859,23 @@
     "website": "https://barcelonadadescultura.bcn.cat/?lang=es"
   },
   {
+    "name": "Observatorio de la lengua española y las culturas hispánicas en los Estados Unidos",
+    "type": "publico",
+    "website": "https://cervantesobservatorio.fas.harvard.edu/es",
+    "email": "info-observatory@fas.harvard.edu",
+    "description": "https://cervantesobservatorio.fas.harvard.edu/sites/default/files/folleto_-_bilingue_-_vf.pdf",
+    "scope": "estatal",
+    "parents": [
+      "Instituto Cervantes",
+      "Faculty of Arts and Sciences de Harvard University"
+    ],
+    "docs": [
+      {
+        "url": "https://cervantesobservatorio.fas.harvard.edu/es/informes"
+      }
+    ]
+  },
+  {
     "name": "Observatorio Galego de Convivencia Escolar",
     "scope": "galicia"
   },
