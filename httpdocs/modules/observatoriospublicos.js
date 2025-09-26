@@ -18,9 +18,12 @@ let currentObservatories = null
  */
 export function updateObservatories(thisObservatories) {
   const container = document.querySelector('x-catalog')
+  if (!container) {
+    return
+  }
   container.innerHTML = thisObservatories
     .map((observatory, index) =>
-      createObservatoryCardComponent(index + 1, observatory)
+      createObservatoryCardComponent(index + 1, observatory),
     )
     .join('')
 
@@ -55,7 +58,7 @@ async function main() {
       .map(({ scope }) => `Ámbito desconocido: "${scope}"`),
     ...observatories
       .filter(
-        ({ scope }) => scope && !scopes.map(({ key }) => key).includes(scope)
+        ({ scope }) => scope && !scopes.map(({ key }) => key).includes(scope),
       )
       .map(({ scope }) => `Ámbito desconocido: "${scope}"`),
   ]
@@ -119,7 +122,7 @@ const openModal = (modal, event) => {
   const h3 = modal.querySelector('#observatory-title')
 
   const observatory = currentObservatories.find(
-    ({ name }) => name === event.currentTarget.dataset.observatory
+    ({ name }) => name === event.currentTarget.dataset.observatory,
   )
   const json = JSON.stringify(observatory, null, 2)
   div.innerHTML = createObservatoryDetailsComponent(observatory)
