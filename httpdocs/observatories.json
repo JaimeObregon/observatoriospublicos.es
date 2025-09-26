@@ -1390,6 +1390,18 @@
     "scope": "extremadura"
   },
   {
+    "name": "Observatori Ciutadà de la Biodiversitat",
+    "type": "publico",
+    "website": "https://www.reus.cat/serveis/observatori-ciutada-de-biodiversitat",
+    "description": "L’Observatori Ciutadà de la Biodiversitat actua com a espai per aglutinar i donar visibilitat a les actuacions de participació ciutadana i sensibilització, d’acord amb l’objectiu d’incorporar la ciutadania al moviment\ntransformador que suposa la renaturalització de Reus.\n\nAjuntament de Reus",
+    "scope": "local",
+    "from_date": "20/02/2025",
+    "parents": [
+      "Ajuntament de Reus"
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio de Responsabilidad Social de Extremadura",
     "scope": "extremadura"
   },
