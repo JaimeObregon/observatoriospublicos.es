@@ -986,6 +986,16 @@
     "website": "https://www.urjc.es/estudiar-en-la-urjc/vida-universitaria/4682-observatorio-para-el-analisis-y-visibilidad-de-la-exclusion-social"
   },
   {
+    "name": "Observatorio Andaluz de Cultivos Frutales Exóticos",
+    "type": "publico",
+    "website": "https://www.go-exotika.com/",
+    "email": "cmartinez@fundaciontecnova.com",
+    "scope": "autonómico",
+    "parents": [
+      "Consejería de Agricultura, Ganadería, Pesca y Desarrollo Sostenible de la Junta de Andalucía"
+    ]
+  },
+  {
     "description": "\n\nAyuntamiento de Gijón",
     "docs": [
       {
