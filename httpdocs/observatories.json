@@ -627,12 +627,11 @@
     ],
     "email": "observatori@catpaisatge.net",
     "is_active": "Si",
-    "name": "Observatori del Paisatge de Catalunya",
-    "parents": [
-      "L’Observatori s’organitza en forma de consorci, està adscrit al Departament de Territori de la Generalitat de Catalunya i s’inclou a la Llei de protecció, gestió i ordenació del paisatge de Catalunya, que segueix els principis del Conveni europeu del paisatge. Es va constituir legalment el 30 de novembre de 2004 i els seus Estatuts van ser publicats al DOGC (Resolució PTO/3386/2004)."
-    ],
+    "name": "Observatorio del Paisaje de Cataluña / Observatori del Paisatge de Catalunya",
+    "parents": ["Departament de Territori", "Generalitat de Catalunya"],
     "scope": "autonómico",
     "type": "publico",
+    "description": "Entidad de asesoramiento de la administración catalana y de concienciación de la sociedad en general en materia de paisaje.",
     "website": "https://www.catpaisatge.net/ca"
   },
   {
@@ -859,6 +858,23 @@
     "website": "https://barcelonadadescultura.bcn.cat/?lang=es"
   },
   {
+    "name": "Observatorio de la lengua española y las culturas hispánicas en los Estados Unidos",
+    "type": "publico",
+    "website": "https://cervantesobservatorio.fas.harvard.edu/es",
+    "email": "info-observatory@fas.harvard.edu",
+    "description": "https://cervantesobservatorio.fas.harvard.edu/sites/default/files/folleto_-_bilingue_-_vf.pdf",
+    "scope": "estatal",
+    "parents": [
+      "Instituto Cervantes",
+      "Faculty of Arts and Sciences de Harvard University"
+    ],
+    "docs": [
+      {
+        "url": "https://cervantesobservatorio.fas.harvard.edu/es/informes"
+      }
+    ]
+  },
+  {
     "name": "Observatorio Galego de Convivencia Escolar",
     "scope": "galicia"
   },
@@ -984,6 +1000,16 @@
     "scope": "autonómico",
     "type": "publico",
     "website": "https://www.urjc.es/estudiar-en-la-urjc/vida-universitaria/4682-observatorio-para-el-analisis-y-visibilidad-de-la-exclusion-social"
+  },
+  {
+    "name": "Observatorio Andaluz de Cultivos Frutales Exóticos",
+    "type": "publico",
+    "website": "https://www.go-exotika.com/",
+    "email": "cmartinez@fundaciontecnova.com",
+    "scope": "autonómico",
+    "parents": [
+      "Consejería de Agricultura, Ganadería, Pesca y Desarrollo Sostenible de la Junta de Andalucía"
+    ]
   },
   {
     "description": "\n\nAyuntamiento de Gijón",
@@ -1275,6 +1301,19 @@
     "website": "https://ajuntament.barcelona.cat/dretssocials/es/content/observatorio-social-bcn"
   },
   {
+    "name": "Espacio de Observación de Inteligencia Artificial (IA) en español",
+    "type": "publico",
+    "website": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-8544",
+    "description": "Que el objeto del convenio es colaborar para el desarrollo y creación de un Observatorio de Inteligencia Artificial (IA) en español, que analice la brecha de desarrollo inglés/español en IA.\n\nEn el convenio se prevé la elaboración de un índice que establezca, cuantitativa y cualitativamente, la diferencia entre las tecnologías del lenguaje en estos idiomas, en relación con cuatro ámbitos:\n\n- el estado del arte,\n- las soluciones de mercado,\n- el nivel de adopción de las tecnologías\n- y la experiencia de usuario.\n\nPara cada uno de estos aspectos se producirá anualmente (durante un periodo de tres años) un informe con conclusiones cuantitativas y cualitativas, así como indicadores para cada uno de los ámbitos que se integrarán en un único indicador agregado de la distancia entre las dos lenguas a efectos tecnológicos.",
+    "scope": "estatal",
+    "from_date": "Marzo 2023",
+    "to_date": "30 de junio de 2026",
+    "parents": [
+      "Entidad Pública Empresarial Red.es, M.P.",
+      "Universidad Nacional de Educación a Distancia (UNED)"
+    ]
+  },
+  {
     "name": "Observatorio de Empleo y Formación del Servicio Cántabro de Empleo",
     "scope": "cantabria",
     "type": "publico"
@@ -1287,6 +1326,39 @@
   {
     "name": "Observatorio Socioeconómico de la Provincia de Badajoz",
     "type": "publico"
+  },
+  {
+    "name": "Observatorio Ocupacional y Empresarial de ILDEFE",
+    "type": "publico",
+    "website": "https://ildefe.es/informacion-corporativa/observatorio-ocupacional/",
+    "email": "ildefe@ildefe.es",
+    "description": "El Observatorio Ocupacional y Empresarial de ILDEFE realiza Informes del Mercado Laboral trimestralmente.\nILDEFE (Instituto Leonés de Desarrollo Económico, Formación y Empleo) es la Agencia de Desarrollo Local del Ayuntamiento de León.",
+    "scope": "local",
+    "from_date": "2008",
+    "parents": [
+      "Ayuntamiento de León"
+    ],
+    "docs": [
+      {
+        "name": "- https://ildefe.es/wp-content/uploads/2025/08/2-trimestre-2025.pdf"
+      },
+      {
+        "name": "- https://ildefe.es/wp-content/uploads/2025/05/1-trimestre-2025.pdf"
+      },
+      {
+        "name": "- https://ildefe.es/wp-content/uploads/2025/03/4-trimestre-2024.pdf"
+      },
+      {
+        "name": "- https://ildefe.es/wp-content/uploads/2024/11/3-trimestre-2024.pdf"
+      },
+      {
+        "name": "- https://ildefe.es/wp-content/uploads/2024/07/2024-2T-Informe-Completo.pdf"
+      },
+      {
+        "name": "- https://ildefe.es/wp-content/uploads/2024/05/InformeMercadoLaboral_informecompleto1T24.pdf"
+      }
+    ],
+    "is_active": "Si"
   },
   {
     "name": "Observatorio del Sector TIC en Extremadura",
@@ -1326,12 +1398,70 @@
     "scope": "extremadura"
   },
   {
+    "name": "Observatori Ciutadà de la Biodiversitat",
+    "type": "publico",
+    "website": "https://www.reus.cat/serveis/observatori-ciutada-de-biodiversitat",
+    "description": "L’Observatori Ciutadà de la Biodiversitat actua com a espai per aglutinar i donar visibilitat a les actuacions de participació ciutadana i sensibilització, d’acord amb l’objectiu d’incorporar la ciutadania al moviment\ntransformador que suposa la renaturalització de Reus.\n\nAjuntament de Reus",
+    "scope": "local",
+    "from_date": "20/02/2025",
+    "parents": [
+      "Ajuntament de Reus"
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio de Responsabilidad Social de Extremadura",
     "scope": "extremadura"
   },
   {
     "name": "Observatorio sobre Drogas de la Región de Murcia",
     "scope": "region_de_murcia"
+  },
+  {
+    "name": "Observatori Balear de la Societat de la Informació (OBSI)",
+    "type": "mixto",
+    "website": "https://www.fundaciobit.org/observatori/",
+    "description": "les actuacions incloses a l’OBSI es centren en les següents línies d’actuació:\n\nDifondre i facilitar informació sobre el grau d’implantació de les TIC a les Illes Balears.\r\nMesurar el grau de desenvolupament de la SI, mitjançant la selecció d’indicadors.\r\nGenerar estudis quantitatius i qualitatius que permetin comparar l’evolució de la Societat de la Informació a les Illes Balears.\r\nPotenciar la revisió i la renovació d’indicadors disponibles.\r\nCrear un inventari de bones pràctiques.\r\nServir a la societat balear com a referent i com a fòrum de discussió.\r\nSuggerir, guiar o planificar polítiques d’actuació, a partir de les necessitats detectades.\r\nMesurar l’impacte dels programes públics referents al foment de la Societat de la Informació.",
+    "scope": "islas_baleares",
+    "parents": [
+      "Govern de les Illes Balears"
+    ],
+    "docs": [
+      {
+        "name": "[11.Informe “Dones TIC a les Illes Balears”, 2021](https://www.fundaciobit.org/informe-11-dones-tic-de-les-illes-balears-2021/)"
+      },
+      {
+        "name": "[10.Directori i Mapa del comerç electrònic de les Illes Balears, (2020).](https://www.fundaciobit.org/wp-content/uploads/2020/09/10.-Informe-Mapa-Botigues-Virtuals.pdf)"
+      },
+      {
+        "name": "[9.Dades del ParcBit, (2019).](https://www.fundaciobit.org/wp-content/uploads/2020/03/9.-Empreses-del-ParcBit-2018-2019.pdf)"
+      },
+      {
+        "name": "[8.La cobertura de la banda ampla a les Illes Balears, (2018).](https://www.fundaciobit.org/wp-content/uploads/2020/03/8.-Informe-Cobertura-Banda-ampla-2018.pdf)"
+      },
+      {
+        "name": "[7.Dades del ParcBit, (2018).](https://www.fundaciobit.org/wp-content/uploads/2020/03/7.-Empreses-del-ParcBit-2017-2018.pdf)"
+      },
+      {
+        "name": "[6.Informe de mobilitat del ParcBit, (2017-2018).](https://www.fundaciobit.org/wp-content/uploads/2020/03/6.-Informe-Mobilitat-ParcBit-2017-2018.pdf)"
+      },
+      {
+        "name": "[5.Dades del ParcBit (2017).](https://www.fundaciobit.org/wp-content/uploads/2020/03/5.-Empreses-del-ParcBit-2016-2017.pdf)"
+      },
+      {
+        "name": "[4.Directori d’empreses TIC de Balears, (2016).](https://www.fundaciobit.org/wp-content/uploads/2020/03/4.-Directori-dempreses-TIC-de-Balears-2016.pdf)"
+      },
+      {
+        "name": "[3.La cobertura de la banda ampla a les Illes Balears, (2015).](https://www.fundaciobit.org/wp-content/uploads/2020/03/3.-Informe-Cobertura-Banda-ampla-2015.pdf)"
+      },
+      {
+        "name": "[2.La cobertura de la banda ampla a les Illes Balears, (2014).](https://www.fundaciobit.org/wp-content/uploads/2020/03/2.-Informe-Cobertura-Banda-ampla-2014.pdf)"
+      },
+      {
+        "name": "[1.La eInclusió a les Illes Balears, (2014).](https://www.fundaciobit.org/wp-content/uploads/2020/03/Informe-eInclusio-2014.pdf)"
+      }
+    ],
+    "is_active": "Si"
   },
   {
     "description": "La Xarxa d’Observatoris del Desenvolupament Econòmic Local (XODEL) és un espai on es\r\ngenera, es comparteix i es difon informació i on es fomenta el debat, la reflexió i l’intercanvi\r\nd’experiències entre els observatoris membres.\n\nLa Xarxa està composta de 21 observatoris i coordinada per l’Oficina Tècnica d’Estratègies per al\r\nDesenvolupament Econòmic de l’Àrea de Desenvolupament Econòmic i Turisme de la Diputació\r\nde Barcelona.\n\nLa Xarxa disposa d’una comunitat virtual (https://xodel.diba.cat), una eina de comunicació\r\nhoritzontal que permet al grup comunicar-se, treballar de manera col·laborativa i gestionar\r\nconeixement distribuït mitjançant diverses eines de participació.\n\nLa Xarxa està composta de 21 observatoris i coordinada per l’Oficina Tècnica d’Estratègies per al\r\nDesenvolupament Econòmic de l’Àrea de Desenvolupament Econòmic i Turisme de la Diputació\r\nde Barcelona\n\n**Observatoris**\n\n**_Observatoris municipals_**\n\n[Observatori de desenvolupament local de Badalona](http://www.badalona.cat/)\n\n[Observatori econòmic i social de Barberà del Vallès](https://www.bdv.cat/observatori-economic-i-social)\n\n[Departament d’estudis de la Gerència de política econòmica i desenvolupament local (Barcelona)](https://ajuntament.barcelona.cat/economiatreball/ca/documents)\n\n[Observatori socioeconòmic de l'Hospitalet de Llobregat](http://www.dinamitzaciolocallh.cat/)\n\n[Servei d’estratègia i governança (Mataró)](https://www.mataro.cat/ca/la-ciutat/observatori-de-ciutat)\n\n[Gabinet d’estudis i estadístiques (Rubí)](https://www.rubi.cat/ca/ajuntament/transparencia/observatoridelaciutat/gabinet-destudis-i-estadistiques)\n\n[Observatori de l’economia local (Sabadell)](http://www.vaporllonch.cat/observatori-economia-local)\n\n[Observatori socioeconòmic de Grameimpuls (Santa Coloma de Gramenet)](https://www.grameimpuls.cat/observatori/)\n\n[Servei d’estudis i Observatori de la ciutat (Terrassa) ](http://www.terrassa.cat/servei-estudis)\n\n**_Observatoris supramunicipals_**\n\n[Observatori del desenvolupament local de l'Alt Penedès i del Garraf](https://mancomunitat.cat/temes/banc-de-dades-socioeconomiques/)\n\n[Observatori socioeconòmic de l’Anoia](http://www.observatorianoia.cat/)\n\n[Observatori del Bages](https://www.manresa.cat/web/article/1006-informacio-socioeconomica)\n\n[Observatori comarcal del Baix Llobregat](http://www.elbaixllobregat.cat/observatori)\n\n[Observatori de desenvolupament local del Berguedà](http://www.adbergueda.cat/territori)\n\n[Observatori de desenvolupament local del Maresme](http://www.ccmaresme.cat/observatori)\n\n[Observatori Metropolità](https://agenciaeconomica.amb.cat/)\n\n[Observatori estratègic del Moianès](http://www.ccmoianes.cat/observatori/que-es-lobservatori-estrategic-del-moianes/)\n\n[Observatori socioeconòmic d’Osona](http://www.observatorisocioeconomicosona.cat/)\n\n[Observatori de la Riera de Caldes](http://www.rieradecaldes.com/observatori.html)\n\n[Observatori comarcal del Vallès Occidental](https://www.consellvallesoccidental.cat/observatori/)\n\n[L’Observatori – Centre d’estudis del Vallès Oriental](https://www.vallesoriental.cat/ambits/lobservatori-centre-destudis/)",
@@ -1682,6 +1812,19 @@
     "twitter": "@ikuspegi_eus",
     "type": "publico",
     "website": "https://www.ikuspegi.eus/"
+  },
+  {
+    "name": "Observatorio para la Prevención del Tabaquismo",
+    "type": "publico",
+    "website": "https://www.sanidad.gob.es/gabinete/notasPrensa.do?id=6742",
+    "description": "Como parte de la nueva estructura de prevención, se restablece el Observatorio para la Prevención del Tabaquismo, órgano de coordinación interadministrativa para el seguimiento de políticas públicas en esta materia. Su creación responde a la necesidad de reforzar la gobernanza y la evaluación en la lucha contra el tabaquismo, después de su supresión en 2014.",
+    "scope": "estatal",
+    "from_date": "Septiembre de 2025",
+    "to_date": "Se suprimió en 2014. En septiembre de 2025 se restableció.",
+    "parents": [
+      "Ministerio de Sanidad"
+    ],
+    "is_active": "Si"
   },
   {
     "is_active": "Si",
@@ -2110,19 +2253,6 @@
     "website": "http://www.observatoriobiomasa.gal"
   },
   {
-    "description": "Profundizar <q>en el conocimiento sobre los sectores culturales y creativos, y sistematizar la información cuantitativa y cualitativa en el ámbito de la cultura y la creatividad en Navarra que ayude en la elaboración de las políticas culturales y la toma de decisiones, investigue en tendencias, conexiones con otros sectores, etc., identifique las buenas prácticas y experiencias que se desarrollan dentro y fuera de Navarra, y fomente el conocimiento de los públicos de la cultura y la creatividad</q>.",
-    "email": "cultura@navarra.es",
-    "is_active": "Sí",
-    "name": "Observatorio Navarro de la Cultura",
-    "parents": [
-      "Dirección General de Cultura - Institución Príncipe de Viana",
-      "Departamento de Cultura, Deporte y Juventud del Gobierno de Navarra"
-    ],
-    "scope": "navarra",
-    "type": "publico",
-    "website": "https://www.culturanavarra.es/es/presentacion-8"
-  },
-  {
     "name": "Observatorio de Precios de Canarias",
     "parents": [
       "Gobierno de Canarias"
@@ -2186,7 +2316,6 @@
         "url": "https://www.bde.es/f/webbe/INF/MenuHorizontal/Observatorio_margenes_empresariales/20231218_OME_T3.pdf"
       }
     ],
-    "email": "cultura@navarra.es",
     "from_date": "2023-07-03",
     "is_active": "Sí",
     "name": "Observatorio de Márgenes Empresariales",
@@ -2197,7 +2326,7 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.bde.es/wbe/es/inicio/observatorio-margenes-empresariales/"
+    "website": "https://www.observatoriomargenes.es/wme/es/"
   },
   {
     "description": "Profundizar <q>en el conocimiento sobre los sectores culturales y creativos, y sistematizar la información cuantitativa y cualitativa en el ámbito de la cultura y la creatividad en Navarra que ayude en la elaboración de las políticas culturales y la toma de decisiones, investigue en tendencias, conexiones con otros sectores, etc., identifique las buenas prácticas y experiencias que se desarrollan dentro y fuera de Navarra, y fomente el conocimiento de los públicos de la cultura y la creatividad</q>.",
@@ -2211,31 +2340,6 @@
     "scope": "navarra",
     "type": "publico",
     "website": "https://www.culturanavarra.es/es/presentacion-8"
-  },
-  {
-    "description": "El Observatorio de márgenes empresariales es un proyecto conjunto del Ministerio de Asuntos Económicos y Transformación Digital, el Banco de España y la Agencia Tributaria que tiene como objetivo disponer de información para el seguimiento y el análisis de los márgenes empresariales y de mejorar el conocimiento sobre su evolución y sus implicaciones para el conjunto de la economía.",
-    "docs": [
-      {
-        "name": "Objetivo del Observatorio y primer informe trimestral (Julio 2023)",
-        "url": "https://www.bde.es/f/webbe/INF/MenuHorizontal/Observatorio_margenes_empresariales/20230703_OME_Briefing.pdf"
-      },
-      {
-        "name": "Informe Trimestral 2023 T3",
-        "url": "https://www.bde.es/f/webbe/INF/MenuHorizontal/Observatorio_margenes_empresariales/20231218_OME_T3.pdf"
-      }
-    ],
-    "email": "cultura@navarra.es",
-    "from_date": "2023-07-03",
-    "is_active": "Sí",
-    "name": "Observatorio de Márgenes Empresariales",
-    "parents": [
-      "Ministerio de Asuntos Económicos y Transformación Digital (MINECO)",
-      "Banco de España (BdE)",
-      "Agencia Estatal de Administración Tributaria (AEAT)"
-    ],
-    "scope": "estatal",
-    "type": "publico",
-    "website": "https://www.bde.es/wbe/es/inicio/observatorio-margenes-empresariales/"
   },
   {
     "description": "h) Publicar y difundir estudios, materiales y experiencias de educación para la convivencia y cultura de paz. i) Elaborar un informe anual sobre el estado de la convivencia y la conflictividad en los centros educativos, para lo que requerirá el apoyo informativo, documental y técnico de otras Administraciones Públicas con competencia en la materia y de los propios órganos y entidades de la Consejería competente en materia de educación, así como de entidades e instituciones privadas. j) Cualquier otra función de apoyo y asesoramiento vinculada a la recogida, análisis, difusión de la información y la investigación y la promoción de actuaciones en todas las materias relacionadas con la mejora de la convivencia en el ámbito de los centros educativos.",
@@ -2391,16 +2495,6 @@
   },
   {
     "is_active": "None",
-    "name": "Observatorio Canario de Empleo",
-    "parents": [
-      "Gobierno de Canarias"
-    ],
-    "scope": "canarias",
-    "type": "publico",
-    "website": "https://obecan.es"
-  },
-  {
-    "is_active": "None",
     "name": "Observatorio Canario de la Salud",
     "parents": [
       "Gobierno de Canarias"
@@ -2428,6 +2522,23 @@
     "scope": "canarias",
     "type": "publico",
     "website": "https://www.obidic.es"
+  },
+  {
+    "name": "Observatori agroalimentari, rural i ambiental",
+    "type": "publico",
+    "website": "observatoriagroambiental.gencat.cat",
+    "description": "Observan",
+    "scope": "autonómico",
+    "from_date": "11/03/2025\n\nhttps://www.youtube.com/watch?v=L_GiY_7_Ak4&t=2s&ab_channel=agriculturacat",
+    "parents": [
+      "Departament d'Agricultura, Ramaderia, Pesca i Alimentació"
+    ],
+    "docs": [
+      {
+        "name": "Nada de nada"
+      }
+    ],
+    "is_active": "Si"
   },
   {
     "description": "Recolle e difunde información relacionada coa economía e fiscalidade local dos 313 concellos.",
@@ -3434,6 +3545,17 @@
     "website": "https://contratacionresponsablecanarias.org"
   },
   {
+    "name": "Observatori de l'Administració Digital",
+    "type": "publico",
+    "website": "https://oad.administraciodigital.gencat.cat",
+    "scope": "cataluna",
+    "parents": [
+      "Presidència. Telecomunicacions i transformació digital",
+      "Generalitat de Catalunya"
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "Según el [DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2006/11596).",
     "docs": [
       {
@@ -3811,6 +3933,25 @@
     "website": "https://obecan.es"
   },
   {
+    "name": "Observatorio Desca",
+    "type": "mixto",
+    "website": "https://observatoridesc.org/es",
+    "email": "hola@observatoridesca.org",
+    "description": "El Observatori DESCA es un centro para la defensa de los Derechos Humanos que concentra sus esfuerzos en desmontar la percepción devaluada de los Derechos Económicos, Sociales, Culturales y Ambientales –derecho a la vivienda, al trabajo, a la educación, a la salud, a la alimentación, al ambiente sano- en relación a otros derechos considerados fundamentales como los derechos civiles y políticos y los derechos patrimoniales. Para ello, el Observatorio combina la incidencia política con la investigación, el asesoramiento y la organización de cursos y jornadas y litigios estratégicos. Así, se promueven investigaciones y pubicaciones, se organizan seminarios y formaciones y se acompañan reivindicaciones y luchas populares. Todo ello, sin perder de vista la importancia del trabajo en red, tanto a nivel local como global, y de la participación en campañas sociales.\n\nMiembros: [Amnistia Internacional](http://www.amnistiacatalunya.org/) (observadores), [Centre de Drets Humans Irídia](http://iridia.cat/es/), [Comissions Obreres de Catalunya](http://www.ccoo.cat/), [Dones juristes](http://donesjuristes.cat/), Grup Antropologia Jurídica del ICA, [Institut de Drets Humans de Catalunya](http://www.idhc.org/es/), [Intersindical Alternativa de Catalunya](http://iac.cat/); Martí Batllori, Gonzalo Boyé, Isabel Elba, Raquel Rodríguez, Miguel Ruiz, Raúl Márquez y Gisela Torrents.",
+    "scope": "estatal",
+    "from_date": "Lo desconozco, solo hay memorias desde 2021",
+    "parents": [
+      "Ayuntamiento de Barcelona y Agencia Catalana de Cooperación al Desarrollo.",
+      "Según la memoria de 2023, el 89,48% de los ingresos son subvenciones y donaciones, de las cuales, el 46,97% son del Ayuntamiento de Barcelona y el 49,21% de la Agencia Catalana de Cooperación al Desarrollo."
+    ],
+    "docs": [
+      {
+        "name": "En las memorias, se especifican https://observatoridesc.org/es/transparencia"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "docs": [
       {
         "name": "Listado de documentos publicados: Documentos e informes",
@@ -3828,6 +3969,19 @@
     "scope": "cataluna",
     "type": "publico",
     "website": "https://observatorisalut.gencat.cat/ca/observatori_mort"
+  },
+  {
+    "name": "Observatorio de Conducta Ética de la Guardia Civil",
+    "type": "publico",
+    "website": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16600",
+    "description": "El Observatorio de Conducta Ética de la Guardia Civil, con el nivel orgánico que se determine en la relación de puestos de trabajo, es el órgano responsable de centralizar las labores de seguimiento, impulso y evaluación de la aplicación del Código de Conducta en la Guardia Civil",
+    "scope": "estatal",
+    "from_date": "10 de agosto de 2024",
+    "parents": [
+      "Guardia Civil",
+      "Ministerio del Interior"
+    ],
+    "is_active": "Si"
   },
   {
     "email": "observatori@creama.org",
@@ -4112,6 +4266,18 @@
     "website": "https://behatoki.eus"
   },
   {
+    "name": "Observatorio Valenciano de las familias",
+    "type": "publico",
+    "website": "https://comunica.gva.es/va/detalle?id=392558560&site=373409432",
+    "description": "Observatorio desarrollará, entre otras acciones, la elaboración de protocolos de colaboración entre los organismos públicos y las entidades del tercer sector para mejorar la intervención conjunta, así como el asesoramiento y la monitorización del grado de cumplimiento de los derechos de las familias, y la elaboración de la Estrategia Valenciana por las Familias para analizar las necesidades en este ámbito. \nhttps://comunica.gva.es/va/detalle?id=392558560&site=373409432",
+    "scope": "autonómico",
+    "from_date": "14/5/2025",
+    "parents": [
+      "Generalitat Valenciana"
+    ],
+    "is_active": "Si"
+  },
+  {
     "email": "omigualdad@oc.mde.es",
     "is_active": "None",
     "name": "Observatorio Militar para la Igualdad entre Mujeres y Hombres en las Fuerzas Armadas",
@@ -4121,27 +4287,6 @@
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.defensa.gob.es/ministerio/organigrama/subdef/omi/"
-  },
-  {
-    "description": [
-      "Ofrece bases de datos, anuales y trimestrales, procedentes del Impuesto sobre Sociedades y de los modelos de IVA y retenciones sobre rendimientos del trabajo. La población objeto de estudio en cada año son todas aquellas empresas no financieras que tengan declaraciones de estos tres impuestos, con la única exclusión de empresas en actividades con un alto porcentaje de operaciones exentas a efectos del IVA."
-    ],
-    "docs": [
-      {
-        "name": "4.1 Indicadores de precios(159 KB - xlsx)",
-        "url": "https://sede.agenciatributaria.gob.es/static_files/Sede/Tema/Estadisticas/Observatorio_margenes_empresariales/Datos_margenes_empresariales/Indicadores_de_precios.xlsx"
-      }
-    ],
-    "is_active": "Sí",
-    "name": "Observatorio de Márgenes Empresariales",
-    "parents": [
-      "Ministerio de Asuntos Económicos y Transformación Digital",
-      "Banco de España",
-      "Agencia Estatal de Administración Tributaria"
-    ],
-    "scope": "estatal",
-    "type": "publico",
-    "website": "https://sede.agenciatributaria.gob.es/Sede/estadisticas/observatorio-margenes-empresariales/observatorio-margenes-empresariales.html"
   },
   {
     "is_active": "None",
@@ -5060,6 +5205,18 @@
     "name": "Observatorio Mujer Empresa",
     "scope": "pais_vasco",
     "website": "https://www.aedbiz.org/observatorio-aed/"
+  },
+  {
+    "name": "Observatorio y Consejo Social para el Reto Demográfico",
+    "type": "publico",
+    "website": "https://www.asturias.es/ast/web/gobierno-abierto/detalle/-/categories/694424?p_r_p_categoryId=694424&_com_liferay_asset_categories_navigation_web_portlet_AssetCategoriesNavigationPortlet_articleId=3237489&articleId=3237489&title=Observatorio%20y%20Consejo%20Social%20para%20el%20Reto%20Demogr%C3%A1fico&redirect=https%3A%2F%2Fwww.asturias.es%2Fast%2Fweb%2Fgobierno-abierto%2Fgeneral%2F-%2Fcategories%2F694424%3Fp_r_p_categoryId%3D694424",
+    "description": "\n\n- Presidencia: el/la titular de la Consejería competente en materia de reto demográfico\n- Vicepresidencia: el/la titular de la Dirección General competente en materia de reto demográfico.\n- Secretaría: una persona funcionaria de la Consejería a la que esté adscrito el Observatorio.\n- Vocalías:\n-- Cinco vocales designados por el Consejo de Gobierno del Principado de Asturias.\n-- Dos representantes del sector empresarial, designados por la Federación Asturiana de Empresarios (FADE).\n-- Tres representantes del movimiento asociativo, especialmente vinculado a la zona rural, designados por la persona titular de la Consejería competente en materia de reto demográfico, teniendo en cuenta su representación en el ámbito supramunicipal e implantación en el territorio.\n-- Un representante de la Sociedad Asturiana de Estudios Económicos e Industriales (SADEI).\n-- Un representante de la Federación Asturiana de Concejos (FAC).\n-- Un representante de la Universidad de Oviedo.\n-- Dos representantes de las organizaciones sindicales más representativas en el Principado de Asturias.\n-- Un representante de la Federación Asturiana de Parroquias rurales (FAPAR).\n-- Un representante del Consejo Asturiano de la Mujer del Principado de Asturias.\n-- Un representante del Consejo Asturiano de la Juventud del Principado de Asturias.\n-- Además de los anteriores, la Administración General del Estado podrá designar una vocalía en el Observatorio.",
+    "scope": "autonómico",
+    "from_date": "Octubre 2025: [Decreto 68/2024, de 25 de octubre](https://sede.asturias.es/bopa/2024/11/08/2024-09599.pdf), por el que se regulan las funciones, composición y régimen de funcionamiento del Observatorio y Consejo Social para el Reto Demográfico.",
+    "parents": [
+      "Consejería de Presidencia, Reto Demográfico, Igualdad y Turismo (Gobierno de Asturias)"
+    ],
+    "is_active": "Si"
   },
   {
     "description": "Creado en 2016, está constituido por un grupo de trabajo cuya finalidad es el estudio, la investigación, la formación, la divulgación, la promoción y la elaboración de estrategias para la Cooperación para el Desarrollo y la Educación para la Ciudadanía Global en la provincia de Zaragoza.",
