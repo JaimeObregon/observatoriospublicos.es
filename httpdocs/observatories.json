@@ -1271,6 +1271,22 @@
     "website": "http://www.ideotalex.eu/"
   },
   {
+    "name": "Observatorio de la Igualdad",
+    "type": "publico",
+    "website": "https://www.uab.cat/web/recerca/recerca-i-innovacio-responsable/observatori-per-a-la-igualtat-uab-1345703043344.html",
+    "email": "formacio.igualtat@uab.cat",
+    "description": "Responsables de polítiques d'igualtat dels centres docents\r\n \r\nResponsables de polítiques d'igualtat dels centres de recerca pròpis de la UAB\n\nUAB",
+    "scope": "autonómico",
+    "parents": [
+      "Universitat Autònoma de Barcelona"
+    ],
+    "docs": [
+      {
+        "url": "https://www.uab.cat/doc/A75ServeIgualtatiDiversitat"
+      }
+    ]
+  },
+  {
     "name": "Observatorio del Mercado de Trabajo del Instituto Aragonés de Empleo",
     "scope": "aragon",
     "type": "publico"
