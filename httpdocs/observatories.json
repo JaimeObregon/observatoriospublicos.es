@@ -4856,6 +4856,22 @@
     "website": "https://issga.xunta.gal/gl/observatorio"
   },
   {
+    "name": "Observatorio Nacional del Software de Fuentes Abiertas (ONSFA)",
+    "type": "publico",
+    "website": "https://web.archive.org/web/20120620125027/http://observatorio.cenatic.es/index.php?option=com_content&view=article&id=5&Itemid=4",
+    "description": "Los servicios prestados se dividen en las siguientes cinco líneas de actividad:\n\n01 Estudios sobre el desarrollo de software de fuentes abiertas\n\n02 Indicadores nacionales e internacionales\n\n03 Información sobre la actualidad nacional e internacional sobre el software de fuentes abiertas\n\n04 Banco de conocimiento de los actores estratégicos\n\n05 Casos de éxito para entender el impacto socioeconómico de software de fuentes abiertas en España",
+    "scope": "estatal",
+    "to_date": "En el Consejo de Ministros del 20 de septiembre de 2013, se acordó la adopción de medidas de reestructuración y racionalización del sector público estatal fundacional y empresarial. Acuerdo publicado mediante la [Orden HAP/1816/2013](http://www.boe.es/diario_boe/txt.php?id=BOE-A-2013-10492)  de 2 de Octubre. Dicho acuerdo contemplaba la extinción de la Fundación CENATIC y la integración de su actividad en la [Entidad Pública Empresarial RED.es](http://www.red.es/redes/) , desde donde se sigue ofreciendo [soporte en Fuentes Abiertas a las Administraciones Públicas](https://ssweb.seap.minhap.es/ayuda/consulta/CTT) a través del PAE. En esta sección se encuentran los documentos de interés del CENATIC para que siga siendo posible su descarga y consulta.",
+    "parents": [
+      "CENATIC (Centro Nacional de Referencia de Aplicación de las TIC basadas en fuentes abiertas)"
+    ],
+    "docs": [
+      {
+        "url": "https://administracionelectronica.gob.es/pae_Home/pae_OBSAE/pae_Otras_fuentes/pae_CENATIC_OBSAE.html"
+      }
+    ]
+  },
+  {
     "description": "El Observatorio de la realidad de las personas jóvenes es una herramienta fundamental para mantener un conocimiento actualizado de la realidad y poder plantear y ejecutar acciones que respondan a las necesidades y expectativas de las y los destinatarios de las políticas de juventud que materializa este Plan Joven.\n\nLos informes analizan diferentes ámbitos de la realidad, especialmente aquellos relacionados con la emancipación del colectivo joven: empleo, formación y vivienda, pero complementándolo con otros aspectos que ayudan en el camino de autonomía de las personas jóvenes: salud, actividad deportiva, euskera..",
     "docs": [
       {
