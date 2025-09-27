@@ -2516,6 +2516,23 @@
     "website": "https://www.obidic.es"
   },
   {
+    "name": "Observatori agroalimentari, rural i ambiental",
+    "type": "publico",
+    "website": "observatoriagroambiental.gencat.cat",
+    "description": "Observan",
+    "scope": "autonómico",
+    "from_date": "11/03/2025\n\nhttps://www.youtube.com/watch?v=L_GiY_7_Ak4&t=2s&ab_channel=agriculturacat",
+    "parents": [
+      "Departament d'Agricultura, Ramaderia, Pesca i Alimentació"
+    ],
+    "docs": [
+      {
+        "name": "Nada de nada"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "Recolle e difunde información relacionada coa economía e fiscalidade local dos 313 concellos.",
     "email": "infogen@uvigo.es",
     "is_active": "Sí",
