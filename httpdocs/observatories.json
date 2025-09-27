@@ -1369,6 +1369,14 @@
     "scope": "extremadura"
   },
   {
+    "name": "Observatorio de Derechos Digitales",
+    "type": "mixto",
+    "website": "https://fundacionhermes.org/que-hacemos/proyectos/observatorio-de-los-derechos-digitales/",
+    "scope": "estatal",
+    "from_date": "5 de febrero de 2025",
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio para la Convivencia Escolar de Extremadura",
     "scope": "extremadura"
   },
