@@ -4975,5 +4975,22 @@
     "scope": "provincial",
     "type": "mixto",
     "website": "https://ocatcodes.unizar.es"
+  },
+  {
+    "name": "Observatorio de Competencias Digitales y Empleabilidad",
+    "type": "mixto",
+    "website": "https://webs.uab.cat/gret/es/2025/03/07/observatorio-de-competencias-digitales-y-empleabilidad/",
+    "description": "Analizar el nivel de competencias digitales de la población y su relación con la empleabilidad en distintos sectores económicos, así como el impacto de la digitalización en el mercado de trabajo",
+    "parents": ["Universitat Autònoma de Barcelona", "IMANcorp Foundation"]
+  },
+  {
+    "description": "Para «abordar de manera conjunta y coordinada, con la participación de todo el sector rural y marino,\"el mayor desafío al que se enfrenta el sector\", ya que el relevo generacional supone traspasar de una manera progresiva el legado empresarial y familiar a una nueva generación en un momento, el actual, \"acuciado por la falta de rentabilidad, la inestabilidad y las amenazas que sufre el medio rural a novel global\"}",
+    "from_date": "2023",
+    "is_active": "No",
+    "name": "Observatorio de Transición Generacional",
+    "parents": ["Gobierno de Cantabria"],
+    "scope": "cantabria",
+    "type": "publico",
+    "website": "https://www.cantabria.es/web/comunicados/w/el-gobierno-creará-un-observatorio-de-transición-generacional-para-afrontar-el-mayor-desafío-al-que-se-enfrenta-el-sector-agrario-de-cantabria"
   }
 ]
