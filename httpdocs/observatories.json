@@ -1862,7 +1862,7 @@
       }
     ],
     "email": "observatorio.convivencia@murciaeduca.es",
-    "name": "Observatorio para la Convivencia Escolar",
+    "name": "Observatorio para la Convivencia Escolar de la Región de Murcia",
     "parents": [
       "Subdirección General de Evaluación Educativa y Ordenación Académica",
       "Dirección General de Recursos Humanos, Planificación Educativa e Innovación",
@@ -2083,7 +2083,7 @@
     ],
     "email": "bobsvivi@cantabria.es",
     "from_date": "2016",
-    "name": "Observatorio de Vivienda y Suelo",
+    "name": "Observatorio de Vivienda y Suelo de Cantabria",
     "parents": [
       "Dirección General de Vivienda",
       "Consejería de Fomento, Ordenación del Territorio y Medio Ambiente",
@@ -2690,10 +2690,11 @@
     ],
     "is_active": "Sí",
     "name": "Observatorio de Salud Publica de Navarra",
-    "parents": ["Deapartamento de Salud/Osasunbidea", "Gobierno de Navarra"],
+    "parents": ["Deapartamento de Salud", "Gobierno de Navarra"],
     "scope": "navarra",
     "stop_date": "a dìa de hoy sigue funcionando. Publica algunas excel con datos hasta al menos 2023",
     "type": "publico",
+    "email": "oscn@navarra.es",
     "website": "https://portalsalud.navarra.es/es/observatorio"
   },
   {
@@ -2877,7 +2878,7 @@
     "email": "institutoasturianodelamujer@asturias.org",
     "from_date": "1999",
     "is_active": "Si",
-    "name": "Observatorio de Igualdad de Oportunidades entre Mujeres y Hombres. (Asturias)",
+    "name": "Observatorio de Igualdad de Oportunidades entre Mujeres y Hombres de Asturias",
     "parents": [
       "Instituto Asturiano de la Mujer. Consejería de Presidencia, Reto Demográfico, Igualdad y Turismo. Gobierno del Principado de Asturias."
     ],
@@ -3934,7 +3935,7 @@
   },
   {
     "is_active": "None",
-    "name": "Observatorio para la Convivencia Escolar",
+    "name": "Observatorio para la Convivencia Escolar de la Comunitat Valenciana",
     "parents": [
       "Generalitat Valenciana",
       "Conselleria de Educación, Universidades y Empleo"
@@ -4037,15 +4038,6 @@
     "scope": "autonómico",
     "type": "publico",
     "website": "https://www.astursalud.es/noticias/-/noticias/observatorio-sobre-drogas-y-adiccion-a-las-bebidas-alcoholicas-del-principado-de-asturias"
-  },
-  {
-    "email": "oscn@navarra.es",
-    "is_active": "None",
-    "name": "Observatorio de Salud Pública de Navarra",
-    "parents": ["Gobierno de Navarra", "Departamento de Salud"],
-    "scope": "navarra",
-    "type": "publico",
-    "website": "https://portalsalud.navarra.es/es/observatorio"
   },
   {
     "is_active": "Sí",
@@ -4721,11 +4713,6 @@
   },
   {
     "description": "una herramienta que facilita, a través de la publicación de boletines estadísticos electrónicos, la utilización integrada de los datos disponibles en las principales fuentes estadísticas oficiales",
-    "docs": [
-      {
-        "name": "[](https://www.mivau.gob.es/urbanismo-y-suelo/suelo/observatorio-de-vivienda-y-suelo)"
-      }
-    ],
     "is_active": "Si",
     "name": "Observatorio de Vivienda y Suelo",
     "parents": ["Ministerio de Vivienda y Agenda Urbana"],
