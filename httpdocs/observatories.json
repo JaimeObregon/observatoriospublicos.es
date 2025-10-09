@@ -5050,5 +5050,14 @@
     "type": "publico",
     "is_active": "Si",
     "description": "Espacio de referencia para la promoción del ECODISEÑO en el territorio de la EUROACE, de forma que actúe como punto de encuentro para los agentes del sector para potenciar la innovación y la transferencia de tecnología. El Observatorio de ECODISEÑO pretende facilitar servicios de información, orientación, asesoramiento, sistemas de vigilancia tecnológica, recopilación y seguimiento de las metodologías y tendencias del ECODISEÑO. En él podrás encontrar tendencias, artículos científicos, legislación, ayudas, buenas prácticas, etc., que te permitirán estar siempre actualizado en la temática."
+  },
+  {
+    "name": "Observatorio de mercado de trabajo",
+    "website": "https://inaem.aragon.es/observatorio",
+    "type": "publico",
+    "scope": "aragon",
+    "parents": ["Instituto Aragonés de Empleo (INAEM)"],
+    "is_active": "Si",
+    "description": "El Observatorio de Mercado de Trabajo del INAEM es un servicio público de información y análisis del mercado de trabajo en Aragón, que tiene como objetivo proporcionar datos e informes que ayuden a la toma de decisiones en materia de empleo y formación."
   }
 ]
