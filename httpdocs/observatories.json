@@ -4979,5 +4979,20 @@
     "scope": "cantabria",
     "type": "publico",
     "website": "https://www.cantabria.es/web/comunicados/w/el-gobierno-creará-un-observatorio-de-transición-generacional-para-afrontar-el-mayor-desafío-al-que-se-enfrenta-el-sector-agrario-de-cantabria"
+  },
+  {
+    "name": "Observatorio de tecnología educativa",
+    "website": "https://intef.es/recursos-educativos/observatorio-de-tecnologia-educativa",
+    "email": "recursos.educativos@educacion.gob.es",
+    "parents": [
+      "Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado (INTEF)",
+      "Subdirección General de la Dirección General de Evaluación y Cooperación Territorial",
+      "Secretaría de Estado de Educación",
+      "Ministerio de Educación y Formación Profesional"
+    ],
+    "scope": "estatal",
+    "type": "publico",
+    "is_active": "Si",
+    "description": "Es una biblioteca virtual de artículos, creados por docentes para docentes, en torno a la innovación digital en el aula. Cada artículo presenta una herramienta digital educativa, con su aplicación didáctica y metodológica, terminando con una valoración del autor/a y una recomendación final."
   }
 ]
