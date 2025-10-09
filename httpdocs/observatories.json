@@ -5020,5 +5020,35 @@
     "type": "publico",
     "is_active": "Si",
     "description": "Presenta comparativas entre la información de los distintos municipios y comunidades, estadísticas de los datos facilitados por cada Ayuntamiento con respecto a las Inspecciones Técnicas de Edificios presentadas, e informes de coyuntura que muestren la evolución de dichos datos."
+  },
+  {
+    "name": "Observatorio del Emprendimiento (GEM)",
+    "website": "https://observatoriodelemprendimiento.es",
+    "parents": ["ENISA", "Ministerio de Industria y Turismo"],
+    "scope": "estatal",
+    "type": "mixto",
+    "is_active": "Si",
+    "description": "Para  la medición del fenómeno emprendedor con una perspectiva multidisciplinar que aplica conocimiento experto y metodologías exclusivas. Nuestra asociación está compuesta por una red de 200 investigadores, académicos y profesionales con una dilatada experiencia en el proceso emprendedor, los ecosistemas de emprendimiento y la formación a emprendedores."
+  },
+  {
+    "name": "Observatorio Transfronterizo España-Portugal",
+    "website": "https://www.transportes.gob.es/informacion-para-el-ciudadano/observatorios/observatorios-de-transporte-internacional/observatorio-transfronterizo-españa-portugal",
+    "parents": [
+      "Ministerio de Transportes y Movilidad Sostenible",
+      "Ministério da Economia (Portugal)"
+    ],
+    "scope": "estatal",
+    "type": "publico",
+    "is_active": "Si",
+    "description": "Análisis detallado de flujos de transporte y comercio entre España y Portugal en 2019."
+  },
+  {
+    "name": "Observatorio de Ecodiseño",
+    "website": "http://observatorio.degren.eu",
+    "parents": ["Ministerio de Fomento", "Ministério da Economia (Portugal)"],
+    "scope": "estatal",
+    "type": "publico",
+    "is_active": "Si",
+    "description": "Espacio de referencia para la promoción del ECODISEÑO en el territorio de la EUROACE, de forma que actúe como punto de encuentro para los agentes del sector para potenciar la innovación y la transferencia de tecnología. El Observatorio de ECODISEÑO pretende facilitar servicios de información, orientación, asesoramiento, sistemas de vigilancia tecnológica, recopilación y seguimiento de las metodologías y tendencias del ECODISEÑO. En él podrás encontrar tendencias, artículos científicos, legislación, ayudas, buenas prácticas, etc., que te permitirán estar siempre actualizado en la temática."
   }
 ]
