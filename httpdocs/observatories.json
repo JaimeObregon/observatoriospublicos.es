@@ -5073,5 +5073,69 @@
     "type": "publico",
     "is_active": "Si",
     "description": "Espacio de referencia para la promoción del ECODISEÑO en el territorio de la EUROACE, de forma que actúe como punto de encuentro para los agentes del sector para potenciar la innovación y la transferencia de tecnología. El Observatorio de ECODISEÑO pretende facilitar servicios de información, orientación, asesoramiento, sistemas de vigilancia tecnológica, recopilación y seguimiento de las metodologías y tendencias del ECODISEÑO. En él podrás encontrar tendencias, artículos científicos, legislación, ayudas, buenas prácticas, etc., que te permitirán estar siempre actualizado en la temática."
+  },
+  {
+    "name": "Observatorio de mercado de trabajo",
+    "website": "https://inaem.aragon.es/observatorio",
+    "type": "publico",
+    "scope": "aragon",
+    "parents": ["Instituto Aragonés de Empleo (INAEM)"],
+    "is_active": "Si",
+    "description": "El Observatorio de Mercado de Trabajo del INAEM es un servicio público de información y análisis del mercado de trabajo en Aragón, que tiene como objetivo proporcionar datos e informes que ayuden a la toma de decisiones en materia de empleo y formación."
+  },
+  {
+    "name": "Observatorio mercado de trabajo",
+    "website": "https://trabajastur.asturias.es/informacion-mercado-de-trabajo",
+    "type": "publico",
+    "scope": "asturias",
+    "parents": ["Gobierno del Principado de Asturias"],
+    "is_active": "Si",
+    "description": "El Observatorio de Mercado de Trabajo del Principado de Asturias es un servicio público de información y análisis del mercado de trabajo en Asturias, que tiene como objetivo proporcionar datos e informes que ayuden a la toma de decisiones en materia de empleo y formación."
+  },
+  {
+    "name": "Observatorio regional de empleo",
+    "website": "https://analisis.datosabiertos.jcyl.es/pages/mercado-laboral/",
+    "type": "publico",
+    "scope": "castilla_y_leon",
+    "parents": ["Junta de Castilla y León"],
+    "is_active": "Si",
+    "description": "El Observatorio regional de empleo de Castilla y León es un servicio público de información y análisis del mercado de trabajo en la comunidad autónoma, que tiene como objetivo proporcionar datos e informes que ayuden a la toma de decisiones en materia de empleo y formación."
+  },
+  {
+    "name": "Labora",
+    "website": "https://labora.gva.es/va/queautoservef",
+    "type": "publico",
+    "scope": "comunidad_valenciana",
+    "parents": ["Generalitat Valenciana"],
+    "is_active": "Si",
+    "description": "Punt LABORA és una eina que es posa a la teua disposició des de LABORA  per a facilitar i agilitzar molts tràmits que habitualment es gestionen presencialment."
+  },
+  {
+    "name": "El Observatorio para la Innovación y la Prospectiva del Mercado de Trabajo en Extremadura",
+    "website": "http://observatorio.gobex.es/",
+    "type": "publico",
+    "scope": "extremadura",
+    "parents": ["Junta de Extremadura"],
+    "is_active": "Si",
+    "description": "El Observatorio para la Innovación y la Prospectiva del Mercado de Trabajo en Extremadura es un servicio público de información y análisis del mercado de trabajo en Extremadura, que tiene como objetivo proporcionar datos e informes que ayuden a la toma de decisiones en materia de empleo y formación."
+  },
+  {
+    "name": "Instituto gallego de las cualificaciones",
+    "website": "https://emprego.xunta.es/cualificacions/index_es.html",
+    "type": "publico",
+    "scope": "galicia",
+    "parents": ["Gobierno de Galicia", "Consellería de Promoción del Empleo e Igualdad"],
+    "is_active": "Si",
+    "description": "El Instituto Gallego de las Cualificaciones es un servicio público de información y análisis del mercado de trabajo en Galicia, que tiene como objetivo proporcionar datos e informes que ayuden a la toma de decisiones en materia de empleo y formación."
+  },
+  {
+    "name": "Estadísticas de mercado de trabajo",
+    "website": "https://www.larioja.org/empleo/es/interesa/estadisticas-mercado-trabajo",
+    "type": "publico",
+    "scope": "la_rioja",
+    "parents": ["Gobierno de La Rioja", "Direccion General de Empleo"],
+    "is_active": "Si",
+    "description": "Este Observatorio recoge estadísticas del mercado de trabajo en La Rioja."
   }
+
 ]
