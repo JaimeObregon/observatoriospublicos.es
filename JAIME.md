@@ -3,8 +3,6 @@
 Subo temporalmente al repo esta cochinada con enlaces a más observatorios.
 
 - https://gist.github.com/JaimeObregon/768b3c4065cb6f30d0231f76e7cce63a
-- https://twitter.com/angelyolgado/status/1401198639771422728
-- https://twitter.com/angelyolgado/status/1401200470442614789
 - https://twitter.com/angelyolgado/status/1401200114774024197
 - https://twitter.com/angelyolgado/status/1401199114285617152
 - https://twitter.com/angelyolgado/status/1401198185624870915

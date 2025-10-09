@@ -1326,8 +1326,13 @@
     "scope": "extremadura"
   },
   {
-    "name": "Observatorio de las Familias y la Infancia de Extremadura",
-    "scope": "extremadura"
+    "name": "Observatorio FIEX de las Familias y la Infancia de Extremadura",
+    "scope": "extremadura",
+    "is_active": "Si",
+    "type": "publico",
+    "email": "info@obsevatoriofiex.es",
+    "website": "https://observatoriofiex.es/observatorio-fiex/",
+    "description": "Para el estudio y análisis de la realidad social de las familias extremeñas, junto con el asesoramiento a los poderes públicos en relación a las políticas de apoyo a estas familias"
   },
   {
     "name": "Observatorio de Derechos Digitales",
@@ -5003,5 +5008,17 @@
     "type": "publico",
     "is_active": "Si",
     "description": "Anunciado por el presidente del Gobierno el 8 de octubre de 2025 con la finalidad de hacer <q>un atlas</q> de viviendas turísticas."
+  },
+  {
+    "name": "Observatorio ITE (Inspección Técnica de Edificios)",
+    "website": "http://www.iteweb.es/observatorio",
+    "parents": [
+      "Ministerio de Fomento",
+      "Instituto de la Construcción de Castilla y León"
+    ],
+    "scope": "estatal",
+    "type": "publico",
+    "is_active": "Si",
+    "description": "Presenta comparativas entre la información de los distintos municipios y comunidades, estadísticas de los datos facilitados por cada Ayuntamiento con respecto a las Inspecciones Técnicas de Edificios presentadas, e informes de coyuntura que muestren la evolución de dichos datos."
   }
 ]
