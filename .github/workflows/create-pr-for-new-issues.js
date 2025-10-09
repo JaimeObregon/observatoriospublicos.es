@@ -80,7 +80,7 @@ export default async (ctx) => {
   }
 
   const branchName = `nuevo-observatorio-${ctx.context.issue.number}`
-  const mainBranchName = 'master'
+  const mainBranchName = 'main'
 
   ctx.core.debug('Creando branch con nuevo contenido...')
   await createBranchWithNewFileContent()
