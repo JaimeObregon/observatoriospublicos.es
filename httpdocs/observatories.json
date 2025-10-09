@@ -4994,5 +4994,14 @@
     "type": "publico",
     "is_active": "Si",
     "description": "Es una biblioteca virtual de artículos, creados por docentes para docentes, en torno a la innovación digital en el aula. Cada artículo presenta una herramienta digital educativa, con su aplicación didáctica y metodológica, terminando con una valoración del autor/a y una recomendación final."
+  },
+  {
+    "name": "Observatorio de la Vivienda Turística",
+    "website": "https://www.lamoncloa.gob.es/presidente/actividades/paginas/2025/081025-sanchez-convencion-turespana-caceres.aspx",
+    "parents": ["Secretaría de Estado de Turismo"],
+    "scope": "estatal",
+    "type": "publico",
+    "is_active": "Si",
+    "description": "Anunciado por el presidente del Gobierno el 8 de octubre de 2025 con la finalidad de hacer <q>un atlas</q> de viviendas turísticas."
   }
 ]
