@@ -1976,13 +1976,15 @@
     ],
     "scope": "region_de_murcia",
     "type": "publico",
-    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5316&RASTRO=c792$m4001&IDTIPO=100"
+    "website": "https://observatorioconvivencia.com/",
+    "description": "El Observatorio para la Convivencia Escolar es un órgano colegiado que sirve de instrumento a la comunidad educativa y a la sociedad para conocer, analizar y evaluar la convivencia en los centros docentes. Está adscrito a la Consejería de Educación y Cultura, a través de la Dirección General de Ordenación Académica. La finalidad del Observatorio será la de contribuir a la mejora del desarrollo de la actividad escolar en los centros docentes mediante la evaluación y el diagnóstico de la convivencia escolar, el análisis de los conflictos y la propuesta de medidas para la prevención de la violencia."
   },
   {
     "name": "Observatorio Regional de la Discapacidad",
     "scope": "region_de_murcia",
     "type": "publico",
-    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828"
+    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828",
+    "description": "La presente Orden tiene por objeto la creación del Observatorio Regional de la Discapacidad, cuya finalidad será la obtención y mantenimiento de la información necesaria para el conocimiento de las necesidades de las personas con discapacidad y el impacto de las actuaciones de los Sistemas de Protección Social sobre este colectivo. Asimismo, con este instrumento se pretende analizar y valorar la evolución de la discapacidad en la Región de Murcia, así como conocer los aspectos que se consideren importantes dentro de los citados Sistemas y la mejora de la calidad de vida de este colectivo"
   },
   {
     "description": "El Observatorio Deportivo de Mallorca tiene el objetivo de fomentar una práctica deportiva responsable, unos hábitos saludables y la formación en torno a diferentes temas de actualidad deportiva.\n\nPlan de asesoramiento: formación y orientación dirigida a clubs, asociaciones de madres y padres de alumnos, federaciones deportivas, entrenadores...\r\nEls valors de l’esport: charlas impartidas por deportistas de alto nivel, que profundizan en los valores que aporta el ejercicio físico al desarrollo personal.",
@@ -5439,5 +5441,49 @@
     ],
     "is_active": "Si",
     "description": "El Observatorio para la Innovación y la Prospectiva del Mercado de Trabajo en Extremadura es un servicio público de información y análisis del mercado de trabajo en Extremadura, que tiene como objetivo proporcionar datos e informes que ayuden a la toma de decisiones en materia de empleo y formación."
+  },
+  {
+    "name": "Observatorio de Resultados del Servicio Murciano de Salud",
+    "description": "El Observatorio de Resultados del Servicio Murciano de Salud tiene como misión favorecer la transparencia y el buen gobierno en la atención sanitaria, garantizando el acceso de los ciudadanos y profesionales a la información sobre recursos, actividad, calidad de la atención y gasto sanitario.",
+    "website": "https://www.murciasalud.es/en/web/calidad-asistencial/observatorio-de-resultados1",
+    "scope": "region_de_murcia",
+    "type": "publico",
+    "is_active": "Si",
+    "from_date": "2019"
+  },
+  {
+    "name": "Observatorio Regional del Cambio Climático",
+    "description": "Se crea el Observatorio Regional del Cambio Climático concebido como instrumento, al servicio de la Región, que permita el conocimiento, análisis y evaluación-valoración del cambio climático y sus impactos sobre la economía y la sociedad regional, con el fin de generar información de utilidad para la planificación estratégica y para la resolución y prevención de los efectos negativos.",
+    "website": "https://www.borm.es/services/anuncio/ano/2007/numero/2795/pdf?id=313475",
+    "scope": "region_de_murcia",
+    "type": "publico",
+    "is_active": "Si",
+    "from_date": "2007"
+  },
+  {
+    "name": "Observatorio de Igualdad de la Región de Murcia",
+    "description": "El Observatorio de Igualdad de la Región de Murcia tiene como finalidad principal recabar, analizar y difundir información periódica y sistemática sobre la evolución de los indicadores de igualdad de mujeres y hombres en la Comunidad Autónoma de la Región de Murcia, que sirvan de base para la propuesta de nuevas políticas dirigidas a mejorar la situación y realidad social de la mujer en los distintos ámbitos. Para el cumplimiento de dicha finalidad se deberá facilitar la participación y el encuentro entre las asociaciones y entidades dedicadas a promover y atender la igualdad entre mujeres y hombres y las administraciones públicas en el ámbito de la Comunidad Autónoma de la Región de Murcia.",
+    "website": "https://transparencia.carm.es/-/observatorio-de-igualdad",
+    "scope": "region_de_murcia",
+    "type": "publico",
+    "is_active": "Si",
+    "from_date": "2020"
+  },
+  {
+    "name": "Observatorio Regional de Discapacidad",
+    "description": "La presente Orden tiene por objeto la creación del Observatorio Regional de la Discapacidad, cuya finalidad será la obtención y mantenimiento de la información necesaria para el conocimiento de las necesidades de las personas con discapacidad y el impacto de las actuaciones de los Sistemas de Protección Social sobre este colectivo. Asimismo, con este instrumento se pretende analizar y valorar la evolución de la discapacidad en la Región de Murcia, así como conocer los aspectos que se consideren importantes dentro de los citados Sistemas y la mejora de la calidad de vida de este colectivo",
+    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c771$m5828",
+    "scope": "region_de_murcia",
+    "type": "publico",
+    "from_date": "2003"
+  },
+  {
+    "name": "Observatorio de la Familia de la Región de Murcia",
+    "description": "La Región de Murcia crea el Observatorio de la Familia de la Región de Murcia, como un instrumento al servicio de las familias, asociaciones y responsables de los servicios sociales, y de todos los interesados en profundizar en su conocimiento.",
+    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=12871&IDTIPO=11&RASTRO=c376$m6064",
+    "scope": "region_de_murcia",
+    "type": "publico",
+    "is_active": "Si",
+    "from_date": "2009"
   }
 ]
