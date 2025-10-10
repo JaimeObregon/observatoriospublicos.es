@@ -1,4 +1,26 @@
+; Mis proyectos siguen el formato predeterminado de Prettier.
+;
+; Si está instalado el plugin de Prettier, el IDE aplicará automáticamente
+; el formateo al guardar los archivos.
+;
+; Este archivo reproduce las reglas básicas del formato por defecto de Prettier,
+; para garantizar una apariencia coherente incluso si alguien contribuye al
+; proyecto sin tener Prettier configurado.
+;
+; Más información:
+; - https://prettier.io
+; - https://editorconfig.org
+
 root = true
 
 [*]
+indent_style = space
 indent_size = 2
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+max_line_length = 80
+
+[*.md]
+trim_trailing_whitespace = false
