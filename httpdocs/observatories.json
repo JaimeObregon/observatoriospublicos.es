@@ -22,19 +22,19 @@
     "description": "Observatorio Provincial de todas las Agendas Urbanas Supramunicipales en la provincia de Granada\n\nSu objetivo es lograr:\r\n- La mejora de la calidad de vida de las personas.\r\n- La gestión eficiente de los servicios.\r\n- La sostenibilidad económica y ambiental.\r\n- El uso innovador de los recursos.\r\n- La innovación en las políticas públicas locales, para mejorar su eficacia y eficiencia.\n\nPara hacer posible estos objetivos y que puedan construirse las agendas urbanas en la provincia de Granada, hemos creado dos programas de Concertación específicos. Los Programas son:\n\n15422 Diseño de Agenda urbana 2030 para el desarrollo sostenible y el programa 15423 Asistencia técnica en la implementación inicial y consolidación de planes de acción de las agendas urbanas 2030\n\nLa intención es ampliar al conjunto de la provincia estos programas en el marco de la nueva concertación para el periodo 2022-2023. Incorporando al conjunto de los municipios, e incorporando dos Agendas urbanas importantes para el Conjunto de la Provincia; La Agenda Urbana del Área Metropolitana de Granada y la Agenda Urbana del conjunto de la Provincia como tal. Una agenda que tendrá la virtualidad de haberse construido de abajo arriba, e involucrando, haciendo participes a cientos de actores sociales y económicos que garantizan la calidad del proceso.\n\n- Diputación de Granada",
     "docs": [
       {
-        "name": "- Agenda Urbana para el Desarrollo Sostenible Provincia de Granada 2022"
+        "name": "Agenda Urbana para el Desarrollo Sostenible Provincia de Granada 2022"
       },
       {
-        "name": "- Agendas urbanas de municipios (recopilación)"
+        "name": "Agendas urbanas de municipios (recopilación)"
       },
       {
-        "name": "- Agendas urbanas supramunicipales y provincial (recopilación)"
+        "name": "Agendas urbanas supramunicipales y provincial (recopilación)"
       }
     ],
     "is_active": "Si",
     "name": "Observatorio Provincial de la Agenda Urbana en Granada",
-    "parents": ["- Diputación de Granada"],
-    "scope": "estatal",
+    "parents": ["Diputación de Granada"],
+    "scope": "provincial",
     "type": "publico",
     "website": "https://opaugranada.es/"
   },
@@ -82,12 +82,12 @@
         "url": "https://www.omha.alcoi.org/es/que-es-omha/"
       }
     ],
-    "from_date": "22-07-2020",
+    "from_date": "2020-07-22",
     "location": "Alcoy",
     "name": "Observatori Municipal de l'Habitatge d'Alcoi",
     "scope": "municipal",
     "type": "publico",
-    "url": "https://www.omha.alcoi.org"
+    "website": "https://www.omha.alcoi.org"
   },
   {
     "description": "El Observatorio es un punto de encuentro para discutir políticas y estrategias contra la despoblación y mejorar el medio rural. Está abierto a la colaboración con instituciones y organizaciones sin fines de lucro.\r\n- **Función**: Sirve como concentrador de estudios e investigaciones sobre despoblación, y es un centro de innovación en políticas públicas basadas en evidencias.\r\n- **Convenio**: La Diputación de Guadalajara y la Fundación General de la Universidad de Alcalá colaboran para diagnosticar la evolución de la población y la actividad económica en las zonas rurales de Guadalajara\r\n- **Pilares**: Incluye la recopilación de datos, repositorio de estudios, elaboración de estudios monográficos, evaluación de políticas públicas y organización de eventos",
@@ -96,31 +96,31 @@
         "name": "**Cuadernos de la despoblación:**"
       },
       {
-        "name": "- [Cuaderno de Despoblación - 1 Jóvenes y Despoblación](https://despoblacionguadalajara.es/cuadernos-de-la-despoblacion-1/)"
+        "name": "[Cuaderno de Despoblación - 1 Jóvenes y Despoblación](https://despoblacionguadalajara.es/cuadernos-de-la-despoblacion-1/)"
       },
       {
-        "name": "- [Cuaderno de Despoblación - 2 Emprendimiento en entornos rurales](https://despoblacionguadalajara.es/cuadernos-de-la-despoblacion-2/)"
+        "name": "[Cuaderno de Despoblación - 2 Emprendimiento en entornos rurales](https://despoblacionguadalajara.es/cuadernos-de-la-despoblacion-2/)"
       },
       {
         "name": "**Documentos de trabajo:**"
       },
       {
-        "name": "- [Diagnóstico estratégico de la vivienda rural en la Provincia de Guadalajara](https://despoblacionguadalajara.es/diagnostico-estrategico-de-la-vivienda-rural-en-la-provincia-de-guadalajara/)"
+        "name": "[Diagnóstico estratégico de la vivienda rural en la Provincia de Guadalajara](https://despoblacionguadalajara.es/diagnostico-estrategico-de-la-vivienda-rural-en-la-provincia-de-guadalajara/)"
       },
       {
         "name": "[**Boletines informativos:**](https://despoblacionguadalajara.es/category/boletines-informativos/)"
       },
       {
-        "name": "- Matriz DAFO-CAME de la Vivienda Rural en la Provincia de Guadalajara"
+        "name": "Matriz DAFO-CAME de la Vivienda Rural en la Provincia de Guadalajara"
       },
       {
-        "name": "- Seguimiento de la Estrategia Regional Frente a la Despoblación"
+        "name": "Seguimiento de la Estrategia Regional Frente a la Despoblación"
       },
       {
-        "name": "- Clasificación de las zonas despobladas de la provincia de Guadalajara"
+        "name": "Clasificación de las zonas despobladas de la provincia de Guadalajara"
       },
       {
-        "name": "- Caracterización demográfica de Guadalajara"
+        "name": "Caracterización demográfica de Guadalajara"
       },
       {
         "name": "**Jornadas y talleres**"
@@ -129,26 +129,27 @@
         "name": "**Bases de datos** (recopilación de diversas fuentes):"
       },
       {
-        "name": "- Demografía"
+        "name": "Demografía"
       },
       {
-        "name": "- Mercado Laboral"
+        "name": "Mercado Laboral"
       },
       {
-        "name": "- Sociedad"
+        "name": "Sociedad"
       },
       {
-        "name": "- Economía"
+        "name": "Economía"
       }
     ],
     "email": "observatorio.despoblacion@fgua.es",
-    "from_date": "11 de febrero de 2023",
+    "from_date": "2023-02-11",
     "is_active": "Si",
     "name": "Observatorio de la Despoblación de Guadalajara",
     "parents": [
-      "- Instituto Universitario de Análisis Económico y Social (IAES). Universidad de Alcalá. https://iaes.uah.es/",
-      "- Fundación General de la Universidad de Alcalá (FGUA). https://www.fgua.es/",
-      "- Diputación provincial de Guadalajara. https://dguadalajara.es/"
+      "Instituto Universitario de Análisis Económico y Social (IAES)",
+      "Universidad de Alcalá",
+      "Fundación General de la Universidad de Alcalá (FGUA)",
+      "Diputación provincial de Guadalajara"
     ],
     "scope": "provincial",
     "type": "publico",
@@ -190,22 +191,23 @@
         "name": "Consulta de datos:"
       },
       {
-        "name": "- [Sistema de Información Socioeconómica](https://oteagranada.com/sistema-informacion.php)"
+        "name": "[Sistema de Información Socioeconómica](https://oteagranada.com/sistema-informacion.php)"
       },
       {
-        "name": "- [Datos sobre Reto Demográfico](https://oteagranada.com/reto-demografico.php)"
+        "name": "[Datos sobre Reto Demográfico](https://oteagranada.com/reto-demografico.php)"
       },
       {
         "url": "Informes:"
       },
       {
-        "name": "- Recopilación de informes de la Diputación de Granada y otras entidades"
+        "name": "Recopilación de informes de la Diputación de Granada y otras entidades"
       }
     ],
     "is_active": "Si",
     "name": "Observatorio Territorial de Estudios y Análisis de Granada (OTEA Granada)",
     "parents": [
-      "- Diputación de Granada. Delegación de Empleo y Desarrollo sostenible"
+      "Diputación de Granada",
+      "Delegación de Empleo y Desarrollo sostenible"
     ],
     "scope": "provincial",
     "type": "publico",
@@ -222,7 +224,7 @@
     "name": "Observatorio de Administración Electrónica (OBSAE)",
     "parents": [
       "Comisiones Ministeriales de Administración Digital",
-      "Federación Española de Municipios y Provincias",
+      "Federación Española de Municipios y Provincias (FEMP)",
       "Comisión Sectorial de Administración Electrónica"
     ],
     "scope": "estatal",
@@ -257,7 +259,10 @@
     ],
     "is_active": "Si",
     "name": "Observatorio de la Juventud en España",
-    "parents": ["Ministerio de Juventud e Infancia > INJUVE"],
+    "parents": [
+      "Ministerio de Juventud e Infancia",
+      "Instituto de la Juventud (INJUVE)"
+    ],
     "scope": "estatal",
     "type": "publico",
     "website": "https://www.injuve.es/observatorio"
@@ -579,7 +584,7 @@
   },
   {
     "description": "El Observatorio de Igualdad de la CRTVE vela por el cumplimiento de los compromisos legales en materia de igualdad de la corporación, haciendo un seguimiento de los contenidos de RTVE y garantizando en ellos el respeto a la igualdad entre mujeres y hombres. Su objetivo es que la corporación sea referente en la defensa de la igualdad y la lucha para la erradicación de la violencia contra las mujeres.",
-    "from_date": "31 de enero de 2018",
+    "from_date": "2018-01-31",
     "is_active": "Si",
     "name": "Observatorio de Igualdad de la Corporación RTVE",
     "parents": [
@@ -703,7 +708,7 @@
     ],
     "scope": "autonómico",
     "type": "mixto",
-    "website": "www.odina.es"
+    "website": "https://www.odina.es"
   },
   {
     "name": "Observatorio Estatal de la Dependencia",
@@ -724,13 +729,13 @@
         "url": "Enlaces:"
       },
       {
-        "name": "- [Análisis del sector agroalimentario de la Provincia de Cáceres. Abril 2018](http://observatorio.dip-caceres.es/Observatorio2/documentosPDF/Estudios%20recientes/23-sector_agroalimentario.pdf)"
+        "name": "[Análisis del sector agroalimentario de la Provincia de Cáceres. Abril 2018](http://observatorio.dip-caceres.es/Observatorio2/documentosPDF/Estudios%20recientes/23-sector_agroalimentario.pdf)"
       },
       {
-        "name": "- [Estudio de tendencias y oportunidades del emprendimiento - Completo. Abril 2017](http://observatorio.dip-caceres.es/Observatorio2/documentosPDF/Estudios%20recientes/12-Estudio_tendencias_oportunidades-completo.pdf)"
+        "name": "[Estudio de tendencias y oportunidades del emprendimiento - Completo. Abril 2017](http://observatorio.dip-caceres.es/Observatorio2/documentosPDF/Estudios%20recientes/12-Estudio_tendencias_oportunidades-completo.pdf)"
       },
       {
-        "name": "- [Informe socioeconómico de la provincia de Cáceres. Abril 2015](http://observatorio.dip-caceres.es/Observatorio2/documentosPDF/Estudios%20recientes/11-INFORME_SOCIOECON%C3%93MICO_2015.pdf)"
+        "name": "[Informe socioeconómico de la provincia de Cáceres. Abril 2015](http://observatorio.dip-caceres.es/Observatorio2/documentosPDF/Estudios%20recientes/11-INFORME_SOCIOECON%C3%93MICO_2015.pdf)"
       }
     ],
     "email": "observatorio@dip-caceres.es",
@@ -755,7 +760,7 @@
     ],
     "from_date": "El observatorio comenzó a funcionar en septiembre del 2020",
     "is_active": "Si",
-    "name": "Observatorio aragonés de la soledad",
+    "name": "Observatorio Aragonés de la Soledad",
     "parents": [
       "Depende del organismo publico de justicia de Aragón y del departamento de ciudadania y derechos sociales del gobierno de Aragón."
     ],
@@ -958,7 +963,7 @@
     ],
     "email": "observatorio.exclusion@urjc.es",
     "is_active": "Si",
-    "name": "OBSERVATORIO PARA EL ANÁLISIS Y VISIBILIDAD DE LA EXCLUSIÓN SOCIAL",
+    "name": "Observatorio para el Análisis y Visibilidad de la Exclusión Social",
     "parents": ["Universidad Rey Juan Carlos"],
     "scope": "autonómico",
     "type": "publico",
@@ -1014,7 +1019,7 @@
         "name": "Sociedades Mercantiles constituidas"
       }
     ],
-    "name": "Observatori de empleo de Gijón",
+    "name": "Observatorio de empleo de Gijón",
     "parents": ["Ayuntamiento de Gijón"],
     "scope": "local",
     "type": "publico",
@@ -1197,26 +1202,26 @@
         "url": "Boletines:"
       },
       {
-        "name": "- [Boletín Informativo 6/2015](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/news_otc_6.pdf)"
+        "name": "[Boletín Informativo 6/2015](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/news_otc_6.pdf)"
       },
       {
         "url": "Estudios:"
       },
       {
-        "name": "- [Estudio de Accesibilidad Viaria del Área OTALEX C](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/Estudio_Accesibilidad_Viaria_OTALEXC.pdf)"
+        "name": "[Estudio de Accesibilidad Viaria del Área OTALEX C](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/Estudio_Accesibilidad_Viaria_OTALEXC.pdf)"
       },
       {
-        "name": "- [Estudio de Indicadores de Sostenibilidad del Área de OTALEX C](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/Estudio_Ind_Sostenibilidad.pdf)"
+        "name": "[Estudio de Indicadores de Sostenibilidad del Área de OTALEX C](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/Estudio_Ind_Sostenibilidad.pdf)"
       },
       {
-        "name": "- [Estudio Socioeconómico OTALEX C](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/Estudio_Socioeconomico_OTALEX_C.pdf)"
+        "name": "[Estudio Socioeconómico OTALEX C](http://www.ideotalex.eu/OtalexC/Publicaciones/OTALEXC/Estudio_Socioeconomico_OTALEX_C.pdf)"
       }
     ],
     "from_date": "2006",
     "name": "Observatorio Territorial Alentejo Extremadura y Centro de Portugal (OTALEX)",
     "parents": [
-      "- Gobierno de Extremadura",
-      "- Diputación Provincial de Cáceres (Área de Desarrollo Local y Formación)"
+      "Gobierno de Extremadura",
+      "Diputación Provincial de Cáceres (Área de Desarrollo Local y Formación)"
     ],
     "scope": "autonómico",
     "to_date": "Junio 2015",
@@ -1301,22 +1306,22 @@
     "parents": ["Ayuntamiento de León"],
     "docs": [
       {
-        "name": "- https://ildefe.es/wp-content/uploads/2025/08/2-trimestre-2025.pdf"
+        "name": "https://ildefe.es/wp-content/uploads/2025/08/2-trimestre-2025.pdf"
       },
       {
-        "name": "- https://ildefe.es/wp-content/uploads/2025/05/1-trimestre-2025.pdf"
+        "name": "https://ildefe.es/wp-content/uploads/2025/05/1-trimestre-2025.pdf"
       },
       {
-        "name": "- https://ildefe.es/wp-content/uploads/2025/03/4-trimestre-2024.pdf"
+        "name": "https://ildefe.es/wp-content/uploads/2025/03/4-trimestre-2024.pdf"
       },
       {
-        "name": "- https://ildefe.es/wp-content/uploads/2024/11/3-trimestre-2024.pdf"
+        "name": "https://ildefe.es/wp-content/uploads/2024/11/3-trimestre-2024.pdf"
       },
       {
-        "name": "- https://ildefe.es/wp-content/uploads/2024/07/2024-2T-Informe-Completo.pdf"
+        "name": "https://ildefe.es/wp-content/uploads/2024/07/2024-2T-Informe-Completo.pdf"
       },
       {
-        "name": "- https://ildefe.es/wp-content/uploads/2024/05/InformeMercadoLaboral_informecompleto1T24.pdf"
+        "name": "https://ildefe.es/wp-content/uploads/2024/05/InformeMercadoLaboral_informecompleto1T24.pdf"
       }
     ],
     "is_active": "Si"
@@ -1787,7 +1792,7 @@
     "from_date": "Septiembre de 2020",
     "is_active": "Si",
     "name": "Observatorio de Precios Agrícolas y Ganaderos de Castilla y León",
-    "parents": ["- Junta de Castilla y León"],
+    "parents": ["Junta de Castilla y León"],
     "scope": "autonómico",
     "type": "publico",
     "website": "https://agriculturaganaderia.jcyl.es/web/es/estadistica-informacion-agraria/observatorio.html#:~:text=El%20Observatorio%20muestra%20los%20precios%20en%20origen%20de,que%20paulatinamente%20puede%20ofrecerse%20informaci%C3%B3n%20sobre%20m%C3%A1s%20productos."
@@ -1941,10 +1946,10 @@
         "name": "Los informes son innacesibles desde la web del observatorio porque está caída. Algunos informes aparecen también en la web del [CSIC](https://digital.csic.es/global-search?query=OPAM):"
       },
       {
-        "name": "- Informes “Tema OPAM” sobre determinadas facetas del hecho inmigratorio, con periodicidad semestral."
+        "name": "Informes “Tema OPAM” sobre determinadas facetas del hecho inmigratorio, con periodicidad semestral."
       },
       {
-        "name": "- Informes anuales sobre la evolución del hecho inmigratorio desde los puntos de vista demográfico, económico-laboral, y de la opinión pública"
+        "name": "Informes anuales sobre la evolución del hecho inmigratorio desde los puntos de vista demográfico, económico-laboral, y de la opinión pública"
       }
     ]
   },
@@ -2991,10 +2996,10 @@
     ],
     "docs": [
       {
-        "name": "- Plan estratégico de la provincia de Jaén"
+        "name": "Plan estratégico de la provincia de Jaén"
       },
       {
-        "name": "- Observatorio económico mensual de la provincia de Jaén"
+        "name": "Observatorio económico mensual de la provincia de Jaén"
       }
     ],
     "is_active": "Si"
@@ -3018,8 +3023,8 @@
     "is_active": "Si",
     "name": "Observatori Social d'Inclusió i Acció Comunitària de Tarragona",
     "parents": [
-      "- Institut Municipal de Serveis Socials (IMSST), amb la col·laboració de l’Ajuntament de Tarragona",
-      "- Departament de Drets Socials de la Generalitat de Catalunya"
+      "Institut Municipal de Serveis Socials (IMSST), amb la col·laboració de l’Ajuntament de Tarragona",
+      "Departament de Drets Socials de la Generalitat de Catalunya"
     ],
     "scope": "local",
     "type": "publico",
@@ -3188,10 +3193,10 @@
     "is_active": "Si",
     "name": "Observatorio por la Repoblación Rural de Castilla y León",
     "parents": [
-      "- Univerisdad de Burgos",
-      "- Oficina Verde de la Universidad de Burgos (UbuVerde)",
-      "- Sodebur (Sociedad para el desarrollo de la povincia de Burgos)",
-      "- Diputación de Burgos"
+      "Univerisdad de Burgos",
+      "Oficina Verde de la Universidad de Burgos (UbuVerde)",
+      "Sodebur (Sociedad para el desarrollo de la povincia de Burgos)",
+      "Diputación de Burgos"
     ],
     "scope": "provincial",
     "type": "publico",
@@ -3312,12 +3317,12 @@
       "Servei transversal que  dóna suport i nodreix d’informació  a totes les àrees de treball del Consell Comarcal del Vallès Oriental, amb una implicació especial de les àrees de:",
       "Polítiques  Socials i d’Igualtat, Ensenyament, Desenvolupament Local i Turisme, Joventut, Medi Ambient, Habitatge i Serveis Jurídics",
       "**Persones destinatàries**",
-      "- Els 39 ajuntaments de la comarca.",
-      "- Mancomunitat de la Vall del Tenes",
-      "- Consorci de Residus del Vallès Oriental",
-      "- Agents socials i econòmics de la comarca",
-      "- Ciutadania en general",
-      "- Mitjans de comunicació"
+      "Els 39 ajuntaments de la comarca.",
+      "Mancomunitat de la Vall del Tenes",
+      "Consorci de Residus del Vallès Oriental",
+      "Agents socials i econòmics de la comarca",
+      "Ciutadania en general",
+      "Mitjans de comunicació"
     ],
     "scope": "provincial",
     "type": "publico",
@@ -3744,8 +3749,8 @@
     "from_date": "2024",
     "name": "Observatorio Europeo de Desiertos Rurales Alimentarios y de Ejercicio Físico (DESERT)",
     "parents": [
-      "- Financiado por el Instituto de Salud Carlos III (ISCIII) [entidad pública].",
-      "- Cofinanciado por la Unión Europea a través del programa E4Health Partnership."
+      "Financiado por el Instituto de Salud Carlos III (ISCIII) [entidad pública].",
+      "Cofinanciado por la Unión Europea a través del programa E4Health Partnership."
     ],
     "scope": "provincial",
     "to_date": "2027 (3 años de duración)",
@@ -4312,7 +4317,7 @@
         "url": "https://iam.asturias.es/documents/269132/3354977/DENUNCIAS+PUBLICIDAD.pdf/3d615fff-1cfc-5817-b401-32c1e2d5b31f"
       },
       {
-        "name": "- Díptico Observatorio:"
+        "name": "Díptico Observatorio:"
       },
       {
         "url": "https://iam.asturias.es/documents/269132/3354977/DENUNCIAS+PUBLICIDAD.pdf/3d615fff-1cfc-5817-b401-32c1e2d5b31f"
@@ -4423,8 +4428,8 @@
     "from_date": "N/A",
     "name": "Observatorio ciudadano",
     "parents": [
-      "- Parlamento de les Illes",
-      "- Oficina de Prevención y Lucha contra la Corrupción en las Illes Balears"
+      "Parlamento de les Illes",
+      "Oficina de Prevención y Lucha contra la Corrupción en las Illes Balears"
     ],
     "scope": "autonómico",
     "to_date": "N/A",
@@ -4466,9 +4471,9 @@
     "from_date": "N/A",
     "name": "Observatorio de Turismo Sostenible de Mallorca",
     "parents": [
-      "- Consell de Mallorca",
-      "- Fundación Mallorca Turismo",
-      "- Conselleria Model Econòmic, Turisme i Treball"
+      "Consell de Mallorca",
+      "Fundación Mallorca Turismo",
+      "Conselleria Model Econòmic, Turisme i Treball"
     ],
     "scope": "local",
     "type": "publico",
