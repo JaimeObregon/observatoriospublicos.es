@@ -3854,6 +3854,17 @@
     "type": "publico"
   },
   {
+    "name": "Observatorio Regional de Mercado",
+    "type": "publico",
+    "website": "https://transparencia.castillalamancha.es/organismos/observatorio-regional-de-mercado",
+    "description": "En la actualidad, la economía de Castilla-La Mancha está sustentada principalmente sobre sus autónomos, sus empresarios y sus pequeñas y medianas empresas, en sus múltiples formas y variedades.\n\nLas empresas han sido y son el verdadero motor de la economía y del empleo [...]. Sin embargo, su tamaño y características, las hace notablemente más sensibles a las dificultades propias del inicio de toda actividad, hasta el punto de constituir verdaderos obstáculos, como encontrar apoyos financieros así como la complejidad de trámites administrativos derivados de la cada vez más compleja y extensa normativa.\n\nPese a todo ello, y a que no pueden existir empresas sin empresarios, lo cierto es que los poderes públicos no han contribuido a dignificar esa figura en lo que se merece. [...]\n\nLo anterior, junto con la acuciante situación de crisis y desempleo, exige a los poderes públicos tomar decisiones que implican priorizar necesidades y valorar los resultados y consecuencias de las medidas de apoyo a la economía y al empleo que en cada caso se tomen. Ante la crítica situación y gran limitación de medios, el Gobierno de Castilla-La Mancha ha considerado conveniente planificar una estrategia de apoyo a las nuevas empresas, que parta del diseño de un mapa regional que contenga las necesidades empresariales y laborales, previsiones de futuro, así como la viabilizad de los objetivos empresariales que busquen ayuda de los poderes públicos. [...] Para ello se crea el _Observatorio Regional de Mercado_, como órgano encargado de efectuar las comprobaciones y prospecciones de mercado que permitan establecer los criterios de ayuda preferencial en la creación de empresas y, con ello, de puestos de trabajo. Se pretende de esta forma dar un nuevo enfoque a los diferentes fondos que destina el Gobierno Regional para el fomento empresarial",
+    "scope": "autonómico",
+    "from_date": "15/01/2012",
+    "parents": [
+      "Puede encontrarse el anuncio de su creación en [este artículo del BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2012-4187)."
+    ]
+  },
+  {
     "docs": [
       {
         "name": "Decreto 94/2021, de 21 de septiembre, por el que se crea el Observatorio de Precios de la Cadena Agroalimentaria de Castilla-La Mancha",
