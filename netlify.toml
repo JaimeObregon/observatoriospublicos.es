@@ -1,0 +1,8 @@
+# Fuente de la verdad para los despliegues en Netlify.
+# Lo aquí configurado prevalece sobre la UI.
+
+[build]
+  publish = "httpdocs"
+
+[build.environment]
+  NODE_VERSION = "22"
