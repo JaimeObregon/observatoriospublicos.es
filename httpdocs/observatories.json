@@ -1345,17 +1345,49 @@
   },
   {
     "name": "Observatorio de Empleo y Formación del Servicio Cántabro de Empleo",
+    "description": "Corresponde al Observatorio de Empleo y Formación la recopilación de información sobre el mercado de trabajo, recabando la misma de todos los sectores sociales implicados; elaboración de las necesarias bases de datos, así como realizar los análisis, planificaciones estratégicas, estudios, memorias, proyectos y propuestas de actuación sobre la realidad y las tendencias a corto, medio y largo plazo del mercado de trabajo.",
+    "parents": [
+      "Servicio Cántabro de Empleo (Gobierno de Cantabria)"
+    ],
     "scope": "cantabria",
-    "type": "publico"
+    "type": "publico",
+    "website": "https://empleacantabria.es/",
+    "is_active": "Si",
+    "email": "empleacantabria@cantabria.es",
+    "location": "Paseo General Dávila 87, 39006 Santander"
   },
   {
-    "name": "Observatorio Canario del Empleo y la Formación Profesional",
+    "name": "Observatorio Canario del Empleo (OBECAN)",
+    "description": "El OBECAN (Observatorio Canario de Empleo) es un organismo del Gobierno de Canarias, que orienta al Gobierno en materia de empleo y formación profesional con el fin de facilitar la planificación y programación de acciones que permitan la permanente adecuación de los trabajadores a las exigencias cambiantes del mercado de trabajo.",
+    "parents": [
+      "Servicio Canario de Empleo (Gobierno de Canarias)",
+      "FUNCATRA (aportación de recursos / Fundación)"
+    ],
     "scope": "canarias",
-    "type": "publico"
+    "type": "publico",
+    "website": "https://obecan.es/",
+    "is_active": "Si",
+    "email": "info@obecan.es",
+    "docs": [
+      {
+        "name": "Portales del Gobierno de Canarias / Servicio Canario de Empleo (referencia orgánica y enlaces)",
+        "url": "https://www.gobiernodecanarias.org/empleo/sce/principal/index.html"
+      },
+      {
+        "name": "Decreto de creación (referencia normativa citada en OBECAN)",
+        "url": "http://www.gobiernodecanarias.org/boc/1998/160/003.html"
+      }
+    ]
   },
   {
     "name": "Observatorio Socioeconómico de la Provincia de Badajoz",
-    "type": "publico"
+    "type": "publico",
+    "docs": [
+      {
+        "name": "La Diputación de Badajoz pone a disposición una plataforma online interactiva con datos socioeconómicos de la provincia",
+        "url": "https://www.dip-badajoz.es/agenda/index.php?id=3&agenda=21524"
+      }
+    ]
   },
   {
     "name": "Observatorio Ocupacional y Empresarial de ILDEFE",
@@ -1392,7 +1424,10 @@
   },
   {
     "name": "Observatorio del Sector TIC en Extremadura",
-    "scope": "extremadura"
+    "description": "El Observatorio Extremeño de las TIC es una plataforma que recopila, analiza y difunde información sobre el uso de las tecnologías de la información y la comunicación (TIC) en Extremadura. La información que se comparte, pretende ayudar a las personas lectoras a comprender el histórico y la situación actual de la región extremeña respecto a las TIC y generar una visión completa de hacia dónde evoluciona nuestra región en materia digital y tecnológica.",
+    "scope": "extremadura",
+    "type": "publico",
+    "website": "https://extremaduradigital.org/"
   },
   {
     "name": "Observatorio FIEX de las Familias y la Infancia de Extremadura",
@@ -1413,7 +1448,11 @@
   },
   {
     "name": "Observatorio para la Convivencia Escolar de Extremadura",
-    "scope": "extremadura"
+    "scope": "extremadura",
+    "website": "https://www.educarex.es/convivencia/observatorio-convivencia-escolar-02.html",
+    "parents": [
+      "Secretaría General de Educación"
+    ]
   },
   {
     "name": "Observatorio de Prevención de Riesgos Laborales de la Comunidad Autónoma de la Región de Murcia",
@@ -1430,7 +1469,24 @@
   },
   {
     "name": "Observatorio Extremeño de la Cultura",
-    "scope": "extremadura"
+    "description": "La CULTURA es un elemento esencial para el desarrollo social, económico y territorial de los pueblos. Es un instrumento imprescindible de participación comunitaria que tiene la capacidad de desarrollar el espíritu crítico, la creatividad y otras potencialidades de los/las ciudadanos/as.",
+    "parents": [
+      "Asociación de Gestoras y Gestores Culturales de Extremadura (AGCEX)",
+      "Secretaría General de Cultura. Consejería de Cultura e Igualdad. Junta de Extremadura"
+    ],
+    "scope": "extremadura",
+    "website": "https://observaculturaextremadura.es/",
+    "is_active": "Si",
+    "docs": [
+      {
+        "name": "Presentación del Observatorio (página 'El Observatorio')",
+        "url": "https://observaculturaextremadura.es/el-observatorio/presentacion"
+      },
+      {
+        "name": "Observatorio de la Cultura (AGCEX)",
+        "url": "https://www.agcex.org/observatorio-de-la-cultura/"
+      }
+    ]
   },
   {
     "name": "Observatori Ciutadà de la Biodiversitat",
@@ -1446,11 +1502,36 @@
   },
   {
     "name": "Observatorio de Responsabilidad Social de Extremadura",
-    "scope": "extremadura"
+    "description": "En la web del Observatorio de RSE (http://rsextremadura.juntaex.es/estructura/index.php), las empresas tienen a su disposici\u00f3n toda la informaci\u00f3n necesaria sobre el procedimiento para obtener la calificaci\u00f3n RSE, as\u00ed como, la herramienta gratuita que permite cumplimentar el cuestionario indispensable para alcanzar la calificaci\u00f3n como empresa socialmente responsable de Extremadura.",
+    "parents": [
+      "Junta de Extremadura"
+    ],
+    "scope": "extremadura",
+    "type": "publico",
+    "website": "http://rsextremadura.juntaex.es/",
+    "docs": [
+      {
+        "name": "Listado de Empresas certificadas como Socialmente Responsables de Extremadura (portal del Observatorio de RSE)",
+        "url": "http://rsextremadura.juntaex.es/"
+      },
+      {
+        "name": "Difusi\u00f3n sobre la calificaci\u00f3n e inscripci\u00f3n RSE (nota en ExtremaduraEmpresarial)",
+        "url": "https://www.extremaduraempresarial.es/2025/05/02/que-beneficios-aporta-la-calificacion-como-empresa-socialmente-responsable-de-extremadura/"
+      }
+    ]
   },
-  {
+  { 
     "name": "Observatorio sobre Drogas de la Región de Murcia",
-    "scope": "region_de_murcia"
+    "description": "El Observatorio sobre Drogas y Adicciones de la Región de Murcia (ODARM) es el órgano regional donde se centralizan las diversas fuentes de información relacionadas con el fenómeno de las adicciones con y sin sustancia.",
+    "scope": "region_de_murcia",
+    "type": "público",
+    "website": "https://www.murciasalud.es/web/servicio-de-epidemiologia/observatorio-de-drogas-y-adicciones-de-la-region-de-murcia",
+    "docs": [
+      {
+        "name": "Orden de 1 de febrero de 2007 de la Consejería de Sanidad por el que se crea el Observatorio sobre Drogas de la Región de Murcia.",
+        "url": "https://www.murciasalud.es/-/legislacion-97389"
+      }
+    ]
   },
   {
     "name": "Observatori Balear de la Societat de la Informació (OBSI)",
