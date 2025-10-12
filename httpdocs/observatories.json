@@ -1931,6 +1931,53 @@
     "website": "https://www.gazteaukera.euskadi.eus/hasiera/"
   },
   {
+    "name": "OBITen",
+    "type": "publico",
+    "website": "https://obiten.com/",
+    "email": "obiten@ull.edu.es",
+    "description": "La actividad principal del Observatorio recae en un grupo estable y multidisciplinar de investigadores e investigadoras de la Universidad de La Laguna, interesados/as en el conocimiento de las migraciones internacionales, sus causas y sus consecuencias, estableciendo diversas relaciones científicas con otros centros y organizaciones que abordan el estudio y la gestión de dicha movilidad.",
+    "scope": "provincial",
+    "from_date": "2001",
+    "parents": [
+      "Cabildo de Tenerife",
+      "Fundación Canaria General de la Universidad de La Laguna",
+      "Universidad de La Laguna"
+    ],
+    "docs": [
+      {
+        "name": "More or less human: the image of different migrant groups in Tenerife"
+      },
+      {
+        "name": "Más o menos humanos: la imagen de distintos colectivos migrantes en Tenerife"
+      },
+      {
+        "name": "La inmigración irregular en Tenerife"
+      },
+      {
+        "name": "Entrevistas semiestructuradas y observación de campo"
+      },
+      {
+        "name": "The humanitarian response in the Canary Islands to the reactivation of the migration route"
+      },
+      {
+        "name": "La respuesta solidaria de la sociedad canaria ante la reactivación de la ruta migratoria"
+      },
+      {
+        "name": "Entry of migrants. Process pursuant to immigration law"
+      },
+      {
+        "name": "Entrada de personas migrantes. Procedimiento conforme a la normativa en Extranjería"
+      },
+      {
+        "name": "How do migrants in Tenerife experience discrimination?"
+      },
+      {
+        "name": "¿Cuáles son las experiencias de discriminación de las personas migrantes en Tenerife?"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio de Coyuntura Industrial",
     "scope": "pais_vasco",
     "type": "publico",
