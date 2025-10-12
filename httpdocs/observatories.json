@@ -5507,6 +5507,21 @@
     "description": "Para  la medición del fenómeno emprendedor con una perspectiva multidisciplinar que aplica conocimiento experto y metodologías exclusivas. Nuestra asociación está compuesta por una red de 200 investigadores, académicos y profesionales con una dilatada experiencia en el proceso emprendedor, los ecosistemas de emprendimiento y la formación a emprendedores."
   },
   {
+    "name": "Observatorio municipal del árbol de Valencia - OMAV",
+    "type": "publico",
+    "website": "https://www.valencia.es/-/infociudad-observatorio-municipal-del-%C3%A1rbol-de-valencia-omav",
+    "email": "omav@valencia.es",
+    "scope": "local",
+    "parents": [
+      "Ayuntamiento de Valencia"
+    ],
+    "docs": [
+      {
+        "url": "https://www.valencia.es/documents/20142/52352/Folleto%2520OMAV%2520cas-1.pdf/7260ab13-d095-c0c0-dc1b-4bde87943718"
+      }
+    ]
+  },
+  {
     "name": "Observatorio Transfronterizo España-Portugal",
     "website": "https://www.transportes.gob.es/informacion-para-el-ciudadano/observatorios/observatorios-de-transporte-internacional/observatorio-transfronterizo-españa-portugal",
     "parents": [
