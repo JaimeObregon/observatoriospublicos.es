@@ -1502,7 +1502,7 @@
   },
   {
     "name": "Observatorio de Responsabilidad Social de Extremadura",
-    "description": "En la web del Observatorio de RSE (http://rsextremadura.juntaex.es/estructura/index.php), las empresas tienen a su disposici\u00f3n toda la informaci\u00f3n necesaria sobre el procedimiento para obtener la calificaci\u00f3n RSE, as\u00ed como, la herramienta gratuita que permite cumplimentar el cuestionario indispensable para alcanzar la calificaci\u00f3n como empresa socialmente responsable de Extremadura.",
+    "description": "En la web del Observatorio de RSE (http://rsextremadura.juntaex.es/estructura/index.php), las empresas tienen a su disposición toda la información necesaria sobre el procedimiento para obtener la calificación RSE, así como, la herramienta gratuita que permite cumplimentar el cuestionario indispensable para alcanzar la calificación como empresa socialmente responsable de Extremadura.",
     "parents": [
       "Junta de Extremadura"
     ],
@@ -1515,12 +1515,12 @@
         "url": "http://rsextremadura.juntaex.es/"
       },
       {
-        "name": "Difusi\u00f3n sobre la calificaci\u00f3n e inscripci\u00f3n RSE (nota en ExtremaduraEmpresarial)",
+        "name": "Difusión sobre la calificación e inscripción RSE (nota en ExtremaduraEmpresarial)",
         "url": "https://www.extremaduraempresarial.es/2025/05/02/que-beneficios-aporta-la-calificacion-como-empresa-socialmente-responsable-de-extremadura/"
       }
     ]
   },
-  { 
+  {
     "name": "Observatorio sobre Drogas de la Región de Murcia",
     "description": "El Observatorio sobre Drogas y Adicciones de la Región de Murcia (ODARM) es el órgano regional donde se centralizan las diversas fuentes de información relacionadas con el fenómeno de las adicciones con y sin sustancia.",
     "scope": "region_de_murcia",
@@ -5490,6 +5490,21 @@
     "type": "mixto",
     "is_active": "Si",
     "description": "Para  la medición del fenómeno emprendedor con una perspectiva multidisciplinar que aplica conocimiento experto y metodologías exclusivas. Nuestra asociación está compuesta por una red de 200 investigadores, académicos y profesionales con una dilatada experiencia en el proceso emprendedor, los ecosistemas de emprendimiento y la formación a emprendedores."
+  },
+  {
+    "name": "Observatorio municipal del árbol de Valencia - OMAV",
+    "type": "publico",
+    "website": "https://www.valencia.es/-/infociudad-observatorio-municipal-del-%C3%A1rbol-de-valencia-omav",
+    "email": "omav@valencia.es",
+    "scope": "local",
+    "parents": [
+      "Ayuntamiento de Valencia"
+    ],
+    "docs": [
+      {
+        "url": "https://www.valencia.es/documents/20142/52352/Folleto%2520OMAV%2520cas-1.pdf/7260ab13-d095-c0c0-dc1b-4bde87943718"
+      }
+    ]
   },
   {
     "name": "Observatorio Transfronterizo España-Portugal",
