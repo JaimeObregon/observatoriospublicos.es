@@ -22,7 +22,6 @@
     "singleQuote": true
   },
   "devDependencies": {
-    "@types/github-script": "github:actions/github-script",
     "live-server": "^1.2.2",
     "prettier": "^3.6.2"
   }
