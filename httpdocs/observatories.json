@@ -893,6 +893,20 @@
     "scope": "galicia"
   },
   {
+    "name": "Observatorio Startup de la Comunidad Valenciana",
+    "type": "publico",
+    "website": "https://startupvalencia.org/es/observatorio/",
+    "scope": "autonómico",
+    "parents": [
+      "Generalitat Valenciana"
+    ],
+    "docs": [
+      {
+        "url": "https://startupvalencia.org/es/descarga-informe-observatorio/"
+      }
+    ]
+  },
+  {
     "name": "Observatorio Galego de Dinamización Demográfica",
     "scope": "galicia"
   },
