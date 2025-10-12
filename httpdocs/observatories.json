@@ -1502,7 +1502,7 @@
   },
   {
     "name": "Observatorio de Responsabilidad Social de Extremadura",
-    "description": "En la web del Observatorio de RSE (http://rsextremadura.juntaex.es/estructura/index.php), las empresas tienen a su disposici\u00f3n toda la informaci\u00f3n necesaria sobre el procedimiento para obtener la calificaci\u00f3n RSE, as\u00ed como, la herramienta gratuita que permite cumplimentar el cuestionario indispensable para alcanzar la calificaci\u00f3n como empresa socialmente responsable de Extremadura.",
+    "description": "En la web del Observatorio de RSE (http://rsextremadura.juntaex.es/estructura/index.php), las empresas tienen a su disposición toda la información necesaria sobre el procedimiento para obtener la calificación RSE, así como, la herramienta gratuita que permite cumplimentar el cuestionario indispensable para alcanzar la calificación como empresa socialmente responsable de Extremadura.",
     "parents": [
       "Junta de Extremadura"
     ],
@@ -1515,12 +1515,12 @@
         "url": "http://rsextremadura.juntaex.es/"
       },
       {
-        "name": "Difusi\u00f3n sobre la calificaci\u00f3n e inscripci\u00f3n RSE (nota en ExtremaduraEmpresarial)",
+        "name": "Difusión sobre la calificación e inscripción RSE (nota en ExtremaduraEmpresarial)",
         "url": "https://www.extremaduraempresarial.es/2025/05/02/que-beneficios-aporta-la-calificacion-como-empresa-socialmente-responsable-de-extremadura/"
       }
     ]
   },
-  { 
+  {
     "name": "Observatorio sobre Drogas de la Región de Murcia",
     "description": "El Observatorio sobre Drogas y Adicciones de la Región de Murcia (ODARM) es el órgano regional donde se centralizan las diversas fuentes de información relacionadas con el fenómeno de las adicciones con y sin sustancia.",
     "scope": "region_de_murcia",
@@ -1802,6 +1802,20 @@
     "scope": "municipal",
     "type": "publico",
     "website": "https://www.ayto-alcaladehenares.es/el-observatorio-de-violencia-de-genero-de-alcala-ha-atendido-a-mas-de-1500-mujeres-desde-2004-2/"
+  },
+  {
+    "name": "Observatori Valencia de la Cultura",
+    "type": "publico",
+    "website": "https://ovc.gva.es/es",
+    "scope": "autonómico",
+    "parents": [
+      "Generalitat Valenciana"
+    ],
+    "docs": [
+      {
+        "url": "https://ovc.gva.es/documents/165968422/165968496/DOSSIER_Bases_nueva_politica_patrimonial.pdf/7d5d01de-3d16-4b24-b00d-d44382ad4411"
+      }
+    ]
   },
   {
     "description": "La Autoridad Independiente de Responsabilidad Fiscal (AIReF) tiene por objeto velar por la sostenibilidad de las finanzas públicas como vía para asegurar el crecimiento económico y el bienestar de la sociedad española a medio y largo plazo.",
