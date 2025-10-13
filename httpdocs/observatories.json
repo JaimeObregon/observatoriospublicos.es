@@ -779,10 +779,23 @@
     "website": "http://observatorio.dip-caceres.es/"
   },
   {
-    "name": "Observatorio de la Comunidad de Castilla y León (Sección de Género)",
+    "name": "Observatorio de la Comunidad de Castilla y León. Sección de Género",
+    "description": "Órgano colegiado para el estudio, análisis y seguimiento de la realidad social de Castilla y León. La Sección de Género se centra en analizar la realidad y evolución en materia de igualdad, asesorar a la Administración y formular propuestas.",
+    "parents": [
+      "Junta de Castilla y León"
+    ],
     "scope": "castilla_y_leon",
     "type": "publico",
-    "website": "https://familia.jcyl.es/web/es/mujer/observatorio-comunidad-seccion-genero.html"
+    "website": "https://familia.jcyl.es/web/es/mujer/observatorio-comunidad-seccion-genero.html",
+    "docs": [
+      {
+        "name": "Informe anual con los trabajos realizados",
+        "url": "https://familia.jcyl.es/web/es/mujer/observatorio-comunidad-seccion-genero.html"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "No disponible. Se ofrece un formulario de contacto.",
+    "from_date": "2014"
   },
   {
     "description": "La función del observatorio es la investigación, análisis y desarrollo de soluciones para abordar el problema de la soledad en la región de Aragón.\n\nEl observatorio aragonés de la soledad está compuesto por los siguientes organismos:\n\nGobierno de Aragón\r\nFederación aragonesa de municipios, comarcas y provincias\r\nAyuntamiento de Zaragoza.\r\nConsejo aragonés de personas mayores.\r\nColegio profesional de trabajo social en Aragón.",
@@ -908,7 +921,22 @@
   },
   {
     "name": "Observatorio Galego de Dinamización Demográfica",
-    "scope": "galicia"
+    "description": "Órgano colegiado de consulta y participación para el estudio y análisis permanente de la realidad demográfica de Galicia y para el asesoramiento a los poderes públicos en políticas de dinamización demográfica.",
+    "parents": [
+      "Departamento competente en materia de bienestar social de la Xunta de Galicia"
+    ],
+    "scope": "galicia",
+    "type": "publico",
+    "website": "https://observatoriodemografico.xunta.gal/es",
+    "docs": [
+      {
+        "name": "Informe sobre la situación demográfica de Galicia 2024: Movilidad y migraciones en Galicia",
+        "url": "https://observatoriodemografico.xunta.gal/es"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "No disponible. Ofrece formulario de contacto.",
+    "from_date": "2016"
   },
   {
     "name": "Observatorio Galego de Educación Ambiental",
@@ -1980,11 +2008,32 @@
     "website": "https://www.irekia.euskadi.eus/es/tags/observatoriodecoyunturaindustrial?uid=5196"
   },
   {
-    "name": "Observatorio Vasco de Inmigración",
+    "name": "Observatorio Vasco de Inmigración (Ikuspegi)",
+    "description": "Herramienta de utilidad pública que investiga y analiza la incidencia de las migraciones en Euskadi para el conocimiento sistemático del fenómeno migratorio.",
+    "parents": [
+      "Departamento de Igualdad, Justicia y Políticas Sociales del Gobierno Vasco",
+      "Universidad del País Vasco (UPV/EHU)"
+    ],
     "scope": "pais_vasco",
-    "twitter": "@ikuspegi_eus",
-    "type": "publico",
-    "website": "https://www.ikuspegi.eus/"
+    "type": "mixto",
+    "website": "https://www.ikuspegi.eus/",
+    "docs": [
+      {
+        "name": "Panorámicas",
+        "url": "https://www.ikuspegi.eus/"
+      },
+      {
+        "name": "Barómetros",
+        "url": "https://www.ikuspegi.eus/"
+      },
+      {
+        "name": "Investigaciones (ej. Panorámica 97. Población de origen extranjero en las comarcas y cuadrillas de la CAE, 2024)",
+        "url": "https://www.ikuspegi.eus/"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "info@ikuspegi.eus",
+    "from_date": "2004"
   },
   {
     "name": "Observatorio para la Prevención del Tabaquismo",
@@ -5779,5 +5828,630 @@
     "scope": "municipal",
     "type": "publico",
     "website": "https://www.rivasciudad.es/agenda-urbana-rivas2030/observatorio-de-ciudad/"
+  },
+    {
+    "name": "Observatorio de Vivienda y Suelo",
+    "description": "Es una herramienta que facilita el uso integrado de datos de fuentes estadísticas oficiales para mejorar el conocimiento y seguimiento del sector residencial. Su análisis abarca desde el mercado del suelo hasta el producto inmobiliario, incluyendo temas como accesibilidad, financiación, rehabilitación y alquiler.",
+    "parents": [
+      "Ministerio de Vivienda y Agenda Urbana"
+    ],
+    "scope": "estatal",
+    "type": "publico",
+    "website": "https://www.mivau.gob.es/urbanismo-y-suelo/suelo/observatorio-de-vivienda-y-suelo",
+    "docs": [
+      {
+        "name": "Boletín Especial Vivienda Social 2024",
+        "url": "https://www.mivau.gob.es/urbanismo-y-suelo/suelo/observatorio-de-vivienda-y-suelo"
+      },
+      {
+        "name": "Boletín Anual 2024",
+        "url": "https://www.mivau.gob.es/urbanismo-y-suelo/suelo/observatorio-de-vivienda-y-suelo"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "No disponible. Se ofrece un formulario de suscripción y el teléfono del ministerio es 915 977 000.",
+    "from_date": "Primer trimestre de 2012"
+  },
+  {
+    "name": "Observatorio de la Pobreza y Exclusión Social (OPEX)",
+    "description": "Pretende ser un referente en la generación de conocimiento sobre la pobreza y la exclusión social en España. Funciona como banco de datos y centro de investigación para promover el análisis, la divulgación y el debate sobre los procesos sociales que confluyen en la pobreza.",
+    "parents": [
+      "Ministerio de Sanidad, Consumo y Bienestar Social",
+      "Red Europea de Lucha contra la Pobreza y la Exclusión Social en el Estado Español (EAPN-ES)"
+    ],
+    "scope": "estatal",
+    "type": "mixto",
+    "website": "https://www.observatoriopobreza.org/",
+    "docs": [
+      {
+        "name": "El Estado de la Pobreza (15º informe)",
+        "url": "https://www.observatoriopobreza.org/"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "eapn@eapn.es",
+    "from_date": "Principios de 2021"
+  },
+  {
+    "name": "Observatorio para la Igualdad y la Diversidad",
+    "description": "Herramienta para el análisis, la participación y el impulso de políticas de igualdad y diversidad en la provincia de Sevilla. Sus objetivos incluyen construir un sistema de información para medir el nivel de igualdad, evaluar el efecto de las políticas públicas y difundir actuaciones en la materia.",
+    "parents": [
+      "Diputación de Sevilla"
+    ],
+    "scope": "provincial",
+    "type": "publico",
+    "website": "https://www.dipusevilla.es/la-diputacion/areas/area-de-cohesion-social-e-igualdad/Servicio-de-Igualdad-y-Diversidad/observatorio-para-la-igualdad-y-la-diversidad/el-observatorio/",
+    "is_active": "Sí",
+    "email": "No disponible"
+  },
+  {
+    "name": "Observatorio de Transición Justa de Asturias (OTJA)",
+    "description": "Es una herramienta para la difusión, seguimiento y control de la evolución de las estrategias de Transición Justa en Asturias. Busca ser un espacio de diálogo y colaboración para abordar la transición energética desde una perspectiva socialmente justa y sostenible.",
+    "parents": [
+      "Gobierno del Principado de Asturias",
+      "Fundación Asturiana de la Energía (FAEN)"
+    ],
+    "scope": "asturias",
+    "type": "publico",
+    "website": "https://www.otja.es/",
+    "docs": [
+      {
+        "name": "Informe anual",
+        "url": "https://www.otja.es/"
+      },
+      {
+        "name": "Informe impacto económico y social de la energía eólica en el Principado de Asturias",
+        "url": "https://www.otja.es/el-observatorio/"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "info@faen.es"
+  },
+  {
+    "name": "Bizkaiko Behatokia",
+    "description": "Observatorio de Bizkaia cuyo cometido principal es el análisis y evaluación de políticas públicas, la promoción de la participación ciudadana y la coordinación de políticas transversales, especialmente en materia de juventud.",
+    "parents": [
+      "Diputación Foral de Bizkaia"
+    ],
+    "scope": "bizkaia",
+    "type": "publico",
+    "website": "https://www.bizkaia.eus/es/behatokia",
+    "docs": [
+      {
+        "name": "BARÓMETRO SOCIAL DE BIZKAIA",
+        "url": "https://www.bizkaia.eus/es/behatokia"
+      },
+      {
+        "name": "INFORME NEURBI",
+        "url": "https://www.bizkaia.eus/es/behatokia"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "No disponible. Se ofrece un formulario de contacto general."
+  },
+  {
+    "name": "Observatorio de Violencia Machista en Bizkaia",
+    "description": "Órgano colegiado y consultivo que realiza un seguimiento de las situaciones de violencia machista en Bizkaia y de la eficacia de las políticas y recursos institucionales para responder a esta realidad.",
+    "parents": [
+      "Departamento de Empleo, Cohesión Social e Igualdad de la Diputación Foral de Bizkaia"
+    ],
+    "scope": "bizkaia",
+    "type": "publico",
+    "website": "https://www.bizkaia.eus/es/ovm/el-observatorio",
+    "docs": [
+      {
+        "name": "Planes de Trabajo Anuales",
+        "url": "https://www.bizkaia.eus/es/ovm/el-observatorio"
+      },
+      {
+        "name": "Memorias de Actividades (desde 2004)",
+        "url": "https://www.bizkaia.eus/es/ovm/el-observatorio"
+      },
+      {
+        "name": "Evaluaciones cuatrienales",
+        "url": "https://www.bizkaia.eus/es/ovm/el-observatorio"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "No disponible",
+    "from_date": "2003"
+  },
+  {
+    "name": "Observatorio de Competitividad de Bizkaia",
+    "description": "Herramienta de inteligencia estratégica que monitoriza el estado de la competitividad a nivel local y comarcal en Bizkaia para proveer información para la toma de decisiones de los agentes implicados en la estrategia de desarrollo comarcal \"Bizkaia Orekan Sakonduz\".",
+    "parents": [
+      "Departamento de Promoción Económica de la Diputación Foral de Bizkaia",
+      "Orkestra - Instituto Vasco de Competitividad (Universidad de Deusto)"
+    ],
+    "scope": "bizkaia",
+    "type": "mixto",
+    "website": "https://www.orkestra.deusto.es/bizkaiaorekansakonduz-observatory/es/",
+    "docs": [
+      {
+        "name": "Diagnóstico de Competitividad del Territorio Histórico de Bizkaia 2023",
+        "url": "https://www.orkestra.deusto.es/bizkaiaorekansakonduz-observatory/es/"
+      },
+      {
+        "name": "Diagnóstico de Competitividad del Territorio Histórico de Bizkaia 2021",
+        "url": "https://www.orkestra.deusto.es/bizkaiaorekansakonduz-observatory/es/"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "No disponible",
+    "from_date": "2021"
+  },
+  {
+    "name": "Observatorio Vasco del Turismo",
+    "description": "Instrumento que ofrece una visión global y permanente de la situación y evolución de la industria turística en Euskadi. Sus objetivos son contribuir a hacer de Euskadi un destino inteligente, dotar a las organizaciones de conocimiento para anticipar cambios y ofrecer herramientas de análisis para implementar estrategias.",
+    "parents": [
+      "Basquetour - Agencia Vasca de Turismo",
+      "Departamento de Turismo, Comercio y Consumo del Gobierno Vasco"
+    ],
+    "scope": "pais_vasco",
+    "type": "publico",
+    "website": "https://www.euskadi.eus/gobierno-vasco/observatorio-vasco-turismo/",
+    "docs": [
+      {
+        "name": "Newsletters periódicos (ej. nº 19, septiembre 2025)",
+        "url": "https://www.euskadi.eus/gobierno-vasco/observatorio-vasco-turismo/"
+      },
+      {
+        "name": "Cuantificación de las actividades económicas de la industria turística de Euskadi, año 2024",
+        "url": "https://www.euskadi.eus/gobierno-vasco/observatorio-vasco-turismo/"
+      },
+      {
+        "name": "Perfil de la industria turística, año 2024",
+        "url": "https://www.euskadi.eus/gobierno-vasco/observatorio-vasco-turismo/"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "observatorio@basquetour.eus",
+    "from_date": "2011"
+  },
+  {
+    "name": "Observatorio del sistema de salud de Castilla y León",
+    "description": "Espacio de consulta de información relativa a los recursos sanitarios disponibles, su distribución territorial, los profesionales, la actividad de los centros, los niveles de calidad y los resultados en la salud de la población.",
+    "parents": [
+      "Junta de Castilla y León - Consejería de Sanidad"
+    ],
+    "scope": "castilla_y_leon",
+    "type": "publico",
+    "website": "https://www.saludcastillayleon.es/transparencia/es/observatorio",
+    "docs": [
+      {
+        "name": "Datos actualizados sobre Atención Primaria, Atención Hospitalaria, Emergencias Sanitarias y Datos Abiertos (actualizaciones anuales)",
+        "url": "https://www.saludcastillayleon.es/transparencia/es/observatorio"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "No disponible. Se ofrece un formulario de contacto general.",
+    "from_date": "2018 (Copyright del sitio web)"
+  },
+  {
+    "name": "Observatori del Patrimoni Natural i la Biodiversitat",
+    "description": "Creado como acción prioritaria de la \"Estratègia del patrimoni natural i la biodiversitat de Catalunya 2030\", aspira a ser el órgano de referencia para obtener, integrar y difundir información sobre el patrimonio natural en Cataluña.",
+    "parents": [
+      "Generalitat de Catalunya"
+    ],
+    "scope": "cataluna",
+    "type": "publico",
+    "website": "https://observatorinatura.cat/",
+    "docs": [
+      {
+        "name": "Evaluaciones y recomendaciones (ej. informe sobre polinizadores)",
+        "url": "https://observatorinatura.cat/"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "info@observatorinatura.cat (general), m.josa@creaf.uab.cat (comunicación)",
+    "from_date": "2023"
+  },
+  {
+    "name": "Observatorio Turístico de la Comunidad de Madrid",
+    "description": "Pone a disposición datos sobre la actividad del sector turístico de la región (oferta, demanda, rentabilidad, etc.), permitiendo conocer su situación actual, su evolución y realizar análisis comparativos con otras Comunidades Autónomas.",
+    "parents": [
+      "Comunidad de Madrid"
+    ],
+    "scope": "comunidad_de_madrid",
+    "type": "publico",
+    "website": "https://www.visitmadrid.es/observatorio-turistico-comunidad-madrid",
+    "is_active": "Sí",
+    "email": "No disponible"
+  },
+  {
+    "name": "Observatorio Regional de Seguridad del Paciente",
+    "description": "Sus objetivos son impulsar la cultura de gestión de riesgos sanitarios, analizar y difundir información sobre dichos riesgos, y proponer medidas para prevenirlos, eliminarlos o reducirlos.",
+    "parents": [
+      "Comunidad de Madrid (Consejería de Sanidad)"
+    ],
+    "scope": "comunidad_de_madrid",
+    "type": "publico",
+    "website": "https://www.comunidad.madrid/servicios/salud/observatorio-regional-seguridad-paciente",
+    "docs": [
+      {
+        "name": "Memorias de Actuaciones anuales (disponibles para 2021, 2022, 2023, 2024)",
+        "url": "https://www.comunidad.madrid/servicios/salud/observatorio-regional-seguridad-paciente"
+      },
+      {
+        "name": "Estrategia de Seguridad del Paciente 2027",
+        "url": "https://www.comunidad.madrid/servicios/salud/observatorio-regional-seguridad-paciente"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "No disponible",
+    "from_date": "2021"
+  },
+  {
+    "name": "Observatorio de Enfermedades Raras de la Comunidad de Madrid",
+    "description": "Tiene por objetivo mejorar el manejo de las enfermedades raras y dar voz a los usuarios y sus familiares. Analizará los instrumentos de planificación, propondrá actuaciones coordinadas y difundirá información sobre nuevos proyectos. <a href=\"https://diariofarma.com/2025/05/23/madrid-pone-en-marcha-el-observatorio-de-enfermedades-raras\">Anunciado el 23 de mayo de 2025</a>.",
+    "parents": [
+      "Consejería de Sanidad de la Comunidad de Madrid"
+    ],
+    "scope": "comunidad_de_madrid",
+    "type": "publico",
+    "is_active": "Sí",
+    "email": "No disponible",
+    "from_date": "2025-05-23"
+  },
+  {
+    "name": "Observatori Valencià de Joventut (OVJ)",
+    "description": "Instrumento para realizar estudios, investigaciones y publicaciones sobre la juventud y el ocio en la Comunidad Valenciana, con el fin de proporcionar información a la administración para el diseño de políticas de juventud y dar soporte a la Estratègia Valenciana de Joventut (EVJ).",
+    "parents": [
+      "Generalitat Valenciana (Institut Valencià de la Joventut - IVAJ)"
+    ],
+    "scope": "comunidad_valenciana",
+    "type": "publico",
+    "website": "http://observatorijove.info/",
+    "docs": [
+      {
+        "name": "Radiografia de la població jove a la Comunitat Valenciana 2024",
+        "url": "http://observatorijove.info/"
+      },
+      {
+        "name": "Estudi sobre la Participació Juvenil en la Comunitat Valenciana 2024",
+        "url": "http://observatorijove.info/"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "observatorijove@gva.es",
+    "from_date": "Ley 15/2017 de la Generalitat"
+  },
+  {
+    "name": "Observatori Simbiosi Industrial de la Comunitat Valenciana (OSICV)",
+    "description": "Iniciativa para la promoción y desarrollo de soluciones de Simbiosis Industrial entre las empresas valencianas, con el fin de comprender e intercambiar buenas prácticas, apoyar sinergias y proponer un plan de acción coordinado.",
+    "parents": [
+      "IVACE+i (Institut Valencià de Competitivitat Empresarial)",
+      "Generalitat Valenciana"
+    ],
+    "scope": "comunidad_valenciana",
+    "type": "publico",
+    "website": "https://osicv.es/",
+    "docs": [
+      {
+        "name": "Boletín informativo periódico \"Revaloritza\"",
+        "url": "https://osicv.es/"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "simbiosindustrialcv.ivace@gva.es"
+  },
+  {
+    "name": "Observatorio del Sistema Público Valenciano de Servicios Sociales",
+    "description": "Órgano interdisciplinar, científico y de asesoramiento especializado en la gestión de datos y el conocimiento en materia de servicios sociales. Su objetivo es ser un espacio de referencia para el análisis, estudio y estadística en la materia.",
+    "parents": [
+      "Vicepresidencia Primera y Conselleria de Servicios Sociales, Igualdad y Vivienda de la Generalitat Valenciana"
+    ],
+    "scope": "comunidad_valenciana",
+    "type": "publico",
+    "website": "https://serviciossociales.gva.es/es/web/ivafiq/observatori-del-sistema-public-valencia-de-serveis-socials",
+    "docs": [
+      {
+        "name": "Informe anual",
+        "url": "https://serviciossociales.gva.es/es/web/ivafiq/observatori-del-sistema-public-valencia-de-serveis-socials"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "No disponible",
+    "from_date": "2023-05-11 (Sesión constituyente)"
+  },
+  {
+    "name": "Observatorio Costeiro de la Xunta de Galicia",
+    "description": "Dedicado a la observación y predicción de las condiciones meteorológicas y oceanográficas de la costa de Galicia para apoyar la gestión coordinada del medio marino, preservar los servicios del ecosistema y facilitar el desarrollo sostenible de la economía azul.",
+    "parents": [
+      "Xunta de Galicia (INTECMAR, CETMAR, METEOGALICIA)"
+    ],
+    "scope": "galicia",
+    "type": "publico",
+    "website": "https://observatoriocosteiro.gal/es",
+    "docs": [
+      {
+        "name": "Predicciones diarias y productos de valor añadido",
+        "url": "https://observatoriocosteiro.gal/es"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "No disponible",
+    "from_date": "Más de 10 años (estaciones desde 1990)"
+  },
+  {
+    "name": "Observatorio forestal",
+    "description": "Proporciona información continuada y dinámica sobre los aprovechamientos de madera en Galicia para comprender las tendencias del sector forestal y poder actuar en consecuencia.",
+    "parents": [
+      "Dirección general de Planificación y Ordenación Forestal",
+      "Consellería do Medio Rural",
+      "Xunta de Galicia"
+    ],
+    "scope": "galicia",
+    "type": "publico",
+    "website": "https://ovmediorural.xunta.gal/es/consultas-publicas/observatorio-forestal",
+    "docs": [
+      {
+        "name": "Datos en tiempo real sobre subastas de madera, solicitudes de aprovechamiento y precios medios de adjudicación (series históricas desde 2011)",
+        "url": "https://ovmediorural.xunta.gal/es/consultas-publicas/observatorio-forestal"
+      }
+    ],
+    "is_active": "Sí",
+    "email": "No disponible",
+    "from_date": "2011"
+  },
+  {
+    "name": "Observatorio Permanente",
+    "description": "Es un formulario que permite a los empleados públicos de los ayuntamientos de la provincia y de la propia Diputación enviar propuestas de cursos y hacer llegar sus necesidades formativas para complementar el análisis de necesidades anual.",
+    "parents": [
+      "Diputación de Alicante (Departamento de Formación)"
+    ],
+    "scope": "provincial",
+    "type": "publico",
+    "website": "https://gfw.diputacionalicante.es/Secretaria/Formularios/Observatorio",
+    "is_active": "Sí",
+    "email": "No disponible"
+  },
+  {
+    "name": "Observatorio económico (Madrid)",
+    "description": "Es un área técnica del Ayuntamiento de Madrid que analiza la situación económica de la ciudad para proporcionar un conocimiento preciso de la realidad socioeconómica a agentes económicos, sociales y ciudadanos. Publica indicadores económicos e informes monográficos.",
+    "parents": [
+      "Ayuntamiento de Madrid"
+    ],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actividad-economica-y-hacienda/Observatorio-economico/",
+    "docs": [
+      {
+        "name": "Indicadores económicos e informes monográficos",
+        "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Actividad-economica-y-hacienda/Observatorio-economico/"
+      }
+    ],
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio Municipal contra la LGTBIfobia (Madrid)",
+    "description": "Es un órgano colegiado para el seguimiento, asesoramiento y control de la discriminación y violencias hacia las personas LGTBI en Madrid. Está adscrito al Área de Gobierno de Políticas Sociales, Familia e Igualdad.",
+    "parents": [
+      "Ayuntamiento de Madrid"
+    ],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://www.madrid.es/portales/munimadrid/es/Inicio/Buscador/Observatorio-Municipal-contra-la-LGTBIfobia/",
+    "is_active": "Sí",
+    "from_date": "2021-12-28"
+  },
+  {
+    "name": "Observatori Metropolità de l’Habitatge de Barcelona (O-HB)",
+    "description": "Instrumento supramunicipal creado en 2017 por el Ayuntamiento de Barcelona, el Área Metropolitana de Barcelona (AMB), la Diputació de Barcelona y la Generalitat de Catalunya. Se dedica a la investigación y análisis de datos sobre vivienda para apoyar el diseño y evaluación de políticas públicas.",
+    "parents": [
+      "Ayuntamiento de Barcelona",
+      "Área Metropolitana de Barcelona (AMB)",
+      "Diputació de Barcelona",
+      "Generalitat de Catalunya"
+    ],
+    "scope": "barcelona",
+    "type": "publico",
+    "website": "https://www.ohb.cat/",
+    "is_active": "Sí",
+    "from_date": "2017"
+  },
+  {
+    "name": "Observatori Social Barcelona",
+    "description": "Instrumento del Ayuntamiento de Barcelona para el conocimiento de la realidad social de la ciudad. Su objetivo es evaluar la evolución de las condiciones de vida de la población, difundir conocimiento y apoyar la planificación y toma de decisiones en el ámbito social.",
+    "parents": [
+      "Ayuntamiento de Barcelona"
+    ],
+    "scope": "barcelona",
+    "type": "publico",
+    "website": "https://ajuntament.barcelona.cat/dretssocials/ca/content/observatori-social-bcn",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Bilbao Observatorio (Bilbao Ekintza)",
+    "description": "Espacio de referencia de la sociedad municipal Bilbao Ekintza para el conocimiento de la realidad socioeconómica de Bilbao. Ofrece acceso a indicadores actualizados sobre actividad empresarial, mercado de trabajo, comercio y turismo, y elabora informes de coyuntura económica.",
+    "parents": [
+      "Bilbao Ekintza (sociedad municipal)"
+    ],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://www.bilbaoekintza.eus/conocenos/areas-de-accion/observatorio",
+    "docs": [
+      {
+        "name": "Indicadores actualizados sobre actividad empresarial, mercado de trabajo, comercio y turismo",
+        "url": "https://www.bilbaoekintza.eus/conocenos/areas-de-accion/observatorio"
+      },
+      {
+        "name": "Informes de coyuntura económica",
+        "url": "https://www.bilbaoekintza.eus/conocenos/areas-de-accion/observatorio"
+      }
+    ],
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio del Plan Estratégico de Sevilla 2030",
+    "description": "Plataforma web puesta en marcha por el Ayuntamiento en 2021. Facilita la consulta de una base de datos con cerca de un millar de indicadores sobre la realidad económica, social y laboral de la ciudad y su área metropolitana, permitiendo al usuario generar informes \"a la carta\".",
+    "parents": [
+      "Ayuntamiento de Sevilla"
+    ],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://www.sevilla.org/actualidad/noticias/2021/el-ayuntamiento-pone-en-marcha-un-observatorio-del-plan-estrategico-de-sevilla-para-avanzar-en-transparencia-y-participacion-ciudadana",
+    "docs": [
+      {
+        "name": "Base de datos con indicadores sobre la realidad económica, social y laboral de la ciudad y su área metropolitana",
+        "url": "https://www.sevilla.org/actualidad/noticias/2021/el-ayuntamiento-pone-en-marcha-un-observatorio-del-plan-estrategico-de-sevilla-para-avanzar-en-transparencia-y-participacion-ciudadana"
+      }
+    ],
+    "is_active": "Sí",
+    "from_date": "2021"
+  },
+  {
+    "name": "Observatori del Canvi Climàtic (Valencia)",
+    "description": "Centro educativo y divulgativo de la Fundación Valencia Clima i Energia (dependiente del Ayuntamiento de Valencia) para formar y sensibilizar sobre el cambio climático. Realiza actividades y talleres, y ofrece materiales didácticos y recursos.",
+    "parents": [
+      "Fundación Valencia Clima i Energia (Ayuntamiento de Valencia)"
+    ],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://climaienergia.com/es/observatori/",
+    "docs": [
+      {
+        "name": "Materiales didácticos y recursos",
+        "url": "https://climaienergia.com/es/observatori/"
+      }
+    ],
+    "is_active": "Sí"
+  },
+  {
+    "name": "Observatorio de Salud Urbana de València",
+    "description": "Proyecto desarrollado desde finales de 2022 en colaboración entre Valencia Innovation Capital, la Oficina de Estadística del Ayuntamiento y la Dirección General de Salud Pública de la Conselleria de Sanidad. Monitoriza y visualiza datos de determinantes socioeconómicos y de salud a nivel de distrito y barrio.",
+    "parents": [
+      "Valencia Innovation Capital",
+      "Oficina de Estadística del Ayuntamiento de Valencia",
+      "Dirección General de Salud Pública de la Conselleria de Sanidad"
+    ],
+    "scope": "local",
+    "type": "mixto",
+    "website": "https://valenciainnovationcapital.com/observatorio-de-salud-urbana-de-valencia/",
+    "docs": [
+      {
+        "name": "Datos de determinantes socioeconómicos y de salud a nivel de distrito y barrio",
+        "url": "https://valenciainnovationcapital.com/observatorio-de-salud-urbana-de-valencia/"
+      }
+    ],
+    "is_active": "Sí",
+    "from_date": "Finales de 2022"
+  },
+  {
+    "name": "Observatorio Turístico (Valladolid)",
+    "description": "Creado en 2008 por la Sociedad Mixta para la Promoción del Turismo de Valladolid, facilita información sobre los flujos de oferta y demanda turística en la ciudad. Publica informes anuales sobre las características de los visitantes y datos mensuales y anuales sobre la oferta hotelera.",
+    "parents": [
+      "Sociedad Mixta para la Promoción del Turismo de Valladolid"
+    ],
+    "scope": "local",
+    "type": "mixto",
+    "website": "https://www.valladolid.es/es/temas/hacemos/observatorio-turistico",
+    "docs": [
+      {
+        "name": "Informes anuales sobre las características de los visitantes",
+        "url": "https://www.valladolid.es/es/temas/hacemos/observatorio-turistico"
+      },
+      {
+        "name": "Datos mensuales y anuales sobre la oferta hotelera",
+        "url": "https://www.valladolid.es/es/temas/hacemos/observatorio-turistico"
+      }
+    ],
+    "is_active": "Sí",
+    "from_date": "2008"
+  },
+  {
+    "name": "Observatorio Municipal de Inmigración (Valladolid)",
+    "description": "Iniciado en 2006 por el Servicio de Iniciativas Sociales del Ayuntamiento, actualiza indicadores y estudios sobre la población inmigrante en Valladolid. Se estructura en un análisis panorámico y cinco áreas de conocimiento sobre la integración social, cultural y económica.",
+    "parents": [
+      "Servicio de Iniciativas Sociales del Ayuntamiento de Valladolid"
+    ],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://www.valladolid.es/es/temas/hacemos/observatorio-municipal-inmigracion",
+    "docs": [
+      {
+        "name": "Indicadores y estudios sobre la población inmigrante en Valladolid",
+        "url": "https://www.valladolid.es/es/temas/hacemos/observatorio-municipal-inmigracion"
+      }
+    ],
+    "is_active": "Sí",
+    "from_date": "2006"
+  },
+  {
+    "name": "Observatorio Municipal de Estadística (Zaragoza)",
+    "description": "Instrumento del Ayuntamiento de Zaragoza para gestionar y difundir información local a través de indicadores y variables estadísticas. Su finalidad es dotar de información para diseñar escenarios futuros y reorientar políticas públicas.",
+    "parents": [
+      "Ayuntamiento de Zaragoza"
+    ],
+    "scope": "local",
+    "type": "publico",
+    "website": "https://www.zaragoza.es/sede/portal/observatorio/",
+    "docs": [
+      {
+        "name": "Indicadores y variables estadísticas",
+        "url": "https://www.zaragoza.es/sede/portal/observatorio/"
+      }
+    ],
+    "is_active": "Sí"
+  },
+  {
+    "name": "Cátedra de Territorio, Sociedad y Visualización Geográfica (Zaragoza)",
+    "description": "Creada en 2016 mediante un convenio entre el Ayuntamiento de Zaragoza y la Universidad de Zaragoza. Funciona como un observatorio y espacio de investigación para analizar la información territorial y sociodemográfica de la ciudad, su entorno metropolitano y la comunidad autónoma.",
+    "parents": [
+      "Ayuntamiento de Zaragoza",
+      "Universidad de Zaragoza"
+    ],
+    "scope": "local",
+    "type": "mixto",
+    "website": "https://www.zaragoza.es/sede/portal/participacion/catedra/territorio/",
+    "is_active": "Sí",
+    "from_date": "2016"
+  },
+  {
+    "name": "Observatorio de Vivienda de Leganés",
+    "description": "Propuesto por el grupo político Más Madrid en el pleno municipal de Leganés en enero de 2024. Su objetivo sería analizar el mercado inmobiliario local, cuyos precios de venta y alquiler se consideran \"completamente descontrolados\". La información del observatorio mejoraría la toma de decisiones y ajustaría las inversiones en vivienda. <a href=\"https://leganesactivo.com/2024/01/09/mas-madrid-leganes-observatorio-vivienda/\">Iniciativa presentada por Más Madrid Leganés</a>.",
+    "parents": [
+      "Ayuntamiento de Leganés"
+    ],
+    "scope": "local",
+    "type": "publico",
+    "is_active": "No",
+    "from_date": "2024-01-09 (Propuesto)"
+  },
+  {
+    "name": "Observatorio de la Movilidad de Rivas-Vaciamadrid",
+    "description": "Anunciado por el Ayuntamiento en enero de 2023 como un órgano de participación social y consulta para evaluar, estudiar y promover actuaciones en torno a la movilidad sostenible. Se espera que en él estén presentes las entidades locales relevantes para debatir y perfeccionar las medidas de movilidad. <a href=\"https://www.madrid24horas.com/articulo/rivas-vaciamadrid/el-ayuntamiento-de-rivas-creara-un-observatorio-de-la-movilidad-para-conseguir-una-ciudad-mas-sostenible-y-amable/20230111200246048066.html\">Anuncio municipal de enero de 2023</a>.",
+    "parents": [
+      "Ayuntamiento de Rivas-Vaciamadrid"
+    ],
+    "scope": "local",
+    "type": "publico",
+    "is_active": "No",
+    "from_date": "2023-01-11 (Anunciado/En creación)"
+  },
+  {
+    "name": "Observatorio del Impacto Social de los Algoritmos (OBISAL)",
+    "description": "Incluido en la Estrategia Nacional de Inteligencia Artificial, el Gobierno se comprometió a su desarrollo en reuniones con la sociedad civil en 2022 y 2023. Dependerá funcionalmente de la AESIA y contará con participación directa y formal de la sociedad civil para vigilar el uso de algoritmos e IA por parte de las administraciones públicas. <a href=\"https://transparencia.gob.es/transparencia/dam/jcr:255a94f6-1576-496c-be65-662e6f1592d1/OSC11-01-02-03.pdf\">Compromiso recogido en la planificación de la AESIA</a>.",
+    "parents": [
+      "Secretaría de Estado de Digitalización e Inteligencia Artificial (SEDIA)",
+      "Agencia Española de Supervisión de la Inteligencia Artificial (AESIA)"
+    ],
+    "scope": "estatal",
+    "type": "publico",
+    "is_active": "No",
+    "from_date": "2022-2023 (Compromiso de desarrollo)"
+  },
+  {
+    "name": "Observatorio para la sostenibilidad turística local (Andalucía)",
+    "description": "Se acordó su creación para abordar la planificación y financiación de un modelo turístico basado en la sostenibilidad a nivel local en Andalucía. <a href=\"https://www.famp.es/es/actualidad/noticias/Junta-de-Andalucia-FAMP-y-CEA-acuerdan-crear-un-observatorio-para-la-sostenibilidad-turistica-local/\">Acuerdo entre Junta de Andalucía, FAMP y CEA</a>.",
+    "parents": [
+      "Junta de Andalucía",
+      "Federación Andaluza de Municipios y Provincias (FAMP)",
+      "Confederación de Empresarios de Andalucía (CEA)"
+    ],
+    "scope": "andalucia",
+    "type": "mixto",
+    "is_active": "No",
+    "from_date": "Anunciado"
   }
 ]
