@@ -5829,7 +5829,7 @@
     "type": "publico",
     "website": "https://www.rivasciudad.es/agenda-urbana-rivas2030/observatorio-de-ciudad/"
   },
-    {
+  {
     "name": "Observatorio de Vivienda y Suelo",
     "description": "Es una herramienta que facilita el uso integrado de datos de fuentes estadísticas oficiales para mejorar el conocimiento y seguimiento del sector residencial. Su análisis abarca desde el mercado del suelo hasta el producto inmobiliario, incluyendo temas como accesibilidad, financiación, rehabilitación y alquiler.",
     "parents": [
