@@ -17,7 +17,7 @@
   "scripts": {
     "serve": "bin/serve.js",
     "docker:watch": "docker run --rm -it -p 8090:8080 -v \"$(pwd)/httpdocs:/app/httpdocs\" observatorios-prettier yarn serve",
-    "docker:validate-obserbatorios": "docker run --rm -v \"$(pwd)\":/work observatorios-prettier sh -c 'cd /work && /app/node_modules/.bin/prettier --check \"httpdocs/**/*.{js,json,css}\"'"
+    "docker:validate-observatorios": "docker run --rm -v \"$(pwd)\":/work observatorios-prettier sh -c 'cd /work && /app/node_modules/.bin/prettier --check \"httpdocs/**/*.{js,json,css}\"'"
   },
   "prettier": {
     "semi": false,
