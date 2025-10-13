@@ -1139,10 +1139,6 @@
     "name": "Observatorio para la Cibersociedad"
   },
   {
-    "name": "Sociedad de la Información en Navarra",
-    "scope": "navarra"
-  },
-  {
     "description": "El Observatorio de Mujeres, Ciencia e Innovación (OMCI) es un órgano colegiado interministerial que tiene la responsabilidad de analizar y realizar el seguimiento y medición de impactos sobre la situación de las mujeres en el ámbito de la investigación, el desarrollo y la innovación; así como fomentar, proponer, asesorar e impulsar la realización de políticas públicas y de actuaciones en dichos ámbitos para acabar con los obstáculos visibles e invisibles para una igualdad de género real y efectiva; y promover la mejora de la situación de las mujeres en el Sistema Español de Ciencia, Tecnología e Innovación.\n\nEl fin último del Observatorio es avanzar hacia la igualdad de género en los ámbitos de la ciencia, la tecnología y la innovación, en sus dos vertientes, la presencia equilibrada de mujeres y hombres en todos los ámbitos y niveles y la integración transversal de la perspectiva de género en la I+D+I.",
     "from_date": "27 de octubre de 2020",
     "is_active": "Si",
@@ -3939,7 +3935,7 @@
     "website": "https://observatoriosocial.malaga.eu"
   },
   {
-    "description": "Evaluación de políticas públicas y análisis y prospección de la realidad de Navarra.",
+    "description": "El Observatorio de la Realidad Social de Navarra evalúa políticas públicas y realiza análisis y prospección sobre la realidad social del territorio.",
     "docs": [
       {
         "name": "Evolución del empleo en Navarra. Diciembre 2023",
@@ -3948,7 +3944,7 @@
     ],
     "from_date": "Aproximadamente 2016 (primeros estudios publicados como observatorio)",
     "is_active": "Sí",
-    "name": "De la Realidad Social de Navarra",
+    "name": "Observatorio de la Realidad Social de Navarra",
     "parents": [
       "Servicios sociales, empleo y vivienda",
       "Gobierno de Navarra"
@@ -5693,5 +5689,95 @@
     "type": "publico",
     "email": "masculinidad@umh.es",
     "from_date": "2013"
+  },
+  {
+    "description": "Creado por Decreto del Alcalde el <strong>29 de julio de 2022</strong> como órgano colegiado de seguimiento, asesoramiento y coordinación para evaluar el impacto de las violencias contra las mujeres en la ciudad de Madrid. Está adscrito al Área de Gobierno de Políticas Sociales, Familia e Igualdad y reúne a representantes municipales y de entidades sociales para analizar la realidad local, proponer medidas y medir el efecto de las políticas municipales (<a href=\"https://www.madrid.es/portales/munimadrid/es/Inicio/Igualdad-y-diversidad/Observatorio-Municipal-de-Violencia-contra-las-Mujeres/?vgnextfmt=default&amp;vgnextoid=67f723eab8248810VgnVCM1000001d4a900aRCRD&amp;vgnextchannel=c426c05098535510VgnVCM1000008a4a900aRCRD&amp;idCapitulo=11742639&amp;rm=dc9d8a7fd4c3b310VgnVCM2000000c205a0aRCRD\">portal municipal</a>). El pleno se convoca al menos dos veces al año y la comisión permanente celebra cuatro sesiones ordinarias anuales.",
+    "docs": [
+      {
+        "name": "Actas del Observatorio Municipal de Violencia contra las Mujeres",
+        "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Igualdad-y-diversidad/Observatorio-Municipal-de-Violencia-contra-las-Mujeres/?vgnextfmt=default&vgnextoid=67f723eab8248810VgnVCM1000001d4a900aRCRD&vgnextchannel=c426c05098535510VgnVCM1000008a4a900aRCRD&idCapitulo=11742639&rm=dc9d8a7fd4c3b310VgnVCM2000000c205a0aRCRD"
+      }
+    ],
+    "from_date": "2022-07-29",
+    "is_active": "Si",
+    "location": "Madrid",
+    "name": "Observatorio Municipal de Violencia contra las Mujeres (Ayuntamiento de Madrid)",
+    "parents": [
+      "Ayuntamiento de Madrid",
+      "Área de Gobierno de Políticas Sociales, Familia e Igualdad"
+    ],
+    "scope": "municipal",
+    "type": "publico",
+    "website": "https://www.madrid.es/portales/munimadrid/es/Inicio/Igualdad-y-diversidad/Observatorio-Municipal-de-Violencia-contra-las-Mujeres/?vgnextfmt=default&vgnextoid=67f723eab8248810VgnVCM1000001d4a900aRCRD&vgnextchannel=c426c05098535510VgnVCM1000008a4a900aRCRD&idCapitulo=11742639&rm=dc9d8a7fd4c3b310VgnVCM2000000c205a0aRCRD"
+  },
+  {
+    "description": "Órgano permanente de participación y evaluación creado en 2019 para implicar a la ciudadanía en el seguimiento de la gestión municipal de Madrid (<a href=\"https://diario.madrid.es/blog/notas-de-prensa/el-observatorio-de-la-ciudad-ya-tiene-49-vocales-elegidos-por-sorteo/#:~:text=12%2F03%2F2019\">constitución</a>). Su primera etapa contó con 49 vocales ciudadanos elegidos por sorteo que analizaban políticas municipales y elaboraban recomendaciones. En febrero de 2020 el observatorio se reestructuró como un órgano colegiado presidido por la Concejalía de Transparencia e integrado por responsables municipales para impulsar la evaluación institucional, la rendición de cuentas y la transparencia sobre los servicios públicos (<a href=\"https://www.lavanguardia.com/politica/20200228/473821415646/madrid-tiene-nuevo-observatorio-de-la-ciudad-sin-la-oposicion-ni-los-vecinos.html\">reforma 2020</a>). Publica informes periódicos de evaluación de la gestión municipal.",
+    "from_date": "2019-03-30",
+    "is_active": "Si",
+    "location": "Madrid",
+    "name": "Observatorio de la Ciudad (Ayuntamiento de Madrid)",
+    "parents": [
+      "Ayuntamiento de Madrid",
+      "Área de Participación Ciudadana, Transparencia y Gobierno Abierto",
+      "Área de Coordinación Territorial y Transparencia"
+    ],
+    "scope": "municipal",
+    "type": "publico",
+    "website": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Observatorio-de-la-Ciudad/?vgnextfmt=default&vgnextchannel=ec38d941c9b25710VgnVCM2000001f4a900aRCRD"
+  },
+  {
+    "description": "Observatorio municipal relanzado en 2024 por la empresa pública Móstoles Desarrollo para medir indicadores socioeconómicos, económicos y de bienestar del municipio. Genera y difunde información contrastada para apoyar la toma de decisiones, la transparencia y la planificación estratégica local alineada con la Agenda 2030, después de varios años de inactividad (<a href=\"https://mostoleshoy.com/mas-madrid-mostoles-pretende-reactivar-el-observatorio-de-desarrollo-economico-de-la-ciudad/#:~:text=Observatorio%20de%20Desarrollo%20Econ%C3%B3mico%20de\">antecedentes</a>). Publica informes periódicos como los resúmenes de contratos menores y series de \"Móstoles en cifras\" con indicadores actualizados (<a href=\"https://mostolesdesarrollo.es/observatorio-de-la-ciudad\">portal del observatorio</a>).",
+    "docs": [
+      {
+        "name": "Contratos menores - julio 2025",
+        "url": "https://mostolesdesarrollo.es/wp-content/uploads/2025/07/CONTRATOS-MENORES-JULIO-2025.pdf"
+      }
+    ],
+    "from_date": "2017",
+    "is_active": "Si",
+    "location": "Móstoles",
+    "name": "Observatorio de la Ciudad de Móstoles (Móstoles Desarrollo)",
+    "parents": [
+      "Ayuntamiento de Móstoles",
+      "Móstoles Desarrollo S.A."
+    ],
+    "scope": "municipal",
+    "type": "publico",
+    "website": "https://mostolesdesarrollo.es/observatorio-de-la-ciudad"
+  },
+  {
+    "description": "Plataforma estadística municipal integrada en el portal de Gobierno Abierto de Getafe desde 2018 para acercar indicadores demográficos, económicos, laborales y presupuestarios a la ciudadanía (<a href=\"https://www.gobierto.es/blog/20180418-getafe-gobierto#:~:text=trav%C3%A9s%20de%20sus%20principales%20indicadores\">presentación del portal</a>). Ofrece visualizaciones interactivas y conjuntos de datos abiertos que se actualizan con información oficial del Ayuntamiento para reforzar la transparencia, la rendición de cuentas y la participación informada.",
+    "from_date": "2018-04-18",
+    "is_active": "Si",
+    "location": "Getafe",
+    "name": "Observatorio de Gobierno Abierto de Getafe (Observatorio Estadístico Municipal)",
+    "parents": [
+      "Ayuntamiento de Getafe",
+      "Concejalía de Transparencia, Gobierno Abierto y Atención Ciudadana"
+    ],
+    "scope": "municipal",
+    "type": "publico",
+    "website": "https://gobiernoabierto.getafe.es/observatorio"
+  },
+  {
+    "description": "Iniciativa municipal integrada en la Agenda Urbana RIVAS 2030 para conocer y monitorizar la realidad de Rivas Vaciamadrid a través de datos objetivos (<a href=\"https://www.rivasciudad.es/agenda-urbana-rivas2030/observatorio-de-ciudad/#:~:text=El%20Observatorio%20de%20Ciudad%20lleva\">portal del observatorio</a>). Recopila información urbana, realiza investigaciones y encuestas de percepción ciudadana, elabora recomendaciones para políticas sostenibles y fomenta la participación pública. Desde 2015 publica estudios y encuestas periódicas cuyo microdato se difunde en formatos abiertos.",
+    "docs": [
+      {
+        "name": "Encuesta 2025 del Observatorio Urbano de Rivas Vaciamadrid",
+        "url": "https://www.rivasciudad.es/wp-content/uploads/2025/06/Encuesta_2025-Observatorio-Urbano-de-Rivas-Vaciamad.pdf"
+      }
+    ],
+    "email": "info@rivasciudad.es",
+    "from_date": "2015",
+    "is_active": "Si",
+    "location": "Rivas Vaciamadrid",
+    "name": "Observatorio de Ciudad de Rivas Vaciamadrid (Observatorio Urbano RIVAS 2030)",
+    "parents": [
+      "Ayuntamiento de Rivas Vaciamadrid",
+      "Oficina de Proyectos Estratégicos de Ciudad (Agenda Urbana RIVAS 2030)"
+    ],
+    "scope": "municipal",
+    "type": "publico",
+    "website": "https://www.rivasciudad.es/agenda-urbana-rivas2030/observatorio-de-ciudad/"
   }
 ]
