@@ -357,6 +357,27 @@
     "scope": "asturias"
   },
   {
+    "name": "Observatorio 2030",
+    "type": "mixto",
+    "website": "https://observatorio2030.com/",
+    "description": "El Consejo Superior de los Colegios de Arquitectos de España (CSCAE) lidera esta iniciativa, gestada en octubre de 2018, para impulsar la implementación de los Objetivos del Desarrollo Sostenible (ODS) en nuestro país.  El Observatorio 2030 nace como instrumento de trabajo y compromiso del sector con la Agenda 2030 de la ONU y lanzará sus resultados en forma de publicaciones y monografías, y a través de esta plataforma web, donde se congrega el repositorio documental de la acción conjunta en torno a la Agenda 2030, con documentos e información de referencia.\n\nEl Observatorio 2030 del CSCAE está constituido por agentes de la Administración, la construcción, la industria y el tercer sector (fundaciones/ asociaciones/ institutos tecnológicos/universidades), representando a todo el espectro de los agentes implicados en el proceso constructivo y urbano.",
+    "scope": "estatal",
+    "from_date": "2018",
+    "parents": [
+      "Consejo Superior de los Colegios de Arquitectos de España",
+      "Colaboran también varios ministerio , CCAA, y empresas privadas de construcción ver https://observatorio2030.com/quienes-somos"
+    ],
+    "docs": [
+      {
+        "name": "Construir en Clave Sostenible (Observatorio 2030)"
+      },
+      {
+        "name": "Ciudad y territorio en regeneración: Informe del Observatorio 2030 del CSCAE"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio de Infancia del País Vasco",
     "scope": "pais_vasco"
   },
