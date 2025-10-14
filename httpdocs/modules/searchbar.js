@@ -36,7 +36,7 @@ export function initSearchBar(parent, observatories) {
     const searchTerm = event.target.value
     const filteredObservatories = filterObservatories(
       searchTerm,
-      originalObservatories
+      originalObservatories,
     )
     updateObservatories(filteredObservatories)
   })
@@ -74,7 +74,7 @@ function filterObservatories(searchTerm, thisOriginalObservatories) {
   // Aplicamos cada término de búsqueda sucesivamente
   return searchTerms.reduce((filteredObservatories, term) => {
     return filteredObservatories.filter((observatory) =>
-      observatory.filterElement.includes(term)
+      observatory.filterElement.includes(term),
     )
   }, thisOriginalObservatories)
 }

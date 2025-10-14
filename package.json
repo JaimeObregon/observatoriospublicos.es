@@ -17,13 +17,30 @@
   "scripts": {
     "serve": "bin/serve.js",
     "docker:watch": "docker run --rm -it -p 8090:8080 -v \"$(pwd)/httpdocs:/app/httpdocs\" observatorios-prettier yarn serve",
-    "docker:validate-obserbatorios": "docker run --rm -v \"$(pwd)\":/work observatorios-prettier sh -c 'cd /work && /app/node_modules/.bin/prettier --check \"httpdocs/**/*.{js,json,css}\"'"
+    "docker:validate-obserbatorios": "docker run --rm -v \"$(pwd)\":/work observatorios-prettier sh -c 'cd /work && /app/node_modules/.bin/prettier --check \"httpdocs/**/*.{js,json,css}\"'",
+    "prepare": "husky"
   },
   "prettier": {
     "semi": false,
-    "singleQuote": true
+    "singleQuote": true,
+    "trailingComma": "all",
+    "overrides": [
+      {
+        "files": "{*.json}",
+        "options": {
+          "printWidth": 0
+        }
+      },
+      {
+        "files": "{*.js,*.css}",
+        "options": {
+          "printWidth": 80
+        }
+      }
+    ]
   },
   "devDependencies": {
+    "husky": "^9.1.7",
     "live-server": "^1.2.2",
     "prettier": "^3.6.2"
   }
