@@ -1476,6 +1476,35 @@
     "website": "https://extremaduradigital.org/"
   },
   {
+    "name": "Observatorio Agrario",
+    "type": "publico",
+    "website": "https://observatorioagrario.navarra.es/",
+    "email": "observagra@navarra.es",
+    "description": "El Observatorio Agrario ofrece datos generales, informes técnicos, publicaciones oficiales, información estadística y otros temas vinculados con la actividad agraria y la industria agroalimentaria",
+    "scope": "autonómico",
+    "parents": [
+      "Gobierno de Navarra"
+    ],
+    "docs": [
+      {
+        "name": "[INFORME SEMANAL DEL CAMPO](https://www.navarra.es/documents/30155142/31265379/51.pdf/e1eb28c9-516e-83af-19ce-ceeceadaca0c?t=1732529369411). Semana del 3 al 10 de octubre del 2025"
+      },
+      {
+        "name": "[COYUNTURA AGRARIA](https://www.navarra.es/documents/30155142/31265379/coyuntura+agraria.pdf/b99f2dd5-0189-b169-2710-309e94e5ebe6?t=1733399747041). Julio 2025/[ colección](https://www.navarra.es/es/web/observatorioagrario/coyuntura-agraria-historico)"
+      },
+      {
+        "name": "[CUADRO DE MANDO](https://public.tableau.com/views/IndicadoresdelSectorAgrario/indicadores?:language=es-ES&:display_count=n&:origin=viz_share_link). 10 de octubre del 2025"
+      },
+      {
+        "name": "[CIFRAS DEL SECTOR AGRARIO](https://www.navarra.es/documents/30155142/31265379/cifras+sector+agrario.pdf/56e1d120-380a-b28b-e867-1ef0d47c3db7?t=1728909228479). Junio 2025"
+      },
+      {
+        "name": "[INFORME DE EVOLUCIÓN DE LA POLÍTICA AGRARIA COMÚN 2016](https://observatorioagrario.navarra.es/documents/30155142/31265379/Informe+PAC+2016-2019.pdf/eca94454-c936-2f21-304b-53279a5f4e51?t=1706606695550)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio FIEX de las Familias y la Infancia de Extremadura",
     "scope": "extremadura",
     "is_active": "Si",
