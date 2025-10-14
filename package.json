@@ -22,22 +22,7 @@
   },
   "prettier": {
     "semi": false,
-    "singleQuote": true,
-    "trailingComma": "all",
-    "overrides": [
-      {
-        "files": "{*.json}",
-        "options": {
-          "printWidth": 0
-        }
-      },
-      {
-        "files": "{*.js,*.css}",
-        "options": {
-          "printWidth": 80
-        }
-      }
-    ]
+    "singleQuote": true
   },
   "devDependencies": {
     "husky": "^9.1.7",
