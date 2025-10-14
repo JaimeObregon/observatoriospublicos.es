@@ -762,6 +762,35 @@
     "scope": "estatal"
   },
   {
+    "name": "Observatorio Ambiental de Navarra - Nafarroako Ingurumen Behatokia",
+    "type": "publico",
+    "website": "https://www.navarra.es/es/web/observatorio-ambiental",
+    "email": "sian@navarra.es",
+    "description": "El Observatorio Ambiental es una herramienta que integra indicadores de múltiples dimensiones de gestión ambiental. Ofrece datos generales, informes técnicos, publicaciones oficiales, información estadística y otros temas vinculados con la actividad ambiental.",
+    "scope": "autonómico",
+    "parents": [
+      "Gobierno de Navarra - Nafarroako Gobernua"
+    ],
+    "docs": [
+      {
+        "name": "[Nº26 Abril-Junio 2023](https://observatorioambiental.navarra.es/documents/45973623/45979587/Segundo+trimestre+2023.pdf/26b11406-9156-5f4a-8cc7-c312fe4189be?t=1734699093596)"
+      },
+      {
+        "name": "[Nº25 Enero-Marzo 2023](https://www.navarra.es/documents/45973623/45979587/Primer_trimestre_2023.pdf/499b11a3-f2fa-b2d7-c363-869819839525?t=1734699091331)"
+      },
+      {
+        "name": "[Nº24 Octubre-Diciembre 2022](https://www.navarra.es/documents/45973623/45979584/Cuarto_trimestre_2022.pdf/cdb1362f-b52d-3e44-81d9-1a9aec9bc2bf?t=1734698985236)"
+      },
+      {
+        "name": "[Nº23 Julio-Septiembre 2022](https://www.navarra.es/documents/45973623/45979584/tercer+trimestre+2022.pdf/d6590122-53c6-552e-4035-acd2406368cc?t=1734698994110)"
+      },
+      {
+        "name": "[Nº22 Abril-Junio 2022](https://www.navarra.es/documents/45973623/45979584/segundo+trimestre+2022.pdf/7a288214-2147-7736-c505-260ef7821f56?t=1734698990976)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "El Observatorio Socioeconómico aporta la información necesaria para el diagnóstico a los procesos de planificación, facilitando indicadores de evolución socioeconómica al personal técnico que trabaja en desarrollo local.\n\n- Diputación Provincial de Cáceres",
     "docs": [
       {
