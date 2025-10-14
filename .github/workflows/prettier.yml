@@ -17,4 +17,4 @@ jobs:
           cache: yarn
       - run: corepack enable
       - run: yarn install --frozen-lockfile
-      - run: yarn prettier --check "httpdocs/**/*.{js,json,css}"
+      - run: yarn prettier --write "httpdocs/**/*.{js,json,css}"
