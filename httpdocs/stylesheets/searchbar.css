@@ -4,7 +4,8 @@
 }
 
 #searchbar input[type='text'] {
-  font-family: var(--pico-font-family), sans-serif; /* Asegúrate de que se utilice la fuente definida */
+  font-family:
+    var(--pico-font-family), sans-serif; /* Asegúrate de que se utilice la fuente definida */
   width: 100%; /* Para que ocupe todo el ancho disponible */
   padding: 0.5em; /* Espaciado interno para que el texto no esté demasiado pegado a los bordes */
   border: 1px solid #ccc; /* Un borde sutil */

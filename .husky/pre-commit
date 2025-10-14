@@ -1,0 +1,39 @@
+#!/usr/bin/env sh
+set -e
+
+PATTERN='httpdocs/**/*.{js,json,css}'
+PRETTIER_VERSION='3.6.2'
+
+format_with_node() {
+  if command -v yarn >/dev/null 2>&1; then
+    yarn prettier --write "$PATTERN"
+  else
+    npx --yes "prettier@$PRETTIER_VERSION" --write "$PATTERN"
+  fi
+}
+
+format_with_docker() {
+  if ! command -v docker >/dev/null 2>&1; then
+    return 1
+  fi
+
+  docker run --rm \
+    -v "$PWD":/work \
+    -w /work \
+    node:20-alpine \
+    sh -lc "npx --yes prettier@$PRETTIER_VERSION --write \"$PATTERN\""
+}
+
+if format_with_docker; then
+  :
+elif command -v node >/dev/null 2>&1; then
+  format_with_node
+else
+  echo 'Prettier requiere Docker o Node.js instalados.' >&2
+  exit 1
+fi
+
+git diff --name-only -- httpdocs |
+  while IFS= read -r file; do
+    [ -n "$file" ] && git add -- "$file"
+  done
