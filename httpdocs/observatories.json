@@ -3718,6 +3718,24 @@
     "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851"
   },
   {
+    "name": "Observatorio de Sostenibilidad Urbana del Plan de Acción Local de la Agenda Urbana 2030 de Alcalá de Guadaíra",
+    "type": "publico",
+    "website": "-",
+    "description": "El objetivo del Observatorio del Plan Estratégico de la ciudad de Alcalá de Guadaíra, creado en acuerdo con la Universidad Pablo de Olavide, es ser una herramienta de política pública que permita analizar, comprender y valorar el impacto que tienen en términos de mejora de la calidad de vida los proyectos que se desarrollan dentro del marco de la Agenda Urbana de Alcalá. Esto facilita la evaluación y seguimiento de estos proyectos para asegurar que contribuyan efectivamente al desarrollo urbano y social de la ciudad.",
+    "scope": "local",
+    "from_date": "Junio 2025",
+    "parents": [
+      "Ayuntamiento de Alcalá de Guadaira",
+      "Universidad Pablo de Olavide"
+    ],
+    "docs": [
+      {
+        "name": "Informes Anuales de Transformación Urbana (todavía no publicado)"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "Observa los precios de venta al público y trata de identificar posibles subidas injustificadas de precios.",
     "docs": [
       {
