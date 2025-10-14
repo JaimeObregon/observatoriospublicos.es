@@ -5848,6 +5848,18 @@
     "website": "https://www.madrid.es/portales/munimadrid/es/Inicio/Igualdad-y-diversidad/Observatorio-Municipal-de-Violencia-contra-las-Mujeres/?vgnextfmt=default&vgnextoid=67f723eab8248810VgnVCM1000001d4a900aRCRD&vgnextchannel=c426c05098535510VgnVCM1000008a4a900aRCRD&idCapitulo=11742639&rm=dc9d8a7fd4c3b310VgnVCM2000000c205a0aRCRD"
   },
   {
+    "name": "Observatorio Universitario de IA y Diversidad",
+    "type": "mixto",
+    "website": "https://observatorio-ia-diversidad.com/",
+    "description": "La Universitat Politècnica de València (UPV), junto a INECO, ha creado el Observatorio de IA y Diversidad, un proyecto pionero que busca identificar sesgos en la inteligencia artificial desde una perspectiva inclusiva.\n\nColaborando con colectivos vulnerables y organizaciones de derechos humanos, el Observatorio analiza preocupaciones y propuestas para promover una IA equitativa y no discriminatoria. Además, se encargará de monitorear tendencias y problemáticas relacionadas con la IA en la sociedad.",
+    "scope": "estatal",
+    "from_date": "2024",
+    "parents": [
+      "Universidad Politécnica de Valencia"
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "Órgano permanente de participación y evaluación creado en 2019 para implicar a la ciudadanía en el seguimiento de la gestión municipal de Madrid (<a href=\"https://diario.madrid.es/blog/notas-de-prensa/el-observatorio-de-la-ciudad-ya-tiene-49-vocales-elegidos-por-sorteo/#:~:text=12%2F03%2F2019\">constitución</a>). Su primera etapa contó con 49 vocales ciudadanos elegidos por sorteo que analizaban políticas municipales y elaboraban recomendaciones. En febrero de 2020 el observatorio se reestructuró como un órgano colegiado presidido por la Concejalía de Transparencia e integrado por responsables municipales para impulsar la evaluación institucional, la rendición de cuentas y la transparencia sobre los servicios públicos (<a href=\"https://www.lavanguardia.com/politica/20200228/473821415646/madrid-tiene-nuevo-observatorio-de-la-ciudad-sin-la-oposicion-ni-los-vecinos.html\">reforma 2020</a>). Publica informes periódicos de evaluación de la gestión municipal.",
     "from_date": "2019-03-30",
     "is_active": "Si",
