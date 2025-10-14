@@ -1197,6 +1197,27 @@
     "website": "http://educalab.es/intef/tecnologia/observatorio-tecnologico"
   },
   {
+    "name": "Observatorio Urbano de Sevilla",
+    "type": "publico",
+    "website": "https://www.upo.es/observatoriourbanodesevilla/",
+    "description": "El Observatorio Urbano de Sevilla, impulsado por la Universidad Pablo de Olavide y el Ayuntamiento de Sevillaen el marco del convenio de colaboración suscrito entre ambas instituciones, se constituye como un espacio cuya función principal es analizar el proceso transformación de la ciudad contribuyendo a su desarrollo sostenible.\n\nEl Observatorio Urbano de Sevilla tiene el rol explícito de monitorear el proceso de transformación urbana de la ciudad para lo que debe de cumplir las siguientes funciones:\n\nRecopilación de datos e información\n    Generación de indicadores y trabajos de investigación\n    Vinculación del conocimiento con las políticas públicas locales\n    Promoción del desarrollo de la capacidad institucional para abordar las políticas pública\n    Impulso de la difusión y divulgación del proceso de transformación urbana",
+    "scope": "local",
+    "from_date": "2021",
+    "parents": [
+      "Ayuntamiento de Sevilla",
+      "Universidad Pablo de Olavide"
+    ],
+    "docs": [
+      {
+        "name": "Informe de Transformación Urbana de Sevilla 2023"
+      },
+      {
+        "name": "Informe de Transformación Urbana de Sevilla 2022"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio Territorial de Andalucía",
     "scope": "andalucia"
   },
