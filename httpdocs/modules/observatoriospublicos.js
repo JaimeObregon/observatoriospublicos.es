@@ -11,17 +11,6 @@ let visibleModal = null
 // Observatorios en ventana
 let currentObservatories = null
 
-const ensureExternalLinkAttributes = (links) => {
-  links.forEach((link) => {
-    link.setAttribute('target', '_blank')
-    const currentRel = link.getAttribute('rel') || ''
-    const relValues = currentRel.split(/\s+/).filter(Boolean)
-    if (!relValues.includes('noopener')) relValues.push('noopener')
-    if (!relValues.includes('noreferrer')) relValues.push('noreferrer')
-    link.setAttribute('rel', relValues.join(' '))
-  })
-}
-
 /**
  * Genera la lista de observatorios en el HTML
  *
@@ -38,12 +27,14 @@ export function updateObservatories(thisObservatories) {
     )
     .join('')
 
-  ensureExternalLinkAttributes(container.querySelectorAll('a'))
-
   // Para que hacer click en los links dentro de las cards de observatiorios no abra el modal
-  const modalLinks = container.querySelectorAll('article a')
+  const modalLinks = document.querySelectorAll('x-catalog article a')
   modalLinks.forEach((link) => {
-    link.addEventListener('click', (event) => event.stopPropagation())
+    link.addEventListener('click', function (event) {
+      event.preventDefault()
+      event.stopPropagation()
+      window.open(link.href, '_self')
+    })
   })
 
   document.querySelectorAll('x-catalog article').forEach((article) => {
@@ -99,8 +90,6 @@ async function main() {
       closeModal(visibleModal)
     }
   })
-
-  ensureExternalLinkAttributes(document.querySelectorAll('a'))
 }
 
 const isOpenClass = 'modal-is-open'
@@ -137,7 +126,6 @@ const openModal = (modal, event) => {
   )
   const json = JSON.stringify(observatory, null, 2)
   div.innerHTML = createObservatoryDetailsComponent(observatory)
-  ensureExternalLinkAttributes(div.querySelectorAll('a'))
   h3.innerText = observatory.name
 
   modal.showModal()
