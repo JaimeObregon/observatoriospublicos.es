@@ -17,7 +17,6 @@ jobs:
           cache: yarn
       - run: corepack enable
       - run: yarn install --frozen-lockfile
-      - run: yarn prettier --version
       - run: yarn prettier --write "httpdocs/observatories.json"
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v5
