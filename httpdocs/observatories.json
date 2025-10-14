@@ -4590,6 +4590,36 @@
     "website": "https://www.aragon.es/-/estudios-1"
   },
   {
+    "name": "Observatorio para la Innovación de los Informativos en la Sociedad Digital",
+    "type": "publico",
+    "website": "http://www.oi2media.es",
+    "description": "El Observatorio para la Innovación de los Informativos en la Sociedad Digital (OI2), impulsado por Radio Televisión Española y el Gabinete de Comunicación y Educación de la Universidad Autónoma de Barcelona (UAB), se centra en el estudio, el monitoreo y la investigación de las últimas tendencias en el ámbito de los informativos televisivos con el objetivo de demostrar cómo estas iniciativas se pueden desarrollar de forma sostenible y adaptadas a la economía actual.",
+    "scope": "estatal",
+    "from_date": "2020",
+    "parents": [
+      "RTVE",
+      "Universidad Autónoma de Barcelona"
+    ],
+    "docs": [
+      {
+        "name": "Informe 5: Asistentes y presentadores virtuales en el periodismo"
+      },
+      {
+        "name": "Informe 4: Contra la desinformación, Estrategias y herramientas"
+      },
+      {
+        "name": "Informe 3: Personalización de contenidos en medios audiovisuales"
+      },
+      {
+        "name": "Informe 2: Generación automática de textos periodísticos"
+      },
+      {
+        "name": "Informe 1: Detección de noticias a través de aplicaciones de inteligencia artificial"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "El Observatorio sobre Drogas para Asturias es un centro que tiene como objetivo fundamental recoger, analizar y difundir indicadores que permitan evaluar la situación del consumo de drogas, sus repercusiones médicas, sociales y judiciales y la utilización de los servicios ofertados en este campo en Asturias.\n\nObservatorio de Salud en Asturias.",
     "docs": [
       {
