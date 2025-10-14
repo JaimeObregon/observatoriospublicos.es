@@ -1245,6 +1245,19 @@
     "location": "Paseo General Dávila 87, 39006 Santander"
   },
   {
+    "name": "Observatorio Español de la Economía Social y del Trabajo Autónomo",
+    "type": "mixto",
+    "website": "https://observatorioeconomiasocial.es",
+    "description": "El Observatorio Español de la Economía Social y del Trabajo Autónomo mantiene una actividad periódica constante de información en un triple ámbito:\n\nLas actividades promovidas o participadas por las asociaciones representativas de la Economía Social y del Trabajo Autónomo\n    Las actividades y novedades jurídicas sobre la Economía Social y el Trabajo Autónomo impulsadas por las Administraciones Públicas y las instituciones legislativas, tanto de ámbito nacional como internacional\n    Las actividades investigadoras sobre la Economía Social y el Trabajo Autónomo promovidas desde las universidades\n\n[...]\n\nEn 2025, Año Internacional de las Cooperativas, el Observatorio inicia una nueva etapa, intensificando su actividad informativa y documentalista de la Economía Social y el Trabajo Autónomo, complementándose ahora con el nuevo Portal Estadístico de la Economía Social (CIRIECSTAT), y los portales autonómicos que con la misma metodología se están desarrollando.\n\nCIRIEC-España",
+    "scope": "estatal",
+    "from_date": "2005",
+    "parents": [
+      "Ministerio de Trabajo y Economía Social",
+      "Instituto Universitario de Economía Social, Cooperativismo y Emprendimiento (Universidad de Valencia)"
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio Canario del Empleo (OBECAN)",
     "description": "El OBECAN (Observatorio Canario de Empleo) es un organismo del Gobierno de Canarias, que orienta al Gobierno en materia de empleo y formación profesional con el fin de facilitar la planificación y programación de acciones que permitan la permanente adecuación de los trabajadores a las exigencias cambiantes del mercado de trabajo.",
     "parents": [
@@ -2557,6 +2570,11 @@
     "scope": "autonómico",
     "from_date": "11/03/2025\n\nhttps://www.youtube.com/watch?v=L_GiY_7_Ak4&t=2s&ab_channel=agriculturacat",
     "parents": ["Departament d'Agricultura, Ramaderia, Pesca i Alimentació"],
+    "docs": [
+      {
+        "name": "Nada de nada"
+      }
+    ],
     "is_active": "Si"
   },
   {
