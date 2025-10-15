@@ -1073,7 +1073,10 @@
   { "name": "Observatorio Galego da Xuventude", "scope": "galicia" },
   {
     "name": "Observatorio de costes de transportes de mercancías por carretera de Galicia",
-    "scope": "galicia"
+    "description": "El Observatorio de Transporte de Mercancías de Galicia proporciona a las empresas de transporte, a las empresas cargadoras, o a cualquier interesado en general, una herramienta para el cálculo de los costes del transporte de mercancías por carretera dentro de la Comunidad Autónoma de Galicia. Esto facilita que el conjunto de participantes en la contratación de los servicios de transporte dispongan de un mejor conocimiento de los costes que tienen asociados, simplificando y dotando de una mayor transparencia al conjunto de la actividad sectorial.",
+    "scope": "galicia",
+    "website": "https://observatoriotransporte.xunta.gal/otrame",
+    "parents": ["Xunta de Galicia"]
   },
   {
     "description": "1. Este observatorio, para a consecución dos seus fins, exercerá as seguintes funcións:\n\na) Actuar como órgano de recompilación, análise e intercambio da información dispoñible en diferentes fontes autonómicas, estatais e internacionais sobre a familia e os nenos, nenas e adolescentes.\n\nb) Propoñer a realización de estudos, investigacións e informes técnicos que permitan un mellor coñecemento da situación da familia e da infancia en Galicia e a detección das súas necesidades e demandas sociais.\n\nc) Avaliar o impacto das políticas fiscais, laborais e sociais desenvolvidas polos distintos departamentos das administracións na situación das familias e da infancia galegas.\n\nd) Formular propostas e recomendacións sobre liñas estratéxicas e prioridades de actuación en materia de políticas familiares e de infancia no ámbito da Comunidade Autónoma Galega.\n\ne) Servir de canle para a actuación coordinada e harmónica entre os distintos departamentos das administracións públicas no ámbito da familia e a infancia.\n\nf) Canalizar as propostas das organizacións sociais que desenvolven as súas actividades no ámbito da familia e da infancia.\n\ng) Promover as actuacións necesarias para sensibilizar a toda a cidadanía no coñecemento e respecto dos dereitos da infancia en Galicia e no mundo.\n\nh) Promover a elaboración e desenvolvemento dos plans e estratexias de familia, de infancia e adolescencia e avaliar a súa execución.\n\ni) Elaborar informes e ditames por petición dos órganos competentes da Comunidade Autónoma sobre as materias da súa competencia.\n\nj) Impulsar a incorporación da perspectiva da familia e infancia no ordenamento xurídico galego, de xeito que se tomen en consideración as necesidades da infancia, da adolescencia e das familias galegas.\n\nk) Participar, elevar propostas e manter contactos con outros órganos de similar natureza, promovendo os encontros entre profesionais e persoas expertas, tanto no ámbito autonómico e estatal como internacional, para facilitar o intercambio de experiencias, investigacións e traballos nesta materia.\n\n2. No exercicio das funcións establecidas neste artigo terase en conta e integrarase de xeito transversal a perspectiva de xénero e a relación recíproca entre familia e infancia e igualdade de xénero.\n\ntitular da consellería competente en materia de familia\r\n titular da dirección xeral competente en materia de familia\r\n funcionaria da consellería competente en materia de familia\r\n persoa en representación do órgano competente en materia de estatística\r\npersoa en representación da Delegación do Goberno en Galicia\r\npersoa en representación da Federación Galega de Municipios e Provincias (Fegamp)\r\npersoa en representación de cada unha das tres universidades galegas\r\npersoa representante da Fiscalía da Comunidade Autónoma de Galicia\r\nUn número de persoas equivalente ao de representantes sindicais en representación da Confederación de Empresarios de Galicia (CEG)\r\npersoa en representación de cada unha das organizacións sindicais intersectoriais máis representativas de Galicia, así como das presentes na Mesa Xeral de Negociación das Administracións Públicas que non teñan a condición de máis representativas\r\npersoa representante da Plataforma de Organizacións da Infancia de Galicia (POI Galicia)\r\npersoa en representación da Fundación UNICEF-Comité Español",
@@ -1146,10 +1149,27 @@
     "type": "publico",
     "website": "https://www.observatoriodavivenda.gal"
   },
-  { "name": "Observatorio da Lingua Galega", "scope": "galicia" },
+  {
+    "name": "Observatorio da Lingua Galega",
+    "description": "O Observatorio da Lingua Galega é un traballo impulsado pola Secretaría Xeral de Política Lingüística (SXPL) da Xunta de Galicia que nace cunha dobre finalidade: • como unha ferramenta que permite o seguimento permanente do Plan xeral de normalización da lingua galega ou calquera outro plan de dinamización que se impulse desde a SXPL, e • como un instrumento operativo e áxil que fai posible obter un coñecemento de primeira man sobre a situación da lingua galega na sociedade, e que ademais posibilita facer comparacións dos usos lingüísticos nos diferentes ámbitos da sociedade.",
+    "scope": "galicia",
+    "type": "publico",
+    "website": "https://www.observatoriodalingua.gal/",
+    "is_active": "Si",
+    "email": "info@observatoriodalinguagalega.org",
+    "location": "Rúa de San Roque, n.º 2 15704 Santiago de Compostela",
+    "phone": "+34 881 996 302",
+    "docs": [
+      {
+        "name": "Decálogo / documento publicado no Observatorio",
+        "url": "https://www.observatoriodalingua.gal/sites/w_obslin/files/documentos/decalogo_v_6_compressed_0.pdf"
+      }
+    ]
+  },
   {
     "name": "Observatorio Argos de la Junta de Andalucía",
-    "scope": "andalucia"
+    "scope": "andalucia",
+    "website": "https://www.juntadeandalucia.es/servicioandaluzdeempleo/web/argos/web/es/ARGOS/index.html"
   },
   {
     "description": "OTALEX está financiado por el programa europeo INTERREGIII A y tiene marcado como objetivo estudiar y mostrar la realidad de un territorio, compuesto por las regiones del **Alentejo** en Portugal y **Extremadura** en España, separado convencionalmente por una frontera administrativa pero unido por sus características físicas, ambientales, sociales y económicas. Se trata de espacios rurales de baja densidad demográfica donde los recursos naturales, culturales y la calidad ambiental conforman sus atractivos fundamentales.\n\nLa IDE OTALEX es el resultado del esfuerzo, el compromiso y la colaboración entre instituciones a los dos lados de la frontera, con implicación de los tres niveles administrativos: Estatal, Regional y Local. Muestra los trabajos de homogeneización y estandarización de datos del territorio Alentejo-Extremeño, a través de clientes de visualización de mapas, consulta de topónimos y consulta de catálogo, dentro de las líneas de INSPIRE.\n\n- Gobierno de Extremadura (Ordenación del Territorio)\r\n- Diputación de Cáceres (Área de Desarrollo Local y Formación)\r\n- Diputación de Badajoz\r\n- Instituto Geográfico Nacional\r\n- Comunidade Intermunicipal do Alentejo Central\r\n- Comunidade Intermunicipal do Alto Alentejo\r\n- Direção-Geral do Território (PT)\r\n- Universidad de Extremadura\r\n- Comissão de Coordenação e Desenvolvimento Regional do Alentejo\r\n- Empresa de Desenvolvimento de Infra-estruturas do Alqueva, S.A\r\n- Univerisdade de Évora\r\n- Instituto Politécnico de Castelo Branco",
@@ -1196,8 +1216,21 @@
   },
   {
     "name": "Observatorio del Mercado de Trabajo del Instituto Aragonés de Empleo",
+    "parents": ["Instituto Aragonés de Empleo (INAEM)"],
+    "description": "El Observatorio del Mercado de Trabajo es la unidad técnica del Instituto Aragonés de Empleo encargada de la recogida, análisis y difusión de datos e informaciones relevantes relacionadas con el mercado laboral de la Comunidad Autónoma, facilitando al propio Instituto, y al resto de administraciones y agentes interesados, la toma de decisiones, el diseño y la gestión de las políticas de empleo y formación.",
+    "email": "observatorio.inaem@aragon.es.",
     "scope": "aragon",
-    "type": "publico"
+    "type": "publico",
+    "docs": [
+      {
+        "name": "Observatorio",
+        "url": "https://inaem.aragon.es/en/observatorio"
+      },
+      {
+        "name": "Memoria Anual del Observatorio del Mercado de Trabajo 2023",
+        "url": "https://inaem.aragon.es/documents/51284/2219399/MEMORIA+OBSERVATORIO+2023.pdf/f21a07bc-6ee5-de35-3ad0-7ea943f00089?version=1.0&t=1711103605824&download=true"
+      }
+    ]
   },
   {
     "is_active": "Si",
@@ -1210,7 +1243,25 @@
   {
     "name": "Observatorio del Mercado de Trabajo del Servicio Público de Empleo del Principado de Asturias",
     "scope": "asturias",
-    "type": "publico"
+    "type": "publico",
+    "description": "En este apartado encontrarás información para ayudarte a tomar decisiones sobre tu futuro profesional. El tejido empresarial y el mercado laboral cambian cada vez con mayor rapidez, fruto de los cambios en la tecnología, los modelos de negocio, las cadenas de valor y la cualificación que requiere cada ocupación. Por ello, en el apartado Estudios sectoriales además de consultar los documentos completos, podrás conocer cuáles son los aspectos más valorados por las empresas, las competencias profesionales requeridas y la formación necesaria. También encontrarás estadísticas sobre el Mercado de trabajo asturiano y nacional, además de otros documentos y publicaciones de interés.",
+    "parents": [
+      "Servicio Público de Empleo del Principado de Asturias (SEPEPA)",
+      "Gobierno del Principado de Asturias"
+    ],
+    "website": "https://trabajastur.asturias.es/informacion-mercado-de-trabajo",
+    "is_active": "Si",
+    "email": "observatorio.asturias@sepe.es",
+    "docs": [
+      {
+        "name": "Observatorio — Trabajastur (Sección 'Observatorio Mercado de Trabajo')",
+        "url": "https://trabajastur.asturias.es/informacion-mercado-de-trabajo"
+      },
+      {
+        "name": "Directorio de la red del Observatorio de las Ocupaciones — SEPE (Dirección Provincial de Asturias)",
+        "url": "https://www.sepe.es/HomeSepe/que-es-el-sepe/que-es-observatorio/Directorio-red-Observatorio.html"
+      }
+    ]
   },
   {
     "description": "El Observatorio Social Barcelona es un instrumento de conocimiento de la realidad social de la ciudad que tiene como objetivos principales: Conocer y evaluar la situación y la evolución de las condiciones de vida de la población, la realidad de los diferentes colectivos y la evolución de los fenómenos y procesos sociales que afectan a la calidad de vida de las personas y a la cohesión social de la ciudad. Difundir y compartir conocimiento con la ciudadanía, las entidades y asociaciones, y con el colectivo profesional y técnico, directivo y político. Apoyar a la planificación y a la toma de decisiones.",
@@ -3440,6 +3491,30 @@
     "scope": "cataluna",
     "type": "publico",
     "website": "https://observatoritreball.gencat.cat/ca/inici"
+  },
+  {
+    "name": "Observatori del treball",
+    "website": "https://www.caib.es/sites/observatorideltreball/ca/portada-10648/"
+  },
+  {
+    "name": "Observatorio do Emprego",
+    "website": "https://conselleriaemprego.xunta.gal/formacion/cualificacions/observatorio-do-emprego",
+    "description": "O servizo de Observatorio do Emprego é a unidade técnica para coñecer o funcionamento do mercado laboral, proporcionando información clave para o deseño das políticas de formación profesional.",
+    "type": "publico"
+  },
+  {
+    "name": "Observatorio Ocupacional",
+    "description": "Es la Unidad técnica encargada de la obtención y mantenimiento de un banco de datos para el conocimiento de las necesidades y evolución del mercado laboral, que pueda indicar en cada momento las directrices a seguir en materia de políticas activas de empleo y formación profesional en la Región de Murcia, para ello realizará, entre otras, las siguientes funciones:\n-Evaluar los datos que recibe de las distintas unidades y agentes relacionados con la formación y el empleo.\n-Recabar información de empresas y trabajadores para detectar las necesidades ocupacionales.\nExplotar los datos de las Oficinas de Empleo y de otros agentes para determinar las ocupaciones más demandadas.\n-Orientación y apoyo en el diseño de las políticas activas de empleo y formación.",
+    "website": "https://sefcarm.es/web/pagina?IDCONTENIDO=70764&IDTIPO=100&RASTRO=c$m70720",
+    "is_active": "Sí"
+  },
+  {
+    "name": "Centro de Documentación Social de Navarra",
+    "description": "El Centro de Documentación Social de Navarra incluye un banco de datos con indicadores afines a las materias propias del Departamento de Derechos Sociales, Economía Social y Empleo,  así como a los principales indicadores demográficos, agrupados en tres bloques: servicios sociales, empleo y demografía.",
+    "website": "https://www.navarra.es/es/web/centro-documentacion-social",
+    "type": "publico",
+    "is_active": "Sí",
+    "email": "info.derechossociales@navarra.es"
   },
   {
     "description": "Como Observatorio la visión es poder tener varios objetivos fijados a largo plazo como concienciar la LGTBIfobia en la existente actual y erradicar contra la LGTBIfobia.",
