@@ -1264,6 +1264,12 @@
   },
   {
     "name": "Observatorio de costes de transportes de mercancías por carretera de Galicia",
+    "website": "https://observatoriotransporte.xunta.gal/otrame",
+    "parents": [
+      "Consellería de presidencia, Xustiza e Deportes",
+      "Xunta de Galicia"
+    ],
+    "type": "publico",
     "scope": "galicia"
   },
   {
