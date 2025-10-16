@@ -674,6 +674,17 @@
     "website": "https://www.osman.es"
   },
   {
+    "name": "Observatorio do xogo",
+    "type": "publico",
+    "website": ".",
+    "description": "Se trata de un organismo que estudiará, evaluará y hará un seguimiento del sector en la comunidad para garantizar un modelo de juego seguro y responsable\n\nEl Observatorio contará con un pleno compuesto por una presidencia y varias vocalías en las que, respetando el principio de presencia equilibrada de mujeres y hombres, estarán representadas las consellerías con competencias en materia de seguridad y coordinación, sanidad, juventud, educación, deportes y hacienda, así como una persona representante de cada una de las tres universidades gallegas, una representación de los sectores del juego, otra de las asociaciones de lucha contra adicciones en esta materia y también una persona de las asociaciones de madres y padres gallegas.",
+    "scope": "autonómico",
+    "from_date": "06/10/2025",
+    "parents": [
+      "Consellería de Presidencia, Xustiza e Deportes, Xunta de Galicia"
+    ]
+  },
+  {
     "name": "Observatorio Español de la Economía Social",
     "parents": [
       "Ministerio de Trabajo y Economía Social",
@@ -690,6 +701,35 @@
     "scope": "estatal",
     "type": "publico",
     "website": "https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/home.htm"
+  },
+  {
+    "name": "Observatorio Empresarial de Navarra - Nafarroako Enpresen Behatokia",
+    "type": "publico",
+    "website": "https://observatorioempresarial.navarra.es/",
+    "description": "El Observatorio Empresarial de Navarra constituye un sistema de información para el análisis, comparación, seguimiento, evaluación y divulgación de datos, información y conocimientos en materia de desarrollo económico y empresarial.\n\nPretende ser una herramienta útil para el análisis y la planificación de la economía navarra, proporcionando de forma abierta y reutilizable los datos económicos tanto a las Administraciones públicas como a las empresas.",
+    "scope": "autonómico",
+    "parents": ["Gobierno de Navarra - Nafarroako Gobernua"],
+    "docs": [
+      {
+        "name": "Informe final necesidades de Talento para la empresa Navarra"
+      },
+      {
+        "name": "Primer informe Estudio Necesidades de Talento para la empresa Navarra"
+      },
+      {
+        "name": "Inteligencia Artificial aplicada a Health Tech, CleanTeach, Agrotech y Digital Business"
+      },
+      {
+        "name": "Informe de tendencias en ciberseguridad"
+      },
+      {
+        "name": "Informe de tendencias en Internet of Things"
+      },
+      {
+        "name": "Informe de tendencias en biotecnología"
+      }
+    ],
+    "is_active": "Si"
   },
   {
     "name": "Observatorio Español del Racismo y la Xenofobia",
@@ -939,7 +979,7 @@
     ]
   },
   {
-    "name": "Observatorio regional contra la islamofobia y otros delitos de odio.",
+    "name": "Observatorio regional contra la islamofobia y otros delitos de odio",
     "type": "publico",
     "website": "No",
     "scope": "autonómico"
@@ -2949,6 +2989,20 @@
     "website": "https://www.juntadeandalucia.es/institutodelamujer/index.php/observatorio-andaluz-de-publicidad-no-sexista"
   },
   {
+    "name": "Observatorio de la Comunidad de Madrid contra el Racismo y la Intolerancia",
+    "type": "publico",
+    "website": "https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-comunidad-madrid-racismo-y-intolerancia",
+    "description": "El Observatorio estará destinado a proporcionar a la Comunidad de Madrid informaciones objetivas y comparables sobre los fenómenos de racismo e intolerancia, acaecidos en su ámbito territorial, que puedan resultar significativos la adopción de medidas y la definición de acciones propias de su esfera competencial.",
+    "scope": "autonómico",
+    "from_date": "16 de abril de 1998",
+    "to_date": "Hay una [noticia de ABC](https://www.abc.es/espana/madrid/observatorio-racismo-intolerancia-madrid-tacha-ignominiosa-actitud-20241003130739-nt.html) y [otra de EuropaPress](https://www.europapress.es/madrid/noticia-observatorio-contra-racismo-intolerancia-comunidad-censuro-actitud-fuenlabrada-cantuena-20241003114740.html) de 2024 que hacen referencia al observatorio, aunque no he podido encontrar web o contacto que verifique si está en activo.",
+    "parents": [
+      "- Comunidad de Madrid",
+      "- Consejera de Familia, Juventud y Asuntos Sociales"
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "Busca suministrar información de todos los aspectos relativos al suelo empresarial, con el objetivo de que administraciones, empresas públicas y privadas, y cualquier persona interesada en este ámbito se encuentren en las condiciones idóneas para adoptar decisiones eficaces y adaptadas a las necesidades del país.",
     "is_active": "None",
     "name": "Observatorio do Solo Empresarial de Galicia",
@@ -3625,6 +3679,30 @@
     "scope": "castilla_la_mancha",
     "type": "publico",
     "website": "https://obafi.es"
+  },
+  {
+    "name": "Observatorio contra la Soledad No Deseada (SND)",
+    "type": "publico",
+    "website": "-",
+    "description": "Coordinar acciones multisectoriales, promover la detección temprana de casos y proponer políticas que promuevan la inclusión y el bienestar de las personas mayores, haciendo difusión de esta problemática entre la población tricantina.\n\nAyuntamiento de Tres Cantos",
+    "scope": "local",
+    "from_date": "27 de noviembre de 2024.",
+    "parents": ["Ayuntamiento de Tres Cantos."],
+    "docs": [
+      {
+        "name": "No hay informes que yo sepa sólo noticias de reuniones del mismo."
+      },
+      {
+        "url": "https://extranet.who.int/agefriendlyworld/tres-cantos-plan-contra-la-soledad-no-deseada-observatorio-contra-la-soledad-no-deseada/."
+      },
+      {
+        "url": "https://360y5.es/el-ayuntamiento-de-tres-cantos-crea-un-observatorio-contra-la-soledad-no-deseada-en-las-personas-mayores/"
+      },
+      {
+        "url": "https://trescantosplus.es/ii-sesion-del-observatorio-contra-la-soledad-no-deseada-en-las-personas-mayores/"
+      }
+    ],
+    "is_active": "Si"
   },
   {
     "description": "El IPEX, como organismo dependiente de la Consejería de Economía, Empresas y Empleo, encargado de la promoción internacional de las empresas de Castilla-La Mancha, pone en marcha esta oficina de atención virtual que atiende a las empresas de la región para resolver tus dudas sobre el Brexit.",
@@ -6363,6 +6441,29 @@
     "is_active": "Sí",
     "email": "No disponible",
     "from_date": "2023-05-11 (Sesión constituyente)"
+  },
+  {
+    "name": "Observatorio responsabilidad social empresarial  Galicia",
+    "type": "publico",
+    "website": "https://rse.xunta.gal/index.php/es/recursos/observatorio-rse-galicia",
+    "email": "responsabilizate.emprego.igualdade@xunta.gal",
+    "description": "La Xunta de Galicia, a través de la Consellería de Emprego e Igualdade, elabora diferentes publicaciones alrededor de la responsabilidad social empresarial.",
+    "scope": "autonómico",
+    "parents": ["Xunta de Galicia"],
+    "docs": [
+      {
+        "name": "Emplea Saludable: guía de revitalización de la empresa"
+      },
+      {
+        "name": "Plan estratégico de RSE de Galicia 2012-2014"
+      },
+      {
+        "name": "Estudio racionalización de horarios"
+      },
+      {
+        "name": "Acuerdo a favor de la Responsabilidad Social Empresarial en Galicia"
+      }
+    ]
   },
   {
     "name": "Observatorio Costeiro de la Xunta de Galicia",
