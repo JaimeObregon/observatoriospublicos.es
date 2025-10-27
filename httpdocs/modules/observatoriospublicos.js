@@ -11,6 +11,8 @@ let visibleModal = null
 // Observatorios en ventana
 let currentObservatories = null
 
+let currentOpenObservatory = null
+
 /**
  * Genera la lista de observatorios en el HTML
  *
@@ -90,6 +92,23 @@ async function main() {
       closeModal(visibleModal)
     }
   })
+
+  // Si hay un query param con el nombre del observatorio, abrir el modal
+  const url = new URL(window.location.href)
+  const observatoryName = url.searchParams.get('observatorio')
+  if (!observatoryName) return
+  // Buscar el observatorio por nombre
+  const observatory = observatories.find(({ name }) => name === observatoryName)
+  if (!observatory) return
+  const modal = document.getElementById('observatory')
+  if (!modal) return
+  openModal(modal, {
+    currentTarget: {
+      dataset: {
+        observatory: observatoryName,
+      },
+    },
+  })
 }
 
 const isOpenClass = 'modal-is-open'
@@ -107,6 +126,11 @@ const toggleModal = (event) => {
 }
 
 const openModal = (modal, event) => {
+  currentOpenObservatory = event.currentTarget.dataset.observatory
+  const url = new URL(window.location.href)
+  url.searchParams.set('observatorio', currentOpenObservatory)
+  window.history.pushState({}, '', url.toString())
+
   const { documentElement: html } = document
   const scrollbarWidth = getScrollbarWidth()
   if (scrollbarWidth) {
@@ -133,6 +157,11 @@ const openModal = (modal, event) => {
 
 const closeModal = (modal) => {
   visibleModal = null
+  currentOpenObservatory = null
+  const url = new URL(window.location.href)
+  url.searchParams.delete('observatorio')
+  window.history.pushState({}, '', url.toString())
+
   const { documentElement: html } = document
   html.classList.add(closingClass)
   setTimeout(() => {
