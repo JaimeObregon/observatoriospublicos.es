@@ -1,0 +1,6 @@
+# Netlify redirects file
+# Clean URLs for observatory IDs
+# Format: from  to  [status]
+
+# Rewrite observatory IDs to query parameters (status 200 = rewrite, not redirect)
+/:observatoryId  /?observatorio=:observatoryId  200
