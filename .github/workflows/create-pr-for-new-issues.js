@@ -1,3 +1,5 @@
+import { generateObservatoryId } from '../../httpdocs/modules/utils.js'
+
 /**
  * @param {TemplateData} templateData
  */
@@ -32,7 +34,10 @@ function getNewObjectFromTemplateData(templateData) {
       ? ''
       : `\n\n${templateData.composing_organisms}`)
 
+  const id = generateObservatoryId(templateData.name)
+
   return {
+    id,
     name: templateData.name,
     type: templateData.type === 'None' ? undefined : templateData.type,
     website: templateData.website === '' ? undefined : templateData.website,
@@ -74,7 +79,7 @@ export default async (ctx) => {
   const templateData = JSON.parse(process.env.ISSUE_TEMPLATE_DATA_JSON_STRING)
   if (templateData.name === undefined || templateData.name === '') {
     ctx.core.debug(
-      'No cumple la template observatory_add, por lo que ignoramos esta issue'
+      'No cumple la template observatory_add, por lo que ignoramos esta issue',
     )
     return
   }
@@ -116,7 +121,7 @@ export default async (ctx) => {
     })
 
     const obj = JSON.parse(
-      Buffer.from(currentContent.data.content, 'base64').toString('utf-8')
+      Buffer.from(currentContent.data.content, 'base64').toString('utf-8'),
     )
 
     const randomIndex = Math.floor(Math.random() * obj.length)

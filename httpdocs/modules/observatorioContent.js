@@ -77,7 +77,7 @@ export function createObservatoryCardComponent(
 ) {
   const scopeObj = scopes.find(({ key }) => key === scope)
   return `
-      <article class="contrast" data-target="observatory" data-observatory-id="${id || ''}" data-observatory-name="${name}">
+      <article class="contrast" data-target="observatory" data-observatory-id="${id || ''}">
         <small>
           ${observatoryTitle(scopeObj, location)}
           ${observatoryId(index)}
