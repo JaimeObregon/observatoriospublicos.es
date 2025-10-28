@@ -12,5 +12,5 @@ export function generateObservatoryId(observatoryName) {
   const num = buffer.readBigUInt64BE(0)
 
   // Encode to base62
-  return base62.encodeBigInt(num).slice(0, 8)
+  return base62.encodeBigInt(num).slice(0, 6)
 }
