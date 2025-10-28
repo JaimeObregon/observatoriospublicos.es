@@ -93,19 +93,28 @@ async function main() {
     }
   })
 
-  // Si hay un query param con el nombre del observatorio, abrir el modal
+  // Si hay un path con el ID del observatorio, abrir el modal
   const url = new URL(window.location.href)
-  const observatoryName = url.searchParams.get('observatorio')
-  if (!observatoryName) return
-  // Buscar el observatorio por nombre
-  const observatory = observatories.find(({ name }) => name === observatoryName)
+
+  let observatoryId = null
+  if (url.pathname !== '/' && url.pathname !== '') {
+    const pathId = url.pathname.substring(1)
+    if (!pathId.includes('/')) {
+      observatoryId = pathId
+    }
+  }
+
+  if (!observatoryId) return
+  // Buscar el observatorio por ID
+  const observatory = observatories.find(({ id }) => id === observatoryId)
   if (!observatory) return
   const modal = document.getElementById('observatory')
   if (!modal) return
   openModal(modal, {
     currentTarget: {
       dataset: {
-        observatory: observatoryName,
+        observatoryId: observatory.id,
+        observatoryName: observatory.name,
       },
     },
   })
@@ -126,10 +135,21 @@ const toggleModal = (event) => {
 }
 
 const openModal = (modal, event) => {
-  currentOpenObservatory = event.currentTarget.dataset.observatory
-  const url = new URL(window.location.href)
-  url.searchParams.set('observatorio', currentOpenObservatory)
-  window.history.pushState({}, '', url.toString())
+  const observatoryId = event.currentTarget.dataset.observatoryId
+
+  // Find the observatory by ID if available, otherwise by name
+  const observatory = observatoryId
+    ? currentObservatories.find(({ id }) => id === observatoryId)
+    : null
+
+  if (!observatory) return
+
+  currentOpenObservatory = observatory.id
+
+  if (observatory.id) {
+    const cleanUrl = `/${observatory.id}`
+    window.history.pushState({}, '', cleanUrl)
+  }
 
   const { documentElement: html } = document
   const scrollbarWidth = getScrollbarWidth()
@@ -145,10 +165,6 @@ const openModal = (modal, event) => {
   const div = modal.querySelector('#observatory-content')
   const h3 = modal.querySelector('#observatory-title')
 
-  const observatory = currentObservatories.find(
-    ({ name }) => name === event.currentTarget.dataset.observatory,
-  )
-  const json = JSON.stringify(observatory, null, 2)
   div.innerHTML = createObservatoryDetailsComponent(observatory)
   h3.innerText = observatory.name
 
@@ -158,9 +174,7 @@ const openModal = (modal, event) => {
 const closeModal = (modal) => {
   visibleModal = null
   currentOpenObservatory = null
-  const url = new URL(window.location.href)
-  url.searchParams.delete('observatorio')
-  window.history.pushState({}, '', url.toString())
+  window.history.pushState({}, '', '/')
 
   const { documentElement: html } = document
   html.classList.add(closingClass)
