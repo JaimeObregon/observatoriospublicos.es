@@ -11,6 +11,8 @@ let visibleModal = null
 // Observatorios en ventana
 let currentObservatories = null
 
+let currentOpenObservatory = null
+
 /**
  * Genera la lista de observatorios en el HTML
  *
@@ -90,6 +92,32 @@ async function main() {
       closeModal(visibleModal)
     }
   })
+
+  // Si hay un path con el ID del observatorio, abrir el modal
+  const url = new URL(window.location.href)
+
+  let observatoryId = null
+  if (url.pathname !== '/' && url.pathname !== '') {
+    const pathId = url.pathname.substring(1)
+    if (!pathId.includes('/')) {
+      observatoryId = pathId
+    }
+  }
+
+  if (!observatoryId) return
+  // Buscar el observatorio por ID
+  const observatory = observatories.find(({ id }) => id === observatoryId)
+  if (!observatory) return
+  const modal = document.getElementById('observatory')
+  if (!modal) return
+  openModal(modal, {
+    currentTarget: {
+      dataset: {
+        observatoryId: observatory.id,
+        observatoryName: observatory.name,
+      },
+    },
+  })
 }
 
 const isOpenClass = 'modal-is-open'
@@ -107,6 +135,22 @@ const toggleModal = (event) => {
 }
 
 const openModal = (modal, event) => {
+  const observatoryId = event.currentTarget.dataset.observatoryId
+
+  // Find the observatory by ID if available, otherwise by name
+  const observatory = observatoryId
+    ? currentObservatories.find(({ id }) => id === observatoryId)
+    : null
+
+  if (!observatory) return
+
+  currentOpenObservatory = observatory.id
+
+  if (observatory.id) {
+    const cleanUrl = `/${observatory.id}`
+    window.history.pushState({}, '', cleanUrl)
+  }
+
   const { documentElement: html } = document
   const scrollbarWidth = getScrollbarWidth()
   if (scrollbarWidth) {
@@ -121,10 +165,6 @@ const openModal = (modal, event) => {
   const div = modal.querySelector('#observatory-content')
   const h3 = modal.querySelector('#observatory-title')
 
-  const observatory = currentObservatories.find(
-    ({ name }) => name === event.currentTarget.dataset.observatory,
-  )
-  const json = JSON.stringify(observatory, null, 2)
   div.innerHTML = createObservatoryDetailsComponent(observatory)
   h3.innerText = observatory.name
 
@@ -133,6 +173,9 @@ const openModal = (modal, event) => {
 
 const closeModal = (modal) => {
   visibleModal = null
+  currentOpenObservatory = null
+  window.history.pushState({}, '', '/')
+
   const { documentElement: html } = document
   html.classList.add(closingClass)
   setTimeout(() => {
