@@ -172,3 +172,32 @@ dialog h3 {
   margin: 0.5em 0 0;
   padding-left: 1.25em;
 }
+
+#observatories-map .map-pin-wrapper {
+  background: transparent;
+  border: 0;
+}
+
+#observatories-map .map-pin {
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  background: #111;
+  color: white;
+  border: 2px solid rgba(255, 255, 255, 0.9);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.25);
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+#observatories-map .map-pin--cluster {
+  background: var(--pico-primary);
+}
+
+#observatories-map .map-pin span {
+  font-size: 0.75rem;
+  line-height: 1;
+  padding: 0 0.25em;
+}

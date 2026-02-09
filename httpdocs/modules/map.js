@@ -1,5 +1,8 @@
 let map = null
+let pointsLayer = null
+let clusteredPoints = null
 
+const clusterGridSize = 64 // px
 const maxPopupItems = 15
 
 function escapeHtml(value) {
@@ -13,6 +16,19 @@ function escapeHtml(value) {
 
 function escapeAttr(value) {
   return escapeHtml(value).replaceAll('`', '&#96;')
+}
+
+function createCountIcon(L, count, variant) {
+  const safeCount = Number.isFinite(count) ? Math.max(1, Math.round(count)) : 1
+  const size = Math.round(22 + Math.min(18, Math.log2(safeCount) * 6))
+
+  return L.divIcon({
+    className: 'map-pin-wrapper',
+    html: `<div class="map-pin ${variant === 'cluster' ? 'map-pin--cluster' : ''}" style="width:${size}px;height:${size}px"><span>${safeCount}</span></div>`,
+    iconSize: [size, size],
+    iconAnchor: [size / 2, size / 2],
+    popupAnchor: [0, -size / 2],
+  })
 }
 
 function buildPopup(observatories) {
@@ -91,6 +107,68 @@ function groupByCoordinates(observatories) {
   }
 }
 
+function clusterByZoom(map, L, points) {
+  const zoom = map.getZoom()
+  const buckets = new Map()
+
+  for (const point of points) {
+    const projected = map.project([point.lat, point.lon], zoom)
+    const x = Math.floor(projected.x / clusterGridSize)
+    const y = Math.floor(projected.y / clusterGridSize)
+    const key = `${x},${y}`
+
+    const bucket = buckets.get(key) || {
+      points: 0,
+      count: 0,
+      sumX: 0,
+      sumY: 0,
+      observatories: [],
+    }
+
+    bucket.points += 1
+    bucket.count += point.count
+    bucket.sumX += projected.x * point.count
+    bucket.sumY += projected.y * point.count
+    bucket.observatories.push(...point.observatories)
+
+    buckets.set(key, bucket)
+  }
+
+  return [...buckets.values()].map((bucket) => {
+    const centerPoint = L.point(
+      bucket.sumX / bucket.count,
+      bucket.sumY / bucket.count,
+    )
+    const center = map.unproject(centerPoint, zoom)
+
+    return {
+      center,
+      count: bucket.count,
+      isCluster: bucket.points > 1,
+      observatories: bucket.observatories,
+    }
+  })
+}
+
+function renderPoints({ L }) {
+  if (!map || !pointsLayer || !clusteredPoints) return
+
+  pointsLayer.clearLayers()
+
+  const items = clusterByZoom(map, L, clusteredPoints)
+
+  for (const item of items) {
+    const icon = createCountIcon(
+      L,
+      item.count,
+      item.isCluster ? 'cluster' : 'point',
+    )
+    const marker = L.marker(item.center, { icon })
+    marker.bindPopup(buildPopup(item.observatories))
+    marker.addTo(pointsLayer)
+  }
+}
+
 export function initMap(observatories) {
   if (map) return
 
@@ -125,26 +203,23 @@ export function initMap(observatories) {
       '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
   }).addTo(map)
 
-  const layer = L.featureGroup().addTo(map)
+  clusteredPoints = groups.map((group) => ({
+    lat: group.lat,
+    lon: group.lon,
+    count: group.observatories.length,
+    observatories: group.observatories,
+  }))
 
-  for (const group of groups) {
-    const count = group.observatories.length
-    const radius = 4 + Math.min(8, Math.log2(count) * 2)
+  pointsLayer = L.layerGroup().addTo(map)
+  renderPoints({ L })
 
-    const marker = L.circleMarker([group.lat, group.lon], {
-      radius,
-      weight: 1,
-      color: '#111',
-      fillColor: '#111',
-      fillOpacity: 0.65,
-    })
+  map.on('zoomend', () => renderPoints({ L }))
 
-    marker.bindPopup(buildPopup(group.observatories))
-    marker.addTo(layer)
-  }
-
-  if (layer.getLayers().length) {
-    map.fitBounds(layer.getBounds(), { padding: [24, 24] })
+  if (clusteredPoints.length) {
+    map.fitBounds(
+      L.latLngBounds(clusteredPoints.map(({ lat, lon }) => [lat, lon])),
+      { padding: [24, 24] },
+    )
   } else {
     map.setView([40.416782, -3.703507], 5)
   }
