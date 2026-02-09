@@ -3167,7 +3167,11 @@
     "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
-    "website": "https://www.gobiernodecanarias.org/medioambiente/organos/observatorio-canario-del-cambio-climatico/"
+    "website": "https://www.gobiernodecanarias.org/medioambiente/organos/observatorio-canario-del-cambio-climatico/",
+    "coordinates": {
+      "lat": 28.2935785,
+      "lon": -16.6214471
+    }
   },
   {
     "description": "El Observatorio de la Criminalidad Organizada Transnacional (OCOT) es un espacio interdisciplinario, crítico, reflexivo y de formación-acción que congrega una amplia red internacional de profesores e investigadores dedicados al estudio de la criminalidad organizada de modo pormenorizado. Es, además, un ambiente de alto nivel académico-científico y creciente reconocimiento nacional e internacional en la materia, especialmente dado su carácter pionero en el modo con el que aborda la temática estudiada, la calificada producción científica que impulsa, los distintos proyectos de investigación con financiación nacional que le dan cuerpo y la responsabilidad social que caracterizan sus acciones y reflexiones.",
@@ -3216,7 +3220,11 @@
     "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
-    "website": "https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=ba5d4671-60dc-11ed-9e04-cd68079ec7ca&idCarpeta=61e907e3-d473-11e9-9a19-e5198e027117"
+    "website": "https://www3.gobiernodecanarias.org/sanidad/scs/contenidoGenerico.jsp?idDocument=ba5d4671-60dc-11ed-9e04-cd68079ec7ca&idCarpeta=61e907e3-d473-11e9-9a19-e5198e027117",
+    "coordinates": {
+      "lat": 28.2935785,
+      "lon": -16.6214471
+    }
   },
   {
     "is_active": "None",
@@ -3265,7 +3273,11 @@
     "parents": ["Universidade de Vigo", "Xunta de Galicia"],
     "scope": "galicia",
     "type": "publico",
-    "website": "http://www.observatorioredlocalis.com"
+    "website": "http://www.observatorioredlocalis.com",
+    "coordinates": {
+      "lat": 42.2376602,
+      "lon": -8.7247205
+    }
   },
   {
     "is_active": "Sí",
@@ -3273,7 +3285,11 @@
     "parents": ["Junta de Andalucía"],
     "scope": "andalucia",
     "type": "publico",
-    "website": "https://www.juntadeandalucia.es/institutodelamujer/index.php/observatorio-andaluz-de-publicidad-no-sexista"
+    "website": "https://www.juntadeandalucia.es/institutodelamujer/index.php/observatorio-andaluz-de-publicidad-no-sexista",
+    "coordinates": {
+      "lat": 37.3399964,
+      "lon": -4.5811614
+    }
   },
   {
     "name": "Observatorio de la Comunidad de Madrid contra el Racismo y la Intolerancia",
@@ -3358,7 +3374,11 @@
     "parents": ["Ajuntament de Barcelona"],
     "scope": "local",
     "type": "publico",
-    "website": "https://www.ajsosteniblebcn.cat/ca/observatori-a-s_99532"
+    "website": "https://www.ajsosteniblebcn.cat/ca/observatori-a-s_99532",
+    "coordinates": {
+      "lat": 41.3825802,
+      "lon": 2.177073
+    }
   },
   {
     "description": "Realización de eventos y actos de difusión de los resultados de los estudios realizados.",
@@ -3566,7 +3586,11 @@
     "stop_date": "a dìa de hoy sigue funcionando. Publica algunas excel con datos hasta al menos 2023",
     "type": "publico",
     "email": "oscn@navarra.es",
-    "website": "https://portalsalud.navarra.es/es/observatorio"
+    "website": "https://portalsalud.navarra.es/es/observatorio",
+    "coordinates": {
+      "lat": 42.7027944,
+      "lon": -1.7086231
+    }
   },
   {
     "description": [
@@ -3679,7 +3703,11 @@
     "name": "Observatorio Andaluz de Violencia de Género",
     "scope": "andalucia",
     "type": "publico",
-    "website": "https://www.juntadeandalucia.es/institutodelamujer/index.php/2013-08-08-10-31-21/observatorio-andaluz-de-violencia-de-genero"
+    "website": "https://www.juntadeandalucia.es/institutodelamujer/index.php/2013-08-08-10-31-21/observatorio-andaluz-de-violencia-de-genero",
+    "coordinates": {
+      "lat": 37.3399964,
+      "lon": -4.5811614
+    }
   },
   {
     "description": "L’Observatori de salut i impacte de polítiques (OBSIP) és una eina que permet fer un seguiment: (1) de l’estat de la salut a la ciutat i de les desigualtats existents entre barris i grups socials i (2) de l’impacte en salut de determinades polítiques dutes a terme per l’Ajuntament.",
@@ -3692,7 +3720,11 @@
     "parents": ["Ajuntament de Barcelona"],
     "scope": "local",
     "type": "publico",
-    "website": "https://ajuntament.barcelona.cat/observatorisalut"
+    "website": "https://ajuntament.barcelona.cat/observatorisalut",
+    "coordinates": {
+      "lat": 41.3825802,
+      "lon": 2.177073
+    }
   },
   {
     "description": "Grupo de trabajo, consultivo, asesor y de colaboración entre la administración de la Junta de Comunidades de Castilla-La Mancha y las organizaciones representativas del comercio, del ámbito de la economía digital, y las organizaciones más representativas de las personas trabajadoras del sector, que servirá para dar apoyo a los actores implicados en la comprensión de las dinámicas del comercio regional y afrontar nuevos retos.",
@@ -3771,7 +3803,11 @@
     ],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://iam.asturias.es/observatorio-de-igualdad-de-oportunidades"
+    "website": "https://iam.asturias.es/observatorio-de-igualdad-de-oportunidades",
+    "coordinates": {
+      "lat": 43.3133868,
+      "lon": -5.94192
+    }
   },
   {
     "name": "Observatori de l'economia local de Sabadell",
@@ -3791,7 +3827,11 @@
     "description": "La sociedad cambia constantemente y una administración responsable necesita herramientas que permitan vigilar este cambio, medir la eficiencia de las medidas adoptadas, descubrir los problemas y las oportunidades de mejora. Para vigilar esta transformación, mejorar en la toma de decisiones y por transparencia, decidimos crear el OBSERVATORIO DE TRANSFORMACIÓN DIGITAL DE NAVARRA.\n\nEn este espacio compartiremos los principales indicadores de transformación digital de nuestra comunidad en los ejes de [personas](https://observatoriotransformaciondigital.navarra.es/es/personas), [gobierno](https://observatoriotransformaciondigital.navarra.es/es/gobierno), [empresas](https://observatoriotransformaciondigital.navarra.es/es/empresas) e [infraestructuras](https://observatoriotransformaciondigital.navarra.es/es/infraestructuras), así como otras [acciones](https://observatoriotransformaciondigital.navarra.es/es/acciones) relacionadas.\n\nEstos datos nos darán una medida del progreso de Navarra, comparándola, siempre que exista el dato, con España y Europa.",
     "scope": "autonómico",
     "parents": ["Gobierno de Navarra - Nafarroako Gobernua"],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 42.7027944,
+      "lon": -1.7086231
+    }
   },
   {
     "description": "El Observatorio de Servicios Sociales y Dependencia se configura como un órgano colegiado, de composición interdepartamental, con funciones asesoras, de investigación, formación y trasferencia del conocimiento en materia de servicios sociales y dependencia; que ejercerá sus funciones con plena autonomía y sin dependencia funcional de ningún órgano. El Observatorio pretende contribuir también a la reflexión y mejora de la práctica profesional, promoviendo el trabajo interdisciplinar, un buen clima laboral que cuide a las personas cuidadoras, la agilización y simplificación de trámites, la formación continua, así como la evaluación de procesos y resultados.",
@@ -3871,7 +3911,11 @@
         "name": "Observatorio económico mensual de la provincia de Jaén"
       }
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 37.9553976,
+      "lon": -3.4937431
+    }
   },
   {
     "email": "info@fepa18.org",
@@ -4080,7 +4124,11 @@
     "parents": ["Ayuntamiento de Madrid"],
     "scope": "local",
     "type": "publico",
-    "website": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Observatorio-de-la-Ciudad/?vgnextfmt=default&vgnextchannel=ec38d941c9b25710VgnVCM2000001f4a900aRCRD"
+    "website": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Observatorio-de-la-Ciudad/?vgnextfmt=default&vgnextchannel=ec38d941c9b25710VgnVCM2000001f4a900aRCRD",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Este Observatorio tiene sobre la mesa los retos identificados para la industria en la región: el crecimiento de la internacionalización de un sector que es responsable de uno de cada tres euros de las exportaciones de la Comunidad Autónoma, así como la digitalización, la sostenibilidad y la innovación en la industria.",
@@ -4156,7 +4204,11 @@
     "parents": ["Ayuntamiento de Badajoz"],
     "stop_date": "El último informe es de 2015",
     "type": "publico",
-    "website": "https://www.aytobadajoz.es/es/empleo/estudios-y-estadisticas/observatorio-del-cambio"
+    "website": "https://www.aytobadajoz.es/es/empleo/estudios-y-estadisticas/observatorio-del-cambio",
+    "coordinates": {
+      "lat": 38.878187,
+      "lon": -6.9701115
+    }
   },
   {
     "description": "Es una herramienta de información permanente y actual sobre el mercado de trabajo de la región, que nace con el objetivo de orientar sobre las demandas de empleo y formativas que surjan en determinados momentos y puntos de la comunidad autónoma.",
@@ -4391,7 +4443,11 @@
     "name": "Observatorio del Cambio Climático / Observatori del Canvi Climàtic",
     "parents": ["Ayuntamiento de Valencia"],
     "type": "publico",
-    "website": "https://climaienergia.com/observatori/"
+    "website": "https://climaienergia.com/observatori/",
+    "coordinates": {
+      "lat": 39.4697065,
+      "lon": -0.3763353
+    }
   },
   {
     "description": "El Observatorio de CPR de Canarias es un órgano de asesoramiento, control y estudio respecto a la contratación pública para la sociedad civil y agentes involucrados.",
@@ -4513,7 +4569,11 @@
     "parents": ["Ayuntamiento de Málaga"],
     "scope": "local",
     "type": "publico",
-    "website": "https://movilidad.malaga.eu/es/lineas-de-trabajo/movima/"
+    "website": "https://movilidad.malaga.eu/es/lineas-de-trabajo/movima/",
+    "coordinates": {
+      "lat": 36.7213028,
+      "lon": -4.4216366
+    }
   },
   {
     "description": "Es un órgano colegiado adscrito a la Concejalía de Bienestar Social del Ayuntamiento de Fuenlabrada, cuya misión es convertirse en referente para la medición, seguimiento, evaluación, análisis y difusión de información sobre el desarrollo de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia.\n\nEl Observatorio, recopila y difunde el conjunto de conocimientos, experiencias y buenas prácticas, ofreciendo una visión global y permanente de la situación y evolución de la Ley, que permite evaluar su impacto y el cumplimiento del mapa de recursos y servicios que determina, así como trasladar a otras administraciones la información que mejore la aplicación de la citada Ley.\n\nFunciones del Observatorio\n\n1. Constituir una base de información que pueda dar cuenta de la situación de la aplicación de la Ley a nivel local.\n\n2. Analizar las nuevas tendencias y cambios que se vayan produciendo en la aplicación de la Ley y factores asociados.\n\n3. Realizar investigaciones y estudios preparatorios y de viabilidad, organizar reuniones de técnicos y usuarios, y crear, si fuera necesario grupos de trabajo.\n\n4. Difundir los procesos anteriores y elaborar publicaciones e informes de carácter periódico sobre la temática.\n\n5. Facilitar el intercambio de información sobre la aplicación de la Ley con otros municipios y agentes sociales como empresas del sector, vecinos, técnicos, sindicatos, partidos políticos.\n\n6. Proponer un mapa de recursos lo que supondrá una mayor apuesta por la calidad.",
@@ -4572,7 +4632,11 @@
       "Área de Turismo de Málaga"
     ],
     "type": "publico",
-    "website": "https://visita.malaga.eu/profesional/es/observatorio-turistico"
+    "website": "https://visita.malaga.eu/profesional/es/observatorio-turistico",
+    "coordinates": {
+      "lat": 36.7213028,
+      "lon": -4.4216366
+    }
   },
   {
     "description": "Es una entidad dedicada a la recopilación y análisis de datos sobre la movilidad en Cataluña, abarcando aspectos como el transporte de personas y mercancías, sostenibilidad, infraestructuras y economía del transporte. Su objetivo es proveer información útil y servir como foro de análisis para atender las necesidades de sus usuarios.",
@@ -4739,7 +4803,11 @@
     ],
     "scope": "castilla_la_mancha",
     "type": "publico",
-    "website": "https://www.castillalamancha.es/gobierno/agriaguaydesrur/estructura/dgalimentacion/titular/observatorio-precios-cadena-agroalimentaria"
+    "website": "https://www.castillalamancha.es/gobierno/agriaguaydesrur/estructura/dgalimentacion/titular/observatorio-precios-cadena-agroalimentaria",
+    "coordinates": {
+      "lat": 39.4177902,
+      "lon": -2.6232332
+    }
   },
   {
     "description": "Facilita que las personas consumidoras tomen decisiones de compra informadas con arreglo a criterios económicos.",
@@ -4783,14 +4851,22 @@
     ],
     "scope": "castilla_la_mancha",
     "type": "publico",
-    "website": "https://consumo.castillalamancha.es/node/23956"
+    "website": "https://consumo.castillalamancha.es/node/23956",
+    "coordinates": {
+      "lat": 39.4177902,
+      "lon": -2.6232332
+    }
   },
   {
     "is_active": "None",
     "name": "Observatorio Aragonés de Dinamización Demográfica y Poblacional",
     "scope": "aragon",
     "type": "publico",
-    "website": "https://observatoriopoblacion.aragon.es/"
+    "website": "https://observatoriopoblacion.aragon.es/",
+    "coordinates": {
+      "lat": 41.3787291,
+      "lon": -0.7639373
+    }
   },
   {
     "is_active": "None",
@@ -4808,7 +4884,11 @@
     "name": "Observatorio Aragonés por la Convivencia y Contra el Acoso Escolar",
     "scope": "aragon",
     "type": "publico",
-    "website": "https://educa.aragon.es/-/convivencia-web-basico-enlaces"
+    "website": "https://educa.aragon.es/-/convivencia-web-basico-enlaces",
+    "coordinates": {
+      "lat": 41.3787291,
+      "lon": -0.7639373
+    }
   },
   {
     "is_active": "None",
@@ -4816,7 +4896,11 @@
     "parents": ["Universidad de Zaragoza"],
     "scope": "aragon",
     "type": "publico",
-    "website": "https://oaaep.unizar.es/"
+    "website": "https://oaaep.unizar.es/",
+    "coordinates": {
+      "lat": 41.6521342,
+      "lon": -0.8809428
+    }
   },
   {
     "description": "El objetivo de este proyecto es no solo identificar, cartografiar y perfilar los desiertos alimentarios y de ejercicio físico en zonas rurales, si no también definir el concepto de desierto rural de ejercicio físico, explorar estrategias para mejorar la salud y el bienestar de las personas que viven en zonas rurales, y colaborar con las comunidades, empresas y servicios para abordar las inequidades que sufren las personas que viven en áreas rurales despobladas, desatendidas y, a menudo, desfavorecidas. Los resultados de esta investigación serán publicados a través del Observatorio Europeo de Desiertos Alimentarios y de Ejercicio Físico en Zonas Rurales.\n\nEl proyecto DESERT, con un presupuesto total de 638.591€, ha sido cofinanciado por la Unión Europea a través del programa E4Health Partnership y durará 3 años (2024-2027). Ambos socios reciben fondos del Instituto de Salud Carlos III, a través de la AES 2023, con código AC23_2/00039 y AC23_2/00003 en el marco de Partnership Fostering a European Research Area for Health (ERA4Health) GA nº 101095426 del Programa de Investigación e Innovación Horizonte Europa de la Unión Europea.\n\nNoticias sobre la creación de un Observatorio Europeo de Desiertos Rurales Alimentarios y de Ejercicio Físico:\r\n1. [Universidad de Zaragoza](https://ucc.unizar.es/noticia/aragon-impulsara-la-creacion-de-un-observatorio-europeo-de-desiertos-rurales-alimentarios-y)\r\n2. [Heraldo de Aragón](https://www.heraldo.es/noticias/aragon/2024/05/13/aragon-impulsara-creacion-observatorio-europeo-desiertos-rurales-alimentarios-ejercicio-fisico-1733325.html)\r\n3. [Agenda de la reunión (PDF)](https://www.iisaragon.es/wp-content/uploads/2024/05/DESERT-Kick-off.pdf)\n\n- Universidad de Zaragoza (pública)\r\n- Instituto de Investigación Sanitaria de Aragón (IISA) ([pública](https://contrataciondelestado.es/wps/poc?uri=deeplink%3AperfilContratante&idBp=%2F5d2hWOr17umq21uxhbaVQ%3D%3D))",
@@ -4848,7 +4932,11 @@
     "parents": ["Gobierno de Canarias", "Dirección General de Juventud"],
     "scope": "canarias",
     "type": "publico",
-    "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/"
+    "website": "https://www.gobiernodecanarias.org/juventud/programas/observatorio-canario-de-la-juventud/",
+    "coordinates": {
+      "lat": 28.2935785,
+      "lon": -16.6214471
+    }
   },
   {
     "from_date": "2011",
@@ -4923,7 +5011,11 @@
         "name": "En las memorias, se especifican https://observatoridesc.org/es/transparencia"
       }
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 41.3825802,
+      "lon": 2.177073
+    }
   },
   {
     "docs": [
@@ -5046,7 +5138,11 @@
     "parents": ["Cabildo de Tenerife"],
     "scope": "local",
     "type": "publico",
-    "website": "https://www.deportestenerife.es/oficina-virtual/observatorio-de-la-bicicleta/"
+    "website": "https://www.deportestenerife.es/oficina-virtual/observatorio-de-la-bicicleta/",
+    "coordinates": {
+      "lat": 43.4934282,
+      "lon": -3.5689291
+    }
   },
   {
     "is_active": "None",
@@ -5169,7 +5265,11 @@
     "name": "Observatorio de la Escuela Rural de Aragón",
     "scope": "aragon",
     "type": "publico",
-    "website": "https://educa.aragon.es/-/innovacion/observatorio-rural"
+    "website": "https://educa.aragon.es/-/innovacion/observatorio-rural",
+    "coordinates": {
+      "lat": 41.3787291,
+      "lon": -0.7639373
+    }
   },
   {
     "is_active": "None",
@@ -5204,7 +5304,11 @@
     "parents": ["Gobierno de Aragón"],
     "scope": "aragon",
     "type": "publico",
-    "website": "https://www.aragon.es/-/estudios-1"
+    "website": "https://www.aragon.es/-/estudios-1",
+    "coordinates": {
+      "lat": 41.3787291,
+      "lon": -0.7639373
+    }
   },
   {
     "name": "Observatorio para la Innovación de los Informativos en la Sociedad Digital",
@@ -5335,7 +5439,11 @@
     "parents": ["Junta de Andalucía"],
     "scope": "andalucia",
     "type": "publico",
-    "website": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/todas-noticia/constituido-el-observatorio-de-agresiones-profesionales-del-sistema-sanitario-publico"
+    "website": "https://www.sspa.juntadeandalucia.es/servicioandaluzdesalud/todas-noticia/constituido-el-observatorio-de-agresiones-profesionales-del-sistema-sanitario-publico",
+    "coordinates": {
+      "lat": 37.3399964,
+      "lon": -4.5811614
+    }
   },
   {
     "is_active": "None",
@@ -5425,7 +5533,11 @@
     "parents": ["Gobierno de Aragón"],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://www.aragon.es/-/observatorio-aragones-de-familia"
+    "website": "https://www.aragon.es/-/observatorio-aragones-de-familia",
+    "coordinates": {
+      "lat": 41.3787291,
+      "lon": -0.7639373
+    }
   },
   {
     "description": "El Observatorio tratará de desarrollar tres líneas fundamentales: generar un espacio de conocimiento sobre la información en salud en Asturias a través de una serie de informes periódicos; garantizar que esta información llegue de la forma más comprensible al mayor número de agentes de salud posibles, destacando la importancia de un abordaje de los determinantes sociales de la salud y, finalmente, vincular la información en salud de los indicadores a las diferentes actuaciones comunitarias en salud que se están desarrollando en Asturias.\n\nDirección General de Salud Pública. Consejería de Sanidad. Gobierno del Principado de Asturias.\r\nSupervisión: School of Public Health and Medicine de la Universidad de Wisconsin-Madison.",
@@ -5570,7 +5682,11 @@
     ],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://www.educantabria.es/diversidad/convivencia"
+    "website": "https://www.educantabria.es/diversidad/convivencia",
+    "coordinates": {
+      "lat": 43.1595664,
+      "lon": -4.0878382
+    }
   },
   {
     "description": "El Observatorio de la cuenca Saja-Besaya, denominado Observatorio SABE, es un órgano independiente, de carácter técnico y multidisciplinar, que trabaja por implementar mejoras en nuestros ecosistemas, paisajes, estuarios, zonas forestales o urbanas, entre otras.\n\nConsejo Asesor:\n\n> El Consejo Asesor está compuesto por Soledad Nogués, profesora titular de Urbanística y Ordenación del Territorio de la Universidad de Cantabria y Torrelaveguense ilustre 2016, Jesús Tortosa, Director General de la Cámara de Comercio de Cantabria, Leandro Morante, exdirector del CIMA de Torrelavega, Sonsoles Pérez, Jefa de seguridad, higiene, medio ambiente y calidad de Solvay, Felipe González, delegado en Cantabria de SEO Birdlife, y Fernando Isasi, Director gerente de la Red Cántabra de Desarrollo Rural.\n\nConsejo Rector:\n\n>  14 personas (6 de las entidades incorporadas, 6 del Consejo Asesor y 2 de la secretaría y dirección).",
@@ -5589,7 +5705,11 @@
     ],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://observatoriosabe.es"
+    "website": "https://observatoriosabe.es",
+    "coordinates": {
+      "lat": 43.1595664,
+      "lon": -4.0878382
+    }
   },
   {
     "description": "La confianza de los ciudadanos en las instituciones públicas se gana con dificultad y se pierde fácilmente. Lo ideal es que las instituciones públicas actúen de manera socialmente responsable y ética para ganar y mantener la confianza de los ciudadanos en las instituciones públicas y políticas.\n\nLos ciudadanos activos son cruciales en la lucha contra la corrupción: llaman la atención sobre la gravedad de este problema, elevan la conciencia pública sobre su impacto, y actúan como vigilantes efectivos de cargos públicos y partidos monitorizándolos y manteniéndolos bajo un escrutinio constante en términos de rendición de cuentas y capacidad de respuesta. Esto conduce poco a poco a un mecanismo de autocontrol, ya que obliga a los cargos y funcionarios públicos a comportarse éticamente y ofrecer un gobierno limpio. Por el contrario, altos niveles de percepción de mala gobernanza o corrupción, conducen a la frustración de los ciudadanos con su sector público, a la apatía pública, a la falta de compromiso cívico y a la falta de confianza en el proceso político y democrático, y finalmente también al aumento del fraude fiscal, que es la otra cara de la misma moneda.\n\nLa Convención de las Naciones Unidas contra la Corrupción (UNCAC) proporciona la base para la participación ciudadana en los esfuerzos anticorrupción en el artículo 13, que obliga a los Estados miembros a «tomar las medidas adecuadas para promover la participación activa de individuos y grupos ajenos al sector público, como la sociedad civil, las organizaciones no gubernamentales y las organizaciones comunitarias, en la prevención y la lucha contra la corrupción «, y exige a los Estados miembros que proporcionen vías de participación pública en la toma de decisiones.\n\nEste Observatorio pretende contribuir dentro de sus posibilidades, a esta participación activa de la ciudadanía a favor de la transparencia en el diseño de las políticas públicas, y de la integridad en su ejecución.\n\nundefined",
@@ -5735,7 +5855,11 @@
     ],
     "scope": "estatal",
     "type": "mixto",
-    "website": "https://www.casaarabe.es/eventos-arabes/show/observatorio-de-finanzas-islamicas-en-espana"
+    "website": "https://www.casaarabe.es/eventos-arabes/show/observatorio-de-finanzas-islamicas-en-espana",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "El “Observatorio Agenda Provincia de Cáceres” se concibe con el objetivo de integrar de forma estructurada tanto la información socioeconómica, como la generada en las distintas acciones incluidas en el Plan de Acción de Diputación de Cáceres.\n\nEste observatorio permitirá realizar el seguimiento de la evolución de los indicadores registrados actualmente y de aquellos que se incorporen durante la consecución de las acciones incluidas en el Plan de Acción de Diputación de Cáceres, constituyendo una herramienta fundamental tanto para las tareas de planificación de Diputación de Cáceres como para la transferencia de resultados a la ciudadanía.",
@@ -5817,7 +5941,11 @@
     "parents": ["Ayuntamiento de Alcoy"],
     "scope": "local",
     "type": "publico",
-    "website": "https://www.alcoyturismo.com/pag/4174/observatorio-turistico.html"
+    "website": "https://www.alcoyturismo.com/pag/4174/observatorio-turistico.html",
+    "coordinates": {
+      "lat": 38.6982348,
+      "lon": -0.4747619
+    }
   },
   {
     "is_active": "Si",
@@ -5859,7 +5987,11 @@
     "parents": ["Instituto De Seguridade E Saúde Laboral De Galicia - Issga"],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://issga.xunta.gal/gl/observatorio"
+    "website": "https://issga.xunta.gal/gl/observatorio",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio Nacional del Software de Fuentes Abiertas (ONSFA)",
@@ -5969,7 +6101,11 @@
       {
         "url": "https://www.valencia.es/documents/d/guest/informe-tasa-de-paro-agosto-2025-pdf"
       }
-    ]
+    ],
+    "coordinates": {
+      "lat": 39.4697065,
+      "lon": -0.3763353
+    }
   },
   {
     "description": "Este Observatorio tiene como objetivo proporcionar claves sobre la calidad del sistema universitario español que puedan contribuir a la reflexión de diversos agentes interesados para la mejora de la calidad del mismo.",
@@ -6030,7 +6166,11 @@
     "parents": ["Ayuntamiento de Alcoy"],
     "scope": "local",
     "type": "publico",
-    "website": "https://www.alcoi.org/es/areas/sanidad/bienestar_animal/observatorio_proteccion.html"
+    "website": "https://www.alcoi.org/es/areas/sanidad/bienestar_animal/observatorio_proteccion.html",
+    "coordinates": {
+      "lat": 38.6982348,
+      "lon": -0.4747619
+    }
   },
   {
     "is_active": "Si",
@@ -6085,7 +6225,11 @@
     "parents": ["Ayuntamiento de Albacete"],
     "scope": "local",
     "type": "publico",
-    "website": "https://www.albacete.es/es/empleo-promocion-economica/empleo/observatorio-empleo"
+    "website": "https://www.albacete.es/es/empleo-promocion-economica/empleo/observatorio-empleo",
+    "coordinates": {
+      "lat": 38.9950921,
+      "lon": -1.8559154
+    }
   },
   {
     "description": "El Observatorio Social de Álava se crea precisamente como una herramienta de información complementaria sobre la actividad de los Servicios Sociales en el Territorio Histórico. A través de esta web, la Diputación Foral de Álava pretende poner a disposición de los técnicos que trabajan en el área de Bienestar Social y de la ciudadanía en general un núcleo de datos estadísticos que permitan:\nConocer las principales magnitudes de la red alavesa de Servicios Sociales.\nRealizar comparaciones entre diferentes cuadrillas y/o municipios.\nValorar la adecuación de los recursos disponibles a las necesidades presentes en el Territorio Histórico.\nEvaluar la adecuación de los servicios en referencia a una serie de estándares de buena práctica.\nRealizar un seguimiento de la evolución de los Servicios Sociales en el Territorio Histórico.",
@@ -6158,7 +6302,11 @@
     ],
     "scope": "aragon",
     "type": "publico",
-    "website": "https://www.aragon.es/-/observatorio-aragones-de-consumo"
+    "website": "https://www.aragon.es/-/observatorio-aragones-de-consumo",
+    "coordinates": {
+      "lat": 41.3787291,
+      "lon": -0.7639373
+    }
   },
   {
     "description": "Para <q>recabar la información necesaria sobre el turismo y ponerla a disposición de la industria turística del territorio para que esta pueda tomar las decisiones más adecuadas y anticiparse a los retos del sector</q>",
@@ -6174,7 +6322,11 @@
     "parents": ["Ayuntamiento de València"],
     "scope": "local",
     "type": "publico",
-    "website": "https://www.valencia.es/cas/actualidad/-/content/observatorio-social-1"
+    "website": "https://www.valencia.es/cas/actualidad/-/content/observatorio-social-1",
+    "coordinates": {
+      "lat": 39.4697065,
+      "lon": -0.3763353
+    }
   },
   {
     "description": "Es <q>el órgano que de una manera estructurada y planificada recoge, gestiona, procesa y genera estudios relacionados con el ámbito de la juventud</q>.",
@@ -6229,7 +6381,11 @@
     "parents": [
       "Consejería de Presidencia, Reto Demográfico, Igualdad y Turismo (Gobierno de Asturias)"
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 43.3133868,
+      "lon": -5.94192
+    }
   },
   {
     "description": "Creado en 2016, está constituido por un grupo de trabajo cuya finalidad es el estudio, la investigación, la formación, la divulgación, la promoción y la elaboración de estrategias para la Cooperación para el Desarrollo y la Educación para la Ciudadanía Global en la provincia de Zaragoza.",
@@ -6261,7 +6417,11 @@
     "parents": ["Gobierno de Cantabria"],
     "scope": "cantabria",
     "type": "publico",
-    "website": "https://www.cantabria.es/web/comunicados/w/el-gobierno-creará-un-observatorio-de-transición-generacional-para-afrontar-el-mayor-desafío-al-que-se-enfrenta-el-sector-agrario-de-cantabria"
+    "website": "https://www.cantabria.es/web/comunicados/w/el-gobierno-creará-un-observatorio-de-transición-generacional-para-afrontar-el-mayor-desafío-al-que-se-enfrenta-el-sector-agrario-de-cantabria",
+    "coordinates": {
+      "lat": 43.1595664,
+      "lon": -4.0878382
+    }
   },
   {
     "name": "Observatorio de tecnología educativa",
@@ -6332,7 +6492,11 @@
       {
         "url": "https://www.valencia.es/documents/20142/52352/Folleto%2520OMAV%2520cas-1.pdf/7260ab13-d095-c0c0-dc1b-4bde87943718"
       }
-    ]
+    ],
+    "coordinates": {
+      "lat": 39.4697065,
+      "lon": -0.3763353
+    }
   },
   {
     "name": "Observatorio de Sostenibilidad Turística de Galicia",
@@ -6374,7 +6538,11 @@
     "scope": "aragon",
     "parents": ["Instituto Aragonés de Empleo (INAEM)"],
     "is_active": "Si",
-    "description": "El Observatorio de Mercado de Trabajo del INAEM es un servicio público de información y análisis del mercado de trabajo en Aragón, que tiene como objetivo proporcionar datos e informes que ayuden a la toma de decisiones en materia de empleo y formación."
+    "description": "El Observatorio de Mercado de Trabajo del INAEM es un servicio público de información y análisis del mercado de trabajo en Aragón, que tiene como objetivo proporcionar datos e informes que ayuden a la toma de decisiones en materia de empleo y formación.",
+    "coordinates": {
+      "lat": 41.3787291,
+      "lon": -0.7639373
+    }
   },
   {
     "name": "Observatorio mercado de trabajo",
@@ -6383,7 +6551,11 @@
     "scope": "asturias",
     "parents": ["Gobierno del Principado de Asturias"],
     "is_active": "Si",
-    "description": "El Observatorio de Mercado de Trabajo del Principado de Asturias es un servicio público de información y análisis del mercado de trabajo en Asturias, que tiene como objetivo proporcionar datos e informes que ayuden a la toma de decisiones en materia de empleo y formación."
+    "description": "El Observatorio de Mercado de Trabajo del Principado de Asturias es un servicio público de información y análisis del mercado de trabajo en Asturias, que tiene como objetivo proporcionar datos e informes que ayuden a la toma de decisiones en materia de empleo y formación.",
+    "coordinates": {
+      "lat": 43.3133868,
+      "lon": -5.94192
+    }
   },
   {
     "name": "El Observatorio para la Innovación y la Prospectiva del Mercado de Trabajo en Extremadura",
@@ -6632,7 +6804,11 @@
     "type": "publico",
     "website": "https://www.dipusevilla.es/la-diputacion/areas/area-de-cohesion-social-e-igualdad/Servicio-de-Igualdad-y-Diversidad/observatorio-para-la-igualdad-y-la-diversidad/el-observatorio/",
     "is_active": "Sí",
-    "email": "No disponible"
+    "email": "No disponible",
+    "coordinates": {
+      "lat": 37.3886303,
+      "lon": -5.9953403
+    }
   },
   {
     "name": "Observatorio de Transición Justa de Asturias (OTJA)",
@@ -6690,7 +6866,11 @@
     "from_date": "Anunciado el 30 / diciembre/ 2024.",
     "parents": [
       "Consejo Extremeño de Promoción de la Accesibilidad Universal de laJunta de Extremadura."
-    ]
+    ],
+    "coordinates": {
+      "lat": 39.1748426,
+      "lon": -6.1529891
+    }
   },
   {
     "name": "Observatorio de Violencia Machista en Bizkaia",
@@ -6875,7 +7055,11 @@
     ],
     "is_active": "Sí",
     "email": "observatorijove@gva.es",
-    "from_date": "Ley 15/2017 de la Generalitat"
+    "from_date": "Ley 15/2017 de la Generalitat",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "name": "Observatori Simbiosi Industrial de la Comunitat Valenciana (OSICV)",
@@ -6978,7 +7162,11 @@
     ],
     "is_active": "Sí",
     "email": "No disponible",
-    "from_date": "2011"
+    "from_date": "2011",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio Permanente",
@@ -7049,7 +7237,11 @@
     "scope": "barcelona",
     "type": "publico",
     "website": "https://ajuntament.barcelona.cat/dretssocials/ca/content/observatori-social-bcn",
-    "is_active": "Sí"
+    "is_active": "Sí",
+    "coordinates": {
+      "lat": 41.3825802,
+      "lon": 2.177073
+    }
   },
   {
     "name": "Bilbao Observatorio (Bilbao Ekintza)",
@@ -7088,7 +7280,11 @@
       }
     ],
     "is_active": "Sí",
-    "from_date": "2021"
+    "from_date": "2021",
+    "coordinates": {
+      "lat": 37.3886303,
+      "lon": -5.9953403
+    }
   },
   {
     "name": "Observatori del Canvi Climàtic (Valencia)",
@@ -7217,7 +7413,11 @@
     "scope": "local",
     "type": "publico",
     "is_active": "No",
-    "from_date": "2024-01-09 (Propuesto)"
+    "from_date": "2024-01-09 (Propuesto)",
+    "coordinates": {
+      "lat": 40.3281942,
+      "lon": -3.76527
+    }
   },
   {
     "name": "Observatorio de la Movilidad de Rivas-Vaciamadrid",
