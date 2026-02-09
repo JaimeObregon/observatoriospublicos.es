@@ -84,6 +84,10 @@
     ],
     "from_date": "2020-07-22",
     "location": "Alcoy",
+    "coordinates": {
+      "lat": 38.6982348,
+      "lon": -0.4747619
+    },
     "name": "Observatori Municipal de l'Habitatge d'Alcoi",
     "scope": "municipal",
     "type": "publico",
@@ -1353,6 +1357,10 @@
     "is_active": "Si",
     "email": "info@observatoriodalinguagalega.org",
     "location": "Rúa de San Roque, n.º 2 15704 Santiago de Compostela",
+    "coordinates": {
+      "lat": 42.8832409,
+      "lon": -8.5416849
+    },
     "phone": "+34 881 996 302",
     "docs": [
       {
@@ -1492,7 +1500,11 @@
     "website": "https://empleacantabria.es/",
     "is_active": "Si",
     "email": "empleacantabria@cantabria.es",
-    "location": "Paseo General Dávila 87, 39006 Santander"
+    "location": "Paseo General Dávila 87, 39006 Santander",
+    "coordinates": {
+      "lat": 43.4665639,
+      "lon": -3.8145583
+    }
   },
   {
     "name": "Observatorio Español de la Economía Social y del Trabajo Autónomo",
@@ -1790,6 +1802,10 @@
   },
   {
     "location": "A Coruña",
+    "coordinates": {
+      "lat": 43.3709703,
+      "lon": -8.3959425
+    },
     "name": "Observatorio Urbano de A Coruña",
     "parents": ["Concello de A Coruña"],
     "scope": "municipal",
@@ -1797,6 +1813,10 @@
   },
   {
     "location": "A Coruña",
+    "coordinates": {
+      "lat": 43.3709703,
+      "lon": -8.3959425
+    },
     "name": "Observatorio Municipal de Igualdade e Diversidade",
     "parents": ["Concello de A Coruña"],
     "scope": "municipal",
@@ -1820,6 +1840,10 @@
   },
   {
     "location": "A Coruña",
+    "coordinates": {
+      "lat": 43.3709703,
+      "lon": -8.3959425
+    },
     "name": "Observatorio Turístico de A Coruña",
     "parents": ["Concello de A Coruña", "Universidade da Coruña"],
     "scope": "municipal",
@@ -1945,6 +1969,10 @@
   },
   {
     "location": "Alcalá de Henares",
+    "coordinates": {
+      "lat": 40.481954,
+      "lon": -3.363981
+    },
     "name": "Observatorio Urbano de Alcalá de Henares",
     "parents": ["Ayuntamiento de Alcalá de Henares"],
     "scope": "municipal",
@@ -1953,6 +1981,10 @@
   },
   {
     "location": "Alcalá de Henares",
+    "coordinates": {
+      "lat": 40.481954,
+      "lon": -3.363981
+    },
     "name": "Observatorio de Violencia de Género de Alcalá",
     "parents": ["Ayuntamiento de Alcalá de Henares"],
     "scope": "municipal",
@@ -1979,6 +2011,10 @@
   },
   {
     "location": "Alcalá de Henares",
+    "coordinates": {
+      "lat": 40.481954,
+      "lon": -3.363981
+    },
     "name": "Observatorio Sociodemográfico del Ayuntamiento de Alcalá de Henares",
     "parents": ["Ayuntamiento de Alcalá de Henares"],
     "scope": "municipal",
@@ -1987,6 +2023,10 @@
   },
   {
     "location": "Alcalá de Henares",
+    "coordinates": {
+      "lat": 40.481954,
+      "lon": -3.363981
+    },
     "name": "Observatorio Alcalá en Cifras",
     "parents": ["Ayuntamiento de Alcalá de Henares"],
     "scope": "municipal",
@@ -2648,6 +2688,10 @@
     ],
     "email": "ota@malaga.eu",
     "location": "Málaga",
+    "coordinates": {
+      "lat": 36.7213028,
+      "lon": -4.4216366
+    },
     "name": "Observatorio Tributario Andaluz",
     "parents": [
       "Ayuntamiento de Málaga",
@@ -5942,6 +5986,10 @@
     "from_date": "2022-07-29",
     "is_active": "Si",
     "location": "Madrid",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    },
     "name": "Observatorio Municipal de Violencia contra las Mujeres (Ayuntamiento de Madrid)",
     "parents": [
       "Ayuntamiento de Madrid",
@@ -5966,6 +6014,10 @@
     "from_date": "2019-03-30",
     "is_active": "Si",
     "location": "Madrid",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    },
     "name": "Observatorio de la Ciudad (Ayuntamiento de Madrid)",
     "parents": [
       "Ayuntamiento de Madrid",
@@ -5987,6 +6039,10 @@
     "from_date": "2017",
     "is_active": "Si",
     "location": "Móstoles",
+    "coordinates": {
+      "lat": 40.3238525,
+      "lon": -3.8649214
+    },
     "name": "Observatorio de la Ciudad de Móstoles (Móstoles Desarrollo)",
     "parents": ["Ayuntamiento de Móstoles", "Móstoles Desarrollo S.A."],
     "scope": "municipal",
@@ -5998,6 +6054,10 @@
     "from_date": "2018-04-18",
     "is_active": "Si",
     "location": "Getafe",
+    "coordinates": {
+      "lat": 40.3070639,
+      "lon": -3.7331808
+    },
     "name": "Observatorio de Gobierno Abierto de Getafe (Observatorio Estadístico Municipal)",
     "parents": [
       "Ayuntamiento de Getafe",
@@ -6019,6 +6079,10 @@
     "from_date": "2015",
     "is_active": "Si",
     "location": "Rivas Vaciamadrid",
+    "coordinates": {
+      "lat": 40.3536054,
+      "lon": -3.5310879
+    },
     "name": "Observatorio de Ciudad de Rivas Vaciamadrid (Observatorio Urbano RIVAS 2030)",
     "parents": [
       "Ayuntamiento de Rivas Vaciamadrid",
@@ -6748,6 +6812,10 @@
     "scope": "municipal",
     "type": "publico",
     "location": "Terrassa (Barcelona)",
+    "coordinates": {
+      "lat": 41.5629623,
+      "lon": 2.0100492
+    },
     "website": "https://www.terrassa.cat/es/observatori-de-la-qualitat-de-l-aire"
   },
   {
@@ -6757,6 +6825,10 @@
     "scope": "municipal",
     "type": "publico",
     "location": "Terrassa (Barcelona)",
+    "coordinates": {
+      "lat": 41.5629623,
+      "lon": 2.0100492
+    },
     "website": "https://www.terrassa.cat/recursos-educatius"
   },
   {
@@ -6865,6 +6937,10 @@
     "scope": "municipal",
     "type": "publico",
     "location": "Valverde de Burguillos (Badajoz)",
+    "coordinates": {
+      "lat": 38.3273746,
+      "lon": -6.5363287
+    },
     "website": "https://agendaurbanavalverdeburguillos2030.badajoz.es/"
   },
   {
@@ -6881,6 +6957,10 @@
     "scope": "municipal",
     "type": "publico",
     "location": "Albacete",
+    "coordinates": {
+      "lat": 38.9950921,
+      "lon": -1.8559154
+    },
     "website": "https://observatoriosostenibilidad.dipualba.es/web/noticias/post/OPSA-OLSA-bj"
   },
   {
@@ -6902,6 +6982,10 @@
     "scope": "municipal",
     "type": "publico",
     "location": "Madrid",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    },
     "website": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Transformacion-Digital/Indicadores-de-Administracion-Digital/?vgnextchannel=98e57dae756be710VgnVCM2000001f4a900aRCRD&vgnextfmt=default"
   },
   {
@@ -6911,6 +6995,10 @@
     "scope": "municipal",
     "type": "publico",
     "location": "Algete (Madrid)",
+    "coordinates": {
+      "lat": 40.5961297,
+      "lon": -3.4974479
+    },
     "website": "https://www.cronicanorte.es/el-psoe-de-algete-quiere-reactivar-el-observatorio-del-ruido/136624"
   },
   {
@@ -6920,6 +7008,10 @@
     "scope": "municipal",
     "type": "publico",
     "location": "Algete (Madrid)",
+    "coordinates": {
+      "lat": 40.5961297,
+      "lon": -3.4974479
+    },
     "website": "https://www.aytoalgete.es/index.php?Itemid=455&id=263%3Aalgete-reduce-contaminantes-atmosfericos-confinamiento&option=com_k2&view=item"
   }
 ]
