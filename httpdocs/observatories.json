@@ -3594,7 +3594,11 @@
       "Xunta de Galicia', 'Vicepresidencia Primera', 'Consellería de Economía, Empleo e Innovación', 'Consorcio Aeronáutico Gallego"
     ],
     "scope": "galicia",
-    "website": "https://www.consorcioaeronautico.com/observatorio-aeroespacial/gl/"
+    "website": "https://www.consorcioaeronautico.com/observatorio-aeroespacial/gl/",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "description": "El Observatorio tendrá como finalidad asesorar al Gobierno, formular planes de acción y programar actividades de conocimiento, intercambio y programación. Atendiendo a su finalidad, servirá de foro de diálogo permanente entre las distintas administraciones públicas y otras organizaciones representativas de intereses en el ámbito de la lusofonía, a fin de asegurar su participación activa en el abordaje de las relaciones de Galicia en dicho ámbito, así como aglutinará esfuerzos, coordinará las actuaciones público-privadas y procurará la consolidación en el tiempo de Galicia en el mundo de la lusofonía.",
@@ -3616,7 +3620,11 @@
       "Xunta de Galicia"
     ],
     "scope": "galicia",
-    "type": "publico"
+    "type": "publico",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "email": "ocj.dretssocials@gencat.cat",
@@ -3629,7 +3637,11 @@
     ],
     "scope": "cataluna",
     "type": "publico",
-    "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/joventut/observatori_catala_de_la_joventut/index.html"
+    "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/joventut/observatori_catala_de_la_joventut/index.html",
+    "coordinates": {
+      "lat": 41.8523094,
+      "lon": 1.5745043
+    }
   },
   {
     "docs": [
@@ -3643,7 +3655,11 @@
     "name": "Observatori Català de l’Esport",
     "scope": "cataluna",
     "type": "publico",
-    "website": "https://inefc.gencat.cat/ca/inefc/projectes_institucionals/observatori-de-lesport/index.html"
+    "website": "https://inefc.gencat.cat/ca/inefc/projectes_institucionals/observatori-de-lesport/index.html",
+    "coordinates": {
+      "lat": 41.8523094,
+      "lon": 1.5745043
+    }
   },
   {
     "description": "El Observatorio del pluralismo religioso en España aporta datos y diagnósticos sobre la diversidad de creencias y las necesidades vinculadas al ejercicio efectivo de la libertad religiosa para contribuir a la mejora de la gestión pública.",
@@ -3690,7 +3706,11 @@
     "parents": ["Gobierno de la Rioja"],
     "scope": "la_rioja",
     "type": "publico",
-    "website": "https://www.larioja.org/agricultura/es/estadistica-agraria/observatorio-precios-agrarios"
+    "website": "https://www.larioja.org/agricultura/es/estadistica-agraria/observatorio-precios-agrarios",
+    "coordinates": {
+      "lat": 42.2814642,
+      "lon": -2.482805
+    }
   },
   {
     "description": "objetivo es el impulso del despliegue de servicios de banda ancha por parte de operadores de telecomunicaciones. Esta convocatoria financia a operadores con hasta un 80% de subvención el despliegue de servicios de banda ancha de más de 300Mbps en zonas donde no existen servicios de banda ancha de más de 100Mbps. Cada operador presenta una solicitud única para cada una de las comunidades autónomas asignándose la ayuda para cada una de ellas al operador que mejor oferta presente.",
@@ -3745,7 +3765,11 @@
     "parents": ["Consejo de la Juventud"],
     "scope": "navarra",
     "type": "publico",
-    "website": "https://www.juventudnavarra.es/es/observatorio-joven"
+    "website": "https://www.juventudnavarra.es/es/observatorio-joven",
+    "coordinates": {
+      "lat": 42.7027944,
+      "lon": -1.7086231
+    }
   },
   {
     "description": "Facilitar la acción intersectorial y comunitaria en salud, adaptando la información a cada contexto y cada uno de los sectores",
@@ -3880,7 +3904,11 @@
     ],
     "scope": "andalucia",
     "type": "publico",
-    "website": "https://www.observatoriodelainfancia.es/oia/esp/index.aspx"
+    "website": "https://www.observatoriodelainfancia.es/oia/esp/index.aspx",
+    "coordinates": {
+      "lat": 37.3399964,
+      "lon": -4.5811614
+    }
   },
   {
     "is_active": "None",
@@ -4377,7 +4405,11 @@
     ],
     "scope": "cataluna",
     "type": "publico",
-    "website": "https://observatori.smartcatalonia.gencat.cat/about"
+    "website": "https://observatori.smartcatalonia.gencat.cat/about",
+    "coordinates": {
+      "lat": 41.8523094,
+      "lon": 1.5745043
+    }
   },
   {
     "description": "Promover la innovación social y empresarial",
@@ -4542,7 +4574,11 @@
     "parents": ["Departament d'Empresa i Treball", "Generalitat de Catalunya"],
     "scope": "cataluna",
     "type": "publico",
-    "website": "https://observatoritreball.gencat.cat/ca/inici"
+    "website": "https://observatoritreball.gencat.cat/ca/inici",
+    "coordinates": {
+      "lat": 41.8523094,
+      "lon": 1.5745043
+    }
   },
   {
     "name": "Observatori del treball",
@@ -4604,7 +4640,11 @@
     "parents": ["Departament de Drets Socials", "Generalitat de Catalunya"],
     "scope": "cataluna",
     "type": "publico",
-    "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/civisme_i_valors/observatori/"
+    "website": "https://dretssocials.gencat.cat/ca/ambits_tematics/civisme_i_valors/observatori/",
+    "coordinates": {
+      "lat": 41.8523094,
+      "lon": 1.5745043
+    }
   },
   {
     "docs": [
@@ -4618,7 +4658,11 @@
     "parents": ["Gobierno del Principado de Asturias", "Consejería de Salud"],
     "scope": "asturias",
     "type": "publico",
-    "website": "https://www.astursalud.es/noticias/-/noticias/omd"
+    "website": "https://www.astursalud.es/noticias/-/noticias/omd",
+    "coordinates": {
+      "lat": 43.3133868,
+      "lon": -5.94192
+    }
   },
   {
     "description": "Centro educativo y divulgativo de Valencia para formar, concienciar y sensibilizar frente al cambio climático.",
@@ -4660,7 +4704,11 @@
       "Presidència. Telecomunicacions i transformació digital",
       "Generalitat de Catalunya"
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 41.8523094,
+      "lon": 1.5745043
+    }
   },
   {
     "description": "Según el [DECRETO 150/2006, de 6 de octubre, del Consell, por el que se crea el Observatorio de Precios de los Productos Agroalimentarios de la Comunitat Valenciana](https://dogv.gva.es/es/resultat-dogv?signatura=2006/11596).",
@@ -4675,7 +4723,11 @@
     "name": "Observatorio de Precios de los Productos Agroalimetarios de la Comunitat Valenciana",
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851"
+    "website": "https://www.gva.es/es/inicio/atencion_ciudadano/buscadores/departamentos/detalle_departamentos?id_dept=14851",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "name": "Observatorio de Sostenibilidad Urbana del Plan de Acción Local de la Agenda Urbana 2030 de Alcalá de Guadaíra",
@@ -4716,7 +4768,11 @@
     ],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://argos.gva.es/va/web/prospectiva/observatori"
+    "website": "https://argos.gva.es/va/web/prospectiva/observatori",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "email": "smn.obsam@cime.es",
@@ -4833,7 +4889,11 @@
     ],
     "scope": "cataluna",
     "type": "publico",
-    "website": "https://omc.cat"
+    "website": "https://omc.cat",
+    "coordinates": {
+      "lat": 41.8523094,
+      "lon": 1.5745043
+    }
   },
   {
     "description": "De este modo en el año 2005 surge el Observatorio de la Violencia de Género, donde diariamente recopilamos, a través de los medios de comunicación, y fuentes oficiales e institucionales relacionadas con la violencia de género, noticias, opiniones e informes que puedan ser de interés no sólo para profesionales en la materia, sino para la población en su conjunto.",
@@ -4885,7 +4945,11 @@
     ],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://brechadigital.gva.es"
+    "website": "https://brechadigital.gva.es",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "description": "Realiza estudios e investigaciones encaminadas a mantener actualizado el Diagnóstico Social de la ciudad, entendiendo este, como un proceso permanente de análisis social de la ciudad, en el que se enmarcan todas las publicaciones.",
@@ -4936,7 +5000,11 @@
     ],
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://isek.euskadi.eus/webisek00-isekquees/es/"
+    "website": "https://isek.euskadi.eus/webisek00-isekquees/es/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "docs": [
@@ -5061,7 +5129,11 @@
     ],
     "scope": "comunidad_de_madrid",
     "type": "publico",
-    "website": "https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-regional-violencia-genero"
+    "website": "https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-regional-violencia-genero",
+    "coordinates": {
+      "lat": 40.5248319,
+      "lon": -3.7715628
+    }
   },
   {
     "is_active": "None",
@@ -5151,7 +5223,11 @@
     ],
     "scope": "canarias",
     "type": "publico",
-    "website": "https://obecan.es"
+    "website": "https://obecan.es",
+    "coordinates": {
+      "lat": 28.2935785,
+      "lon": -16.6214471
+    }
   },
   {
     "name": "Observatorio de Precios Agrarios de la Región de Murcia",
@@ -5218,7 +5294,11 @@
     ],
     "scope": "cataluna",
     "type": "publico",
-    "website": "https://observatorisalut.gencat.cat/ca/observatori_mort"
+    "website": "https://observatorisalut.gencat.cat/ca/observatori_mort",
+    "coordinates": {
+      "lat": 41.8523094,
+      "lon": 1.5745043
+    }
   },
   {
     "name": "Observatorio de Conducta Ética de la Guardia Civil",
@@ -5279,7 +5359,11 @@
     ],
     "scope": "comunidad_de_madrid",
     "type": "publico",
-    "website": "https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-comunidad-madrid-victimas-del-delito"
+    "website": "https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-comunidad-madrid-victimas-del-delito",
+    "coordinates": {
+      "lat": 40.5248319,
+      "lon": -3.7715628
+    }
   },
   {
     "is_active": "None",
@@ -5287,7 +5371,11 @@
     "parents": ["Comunidad de Madrid", "Consejería de Sanidad"],
     "scope": "comunidad_de_madrid",
     "type": "publico",
-    "website": "https://www.comunidad.madrid/servicios/salud/observatorio-resultados-servicio-madrileno-salud"
+    "website": "https://www.comunidad.madrid/servicios/salud/observatorio-resultados-servicio-madrileno-salud",
+    "coordinates": {
+      "lat": 40.5248319,
+      "lon": -3.7715628
+    }
   },
   {
     "description": "Proyecto transversal en el que participan las áreas de Deportes, Medio Ambiente, Turismo de Tenerife y Carreteras con el fin de ordenar y mejorar la situación del ciclismo en la Isla.\n\nCabildo de Tenerife",
@@ -5352,7 +5440,11 @@
     ],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://portalindustria.gva.es/es/observatorio-de-la-industria"
+    "website": "https://portalindustria.gva.es/es/observatorio-de-la-industria",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "is_active": "None",
@@ -5360,7 +5452,11 @@
     "parents": ["Generalitat Valenciana", "Conselleria de Justicia e Interior"],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://cjusticia.gva.es/es/web/processos-electorals/observatori-electoral"
+    "website": "https://cjusticia.gva.es/es/web/processos-electorals/observatori-electoral",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "description": "Para conocer un poco más sobre la historia de la Inteligencia Artificial, identificar a los agentes implicados y comenzar a manejarse con los términos más habituales empleados en este campo.",
@@ -5379,7 +5475,11 @@
     ],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://observatorioia.gva.es/es/"
+    "website": "https://observatorioia.gva.es/es/",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "name": "Observatorio transfronteirizo Galicia–Norte de Portugal",
@@ -5401,7 +5501,11 @@
     ],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://inclusio.gva.es/es/web/igualdad-diversidad/observatori-valencia-per-a-la-igualtat-de-trace-la-no-discriminacio-i-la-prevencio-dels-delictes-d-odi"
+    "website": "https://inclusio.gva.es/es/web/igualdad-diversidad/observatori-valencia-per-a-la-igualtat-de-trace-la-no-discriminacio-i-la-prevencio-dels-delictes-d-odi",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "is_active": "None",
@@ -5412,7 +5516,11 @@
     ],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://ceice.gva.es/es/web/inclusioeducativa/observatori-per-a-la-convivencia"
+    "website": "https://ceice.gva.es/es/web/inclusioeducativa/observatori-per-a-la-convivencia",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "is_active": "None",
@@ -5423,7 +5531,11 @@
     ],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://brechadigital.gva.es/es"
+    "website": "https://brechadigital.gva.es/es",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "is_active": "None",
@@ -5431,7 +5543,11 @@
     "parents": ["Generalitat Valenciana", "Consellería de Cultura y Deporte"],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://ovc.gva.es/es/observatori"
+    "website": "https://ovc.gva.es/es/observatori",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "is_active": "None",
@@ -5442,7 +5558,11 @@
     ],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://ceice.gva.es/va/web/dg-trabajo/observatori-valencia-del-treball-decent"
+    "website": "https://ceice.gva.es/va/web/dg-trabajo/observatori-valencia-del-treball-decent",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "is_active": "Sí",
@@ -5471,7 +5591,11 @@
     "name": "Observatorio de la Montaña de Aragón",
     "scope": "aragon",
     "type": "publico",
-    "website": "https://observatoriomontanaragon.com"
+    "website": "https://observatoriomontanaragon.com",
+    "coordinates": {
+      "lat": 41.3787291,
+      "lon": -0.7639373
+    }
   },
   {
     "is_active": "None",
@@ -5479,7 +5603,11 @@
     "parents": ["Agència Tributària Valenciana"],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://atv.gva.es/es/observatori-fiscal"
+    "website": "https://atv.gva.es/es/observatori-fiscal",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "email": "oasi@aragon.es",
@@ -5554,7 +5682,11 @@
     "parents": ["Hazi", "Gobierno Vasco"],
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://behatoki.eus"
+    "website": "https://behatoki.eus",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Observatorio Valenciano de las familias",
@@ -5589,7 +5721,11 @@
     "parents": ["Gobierno de Navarra", "Departamento de Salud"],
     "scope": "navarra",
     "type": "publico",
-    "website": "http://www.nafarroa.gob.es/home_es/Temas/Portal+de+la+Salud/Ciudadania/Me+cuido/Al+final+de+la+vida/Observatorio+de+la+Muerte+Digna/"
+    "website": "http://www.nafarroa.gob.es/home_es/Temas/Portal+de+la+Salud/Ciudadania/Me+cuido/Al+final+de+la+vida/Observatorio+de+la+Muerte+Digna/",
+    "coordinates": {
+      "lat": 42.7027944,
+      "lon": -1.7086231
+    }
   },
   {
     "is_active": "None",
@@ -5634,14 +5770,22 @@
     "name": "Observatorio Regional Contra la Discriminación por Orientación Sexual e Identidad de Género",
     "scope": "region_de_murcia",
     "type": "publico",
-    "website": "https://transparencia.carm.es/-/observatorio-regional-contra-la-discriminacion-por-orientacion-sexual-e-identidad-de-genero-en-la-comunidad-autonoma-de-la-region-de-murcia#gsc.tab=0"
+    "website": "https://transparencia.carm.es/-/observatorio-regional-contra-la-discriminacion-por-orientacion-sexual-e-identidad-de-genero-en-la-comunidad-autonoma-de-la-region-de-murcia#gsc.tab=0",
+    "coordinates": {
+      "lat": 37.9166355,
+      "lon": -1.4779797
+    }
   },
   {
     "is_active": "None",
     "name": "Observatorio Virtual del Paisaje Mediterráneo",
     "scope": "region_de_murcia",
     "type": "publico",
-    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=9855&IDTIPO=246&RASTRO=c2195$m36284,36363"
+    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=9855&IDTIPO=246&RASTRO=c2195$m36284,36363",
+    "coordinates": {
+      "lat": 37.9166355,
+      "lon": -1.4779797
+    }
   },
   {
     "docs": [
@@ -5663,7 +5807,11 @@
     ],
     "scope": "region_de_murcia",
     "type": "publico",
-    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=227&IDTIPO=200&__PLANT_PERSONALIZADA=/JSP/CARM/carm2018/organigramas/plantillaDetalleOrganigrama.jsp&IDESTRUCTURAJERARQUICA=473&RASTRO=c77$m5782"
+    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=227&IDTIPO=200&__PLANT_PERSONALIZADA=/JSP/CARM/carm2018/organigramas/plantillaDetalleOrganigrama.jsp&IDESTRUCTURAJERARQUICA=473&RASTRO=c77$m5782",
+    "coordinates": {
+      "lat": 37.9166355,
+      "lon": -1.4779797
+    }
   },
   {
     "description": "El Observatorio de Convivencia es un conjunto de herramientas y mecanismos diversos y flexibles tanto para el análisis como para la búsqueda de respuestas a las necesidades de cohesión social de nuestra ciudad, que se adaptan a una realidad cada vez más diversa y cuya gestión resulta compleja.",
@@ -5693,7 +5841,11 @@
     "parents": ["Diputación Foral de Álava / Arabako Foru Aldundia"],
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://web.araba.eus/es/medio-ambiente/residuos/observatorio-de-residuos"
+    "website": "https://web.araba.eus/es/medio-ambiente/residuos/observatorio-de-residuos",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "description": "Para analizar y difundir información sobre la evolución de los indicadores relativos a la igualdad entre mujeres y hombres, para mejorar la planificación y evaluación de las políticas públicas desde la perspectiva de género.",
@@ -5707,7 +5859,11 @@
     ],
     "scope": "islas_baleares",
     "type": "publico",
-    "website": "https://observatori-igualtat.es/es/"
+    "website": "https://observatori-igualtat.es/es/",
+    "coordinates": {
+      "lat": 39.613432,
+      "lon": 2.8829185
+    }
   },
   {
     "description": "Órgano colegiado de carácter consultivo y de impulso al desarrollo de las políticas del Gobierno de Aragón de apoyo a las familias.\n\nObjetivos\r\n- Conocer, desde una perspectiva multisectorial, la situación, calidad de vida y demandas de las familias en Aragón.\r\n- Asesorar y realizar el seguimiento de la incidencia que sobre las familias aragonesas tienen las políticas públicas.\r\n- Promover mejoras sociales, económicas y legislativas que redunden en beneficio y apoyo de las familias aragonesas.\r\n- Estimular la investigación y el conocimiento de la realidad socio-económica de las familias en Aragón.\n\nGobierno de Aragón",
@@ -5936,7 +6092,11 @@
     "parents": ["Gobierno de Aragón"],
     "scope": "aragon",
     "type": "publico",
-    "website": "https://www.aragoncambioclimatico.es/observatorio/"
+    "website": "https://www.aragoncambioclimatico.es/observatorio/",
+    "coordinates": {
+      "lat": 41.3787291,
+      "lon": -0.7639373
+    }
   },
   {
     "description": "STO Mallorca nace en el marco del [Plan de Recuperación, Transformación y Resiliencia del Gobierno de España](https://www.mincotur.gob.es/es-es/recuperacion-transformacion-resiliencia/paginas/plan-recuperacion-transformacion-resiliencia.aspx) con los fondos europeos Next Generation EU alineados con el plan estratégico de la FMT.\n\nEl Observatorio de Turismo Sostenible de Mallorca tiene como misión generar información de valor que permita guiar las decisiones del sector público y privado, dotando de inteligencia toda la cadena de valor de forma que se incrementa su competitividad y productividad, teniendo siempre en consideración los principios directores de la sostenibilidad.\n\nEl Observatorio de Turismo Sostenible de Mallorca tiene como misión generar información de valor que permita guiar las decisiones del sector público y privado, dotando de inteligencia toda la cadena de valor de forma que se incrementa su competitividad y productividad, teniendo siempre en consideración los principios directores de la sostenibilidad.\n\n- La Agencia de Estrategia Turística de las Islas Baleares (AETIB)\r\n- La Federación de Entidades Locales de las Islas Baleares (FELIB)\r\n- La Cámara de Comercio de Mallorca\r\n- AENA (Aeropuertos Españoles y Navegación Aérea)\r\n- La Autoridad Portuaria de Baleares (APB)\r\n- La Agencia Estatal de Meteorología (AEMET)\r\n- El Instituto de Estadística de las Illes Balears (IBESTAT)\r\n- Federación Empresarial Hotelera de Mallorca\r\n- Agrupación de Cadenas Hoteleras Baleares\r\n- Agrupación Empresarial de Agencias de Viaje de Baleares\r\n- Creado en 1905, Fomento del Turismo de Mallorca\r\n- La Fundación Impulsa Balears\r\n- El clúster internacional de las Tecnologías de la Información y la Comunicación aplicadas al Turismo (TURISTEC)\r\n- La Universitat de les Illes Balears (UIB)",
@@ -6059,7 +6219,11 @@
     "parents": ["Diputación de Cáceres"],
     "scope": "provincial",
     "type": "publico",
-    "website": "https://observatoriodipcc.dip-caceres.es/"
+    "website": "https://observatoriodipcc.dip-caceres.es/",
+    "coordinates": {
+      "lat": 39.4745175,
+      "lon": -6.3716761
+    }
   },
   {
     "name": "Observatorio de Buenas Prácticas Regulatorias",
@@ -6439,7 +6603,11 @@
     ],
     "scope": "provincial",
     "type": "publico",
-    "website": "https://www.dataraba.eus"
+    "website": "https://www.dataraba.eus",
+    "coordinates": {
+      "lat": 42.8440723,
+      "lon": -2.6820829
+    }
   },
   {
     "description": "Aquest projecte va néixer a la UIB l'any 2008 com a resultat del conveni de col·laboració entre el Govern Balear i la Universitat de les Illes Balears en matèria de serveis socials. Aquella primera etapa es va desenvolupar entre 2008 i 2012. Ara, en un context difícil de nou, la Universitat de les Illes Balears, a través de la Càtedra d’Innovació Social “la Caixa”, dóna un nou impuls a l'Observatori Social de les Illes Balears, amb l’objectiu de recollir i generar informació per millorar el coneixement de la situació social de Mallorca, Menorca, Eivissa i Formentera i detectar situacions emergents, punts crítics i respostes innovadores que facilitin la cohesió i la justícia social.",
@@ -6463,7 +6631,11 @@
     ],
     "scope": "islas_baleares",
     "type": "publico",
-    "website": "https://osib.uib.cat"
+    "website": "https://osib.uib.cat",
+    "coordinates": {
+      "lat": 39.613432,
+      "lon": 2.8829185
+    }
   },
   {
     "description": "Anunciado el 4 de julio de 2024 sin más detalles. Enmarcado en una subvención de 150.000 € para el Programa de Segunda Oportunidad del Gobierno de Aragón.",
@@ -6475,7 +6647,11 @@
     ],
     "scope": "aragon",
     "type": "mixto",
-    "website": "https://www.aragonhoy.es/vicepresidencia-segunda-economia-empleo-industria/gobierno-aragon-sella-ata-upta-acuerdo-desarrollar-programa-segunda-oportunidad-96693"
+    "website": "https://www.aragonhoy.es/vicepresidencia-segunda-economia-empleo-industria/gobierno-aragon-sella-ata-upta-acuerdo-desarrollar-programa-segunda-oportunidad-96693",
+    "coordinates": {
+      "lat": 41.3787291,
+      "lon": -0.7639373
+    }
   },
   {
     "description": "Iniciativa de la Dirección General de Protección de Consumidores y &nbsp;Usuarios y de la Universidad de Zaragoza para, en el marco de las líneas de investigación ya consolidadas, dar un nuevo paso en el servicio a los consumidores aragoneses, integrando la información existente en las bases de datos del Centro de Información y Documentación Aragonés de Consumo (CIDAC) —señaladamente la información de prensa y los estudios realizados por otras entidades— y el Sistema de Información de Consumo —fundamentalmente los datos sobre consultas, reclamaciones y denuncias, campañas y arbitraje—, y completándola con información procedente de forma directa del consumidor — mediante encuestas.",
@@ -6533,27 +6709,47 @@
     ],
     "scope": "islas_baleares",
     "type": "publico",
-    "website": "https://www.caib.es/sites/objib/es/inici-33505/"
+    "website": "https://www.caib.es/sites/objib/es/inici-33505/",
+    "coordinates": {
+      "lat": 39.613432,
+      "lon": 2.8829185
+    }
   },
   {
     "name": "Observatorio Vasco del Comercio",
     "scope": "pais_vasco",
-    "website": "https://www.euskadi.eus/gobierno-vasco/observatorio-comercio/"
+    "website": "https://www.euskadi.eus/gobierno-vasco/observatorio-comercio/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Observatorio Vasco de los Servicios Sociales",
     "scope": "pais_vasco",
-    "website": "https://www.behatuz.eus/es/"
+    "website": "https://www.behatuz.eus/es/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Observatorio Vasco de la Cadena Alimentaria de Euskadi",
     "scope": "pais_vasco",
-    "website": "https://behatoki.eus/"
+    "website": "https://behatoki.eus/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Observatorio Mujer Empresa",
     "scope": "pais_vasco",
-    "website": "https://www.aedbiz.org/observatorio-aed/"
+    "website": "https://www.aedbiz.org/observatorio-aed/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Observatorio y Consejo Social para el Reto Demográfico",
@@ -6761,7 +6957,11 @@
     "scope": "region_de_murcia",
     "type": "publico",
     "is_active": "Si",
-    "from_date": "2019"
+    "from_date": "2019",
+    "coordinates": {
+      "lat": 37.9166355,
+      "lon": -1.4779797
+    }
   },
   {
     "name": "Observatorio Regional del Cambio Climático",
