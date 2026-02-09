@@ -8893,5 +8893,131 @@
       "lon": -3.4974479
     },
     "website": "https://www.aytoalgete.es/index.php?Itemid=455&id=263%3Aalgete-reduce-contaminantes-atmosfericos-confinamiento&option=com_k2&view=item"
+  },
+  {
+    "name": "Observatorio Insular de Turismo de Fuerteventura (OITF)",
+    "location": "Puerto del Rosario, Fuerteventura (Las Palmas)",
+    "description": "Plataforma/observatorio turístico del Cabildo (Patronato de Turismo) para monitorizar tendencias y comportamiento de visitantes. <a href=\"https://www.cabildofuer.es/cabildo/el-patronato-muestra-al-sector-y-ayuntamientos-el-funcionamiento-del-observatorio-insular-de-turismo/\">Fuente</a>.",
+    "parents": [
+      "Cabildo de Fuerteventura",
+      "Patronato de Turismo de Fuerteventura"
+    ],
+    "scope": "canarias",
+    "type": "publico",
+    "website": "https://www.cabildofuer.es/cabildo/el-patronato-muestra-al-sector-y-ayuntamientos-el-funcionamiento-del-observatorio-insular-de-turismo/",
+    "coordinates": {
+      "lat": 28.4985221,
+      "lon": -13.8607685
+    }
+  },
+  {
+    "name": "Observatori / Observatorio contra la LGTBI-fòbia de Nules",
+    "location": "Nules (Castellón)",
+    "description": "Observatorio municipal contra la LGTBI-fobia promovido por el Ayuntamiento de Nules. <a href=\"https://nules.org/es/2024/04/15/nules-crea-el-primer-observatori-contra-la-lgtbi-fobia/\">Fuente</a>.",
+    "parents": ["Ayuntamiento de Nules"],
+    "scope": "municipal",
+    "type": "publico",
+    "website": "https://nules.org/es/2024/04/15/nules-crea-el-primer-observatori-contra-la-lgtbi-fobia/",
+    "coordinates": {
+      "lat": 39.8533759,
+      "lon": -0.1548132
+    }
+  },
+  {
+    "name": "Observatorio Meteorológico de Igueldo",
+    "location": "Monte Igueldo, Donostia/San Sebastián (Gipuzkoa)",
+    "description": "Reapertura y puesta en marcha del observatorio/estación meteorológica de Igeldo (Igueldo) en Donostia/San Sebastián. <a href=\"https://www.aemet.es/es/noticias/2021/12/reapertura_igueldo\">Fuente</a>.",
+    "parents": ["Agencia Estatal de Meteorología (AEMET)"],
+    "scope": "pais_vasco",
+    "type": "publico",
+    "website": "https://www.aemet.es/es/noticias/2021/12/reapertura_igueldo",
+    "coordinates": {
+      "lat": 43.3063889,
+      "lon": -2.0411111
+    }
+  },
+  {
+    "name": "Observatorio de Indicadores de la Agenda Urbana 2030 de Vitoria-Gasteiz",
+    "location": "Vitoria-Gasteiz (Álava)",
+    "description": "Observatorio/plataforma de indicadores de la Agenda Urbana 2030 de Vitoria-Gasteiz, con mejoras adicionales contratadas en 2025 (expediente 2025/CO_SSER/0076). <a href=\"https://www.euskadi.eus/anuncio_contratacion/mejoras-adicionales-para-el-desarrollo-del-observatorio-de-indicadores-de-la-agenda-urbana-2030-en-la-ciudad-de-vitoria-gasteiz/web01-s2ing/es/\">Fuente</a>.",
+    "parents": ["Ayuntamiento de Vitoria-Gasteiz"],
+    "scope": "municipal",
+    "type": "publico",
+    "website": "https://www.euskadi.eus/anuncio_contratacion/mejoras-adicionales-para-el-desarrollo-del-observatorio-de-indicadores-de-la-agenda-urbana-2030-en-la-ciudad-de-vitoria-gasteiz/web01-s2ing/es/",
+    "coordinates": {
+      "lat": 42.8468097,
+      "lon": -2.6723289
+    }
+  },
+  {
+    "name": "Observatorio de Sostenibilidad (Reserva de la Biosfera La Palma)",
+    "location": "Santa Cruz de La Palma (Santa Cruz de Tenerife)",
+    "description": "Observatorio de sostenibilidad de la Fundación Canaria Reserva Mundial de la Biosfera La Palma, orientado a la publicación de indicadores relevantes de la isla. <a href=\"https://lapalmabiosfera.es/la-fundacion-canaria-reserva-mundial-biosfera/observatorio-de-sostenibilidad/\">Fuente</a>.",
+    "parents": ["Fundación Canaria Reserva Mundial de la Biosfera La Palma"],
+    "scope": "canarias",
+    "type": "publico",
+    "website": "https://lapalmabiosfera.es/la-fundacion-canaria-reserva-mundial-biosfera/observatorio-de-sostenibilidad/",
+    "coordinates": {
+      "lat": 28.6832581,
+      "lon": -17.7661801
+    }
+  },
+  {
+    "name": "Observatorio de Empleo (Ayuntamiento de Cartagena)",
+    "location": "Cartagena (Región de Murcia)",
+    "description": "Observatorio municipal de empleo dentro del portal \"Cartagena en cifras\". <a href=\"https://www.adlecartagena.es/empleo/observatorio-municipal-de-empleo/\">Fuente</a>.",
+    "parents": ["Ayuntamiento de Cartagena"],
+    "scope": "municipal",
+    "type": "publico",
+    "website": "https://www.adlecartagena.es/empleo/observatorio-municipal-de-empleo/",
+    "coordinates": {
+      "lat": 37.6025445,
+      "lon": -0.9829459
+    }
+  },
+  {
+    "name": "Observatorio Turístico del Baix Empordà",
+    "location": "La Bisbal d'Empordà (Girona)",
+    "description": "Observatorio turístico comarcal del Baix Empordà, impulsado por el Consell Comarcal (con asesoramiento universitario). <a href=\"https://observatoriemporda.com/\">Fuente</a>.",
+    "parents": [
+      "Consell Comarcal del Baix Empordà",
+      "Universitat Autònoma de Barcelona (UAB)"
+    ],
+    "scope": "cataluna",
+    "type": "publico",
+    "website": "https://observatoriemporda.com/",
+    "coordinates": {
+      "lat": 41.958629,
+      "lon": 3.0392549
+    }
+  },
+  {
+    "name": "Observatorio Astronómico Hispano-Alemán de Calar Alto (CAHA)",
+    "location": "Sierra de los Filabres (Almería)",
+    "description": "Infraestructura científica (ICTS) de observación astronómica en Calar Alto. <a href=\"https://www.caha.es/\">Sitio web</a>. <a href=\"https://www.ciencia.gob.es/AreasTematicas/CienciaTecnologiaEInnovacion/ICTS/MapaICTS/Infraestructuras/observatorio-astronomico-hispano-aleman-de-calar-alto.html\">Referencia ICTS</a>.",
+    "parents": [
+      "Junta de Andalucía",
+      "Instituto de Astrofísica de Andalucía (IAA-CSIC)"
+    ],
+    "scope": "andalucia",
+    "type": "publico",
+    "website": "https://www.caha.es/",
+    "coordinates": {
+      "lat": 37.2236111,
+      "lon": -2.5461111
+    }
+  },
+  {
+    "name": "Observatorio Astrofísico de Javalambre (OAJ)",
+    "location": "Pico del Buitre, Sierra de Javalambre (Teruel)",
+    "description": "Infraestructura científica (ICTS) del Centro de Estudios de Física del Cosmos de Aragón (CEFCA). <a href=\"https://oaj.cefca.es/\">Sitio web</a>. <a href=\"https://www.ciencia.gob.es/AreasTematicas/CienciaTecnologiaEInnovacion/ICTS/MapaICTS/Infraestructuras/observatorio-astrofisico-de-javalambre.html\">Referencia ICTS</a>. <a href=\"https://www.cefca.es/cefca_en.php?id=12\">Coordenadas (CEFCA)</a>.",
+    "parents": ["Centro de Estudios de Física del Cosmos de Aragón (CEFCA)"],
+    "scope": "aragon",
+    "type": "publico",
+    "website": "https://oaj.cefca.es/",
+    "coordinates": {
+      "lat": 40.0418278,
+      "lon": -1.0162722
+    }
   }
 ]
