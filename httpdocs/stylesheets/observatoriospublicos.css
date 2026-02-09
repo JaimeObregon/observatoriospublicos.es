@@ -112,3 +112,27 @@ dialog h3 {
   text-transform: capitalize;
   margin: 0 0.25rem;
 }
+
+#observatories-map {
+  height: clamp(18rem, 50vh, 32rem);
+  margin: 1em 0 0.5em;
+  border: 1px solid var(--pico-muted-border-color);
+  border-radius: 0.75em;
+  overflow: hidden;
+  background: var(--pico-muted-background-color);
+}
+
+#observatories-map-stats {
+  display: block;
+  color: var(--pico-muted-color);
+  margin-bottom: 1em;
+}
+
+#observatories-map .leaflet-container {
+  font: inherit;
+}
+
+#observatories-map .leaflet-popup-content ul {
+  margin: 0.5em 0 0;
+  padding-left: 1.25em;
+}

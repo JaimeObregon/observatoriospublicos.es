@@ -28,6 +28,10 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
     />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.css"
+    />
     <link rel="stylesheet" href="/stylesheets/typography.css" />
     <link rel="stylesheet" href="/stylesheets/observatoriospublicos.css" />
     <link rel="stylesheet" href="/stylesheets/searchbar.css" />
@@ -35,6 +39,10 @@
     <link rel="icon" type="image/svg+xml" href="/assets/icon.svg" />
     <link rel="apple-touch-icon" href="/assets/icon.png" />
 
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/leaflet@1.9.4/dist/leaflet.js"
+    ></script>
     <script type="module" src="/modules/observatoriospublicos.js"></script>
 
     <meta name="twitter:card" content="summary_large_image" />
@@ -3101,6 +3109,9 @@
           público-privados de España. De momento hemos identificado
           <mark data-tooltip="Y los que quedan…">estos</mark>.
         </p>
+
+        <div id="observatories-map" aria-label="Mapa de observatorios"></div>
+        <small id="observatories-map-stats"></small>
 
         <x-catalog></x-catalog>
 

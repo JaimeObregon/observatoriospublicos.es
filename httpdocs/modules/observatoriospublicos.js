@@ -3,6 +3,7 @@ import {
   createObservatoryDetailsComponent,
   createObservatoryCardComponent,
 } from './observatorioContent.js'
+import { initMap } from './map.js'
 import { initSearchBar } from './searchbar.js'
 
 // Ventana modal
@@ -70,6 +71,9 @@ async function main() {
   // Contador total
   const count = document.querySelector('mark')
   count.innerHTML = observatories.length.toString()
+
+  // Mapa
+  initMap(observatories)
 
   // Se actualizan los observatorios
   updateObservatories(observatories)
