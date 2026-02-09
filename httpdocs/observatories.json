@@ -157,7 +157,11 @@
     ],
     "scope": "provincial",
     "type": "publico",
-    "website": "https://despoblacionguadalajara.es/"
+    "website": "https://despoblacionguadalajara.es/",
+    "coordinates": {
+      "lat": 40.7399963,
+      "lon": -2.50593
+    }
   },
   {
     "description": "Este organismos pretende poner en valor el patrimonio natural-ambiental de los casi 500 ríos de Galicia, que funcionará como un órgano de asesoramiento sobre el estado ambiental, económico, social y cultural de los rios.<br/>No ha sido posible encontrar información sobre si el observatorio está activo o no, tampoco sobre su actividad, si la tuviere.",
@@ -338,7 +342,11 @@
     "parents": ["Ayuntamiento de Fuenlabrada"],
     "scope": "local",
     "type": "publico",
-    "website": "https://cife.ayto-fuenlabrada.es/observatorio-local-empleo-fuenlabrada/"
+    "website": "https://cife.ayto-fuenlabrada.es/observatorio-local-empleo-fuenlabrada/",
+    "coordinates": {
+      "lat": 40.282476,
+      "lon": -3.7923422
+    }
   },
   {
     "name": "Observatorio de la Infancia de Cataluña / Observatori dels Drets dels Infants",
@@ -615,7 +623,11 @@
     ],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://agrobservex.juntaex.es/"
+    "website": "https://agrobservex.juntaex.es/",
+    "coordinates": {
+      "lat": 39.1748426,
+      "lon": -6.1529891
+    }
   },
   {
     "description": "El Observatorio de Igualdad de la CRTVE vela por el cumplimiento de los compromisos legales en materia de igualdad de la corporación, haciendo un seguimiento de los contenidos de RTVE y garantizando en ellos el respeto a la igualdad entre mujeres y hombres. Su objetivo es que la corporación sea referente en la defensa de la igualdad y la lucha para la erradicación de la violencia contra las mujeres.",
@@ -978,7 +990,11 @@
       {
         "url": "https://startupvalencia.org/es/descarga-informe-observatorio/"
       }
-    ]
+    ],
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "name": "Observatorio Galego de Dinamización Demográfica",
@@ -1028,7 +1044,11 @@
     "is_active": "No",
     "name": "Observatorio Nacional contra el Despoblamiento",
     "parents": ["Gobierno de Cantabria", "Ayuntamiento de Valderredible"],
-    "scope": "estatal"
+    "scope": "estatal",
+    "coordinates": {
+      "lat": 42.8564085,
+      "lon": -3.9708898
+    }
   },
   {
     "docs": [
@@ -1588,7 +1608,11 @@
     "description": "El Observatorio Extremeño de las TIC es una plataforma que recopila, analiza y difunde información sobre el uso de las tecnologías de la información y la comunicación (TIC) en Extremadura. La información que se comparte, pretende ayudar a las personas lectoras a comprender el histórico y la situación actual de la región extremeña respecto a las TIC y generar una visión completa de hacia dónde evoluciona nuestra región en materia digital y tecnológica.",
     "scope": "extremadura",
     "type": "publico",
-    "website": "https://extremaduradigital.org/"
+    "website": "https://extremaduradigital.org/",
+    "coordinates": {
+      "lat": 39.1748426,
+      "lon": -6.1529891
+    }
   },
   {
     "name": "Observatorio Agrario",
@@ -1624,7 +1648,11 @@
     "type": "publico",
     "email": "info@obsevatoriofiex.es",
     "website": "https://observatoriofiex.es/observatorio-fiex/",
-    "description": "Para el estudio y análisis de la realidad social de las familias extremeñas, junto con el asesoramiento a los poderes públicos en relación a las políticas de apoyo a estas familias"
+    "description": "Para el estudio y análisis de la realidad social de las familias extremeñas, junto con el asesoramiento a los poderes públicos en relación a las políticas de apoyo a estas familias",
+    "coordinates": {
+      "lat": 39.1748426,
+      "lon": -6.1529891
+    }
   },
   {
     "name": "Observatorio de Derechos Digitales",
@@ -1638,7 +1666,11 @@
     "name": "Observatorio para la Convivencia Escolar de Extremadura",
     "scope": "extremadura",
     "website": "https://www.educarex.es/convivencia/observatorio-convivencia-escolar-02.html",
-    "parents": ["Secretaría General de Educación"]
+    "parents": ["Secretaría General de Educación"],
+    "coordinates": {
+      "lat": 39.1748426,
+      "lon": -6.1529891
+    }
   },
   {
     "name": "Observatorio de Prevención de Riesgos Laborales de la Comunidad Autónoma de la Región de Murcia",
@@ -1649,7 +1681,11 @@
   },
   {
     "name": "Observatorio de Turismo de Extremadura",
-    "scope": "extremadura"
+    "scope": "extremadura",
+    "coordinates": {
+      "lat": 39.1748426,
+      "lon": -6.1529891
+    }
   },
   {
     "name": "Observatorio Extremeño de la Cultura",
@@ -1698,7 +1734,11 @@
         "name": "Difusión sobre la calificación e inscripción RSE (nota en ExtremaduraEmpresarial)",
         "url": "https://www.extremaduraempresarial.es/2025/05/02/que-beneficios-aporta-la-calificacion-como-empresa-socialmente-responsable-de-extremadura/"
       }
-    ]
+    ],
+    "coordinates": {
+      "lat": 39.1748426,
+      "lon": -6.1529891
+    }
   },
   {
     "name": "Observatorio sobre Drogas de la Región de Murcia",
@@ -2151,7 +2191,11 @@
         "name": "¿Cuáles son las experiencias de discriminación de las personas migrantes en Tenerife?"
       }
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 28.4857715,
+      "lon": -16.3159422
+    }
   },
   {
     "name": "Observatorio de Coyuntura Industrial",
@@ -2185,7 +2229,11 @@
     ],
     "is_active": "Sí",
     "email": "info@ikuspegi.eus",
-    "from_date": "2004"
+    "from_date": "2004",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Observatorio Turístico de la Provincia de Sevilla",
@@ -2227,7 +2275,11 @@
     "name": "Observatorio para la Innovación y la Prospectiva del Mercado de Trabajo en Extremadura",
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://administracion.gob.es/pagFront/espanaAdmon/directorioOrganigramas/fichaUnidadOrganica.htm?idUnidOrganica=138480&origenUO=comunidadesAutonomas&volver=volverFicha&imprimir=1"
+    "website": "https://administracion.gob.es/pagFront/espanaAdmon/directorioOrganigramas/fichaUnidadOrganica.htm?idUnidOrganica=138480&origenUO=comunidadesAutonomas&volver=volverFicha&imprimir=1",
+    "coordinates": {
+      "lat": 39.1748426,
+      "lon": -6.1529891
+    }
   },
   {
     "description": "El Observatorio de Precios es una herramienta de seguimiento y análisis de los precios en origen de los principales productos agrícolas y ganaderos de Castilla y León.\n\nSeguirlos y analizarlos con el máximo rigor y transparencia hará posible prever y detectar a tiempo las oscilaciones y desequilibrios entre la oferta y la demanda, lo que permitirá tomar las decisiones más correctas para mantener el equilibrio entre todos sus componentes y, en último término, podrá evitar que los consumidores asuman un sobrecoste injustificado y contribuirá a que los agricultores y ganaderos obtengan una retribución justa por sus producciones.\n\nEl Observatorio muestra los precios en origen de aquellos productos agrícolas y ganaderos en los que Castilla y León ocupa una posición relevante en el ámbito nacional por ser una de las principales productoras o por la calidad diferenciada de su producción, sin perjuicio de que paulatinamente puede ofrecerse información sobre más productos.",
@@ -2242,7 +2294,11 @@
     "parents": ["Junta de Castilla y León"],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://agriculturaganaderia.jcyl.es/web/es/estadistica-informacion-agraria/observatorio.html#:~:text=El%20Observatorio%20muestra%20los%20precios%20en%20origen%20de,que%20paulatinamente%20puede%20ofrecerse%20informaci%C3%B3n%20sobre%20m%C3%A1s%20productos."
+    "website": "https://agriculturaganaderia.jcyl.es/web/es/estadistica-informacion-agraria/observatorio.html#:~:text=El%20Observatorio%20muestra%20los%20precios%20en%20origen%20de,que%20paulatinamente%20puede%20ofrecerse%20informaci%C3%B3n%20sobre%20m%C3%A1s%20productos.",
+    "coordinates": {
+      "lat": 41.55005,
+      "lon": -5.1387401
+    }
   },
   {
     "name": "Observatorio Administración Electrónica Ayuntamiento de Ciudad Real",
@@ -2252,7 +2308,11 @@
     "scope": "local",
     "from_date": "Octubre 2025",
     "parents": ["Ayuntamiento de Ciudad Real"],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 38.9597348,
+      "lon": -3.8828744
+    }
   },
   {
     "name": "Observatorio Vasco LGTBI+",
@@ -2599,7 +2659,11 @@
     ],
     "scope": "local",
     "type": "mixto",
-    "website": "alasacoruna.org/observatorio-corunes-contra-la-lgtbifobia/"
+    "website": "alasacoruna.org/observatorio-corunes-contra-la-lgtbifobia/",
+    "coordinates": {
+      "lat": 43.3709703,
+      "lon": -8.3959425
+    }
   },
   {
     "description": "Para <q>la obtención y análisis sistemático de información y datos objetivos del sector necesario para conocer su historia, estructura, impacto económico y realidad actual del arte jondo, así como una herramienta para su evaluación</q>.",
@@ -3316,7 +3380,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.obcp.es"
+    "website": "https://www.obcp.es",
+    "coordinates": {
+      "lat": 39.4177902,
+      "lon": -2.6232332
+    }
   },
   {
     "description": "impulsar el espíritu comercial y transmitirlo a todo el colectivo empresarial de la provincia de Alicante y su hinterland.\n\nse crea este Observatorio Comercial con el que se persigue producir, recopilar y evaluar información referente a la actividad económica y logística de la provincia, así como de los flujos de transporte marítimo exterior, con el fin de poder ofrecer un servicio del Puerto de Alicante más atractivo para el tejido empresarial y acorde a sus necesidades\n\nAutoridad Portuaria de Alicante\r\nComunidad Portuaria\r\nCámara de Comercio\r\nComunidad Empresarial\r\nComunidad Marítima\r\nComunidad Logística Portuaria",
@@ -3382,7 +3450,11 @@
     ],
     "scope": "castilla_la_mancha",
     "type": "publico",
-    "website": "https://comercio.castillalamancha.es/observatorio-comercio"
+    "website": "https://comercio.castillalamancha.es/observatorio-comercio",
+    "coordinates": {
+      "lat": 39.4177902,
+      "lon": -2.6232332
+    }
   },
   {
     "docs": [
@@ -3471,7 +3543,11 @@
       "Junta de Castilla-La Mancha"
     ],
     "scope": "castilla_la_mancha",
-    "type": "publico"
+    "type": "publico",
+    "coordinates": {
+      "lat": 39.4177902,
+      "lon": -2.6232332
+    }
   },
   {
     "description": "L’Observatori es configura com un òrgan tècnic adscrit al Departament de Justícia, Drets i Memòria i dependent del Centre d’Estudis Jurídics i Formació Especialitzada, que n’aportarà la infraestructura i el suport administratiu, tècnic i logístic necessari perquè pugui dur a terme la seva activitat, i està dotat pressupostàriament amb fons del Pacte d’Estat contra la Violència de Gènere.\n\nÉs un repte pel CEJFE posar en marxa aquest Observatori i fer-ne d’ell un instrument que ajudi a millorar la resposta de l’administració de justícia i de l’execució penal davant el fenomen de les violències masclistes, amb la finalitat d’aproximar aquest coneixement a la lluita per a la seva erradicació. Així, l’Observatori constitueix un fòrum d'anàlisi, reflexió, debat, participació i proposta d'actuació en matèries relacionades amb la violència masclista a Catalunya.\n\nTotes les activitats gestionades per l’Observatori estan finançades a càrrec del crèdits rebuts del Ministeri d’Igualtat (Secretaria d’Estat d’Igualtat i contra la Violència de Gènere).",
@@ -3572,7 +3648,11 @@
     "parents": ["Junta de Castilla y León"],
     "scope": "castilla_y_leon",
     "type": "publico",
-    "website": "https://plagas.itacyl.es"
+    "website": "https://plagas.itacyl.es",
+    "coordinates": {
+      "lat": 41.55005,
+      "lon": -5.1387401
+    }
   },
   {
     "description": "El Observatorio dispondrá de una página en la web del Colegio de arquitectos [www.coacmto.com](https://coacmto.com/coacmto-sede-y-horario-colegio-oficial-de-arquitectos-castilla-la-mancha) donde se informará de las actividades, noticias o jornadas que se programen y dispondrá de un sencillo formulario de inscripción abierto a ciudadanos, profesionales, asociaciones, entidades públicas o privadas que estén interesados en participar en esta iniciativa.",
@@ -3584,7 +3664,11 @@
       "Empresa Municipal de Suelo y Vivienda de Toledo"
     ],
     "scope": "castilla_la_mancha",
-    "website": "https://coacmto.com/observatorio-vivienda-colaborativa-toledo"
+    "website": "https://coacmto.com/observatorio-vivienda-colaborativa-toledo",
+    "coordinates": {
+      "lat": 39.4177902,
+      "lon": -2.6232332
+    }
   },
   {
     "description": "Recoge infracciones y casos de malas prácticas en la minería a partir de las denuncias realizadas por la ciudadanía y los colectivos sociales.",
@@ -3653,7 +3737,11 @@
     ],
     "scope": "castilla_la_mancha",
     "type": "publico",
-    "website": "https://obafi.es"
+    "website": "https://obafi.es",
+    "coordinates": {
+      "lat": 39.4177902,
+      "lon": -2.6232332
+    }
   },
   {
     "name": "Observatorio contra la Soledad No Deseada (SND)",
@@ -3677,7 +3765,11 @@
         "url": "https://trescantosplus.es/ii-sesion-del-observatorio-contra-la-soledad-no-deseada-en-las-personas-mayores/"
       }
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 40.6012354,
+      "lon": -3.7038475
+    }
   },
   {
     "description": "El IPEX, como organismo dependiente de la Consejería de Economía, Empresas y Empleo, encargado de la promoción internacional de las empresas de Castilla-La Mancha, pone en marcha esta oficina de atención virtual que atiende a las empresas de la región para resolver tus dudas sobre el Brexit.",
@@ -3690,7 +3782,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://ipex.es/global-news/articulos-de-interes/observatorio-de-castilla-la-mancha-sobre-el-brexit/"
+    "website": "https://ipex.es/global-news/articulos-de-interes/observatorio-de-castilla-la-mancha-sobre-el-brexit/",
+    "coordinates": {
+      "lat": 39.4177902,
+      "lon": -2.6232332
+    }
   },
   {
     "description": "El Observatorio de la Discapacidad de Rivas Vaciamadrid nació en el 2009 como una iniciativa conjunta entre la corporación local y las diferentes entidades y asociaciones del municipio que trabajan con, para y por las personas con discapacidad y dependencia. Entre sus objetivos se encuentran: Promover la plena participación de las personas con discapacidades en la vida ciudadana. Velar y colaborar en el desarrollo de las políticas y actuaciones en materia de protección y promoción de la calidad de vida de las personas con discapacidades, por parte de todas las Administraciones Públicas. Hacer visible en el municipio las necesidades y las capacidades de las personas con algún tipo de discapacidad. Su principal función se centra son conocer la realidad de la situación de estas personas, crear espacios de participación social en los que se recojan las propuestas e inquietudes, y se promuevan iniciativas que atiendan las necesidades planteadas.",
@@ -3706,7 +3802,11 @@
     "parents": ["Ayuntamiento de Rivas-Vaciamadrid"],
     "scope": "local",
     "type": "publico",
-    "website": "https://www.rivasciudad.es/organos-de-participacion-ciudadana/foros-y-observatorios-locales/observatorio-municipal-de-personas-con-discapacidades/"
+    "website": "https://www.rivasciudad.es/organos-de-participacion-ciudadana/foros-y-observatorios-locales/observatorio-municipal-de-personas-con-discapacidades/",
+    "coordinates": {
+      "lat": 40.3536054,
+      "lon": -3.5310879
+    }
   },
   {
     "description": "El Observatorio de la Ciudad, instrumento de evaluación de la gestión municipal y de difusión e información de sus resultados a la ciudadanía, tiene como finalidad impulsar de forma institucional la evaluación de la gestión municipal, la rendición de cuentas y la efectividad de los principios de transparencia y participación, teniendo en cuenta especialmente la percepción que tiene la ciudadanía de la calidad de los servicios municipales.",
@@ -3729,7 +3829,11 @@
       "Junta de Castilla-La Mancha"
     ],
     "scope": "castilla_la_mancha",
-    "type": "publico"
+    "type": "publico",
+    "coordinates": {
+      "lat": 39.4177902,
+      "lon": -2.6232332
+    }
   },
   {
     "description": "Elaboración de propuestas para la mejora de la convivencia.",
@@ -3742,7 +3846,11 @@
     ],
     "scope": "castilla_la_mancha",
     "type": "publico",
-    "website": "https://www.educa.jccm.es/educa-jccm/cm/educa_jccm/tkContent?idContent=62664&locale=en_UK&textOnly=false"
+    "website": "https://www.educa.jccm.es/educa-jccm/cm/educa_jccm/tkContent?idContent=62664&locale=en_UK&textOnly=false",
+    "coordinates": {
+      "lat": 39.4177902,
+      "lon": -2.6232332
+    }
   },
   {
     "description": "Desde la Oficina Verde de la Universidad de Burgos (UbuVerde), y con la colaboración de Sodebur se ha creado un Observatorio por la Repoblacción Rural de castilla y León, cuyo objetivo es informar de la actualidad, analizar y determinar la evolución de la realidad demográfica en el medio rural de Castilla y león. Además, sensibilizar a la población y hacer ver la realidad de esta situación.\n\n- Oficina Verde de la Universidad de Burgos (UbuVerde)\r\n- Sodebur (Sociedad para el desarrollo de la povincia de Burgos)",
@@ -3757,7 +3865,11 @@
     ],
     "scope": "provincial",
     "type": "publico",
-    "website": "https://www.ubu.es/ubuverde/repoblacion-rural/observatorio-por-la-repoblacion-rural"
+    "website": "https://www.ubu.es/ubuverde/repoblacion-rural/observatorio-por-la-repoblacion-rural",
+    "coordinates": {
+      "lat": 41.55005,
+      "lon": -5.1387401
+    }
   },
   {
     "email": "smartcatalonia@gencat.cat",
@@ -3802,7 +3914,11 @@
     ],
     "scope": "castilla_la_mancha",
     "type": "publico",
-    "website": "https://empleoyformacion.castillalamancha.es/observatorio"
+    "website": "https://empleoyformacion.castillalamancha.es/observatorio",
+    "coordinates": {
+      "lat": 39.4177902,
+      "lon": -2.6232332
+    }
   },
   {
     "description": "Mantenimiento de un sistema de indicadores que permita el seguimiento de la evolución del consumo de drogas en Castilla-La Mancha.",
@@ -3825,7 +3941,11 @@
     ],
     "scope": "castilla_la_mancha",
     "type": "publico",
-    "website": "https://sanidad.castillalamancha.es/ciudadanos/observatorio-de-drogodependencias-clm/que-es-el-od"
+    "website": "https://sanidad.castillalamancha.es/ciudadanos/observatorio-de-drogodependencias-clm/que-es-el-od",
+    "coordinates": {
+      "lat": 39.4177902,
+      "lon": -2.6232332
+    }
   },
   {
     "description": "L'Observatori-Centre d'Estudis és un instrument de suport a la presa de decisions per tal que aquestes adquireixin un caràcter més estratègic. També és un element de suport per als tècnics que treballen en els diversos àmbits locals. L’existència d’un Centre d’Estudis permet l' anàlisi prèvia a l’hora de planificar o dissenyar actuacions facilitant que es pugui respondre millor a les necessitats reals del territori o les actuacions a desenvolupar des del propi Consell Comarcal. L’Observatori actua com a banc de dades, per tal d’aglutinar i guardar la informació relativa als municipis així com també fer difusió o recollir dades d’àmbits superiors amb incidència en l’àmbit local.\n\nCarta de Serveis Observatori-Centre d'Estudis => [ENLACE](https://www.vallesoriental.cat/ambits/lobservatori-centre-destudis/carta-de-serveis/)\n\nObservatori-centre d’estudis del Vallès Oriental ( otro enlace )\n\nhttps://www.vallesoriental.cat/2028-el-consell/guia-de-serveis-i-cartes-de-servei/desenvolupament-socioeconomic/observatori-centre-destudis-del-valles-oriental.html",
@@ -3904,7 +4024,11 @@
     "parents": ["Junta de Castilla y León"],
     "scope": "castilla_y_leon",
     "type": "publico",
-    "website": "https://www.observatoriotransformacion.com"
+    "website": "https://www.observatoriotransformacion.com",
+    "coordinates": {
+      "lat": 41.55005,
+      "lon": -5.1387401
+    }
   },
   {
     "docs": [
@@ -3958,7 +4082,11 @@
     ],
     "scope": "castilla_la_mancha",
     "type": "publico",
-    "website": "https://observatoriolgtbiclm.com"
+    "website": "https://observatoriolgtbiclm.com",
+    "coordinates": {
+      "lat": 40.7399963,
+      "lon": -2.50593
+    }
   },
   {
     "docs": [
@@ -4053,7 +4181,11 @@
         "name": "Informes Anuales de Transformación Urbana (todavía no publicado)"
       }
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 37.3397709,
+      "lon": -5.8408396
+    }
   },
   {
     "description": "Observa los precios de venta al público y trata de identificar posibles subidas injustificadas de precios.",
@@ -4532,7 +4664,11 @@
       "Generalitat Valenciana",
       "Ministerio de Trabajo y Economía Social"
     ],
-    "website": "https://observatorimarinaalta.org"
+    "website": "https://observatorimarinaalta.org",
+    "coordinates": {
+      "lat": 38.7567857,
+      "lon": -0.0044809
+    }
   },
   {
     "name": "Observatorio de la Formación en el Transporte por Carretera",
@@ -4621,7 +4757,11 @@
     ],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://mediambient.gva.es/es/web/agua/novedades/-/asset_publisher/cYq5fnvdHYwT/content/observatorio-ciudadano-del-agua-de-la-comunitat-valenciana"
+    "website": "https://mediambient.gva.es/es/web/agua/novedades/-/asset_publisher/cYq5fnvdHYwT/content/observatorio-ciudadano-del-agua-de-la-comunitat-valenciana",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "is_active": "None",
@@ -5257,7 +5397,11 @@
     ],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://www.caib.es/sites/observatorideltreball/es/portada-10648/"
+    "website": "https://www.caib.es/sites/observatorideltreball/es/portada-10648/",
+    "coordinates": {
+      "lat": 39.613432,
+      "lon": 2.8829185
+    }
   },
   {
     "description": "Sus actividades incluyen la reunión periódica de sus miembros sobre temas particulares relativos al desarrollo de la industria en España, la realización de estudios de caso y conferencias de expertos, así como la elaboración de un informe anual sobre el estado de las finanzas islámicas en España.",
@@ -5481,7 +5625,11 @@
     ],
     "scope": "local",
     "type": "publico",
-    "website": "https://www.oag-fundacion.org/"
+    "website": "https://www.oag-fundacion.org/",
+    "coordinates": {
+      "lat": 28.4857715,
+      "lon": -16.3159422
+    }
   },
   {
     "from_date": "2011",
@@ -5920,7 +6068,11 @@
     "scope": "extremadura",
     "parents": ["Junta de Extremadura"],
     "is_active": "Si",
-    "description": "El Observatorio para la Innovación y la Prospectiva del Mercado de Trabajo en Extremadura es un servicio público de información y análisis del mercado de trabajo en Extremadura, que tiene como objetivo proporcionar datos e informes que ayuden a la toma de decisiones en materia de empleo y formación."
+    "description": "El Observatorio para la Innovación y la Prospectiva del Mercado de Trabajo en Extremadura es un servicio público de información y análisis del mercado de trabajo en Extremadura, que tiene como objetivo proporcionar datos e informes que ayuden a la toma de decisiones en materia de empleo y formación.",
+    "coordinates": {
+      "lat": 39.1748426,
+      "lon": -6.1529891
+    }
   },
   {
     "name": "Observatorio de Resultados del Servicio Murciano de Salud",
@@ -6298,7 +6450,11 @@
     ],
     "is_active": "Sí",
     "email": "No disponible. Se ofrece un formulario de contacto general.",
-    "from_date": "2018 (Copyright del sitio web)"
+    "from_date": "2018 (Copyright del sitio web)",
+    "coordinates": {
+      "lat": 41.55005,
+      "lon": -5.1387401
+    }
   },
   {
     "name": "Observatori del Patrimoni Natural i la Biodiversitat",
@@ -6690,7 +6846,11 @@
     "scope": "local",
     "type": "publico",
     "is_active": "No",
-    "from_date": "2023-01-11 (Anunciado/En creación)"
+    "from_date": "2023-01-11 (Anunciado/En creación)",
+    "coordinates": {
+      "lat": 40.3536054,
+      "lon": -3.5310879
+    }
   },
   {
     "name": "Observatorio del Impacto Social de los Algoritmos (OBISAL)",
@@ -6755,7 +6915,11 @@
     "parents": ["Cabildo de Gran Canaria", "Turismo de Gran Canaria"],
     "scope": "canarias",
     "type": "publico",
-    "website": "https://observatorioturisticograncanaria.com/"
+    "website": "https://observatorioturisticograncanaria.com/",
+    "coordinates": {
+      "lat": 27.9580004,
+      "lon": -15.6062305
+    }
   },
   {
     "name": "Euskal Herriko Giza Eskubideen Behatokia (GEBEHATOKIA)",
@@ -6795,7 +6959,11 @@
     "parents": ["Gobierno Vasco", "Universidad del País Vasco (UPV/EHU)"],
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://eeb-ove.eus/observatorio/"
+    "website": "https://eeb-ove.eus/observatorio/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Behatokia (Gizarte Aurreikuspen Osagarria)",
@@ -6885,7 +7053,11 @@
     "description": "Observatorio para el seguimiento/impulso de la accesibilidad en Gran Canaria. <a href=\"https://www.grancanariaaccesible.info/observatorio/\">Sitio web</a>.",
     "scope": "canarias",
     "type": "publico",
-    "website": "https://www.grancanariaaccesible.info/observatorio/"
+    "website": "https://www.grancanariaaccesible.info/observatorio/",
+    "coordinates": {
+      "lat": 27.9580004,
+      "lon": -15.6062305
+    }
   },
   {
     "name": "Observatorio del Comercio de Gran Canaria",
@@ -6893,7 +7065,11 @@
     "parents": ["Cámara de Comercio de Gran Canaria"],
     "scope": "canarias",
     "type": "mixto",
-    "website": "https://www.camaragrancanaria.org/comercio/observatorio-del-comercio/"
+    "website": "https://www.camaragrancanaria.org/comercio/observatorio-del-comercio/",
+    "coordinates": {
+      "lat": 27.9580004,
+      "lon": -15.6062305
+    }
   },
   {
     "name": "Observatorio de Prospectiva para la Gobernanza Insular",
