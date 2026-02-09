@@ -6970,7 +6970,11 @@
     "scope": "region_de_murcia",
     "type": "publico",
     "is_active": "Si",
-    "from_date": "2007"
+    "from_date": "2007",
+    "coordinates": {
+      "lat": 37.9166355,
+      "lon": -1.4779797
+    }
   },
   {
     "name": "Observatorio de Igualdad de la Región de Murcia",
@@ -6991,7 +6995,11 @@
     "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c771$m5828",
     "scope": "region_de_murcia",
     "type": "publico",
-    "from_date": "2003"
+    "from_date": "2003",
+    "coordinates": {
+      "lat": 37.9166355,
+      "lon": -1.4779797
+    }
   },
   {
     "name": "Observatorio de la Familia de la Región de Murcia",
@@ -7333,7 +7341,11 @@
     ],
     "is_active": "Sí",
     "email": "observatorio@basquetour.eus",
-    "from_date": "2011"
+    "from_date": "2011",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Observatorio del sistema de salud de Castilla y León",
@@ -7371,7 +7383,11 @@
     ],
     "is_active": "Sí",
     "email": "info@observatorinatura.cat (general), m.josa@creaf.uab.cat (comunicación)",
-    "from_date": "2023"
+    "from_date": "2023",
+    "coordinates": {
+      "lat": 41.8523094,
+      "lon": 1.5745043
+    }
   },
   {
     "name": "Observatorio Turístico de la Comunidad de Madrid",
@@ -7406,7 +7422,11 @@
     ],
     "is_active": "Sí",
     "email": "No disponible",
-    "from_date": "2021"
+    "from_date": "2021",
+    "coordinates": {
+      "lat": 40.5248319,
+      "lon": -3.7715628
+    }
   },
   {
     "name": "Observatorio de Enfermedades Raras de la Comunidad de Madrid",
@@ -7416,7 +7436,11 @@
     "type": "publico",
     "is_active": "Sí",
     "email": "No disponible",
-    "from_date": "2025-05-23"
+    "from_date": "2025-05-23",
+    "coordinates": {
+      "lat": 40.5248319,
+      "lon": -3.7715628
+    }
   },
   {
     "name": "Observatori Valencià de Joventut (OVJ)",
@@ -7462,7 +7486,11 @@
       }
     ],
     "is_active": "Sí",
-    "email": "simbiosindustrialcv.ivace@gva.es"
+    "email": "simbiosindustrialcv.ivace@gva.es",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "name": "Observatorio del Sistema Público Valenciano de Servicios Sociales",
@@ -7481,7 +7509,11 @@
     ],
     "is_active": "Sí",
     "email": "No disponible",
-    "from_date": "2023-05-11 (Sesión constituyente)"
+    "from_date": "2023-05-11 (Sesión constituyente)",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "name": "Observatorio responsabilidad social empresarial  Galicia",
@@ -7863,7 +7895,11 @@
     "parents": ["Diputación de Albacete"],
     "scope": "provincial",
     "type": "publico",
-    "website": "https://observatoriosostenibilidad.dipualba.es/"
+    "website": "https://observatoriosostenibilidad.dipualba.es/",
+    "coordinates": {
+      "lat": 38.9950921,
+      "lon": -1.8559154
+    }
   },
   {
     "name": "Observatorio de la Agenda Rural Sostenible de la provincia de Segovia",
@@ -7907,7 +7943,11 @@
     "parents": ["Gobierno Vasco"],
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://www.euskadi.eus/gobierno-vasco/-/asociacion/euskal-herriko-giza-eskubideen-behatokia-gebehatokia/"
+    "website": "https://www.euskadi.eus/gobierno-vasco/-/asociacion/euskal-herriko-giza-eskubideen-behatokia-gebehatokia/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Jokoaren Euskal Behatokia",
@@ -7915,7 +7955,11 @@
     "parents": ["Gobierno Vasco"],
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://www.euskadi.eus/eusko-jaurlaritza/jokoaren-euskal-behatokia/"
+    "website": "https://www.euskadi.eus/eusko-jaurlaritza/jokoaren-euskal-behatokia/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Turismoaren Euskal Behatokia",
@@ -7923,7 +7967,11 @@
     "parents": ["Gobierno Vasco"],
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://www.euskadi.eus/eusko-jaurlaritza/turismo-euskal-behatokia/"
+    "website": "https://www.euskadi.eus/eusko-jaurlaritza/turismo-euskal-behatokia/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Banda Zabal Ultralasterraren Euskal Behatokia",
@@ -7931,7 +7979,11 @@
     "parents": ["Gobierno Vasco"],
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://www.euskadibandazabala.eus/index.php?idm=eu"
+    "website": "https://www.euskadibandazabala.eus/index.php?idm=eu",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Euskal Ekintzailetzaren Behatokia (Observatorio Vasco del Emprendimiento)",
@@ -7951,7 +8003,11 @@
     "parents": ["Gobierno Vasco"],
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://www.euskadi.eus/zer-da/web01-a2opsc/eu/"
+    "website": "https://www.euskadi.eus/zer-da/web01-a2opsc/eu/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Observatorio de la calidad del aire (Terrassa)",
@@ -7984,7 +8040,11 @@
     "description": "Referencia municipal a un observatorio ambiental Litoral-Besòs como recurso externo sobre calidad del aire. <a href=\"https://www.sant-adria.cat/sant-adria-per-temes/medi-ambient/qualitat-de-laire/dades-en-linia-de-la-qualitat-de-laire\">Enlace</a>.",
     "scope": "cataluna",
     "type": "publico",
-    "website": "https://www.sant-adria.cat/sant-adria-per-temes/medi-ambient/qualitat-de-laire/dades-en-linia-de-la-qualitat-de-laire"
+    "website": "https://www.sant-adria.cat/sant-adria-per-temes/medi-ambient/qualitat-de-laire/dades-en-linia-de-la-qualitat-de-laire",
+    "coordinates": {
+      "lat": 41.8523094,
+      "lon": 1.5745043
+    }
   },
   {
     "name": "Observatorio Valenciano de Salud",
@@ -7992,7 +8052,11 @@
     "parents": ["Generalitat Valenciana"],
     "scope": "comunidad_valenciana",
     "type": "publico",
-    "website": "https://www.san.gva.es/es/web/salut-publica/observatorio-valenciano-de-salud"
+    "website": "https://www.san.gva.es/es/web/salut-publica/observatorio-valenciano-de-salud",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "name": "Euskadiko Osasun Behatokia",
@@ -8000,7 +8064,11 @@
     "parents": ["Gobierno Vasco"],
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://www.euskadi.eus/euskadiko-osasun-behatokia/"
+    "website": "https://www.euskadi.eus/euskadiko-osasun-behatokia/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Observatorio Gallego de Salud Pública",
@@ -8008,14 +8076,22 @@
     "parents": ["Xunta de Galicia", "Consellería de Sanidade", "SERGAS"],
     "scope": "galicia",
     "type": "publico",
-    "website": "https://www.balidea.com/la-conselleria-de-sanidade-y-el-sergas-lanzan-el-observatorio-de-salud-publica-de-galicia-un-desarrollo-web-realizado-con-la-colaboracion-de-balidea/"
+    "website": "https://www.balidea.com/la-conselleria-de-sanidade-y-el-sergas-lanzan-el-observatorio-de-salud-publica-de-galicia-un-desarrollo-web-realizado-con-la-colaboracion-de-balidea/",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio Metropolitano de Transporte de Granada",
     "description": "Anunciado en septiembre de 2025 como observatorio metropolitano de transporte/movilidad sostenible. <a href=\"https://www.europapress.es/esandalucia/granada/noticia-nace-observatorio-metropolitano-transporte-granada-marco-apuesta-movilidad-sostenible-20250916144741.html\">Fuente</a>.",
     "scope": "andalucia",
     "type": "publico",
-    "website": "https://www.europapress.es/esandalucia/granada/noticia-nace-observatorio-metropolitano-transporte-granada-marco-apuesta-movilidad-sostenible-20250916144741.html"
+    "website": "https://www.europapress.es/esandalucia/granada/noticia-nace-observatorio-metropolitano-transporte-granada-marco-apuesta-movilidad-sostenible-20250916144741.html",
+    "coordinates": {
+      "lat": 37.3399964,
+      "lon": -4.5811614
+    }
   },
   {
     "name": "Observatorio de la Movilidad Metropolitana del CTAZ-USJ",
@@ -8026,7 +8102,11 @@
     ],
     "scope": "aragon",
     "type": "mixto",
-    "website": "https://observatoriomovilidad.ctaz.usj.es/cuadro-de-mandos/"
+    "website": "https://observatoriomovilidad.ctaz.usj.es/cuadro-de-mandos/",
+    "coordinates": {
+      "lat": 41.3787291,
+      "lon": -0.7639373
+    }
   },
   {
     "name": "Observatorio para la Accesibilidad de Gran Canaria",
@@ -8096,7 +8176,11 @@
     "parents": ["Diputación de Castellón"],
     "scope": "provincial",
     "type": "publico",
-    "website": "https://gobiernoabierto.dipcas.es/es/sheets/public?area=4&id_accion=59"
+    "website": "https://gobiernoabierto.dipcas.es/es/sheets/public?area=4&id_accion=59",
+    "coordinates": {
+      "lat": 40.2518568,
+      "lon": -0.0615052
+    }
   },
   {
     "name": "Observatorio Urbano de la Agenda Urbana de Valverde de Burguillos",
