@@ -382,7 +382,11 @@
   },
   {
     "name": "Observatorio de la Infancia de España",
-    "website": "https://observatoriodelainfancia.mdsocialesa2030.gob.es/queEs/home.htm"
+    "website": "https://observatoriodelainfancia.mdsocialesa2030.gob.es/queEs/home.htm",
+    "coordinates": {
+      "lat": 39.3260685,
+      "lon": -4.8379791
+    }
   },
   {
     "name": "Observatorio de la Infancia de Andalucía",
@@ -690,7 +694,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://iberifier.eu/"
+    "website": "https://iberifier.eu/",
+    "coordinates": {
+      "lat": 42.7027944,
+      "lon": -1.7086231
+    }
   },
   {
     "name": "Observatorio del Transporte y la Logística en España",
@@ -790,7 +798,11 @@
     }
   },
   {
-    "name": "Observatorio Español contra la LGBTfobia"
+    "name": "Observatorio Español contra la LGBTfobia",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "docs": [
@@ -805,14 +817,26 @@
     "scope": "autonómico",
     "type": "publico",
     "description": "Entidad de asesoramiento de la administración catalana y de concienciación de la sociedad en general en materia de paisaje.",
-    "website": "https://www.catpaisatge.net/ca"
+    "website": "https://www.catpaisatge.net/ca",
+    "coordinates": {
+      "lat": 41.387397,
+      "lon": 2.168568
+    }
   },
   {
     "name": "Observatorio Español de Acuicultura",
-    "website": "https://www.mapa.gob.es/es/pesca/temas/acuicultura/observatorio/"
+    "website": "https://www.mapa.gob.es/es/pesca/temas/acuicultura/observatorio/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
-    "name": "Observatorio Español de I+D+I (ICONO)"
+    "name": "Observatorio Español de I+D+I (ICONO)",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio de Salud y Medio Ambiente de Andalucía",
@@ -834,7 +858,11 @@
     "from_date": "06/10/2025",
     "parents": [
       "Consellería de Presidencia, Xustiza e Deportes, Xunta de Galicia"
-    ]
+    ],
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio Español de la Economía Social",
@@ -906,17 +934,29 @@
   },
   {
     "name": "Observatorio Estatal de Condiciones de Trabajo",
-    "scope": "estatal"
+    "scope": "estatal",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio de Familia de la Ciudad de Orihuela",
     "scope": "local",
     "type": "publico",
-    "website": "https://www.orihuela.es/la-concejalia-de-familia-presenta-el-observatorio-de-familia-de-la-ciudad-de-orihuela/"
+    "website": "https://www.orihuela.es/la-concejalia-de-familia-presenta-el-observatorio-de-familia-de-la-ciudad-de-orihuela/",
+    "coordinates": {
+      "lat": 38.0856891,
+      "lon": -0.9448805
+    }
   },
   {
     "name": "Observatorio Estatal de Familias",
-    "scope": "estatal"
+    "scope": "estatal",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio Estatal de la Convivencia Escolar",
@@ -963,15 +1003,27 @@
   },
   {
     "name": "Observatorio Estatal de la Dependencia",
-    "scope": "estatal"
+    "scope": "estatal",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio Estatal de la Discapacidad",
-    "scope": "estatal"
+    "scope": "estatal",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio Estatal de los Servicios Deportivos a las Administraciones Públicas",
-    "scope": "estatal"
+    "scope": "estatal",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio Ambiental de Navarra - Nafarroako Ingurumen Behatokia",
@@ -1068,7 +1120,11 @@
     "scope": "autonómico",
     "to_date": "Actualmente sigue activo",
     "type": "publico",
-    "website": "https://eljusticiadearagon.es/oas/"
+    "website": "https://eljusticiadearagon.es/oas/",
+    "coordinates": {
+      "lat": 41.3787291,
+      "lon": -0.7639373
+    }
   },
   {
     "name": "Observatorio de la Convivencia Escolar",
@@ -1148,7 +1204,11 @@
     "scope": "local",
     "to_date": "Continúa",
     "type": "publico",
-    "website": "https://www.alicante.es/es/contenidos/observatorio-municipal-vivienda-alquiler-alicante"
+    "website": "https://www.alicante.es/es/contenidos/observatorio-municipal-vivienda-alquiler-alicante",
+    "coordinates": {
+      "lat": 38.3436365,
+      "lon": -0.4881708
+    }
   },
   {
     "name": "Observatorio Galego de Acción Voluntaria",
@@ -1186,7 +1246,11 @@
       {
         "url": "https://cervantesobservatorio.fas.harvard.edu/es/informes"
       }
-    ]
+    ],
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio Galego de Convivencia Escolar",
@@ -1363,7 +1427,11 @@
     "parents": ["Universidad Rey Juan Carlos"],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://www.urjc.es/estudiar-en-la-urjc/vida-universitaria/4682-observatorio-para-el-analisis-y-visibilidad-de-la-exclusion-social"
+    "website": "https://www.urjc.es/estudiar-en-la-urjc/vida-universitaria/4682-observatorio-para-el-analisis-y-visibilidad-de-la-exclusion-social",
+    "coordinates": {
+      "lat": 40.416775,
+      "lon": -3.70379
+    }
   },
   {
     "name": "Observatorio Andaluz de Cultivos Frutales Exóticos",
@@ -1373,7 +1441,11 @@
     "scope": "autonómico",
     "parents": [
       "Consejería de Agricultura, Ganadería, Pesca y Desarrollo Sostenible de la Junta de Andalucía"
-    ]
+    ],
+    "coordinates": {
+      "lat": 37.3399964,
+      "lon": -4.5811614
+    }
   },
   {
     "description": "\n\nAyuntamiento de Gijón",
@@ -1427,18 +1499,34 @@
   },
   {
     "name": "Observatorio Nacional de las Telecomunicaciones y de la Sociedad de la Información",
-    "scope": "estatal"
+    "scope": "estatal",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio Nacional de Seguridad Vial",
-    "scope": "estatal"
+    "scope": "estatal",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio Nacional de Sequías e Inundaciones",
-    "scope": "estatal"
+    "scope": "estatal",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
-    "name": "Observatorio Profesional del Instituto Nacional de las Cualificaciones"
+    "name": "Observatorio Profesional del Instituto Nacional de las Cualificaciones",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Integra, entre otros, los datos procedentes de los siguientes sistemas de información incluidos en el Plan de Calidad del Ayuntamiento de Alicant: Avisos de Incidencias; Oficina de Sugerencis y Reclamaciones; Redes Sociales y Web; Servicio Telefónica 010; Oficina de Atención Ciudadana (OAC); Solicitudes de Información\r\n(copia y pega de su página)\n\nAyuntamiento de Alicante",
@@ -1469,7 +1557,11 @@
   },
   {
     "name": "Observatorio Tecnológico",
-    "website": "http://educalab.es/intef/tecnologia/observatorio-tecnologico"
+    "website": "http://educalab.es/intef/tecnologia/observatorio-tecnologico",
+    "coordinates": {
+      "lat": 40.4455101,
+      "lon": -3.6546571
+    }
   },
   {
     "name": "Observatorio Urbano de Sevilla",
@@ -1524,7 +1616,11 @@
     "name": "Observatorio de la Producción Científica de la UA",
     "scope": "provincial",
     "type": "publico",
-    "website": "https://observatorio-cientifico.ua.es/"
+    "website": "https://observatorio-cientifico.ua.es/",
+    "coordinates": {
+      "lat": 38.3850684,
+      "lon": -0.5146732
+    }
   },
   {
     "name": "Observatorio de Prospectiva Tecnológica Industrial",
@@ -1532,7 +1628,11 @@
   },
   {
     "name": "Observatorio de formación en red Scopeo",
-    "website": "https://scopeo.usal.es"
+    "website": "https://scopeo.usal.es",
+    "coordinates": {
+      "lat": 40.970103,
+      "lon": -5.663539
+    }
   },
   {
     "name": "Observatorio da Mobilidade de Terras de Galicia",
@@ -1727,7 +1827,11 @@
       {
         "url": "https://www.uab.cat/doc/A75ServeIgualtatiDiversitat"
       }
-    ]
+    ],
+    "coordinates": {
+      "lat": 41.5015527,
+      "lon": 2.1062607
+    }
   },
   {
     "name": "Observatorio del Mercado de Trabajo del Instituto Aragonés de Empleo",
@@ -1757,7 +1861,11 @@
     "parents": ["Red.es"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.ontsi.es/"
+    "website": "https://www.ontsi.es/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio del Mercado de Trabajo del Servicio Público de Empleo del Principado de Asturias",
@@ -1809,7 +1917,11 @@
     "parents": [
       "Entidad Pública Empresarial Red.es, M.P.",
       "Universidad Nacional de Educación a Distancia (UNED)"
-    ]
+    ],
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio de Empleo y Formación del Servicio Cántabro de Empleo",
@@ -1980,7 +2092,11 @@
     "website": "https://fundacionhermes.org/que-hacemos/proyectos/observatorio-de-los-derechos-digitales/",
     "scope": "estatal",
     "from_date": "5 de febrero de 2025",
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio para la Convivencia Escolar de Extremadura",
@@ -2182,7 +2298,11 @@
     "parents": ["Consejería de digitalización de la Comunidad de Madrid"],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-competencias-digitales-comunidad-madrid"
+    "website": "https://www.comunidad.madrid/transparencia/unidad-organizativa-responsable/observatorio-competencias-digitales-comunidad-madrid",
+    "coordinates": {
+      "lat": 40.5248319,
+      "lon": -3.7715628
+    }
   },
   {
     "location": "A Coruña",
@@ -2299,7 +2419,11 @@
     "name": "Observatorio de la Economía Gallega",
     "type": "publico",
     "website": "https://www.conselleriadefacenda.gal/es_ES/areas-tematicas/patrimonio/estudos-e-estadisticas/operacions-e-actividades-estatisticas/observatorio-da-economia-galega",
-    "scope": "autonómico"
+    "scope": "autonómico",
+    "coordinates": {
+      "lat": 42.878213,
+      "lon": -8.544844
+    }
   },
   {
     "docs": [
@@ -2334,7 +2458,11 @@
     "name": "Observatorio Ibérico Fluvial",
     "scope": "estatal",
     "type": "publico",
-    "website": "https://ebd.csic.es/"
+    "website": "https://ebd.csic.es/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "docs": [
@@ -2475,7 +2603,11 @@
     ],
     "scope": "local",
     "type": "publico",
-    "website": "https://www.omau-malaga.com"
+    "website": "https://www.omau-malaga.com",
+    "coordinates": {
+      "lat": 36.7213028,
+      "lon": -4.4216366
+    }
   },
   {
     "name": "Observatorio Vasco del Emprendimiento",
@@ -2966,7 +3098,11 @@
     "parents": [
       "Consellería de Sanidade, el Servicio Galego de Saúde y la Universidade de Vigo"
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 42.240598,
+      "lon": -8.720727
+    }
   },
   {
     "name": "Observatorio Municipal para la Transición hacia la Economía Circular de Andalucía",
@@ -2976,7 +3112,11 @@
     "scope": "autonómico",
     "from_date": "2017",
     "parents": ["Federación Andaluza de Municipios y Provincias"],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 37.3399964,
+      "lon": -4.5811614
+    }
   },
   {
     "email": "estudis_prospectiva.daam@gencat.cat",
@@ -3057,7 +3197,11 @@
     ],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://contraelodio.org/wp/"
+    "website": "https://contraelodio.org/wp/",
+    "coordinates": {
+      "lat": 40.5248319,
+      "lon": -3.7715628
+    }
   },
   {
     "description": "Nace <q>para analizar las condiciones de competitividad en relación con los precios y calidad de los servicios portuarios, y acordar las variables de competitividad sobre las que establecer recomendaciones</q>.",
@@ -3454,14 +3598,22 @@
     ],
     "scope": "estatal",
     "type": "mixto",
-    "website": "https://www.oemv.es/"
+    "website": "https://www.oemv.es/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "is_active": "None",
     "name": "Observatori Social, Ambiental i de Salut",
     "parents": ["Diputació de Girona"],
     "type": "publico",
-    "website": "https://observatori.dipsalut.cat/es"
+    "website": "https://observatori.dipsalut.cat/es",
+    "coordinates": {
+      "lat": 41.9794,
+      "lon": 2.821426
+    }
   },
   {
     "description": "Seguimiento periódico y exhaustivo de algunos elementos objetivables relacionados con el empleo y la vivienda que definen las condiciones de vida y los procesos de transición hacia la vida adulta de la población joven en España.",
@@ -3471,7 +3623,11 @@
     "parents": ["Consejo de la Juventud de España"],
     "scope": "estatal",
     "type": "mixto",
-    "website": "https://www.cje.org/observatorio-de-emancipacion/"
+    "website": "https://www.cje.org/observatorio-de-emancipacion/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "is_active": "None",
@@ -3504,7 +3660,11 @@
     "name": "Observatorio de la Criminalidad Organizada Transnacional",
     "scope": "estatal",
     "type": "publico",
-    "website": "https://ocot.usal.es"
+    "website": "https://ocot.usal.es",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "is_active": "None",
@@ -3591,7 +3751,11 @@
         "name": "Nada de nada"
       }
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 41.387397,
+      "lon": 2.168568
+    }
   },
   {
     "description": "Recolle e difunde información relacionada coa economía e fiscalidade local dos 313 concellos.",
@@ -3672,7 +3836,11 @@
     ],
     "scope": "local",
     "type": "publico",
-    "website": "https://www.emasesa.com/comprometidos-contigo/observatorio-del-agua/"
+    "website": "https://www.emasesa.com/comprometidos-contigo/observatorio-del-agua/",
+    "coordinates": {
+      "lat": 37.3886303,
+      "lon": -5.9953403
+    }
   },
   {
     "description": "Para la elaboración de estudios sobre oportunidades, impacto y potencial industrial en Galicia.",
@@ -4264,7 +4432,11 @@
     "name": "Observatori Català de la Justícia en Violència Masclista",
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://cejfe.gencat.cat/ca/observatori/"
+    "website": "https://cejfe.gencat.cat/ca/observatori/",
+    "coordinates": {
+      "lat": 41.387397,
+      "lon": 2.168568
+    }
   },
   {
     "name": "Observatorio Económico de la Provincia de Jaén",
@@ -4707,7 +4879,11 @@
     ],
     "scope": "provincial",
     "type": "publico",
-    "website": "https://www.vallesoriental.cat/ambits/lobservatori-centre-destudis/presentacio/"
+    "website": "https://www.vallesoriental.cat/ambits/lobservatori-centre-destudis/presentacio/",
+    "coordinates": {
+      "lat": 41.607695,
+      "lon": 2.28773
+    }
   },
   {
     "is_active": "None",
@@ -4718,7 +4894,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://observatorisalut.gencat.cat/ca/inici"
+    "website": "https://observatorisalut.gencat.cat/ca/inici",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "El Observatorio Tranformación y Participación es un órgano que se constituye para actuar como soporte a la docencia, a la investigación y la participación social. Asentado a nivel autonómico en Castilla y León pretende crear una Red Estatal que aporte soluciones desde la participación social al ámbito de la investigación e innovación aplicada.",
@@ -4754,19 +4934,31 @@
   },
   {
     "name": "Observatori del treball",
-    "website": "https://www.caib.es/sites/observatorideltreball/ca/portada-10648/"
+    "website": "https://www.caib.es/sites/observatorideltreball/ca/portada-10648/",
+    "coordinates": {
+      "lat": 39.5696,
+      "lon": 2.65016
+    }
   },
   {
     "name": "Observatorio do Emprego",
     "website": "https://conselleriaemprego.xunta.gal/formacion/cualificacions/observatorio-do-emprego",
     "description": "O servizo de Observatorio do Emprego é a unidade técnica para coñecer o funcionamento do mercado laboral, proporcionando información clave para o deseño das políticas de formación profesional.",
-    "type": "publico"
+    "type": "publico",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio Ocupacional",
     "description": "Es la Unidad técnica encargada de la obtención y mantenimiento de un banco de datos para el conocimiento de las necesidades y evolución del mercado laboral, que pueda indicar en cada momento las directrices a seguir en materia de políticas activas de empleo y formación profesional en la Región de Murcia, para ello realizará, entre otras, las siguientes funciones:\n-Evaluar los datos que recibe de las distintas unidades y agentes relacionados con la formación y el empleo.\n-Recabar información de empresas y trabajadores para detectar las necesidades ocupacionales.\nExplotar los datos de las Oficinas de Empleo y de otros agentes para determinar las ocupaciones más demandadas.\n-Orientación y apoyo en el diseño de las políticas activas de empleo y formación.",
     "website": "https://sefcarm.es/web/pagina?IDCONTENIDO=70764&IDTIPO=100&RASTRO=c$m70720",
-    "is_active": "Sí"
+    "is_active": "Sí",
+    "coordinates": {
+      "lat": 37.9923795,
+      "lon": -1.1305431
+    }
   },
   {
     "name": "Centro de Documentación Social de Navarra",
@@ -5078,7 +5270,11 @@
     "is_active": "None",
     "name": "Observatorio de la violencia de género",
     "scope": "estatal",
-    "website": "https://observatorioviolencia.org"
+    "website": "https://observatorioviolencia.org",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "No parece tener actividad. Para <q>identificar y servir de intercambio de información sobre experiencias participativas consideradas de un especial interés, tanto en Navarra como fuera de ella, para su divulgación y gestión de buenas y malas prácticas en esta materia. Asimismo, se pretende poner en marcha un seminario de personas expertas que coadyuven al desarrollo del Plan de Impulso de la Participación Ciudadana, así como la presentación de un proyecto innovador en esta materia</q>.",
@@ -5135,7 +5331,11 @@
     "name": "Observatorio Municipal para la Inclusión Social",
     "parents": ["Área de Derechos Sociales"],
     "type": "publico",
-    "website": "https://observatoriosocial.malaga.eu"
+    "website": "https://observatoriosocial.malaga.eu",
+    "coordinates": {
+      "lat": 36.721273,
+      "lon": -4.421399
+    }
   },
   {
     "description": "El Observatorio de la Realidad Social de Navarra evalúa políticas públicas y realiza análisis y prospección sobre la realidad social del territorio.",
@@ -5197,7 +5397,11 @@
       "Colegio Oficial de Pilotos de la Aviación Comercial"
     ],
     "scope": "estatal",
-    "type": "publico"
+    "type": "publico",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio Regional de Mercado",
@@ -5346,7 +5550,11 @@
     "scope": "provincial",
     "to_date": "2027 (3 años de duración)",
     "type": "publico",
-    "website": "De momento no tiene, pero está vinculado con la Universidad de Zaragoza (https://ucc.unizar.es/)"
+    "website": "De momento no tiene, pero está vinculado con la Universidad de Zaragoza (https://ucc.unizar.es/)",
+    "coordinates": {
+      "lat": 41.648823,
+      "lon": -0.889085
+    }
   },
   {
     "docs": [
@@ -5380,7 +5588,11 @@
       "Diputación Foral de Bizkaia"
     ],
     "type": "publico",
-    "website": "https://bizkaikohirihondakinenbehatokia.com/es/observatorio-de-residuos/"
+    "website": "https://bizkaikohirihondakinenbehatokia.com/es/observatorio-de-residuos/",
+    "coordinates": {
+      "lat": 43.263012,
+      "lon": -2.934985
+    }
   },
   {
     "docs": [
@@ -5678,7 +5890,11 @@
     "parents": [
       "Instituto Galego de Estatística y la Comissão de Coordenação e Desenvolvimento Regional do Norte, a través de su Observatório das Dinâmicas Regionais, que cuenta con la colaboración del Instituto Nacional de Estatística de Portugal"
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 42.8875172,
+      "lon": -8.5183692
+    }
   },
   {
     "is_active": "None",
@@ -5772,7 +5988,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://habitatge.gva.es/es/web/vivienda-y-calidad-en-la-edificacion/observatori-de-l-habitat-i-segregacio-urbana-de-la-cv"
+    "website": "https://habitatge.gva.es/es/web/vivienda-y-calidad-en-la-edificacion/observatori-de-l-habitat-i-segregacio-urbana-de-la-cv",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "is_active": "Sí",
@@ -5888,7 +6108,11 @@
     "scope": "autonómico",
     "from_date": "14/5/2025",
     "parents": ["Generalitat Valenciana"],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 39.469907,
+      "lon": -0.376288
+    }
   },
   {
     "email": "omigualdad@oc.mde.es",
@@ -6043,7 +6267,11 @@
     "parents": ["Ayuntamiento de Vitoria-Gasteiz"],
     "scope": "local",
     "type": "publico",
-    "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u50993cf2_1781a8edc14__7e4c"
+    "url": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u50993cf2_1781a8edc14__7e4c",
+    "coordinates": {
+      "lat": 42.846667,
+      "lon": -2.672778
+    }
   },
   {
     "description": "El Observatorio de Residuos Urbanos es un instrumento identificado como acción número 15 del vigente Plan de prevención y gestión de residuos urbanos de Araba-Álava, 2017-2030, abreviadamente PRU2030. <br> Es un instrumento de información, conocimiento y seguimiento permanente de aspectos relativos a la gestión de los residuos urbanos así como un punto de encuentro de todos los agentes interesados, favoreciendo la difusión de información técnica y académica sobre esta materia.",
@@ -6222,7 +6450,11 @@
     ],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://observass.com/"
+    "website": "https://observass.com/",
+    "coordinates": {
+      "lat": 43.361914,
+      "lon": -5.849389
+    }
   },
   {
     "description": "El Observatorio para la Convivencia Escolar de Cantabria es una organización colegiada de carácter consultivo que tiene como objetivo dotar a la administración educativa de las herramientas necesarias para la prevención y mejora del clima escolar en Cantabria.\n\nPresidencia: (Consejero de Educación, Formación Profesional y Universidades)\r\nVicepresidencia (Directora General de Centros e Infraestructuras Educativas)\r\nSecretario.\r\nVocales.",
@@ -6280,7 +6512,11 @@
     "scope": "autonómico",
     "to_date": "N/A",
     "type": "mixto",
-    "website": "https://www.oaib.es/observatorio-ciudadano/"
+    "website": "https://www.oaib.es/observatorio-ciudadano/",
+    "coordinates": {
+      "lat": 39.5696,
+      "lon": 2.65016
+    }
   },
   {
     "description": "El Observatorio Ciudadano de la Sequía es un proyecto de ciencia ciudadana que tiene por objetivo avanzar en el mejor conocimiento del riesgo de sequía en España.",
@@ -6289,7 +6525,11 @@
     "name": "Observatorio ciutadano de la Sequía",
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.creaf.cat/es/observatorio-ciutadano-de-la-sequia"
+    "website": "https://www.creaf.cat/es/observatorio-ciutadano-de-la-sequia",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "El Observatorio del Cambio Climático en Aragón se configura como un espacio para la información, la investigación y la transferencia de conocimientos, dando cabida a todos aquellos aspectos ambientales, territoriales, sociales y económicos que de una u otra forma se pueden ver interferidos por el actual proceso de cambio climático antropogénico.\n\nSe crea con la vocación de recopilar toda la información científica que los distintos investigadores y grupos de investigación de la Comunidad Autónoma de Aragón han generado y generan sobre el cambio climático, su identificación, mitigación y adaptación, sin olvidar todos aquellos datos e informaciones que desde la gestión territorial u otros actores implicados en el tema puedan generarse. De esta forma, tanto en su función de repositorio de información científica como en aquella de enlace a los distintos organismos y colectivos implicados, este Observatorio ha de ser el punto de partida de cualquier iniciativa que surja de acción por el clima en nuestra Comunidad.\n\nSe trata, por tanto, de un instrumento colectivo al servicio de la Región, que permita construir y mantener una plataforma de información contrastada y veraz, para facilitar e impulsar la investigación y la elaboración de políticas y estrategias de mitigación, adaptación y concienciación sobre cambio climático en Aragón.\n\nDirección General de Cambio Climático y Educación Ambiental del Departamento de Agricultura, Ganadería y Medio Ambiente del Gobierno de Aragón: https://www.aragoncambioclimatico.es/politica-privacidad/",
@@ -6327,7 +6567,11 @@
     ],
     "scope": "local",
     "type": "publico",
-    "website": "https://stomallorca.com"
+    "website": "https://stomallorca.com",
+    "coordinates": {
+      "lat": 39.5696,
+      "lon": 2.65016
+    }
   },
   {
     "description": "-eina de monitorització de la realitat i la competitivitat comarcal \r\n-Observatori de prospectiva i anàlisi de les megatendències de futur.\n\nAjuntament de Vic - Creacció\r\nAjuntament de Manlleu\r\nCambra d'Osona\r\nUVic\r\nCEDO",
@@ -6337,7 +6581,11 @@
     "name": "Observatori socioeconòmic d'Osona",
     "scope": "provincial",
     "type": "publico",
-    "website": "http://www.observatorisocioeconomicosona.cat/"
+    "website": "http://www.observatorisocioeconomicosona.cat/",
+    "coordinates": {
+      "lat": 41.930123,
+      "lon": 2.254862
+    }
   },
   {
     "description": "El objeto del Observatorio es el impulso de la presencia de las mujeres y de la igualdad de oportunidades en todas las manifestaciones culturales y en puestos de responsabilidad competencia del Ministerio de Cultura. Para cumplir este objetivo, el Observatorio analizará la información en materia de género para detectar situaciones de desigualdad y establecer medidas correctoras, propiciará la producción artística y la representación femenina en las distintas manifestaciones culturales, impulsará la elaboración de censos de expertas en igualdad de género y cultura, y promocionará el trabajo de las mujeres y su participación equilibrada en jurados y órganos de valoración.",
@@ -6358,7 +6606,11 @@
     "parents": ["Ministerio de cultura"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.cultura.gob.es/cultura/mc/espacio-de-igualdad/observatorio-igualdad-genero-cultura.html#"
+    "website": "https://www.cultura.gob.es/cultura/mc/espacio-de-igualdad/observatorio-igualdad-genero-cultura.html#",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Reducir la frecuencia y gravedad de los accidentes de tráfico e incrementar los medios y recursos destinados a la prevención de siniestros y a la atención de las víctimas",
@@ -6367,7 +6619,11 @@
     "parents": ["Servei Català de Trànsit"],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://transit.gencat.cat/ca/seguretat_viaria/observatori/"
+    "website": "https://transit.gencat.cat/ca/seguretat_viaria/observatori/",
+    "coordinates": {
+      "lat": 41.387397,
+      "lon": 2.168568
+    }
   },
   {
     "description": "De acuerdo con el Decreto 81/2008, de 25 de julio, por el que se crea y regula el Observatorio del Trabajo de las Illes Balears, éste tiene como finalidad gestionar la obtención y la recopilación de los principales datos sociolaborales de las Illes Balears y profundizar en el estudio y la investigación de las características del empleo y el paro, así como de todos los aspectos relacionados con el mercado laboral (coste de trabajo, accidentes laborales, conflictos, condiciones y calidad de vida laborales, formación profesional e inserción laboral, seguridad y higiene en el trabajo, etc.)",
@@ -6446,7 +6702,11 @@
     "from_date": "19/10/2022",
     "parents": [
       "Alguna pista puede obtenerse de [esta noticia](https://planderecuperacion.gob.es/noticias/el-gobierno-y-las-comunidades-autonomas-acuerdan-poner-en-marcha-un-observatorio-de-buenas) donde se menciona que el gobierno y las comunidades autónomas lo pondrán en marcha y [este artículo del BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2022-15818) donde se menciona que será gestionado por la Secretaría para la Unidad de Mercado y la nueva Conferencia Sectorial para la Mejora Regulatoria y el Clima de Negocios asume las funciones del Consejo para la Unidad de Mercado."
-    ]
+    ],
+    "coordinates": {
+      "lat": 43.6434392,
+      "lon": -7.6202751
+    }
   },
   {
     "email": "info@observatorigarrotxa.cat",
@@ -6454,14 +6714,22 @@
     "name": "Observatori per al Desenvolupament Sostenible de la Garrotxa",
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://www.observatorigarrotxa.cat/"
+    "website": "https://www.observatorigarrotxa.cat/",
+    "coordinates": {
+      "lat": 42.182054,
+      "lon": 2.4889
+    }
   },
   {
     "is_active": "Si",
     "name": "Observatori del Partits Polítics de Catalunya",
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://www.upf.edu/web/opcat"
+    "website": "https://www.upf.edu/web/opcat",
+    "coordinates": {
+      "lat": 41.387397,
+      "lon": 2.168568
+    }
   },
   {
     "docs": [
@@ -6473,7 +6741,11 @@
     "name": "Observatorio de la Producción Audidovisual",
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://www.upf.edu/web/opa"
+    "website": "https://www.upf.edu/web/opa",
+    "coordinates": {
+      "lat": 41.387397,
+      "lon": 2.168568
+    }
   },
   {
     "name": "Observatorio Complutense de Desinformación",
@@ -6486,7 +6758,11 @@
       "Ministerio de Ciencia e Innovación",
       "Agencia Estatal de Investigación"
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "docs": [
@@ -6518,7 +6794,11 @@
     ],
     "scope": "estatal",
     "type": "mixto",
-    "website": "https://1mayo.ccoo.es/noticia:682134--CCOO_presenta_el_Observatorio_Social_de_las_personas_mayores_2023&opc_id=2910c4b71f6f452242c8bad8cf5f8f7e"
+    "website": "https://1mayo.ccoo.es/noticia:682134--CCOO_presenta_el_Observatorio_Social_de_las_personas_mayores_2023&opc_id=2910c4b71f6f452242c8bad8cf5f8f7e",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Procesar e difundir a información dispoñible sobre a sinistralidade laboral en Galicia, con propostas de mellora respecto á PRL e condicións de traballo.\r\nElaboración de documentación estatística derivada do tratamento dos datos que atanen á sinistralidade laboral, entendendo tanto accidentes de traballo como enfermidades profesionais e enfermidades relacionadas co traballo.\r\nElaboración de informes, documentos técnicos e estudos das distintas disciplinas preventivas en PRL, que a súa vez son o resultado do traballo do persoal técnico do ISSGA a través de programas executados polo propio Instituto. Isto tendo en conta os sucesivos mandatos tanto das estratexias galegas en materia de SST, como dos plans anuais de actividades do ISSGA.\r\nRealización de campañas, alertas e difusión de documentación técnica para a promoción da PRL e o mellor cumprimento da normativa.",
@@ -6567,7 +6847,11 @@
       {
         "url": "https://administracionelectronica.gob.es/pae_Home/pae_OBSAE/pae_Otras_fuentes/pae_CENATIC_OBSAE.html"
       }
-    ]
+    ],
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "El Observatorio de la realidad de las personas jóvenes es una herramienta fundamental para mantener un conocimiento actualizado de la realidad y poder plantear y ejecutar acciones que respondan a las necesidades y expectativas de las y los destinatarios de las políticas de juventud que materializa este Plan Joven.\n\nLos informes analizan diferentes ámbitos de la realidad, especialmente aquellos relacionados con la emancipación del colectivo joven: empleo, formación y vivienda, pero complementándolo con otros aspectos que ayudan en el camino de autonomía de las personas jóvenes: salud, actividad deportiva, euskera..",
@@ -6597,7 +6881,11 @@
     "parents": ["Ayuntamiento de Vitoria-Gasteiz"],
     "scope": "local",
     "type": "publico",
-    "website": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u7538efd3_12da74c12a4__7fa5"
+    "website": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=u7538efd3_12da74c12a4__7fa5",
+    "coordinates": {
+      "lat": 42.846667,
+      "lon": -2.672778
+    }
   },
   {
     "description": "Se reúne después de 7 años en 2020.\r\nhttps://www.universidades.gob.es/el-observatorio-de-becas-se-reune-siete-anos-despues-para-abordar-la-reforma-del-sistema/",
@@ -6607,7 +6895,11 @@
     "parents": ["Min. Educación. Min. Universidades"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.boe.es/eli/es/rd/2010/10/01/1220/con"
+    "website": "https://www.boe.es/eli/es/rd/2010/10/01/1220/con",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "is_active": "Si",
@@ -6618,7 +6910,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.observatoriodeledadismo.es/"
+    "website": "https://www.observatoriodeledadismo.es/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "El fin fundacional del OAG es garantizar que el puerto de Granadilla se construya y gestione de manera respetuosa con el medio ambiente, controlando el estado y las tendencias de la biodiversidad local y garantizando al mismo tiempo, la aplicación adecuada de las medidas correctores y compensatorias",
@@ -6648,7 +6944,11 @@
     ],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://www.easp.es/osp/"
+    "website": "https://www.easp.es/osp/",
+    "coordinates": {
+      "lat": 37.177336,
+      "lon": -3.598557
+    }
   },
   {
     "name": "El observatorio de Servicios Sociales",
@@ -6683,7 +6983,11 @@
     "parents": ["ANECA -> ministerio de universidades"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.aneca.es/web/guest/observatorio-de-la-calidad-del-sistema-espanol-de-universidades"
+    "website": "https://www.aneca.es/web/guest/observatorio-de-la-calidad-del-sistema-espanol-de-universidades",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "docs": [
@@ -6695,7 +6999,11 @@
     "name": "Observatorio de costes del transporte de mercancías (MINT)",
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.transportes.gob.es/transporte-terrestre/servicios-al-transportista/observatorios-del-transporte/observatorios-del-transporte-de-mercancias-por-carretera/observatorios-costes-transporte-mercancias"
+    "website": "https://www.transportes.gob.es/transporte-terrestre/servicios-al-transportista/observatorios-del-transporte/observatorios-del-transporte-de-mercancias-por-carretera/observatorios-costes-transporte-mercancias",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "La misión de OPIMEC es “Coordinar, desarrollar y establecer desde Andalucía, como eje en España y el ámbito internacional, las estructuras básicas precisas para la creación y consolidación de una comunidad global en el campo de las enfermedades crónicas complejas y la pluripatología, mediante la búsqueda sistemática y selección rigurosa de innovaciones y contenidos de interés así como la promoción de la colaboración y el intercambio científico y técnico\".",
@@ -6704,7 +7012,11 @@
     "parents": ["Consejería de Salud y Consumo de la Junta de Andalucía"],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://www.opimec.org/"
+    "website": "https://www.opimec.org/",
+    "coordinates": {
+      "lat": 37.3399964,
+      "lon": -4.5811614
+    }
   },
   {
     "description": "Consorcio de Infraestructuras de Investigación Europeas (EMSO ERIC).",
@@ -6712,7 +7024,11 @@
     "name": "Observatorio Europeo Multidisciplinar de los Fondos Marinos y de la Columna de Agua",
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.boe.es/eli/es/ai/2019/05/03/(1)"
+    "website": "https://www.boe.es/eli/es/ai/2019/05/03/(1)",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "De acuerdo con la Declaración Universal del derecho de los Animales que es aprobada por la Unesco el 27 de octubre de 1978 y ratificada posteriormente por las Naciones Unidas, los animales son seres vivos sensibles que tienen unos derechos que la especie humana tiene que respetar. Los animales de compañía son cada vez más variados, y en todas las legislaciones modernas se les otorga la consideración de un bien juridíco a proteger.\n\nEl Ayuntamiento tiene el deber de proteger a los animales, de acuerdo a las normas y principios constitucionales vigentes, sin prejuicio también de velar por la seguridad de las personas y de sus bienes. Por otra parte, es prioridad de este gobierno municipal aumentar la protección de los animales y aumentar la convivencia de estos con las personas.\n\nPor todo esto se ha creado el Observatorio de Protección Animal del ayuntamiento de Alcoy.",
@@ -6738,7 +7054,11 @@
     "parents": ["Ministerio de Ciencia e Innovación"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.actualidadjuridicaambiental.com/wp-content/uploads/2022/11/2022-OPAM.pdf"
+    "website": "https://www.actualidadjuridicaambiental.com/wp-content/uploads/2022/11/2022-OPAM.pdf",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "email": "info@contralalgtbifobia.es",
@@ -6746,7 +7066,11 @@
     "name": "Observatorio Valenciano contra la LGTBfobia",
     "scope": "autonómico",
     "type": "publico",
-    "website": "http://contralalgtbifobia.es/"
+    "website": "http://contralalgtbifobia.es/",
+    "coordinates": {
+      "lat": 39.469907,
+      "lon": -0.376288
+    }
   },
   {
     "docs": [
@@ -6758,7 +7082,11 @@
     "parents": ["Ministerio de Transportes, Movilidad y Agenda Urbana"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://cpage.mpr.gob.es/producto/observatorio-hispano-frances-de-trafico-en-los-pirineos-11/"
+    "website": "https://cpage.mpr.gob.es/producto/observatorio-hispano-frances-de-trafico-en-los-pirineos-11/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "El Observatorio de Personas Tituladas es un proyecto del Consejo Social de la Universidade de Vigo creado con el propósito de que la universidad realice un seguimiento de las personas tituladas y coordine todo lo relativo al antiguo estudiantado.\n\nUniversidade de Vigo",
@@ -6767,7 +7095,11 @@
     "name": "Observatorio de Personas Tituladas de la Universidade de Vigo",
     "scope": "autonómico",
     "type": "publico",
-    "website": "http://observatorio.uvigo.gal/es/"
+    "website": "http://observatorio.uvigo.gal/es/",
+    "coordinates": {
+      "lat": 42.240598,
+      "lon": -8.720727
+    }
   },
   {
     "name": "Observatorio Andaluz de la Movilidad Sostenible y la Logística",
@@ -6890,7 +7222,11 @@
     "parents": ["Diputación de Gipuzkoa"],
     "scope": "gipuzkoa",
     "type": "publico",
-    "website": "https://www.ondavasca.com/nace-el-observatorio-turistico-de-gipuzkoa/"
+    "website": "https://www.ondavasca.com/nace-el-observatorio-turistico-de-gipuzkoa/",
+    "coordinates": {
+      "lat": 43.318334,
+      "lon": -1.981231
+    }
   },
   {
     "description": "La página municipal que explica este observatorio está caída en el momento en el que escribo esto…",
@@ -7003,7 +7339,11 @@
     "type": "mixto",
     "website": "https://webs.uab.cat/gret/es/2025/03/07/observatorio-de-competencias-digitales-y-empleabilidad/",
     "description": "Analizar el nivel de competencias digitales de la población y su relación con la empleabilidad en distintos sectores económicos, así como el impacto de la digitalización en el mercado de trabajo",
-    "parents": ["Universitat Autònoma de Barcelona", "IMANcorp Foundation"]
+    "parents": ["Universitat Autònoma de Barcelona", "IMANcorp Foundation"],
+    "coordinates": {
+      "lat": 41.5015527,
+      "lon": 2.1062607
+    }
   },
   {
     "description": "Para «abordar de manera conjunta y coordinada, con la participación de todo el sector rural y marino,\"el mayor desafío al que se enfrenta el sector\", ya que el relevo generacional supone traspasar de una manera progresiva el legado empresarial y familiar a una nueva generación en un momento, el actual, \"acuciado por la falta de rentabilidad, la inestabilidad y las amenazas que sufre el medio rural a novel global\"}",
@@ -7032,7 +7372,11 @@
     "scope": "estatal",
     "type": "publico",
     "is_active": "Si",
-    "description": "Es una biblioteca virtual de artículos, creados por docentes para docentes, en torno a la innovación digital en el aula. Cada artículo presenta una herramienta digital educativa, con su aplicación didáctica y metodológica, terminando con una valoración del autor/a y una recomendación final."
+    "description": "Es una biblioteca virtual de artículos, creados por docentes para docentes, en torno a la innovación digital en el aula. Cada artículo presenta una herramienta digital educativa, con su aplicación didáctica y metodológica, terminando con una valoración del autor/a y una recomendación final.",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatori de la Inundabilitat de Catalunya",
@@ -7045,7 +7389,11 @@
       "Conselleria de Territori, Habitatge i Transició Ecològica",
       "Govern de Catalunya"
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 41.387397,
+      "lon": 2.168568
+    }
   },
   {
     "name": "Observatorio de la Vivienda Turística",
@@ -7054,7 +7402,11 @@
     "scope": "estatal",
     "type": "publico",
     "is_active": "Si",
-    "description": "Anunciado por el presidente del Gobierno el 8 de octubre de 2025 con la finalidad de hacer <q>un atlas</q> de viviendas turísticas."
+    "description": "Anunciado por el presidente del Gobierno el 8 de octubre de 2025 con la finalidad de hacer <q>un atlas</q> de viviendas turísticas.",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio ITE (Inspección Técnica de Edificios)",
@@ -7066,7 +7418,11 @@
     "scope": "estatal",
     "type": "publico",
     "is_active": "Si",
-    "description": "Presenta comparativas entre la información de los distintos municipios y comunidades, estadísticas de los datos facilitados por cada Ayuntamiento con respecto a las Inspecciones Técnicas de Edificios presentadas, e informes de coyuntura que muestren la evolución de dichos datos."
+    "description": "Presenta comparativas entre la información de los distintos municipios y comunidades, estadísticas de los datos facilitados por cada Ayuntamiento con respecto a las Inspecciones Técnicas de Edificios presentadas, e informes de coyuntura que muestren la evolución de dichos datos.",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio del Emprendimiento (GEM)",
@@ -7075,7 +7431,11 @@
     "scope": "estatal",
     "type": "mixto",
     "is_active": "Si",
-    "description": "Para  la medición del fenómeno emprendedor con una perspectiva multidisciplinar que aplica conocimiento experto y metodologías exclusivas. Nuestra asociación está compuesta por una red de 200 investigadores, académicos y profesionales con una dilatada experiencia en el proceso emprendedor, los ecosistemas de emprendimiento y la formación a emprendedores."
+    "description": "Para  la medición del fenómeno emprendedor con una perspectiva multidisciplinar que aplica conocimiento experto y metodologías exclusivas. Nuestra asociación está compuesta por una red de 200 investigadores, académicos y profesionales con una dilatada experiencia en el proceso emprendedor, los ecosistemas de emprendimiento y la formación a emprendedores.",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio municipal del árbol de Valencia - OMAV",
@@ -7116,7 +7476,11 @@
     "scope": "estatal",
     "type": "publico",
     "is_active": "Si",
-    "description": "Análisis detallado de flujos de transporte y comercio entre España y Portugal en 2019."
+    "description": "Análisis detallado de flujos de transporte y comercio entre España y Portugal en 2019.",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio de Ecodiseño",
@@ -7125,7 +7489,11 @@
     "scope": "estatal",
     "type": "publico",
     "is_active": "Si",
-    "description": "Espacio de referencia para la promoción del ECODISEÑO en el territorio de la EUROACE, de forma que actúe como punto de encuentro para los agentes del sector para potenciar la innovación y la transferencia de tecnología. El Observatorio de ECODISEÑO pretende facilitar servicios de información, orientación, asesoramiento, sistemas de vigilancia tecnológica, recopilación y seguimiento de las metodologías y tendencias del ECODISEÑO. En él podrás encontrar tendencias, artículos científicos, legislación, ayudas, buenas prácticas, etc., que te permitirán estar siempre actualizado en la temática."
+    "description": "Espacio de referencia para la promoción del ECODISEÑO en el territorio de la EUROACE, de forma que actúe como punto de encuentro para los agentes del sector para potenciar la innovación y la transferencia de tecnología. El Observatorio de ECODISEÑO pretende facilitar servicios de información, orientación, asesoramiento, sistemas de vigilancia tecnológica, recopilación y seguimiento de las metodologías y tendencias del ECODISEÑO. En él podrás encontrar tendencias, artículos científicos, legislación, ayudas, buenas prácticas, etc., que te permitirán estar siempre actualizado en la temática.",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio de mercado de trabajo",
@@ -7237,7 +7605,11 @@
     "parents": ["Universidad Miguel Hernández"],
     "type": "publico",
     "email": "masculinidad@umh.es",
-    "from_date": "2013"
+    "from_date": "2013",
+    "coordinates": {
+      "lat": 38.2769777,
+      "lon": -0.6899447
+    }
   },
   {
     "description": "Creado por Decreto del Alcalde el <strong>29 de julio de 2022</strong> como órgano colegiado de seguimiento, asesoramiento y coordinación para evaluar el impacto de las violencias contra las mujeres en la ciudad de Madrid. Está adscrito al Área de Gobierno de Políticas Sociales, Familia e Igualdad y reúne a representantes municipales y de entidades sociales para analizar la realidad local, proponer medidas y medir el efecto de las políticas municipales (<a href=\"https://www.madrid.es/portales/munimadrid/es/Inicio/Igualdad-y-diversidad/Observatorio-Municipal-de-Violencia-contra-las-Mujeres/?vgnextfmt=default&amp;vgnextoid=67f723eab8248810VgnVCM1000001d4a900aRCRD&amp;vgnextchannel=c426c05098535510VgnVCM1000008a4a900aRCRD&amp;idCapitulo=11742639&amp;rm=dc9d8a7fd4c3b310VgnVCM2000000c205a0aRCRD\">portal municipal</a>). El pleno se convoca al menos dos veces al año y la comisión permanente celebra cuatro sesiones ordinarias anuales.",
@@ -7271,7 +7643,11 @@
     "scope": "estatal",
     "from_date": "2024",
     "parents": ["Universidad Politécnica de Valencia"],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Órgano permanente de participación y evaluación creado en 2019 para implicar a la ciudadanía en el seguimiento de la gestión municipal de Madrid (<a href=\"https://diario.madrid.es/blog/notas-de-prensa/el-observatorio-de-la-ciudad-ya-tiene-49-vocales-elegidos-por-sorteo/#:~:text=12%2F03%2F2019\">constitución</a>). Su primera etapa contó con 49 vocales ciudadanos elegidos por sorteo que analizaban políticas municipales y elaboraban recomendaciones. En febrero de 2020 el observatorio se reestructuró como un órgano colegiado presidido por la Concejalía de Transparencia e integrado por responsables municipales para impulsar la evaluación institucional, la rendición de cuentas y la transparencia sobre los servicios públicos (<a href=\"https://www.lavanguardia.com/politica/20200228/473821415646/madrid-tiene-nuevo-observatorio-de-la-ciudad-sin-la-oposicion-ni-los-vecinos.html\">reforma 2020</a>). Publica informes periódicos de evaluación de la gestión municipal.",
@@ -7375,14 +7751,22 @@
     ],
     "is_active": "Sí",
     "email": "No disponible. Se ofrece un formulario de suscripción y el teléfono del ministerio es 915 977 000.",
-    "from_date": "Primer trimestre de 2012"
+    "from_date": "Primer trimestre de 2012",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio social del transporte por carretera",
     "type": "publico",
     "website": "https://www.transportes.gob.es/areas-de-actividad/transporte-terrestre/servicios-al-transportista/observatorio-social-del-transporte-por-carretera",
     "scope": "estatal",
-    "parents": ["Ministerio de transporte"]
+    "parents": ["Ministerio de transporte"],
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio de la Pobreza y Exclusión Social (OPEX)",
@@ -7402,7 +7786,11 @@
     ],
     "is_active": "Sí",
     "email": "eapn@eapn.es",
-    "from_date": "Principios de 2021"
+    "from_date": "Principios de 2021",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio para la Igualdad y la Diversidad",
@@ -7463,7 +7851,11 @@
       }
     ],
     "is_active": "Sí",
-    "email": "No disponible. Se ofrece un formulario de contacto general."
+    "email": "No disponible. Se ofrece un formulario de contacto general.",
+    "coordinates": {
+      "lat": 43.263012,
+      "lon": -2.934985
+    }
   },
   {
     "name": "Observatorio Extremeño de la Accesibilidad",
@@ -7505,7 +7897,11 @@
     ],
     "is_active": "Sí",
     "email": "No disponible",
-    "from_date": "2003"
+    "from_date": "2003",
+    "coordinates": {
+      "lat": 43.263012,
+      "lon": -2.934985
+    }
   },
   {
     "name": "Observatorio de Competitividad de Bizkaia",
@@ -7529,7 +7925,11 @@
     ],
     "is_active": "Sí",
     "email": "No disponible",
-    "from_date": "2021"
+    "from_date": "2021",
+    "coordinates": {
+      "lat": 43.263012,
+      "lon": -2.934985
+    }
   },
   {
     "name": "Observatorio Vasco del Turismo",
@@ -7812,7 +8212,11 @@
     "type": "publico",
     "website": "https://gfw.diputacionalicante.es/Secretaria/Formularios/Observatorio",
     "is_active": "Sí",
-    "email": "No disponible"
+    "email": "No disponible",
+    "coordinates": {
+      "lat": 38.3436365,
+      "lon": -0.4881708
+    }
   },
   {
     "name": "Observatorio económico (Madrid)",
@@ -7961,7 +8365,11 @@
       }
     ],
     "is_active": "Sí",
-    "from_date": "Finales de 2022"
+    "from_date": "Finales de 2022",
+    "coordinates": {
+      "lat": 39.469907,
+      "lon": -0.376288
+    }
   },
   {
     "name": "Observatorio Turístico (Valladolid)",
@@ -8078,7 +8486,11 @@
     "scope": "estatal",
     "type": "publico",
     "is_active": "No",
-    "from_date": "2022-2023 (Compromiso de desarrollo)"
+    "from_date": "2022-2023 (Compromiso de desarrollo)",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio para la sostenibilidad turística local (Andalucía)",
