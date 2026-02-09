@@ -4,7 +4,11 @@
     "name": "Observatorio contra el Fraude y la Corrupción Sanitaria",
     "parents": ["Ministerio de Sanidad"],
     "scope": "estatal",
-    "type": "publico"
+    "type": "publico",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Para <q>la disminución de las desigualdades de género en salud, mediante la participación y colaboración entre el conjunto de agentes implicados, generando y difundiendo conocimiento que permita el análisis de género y promueva la inclusión del enfoque de género y la equidad en las políticas públicas de salud</q>.",
@@ -16,7 +20,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.observatoriosaludmujeres.es"
+    "website": "https://www.observatoriosaludmujeres.es",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Observatorio Provincial de todas las Agendas Urbanas Supramunicipales en la provincia de Granada\n\nSu objetivo es lograr:\r\n- La mejora de la calidad de vida de las personas.\r\n- La gestión eficiente de los servicios.\r\n- La sostenibilidad económica y ambiental.\r\n- El uso innovador de los recursos.\r\n- La innovación en las políticas públicas locales, para mejorar su eficacia y eficiencia.\n\nPara hacer posible estos objetivos y que puedan construirse las agendas urbanas en la provincia de Granada, hemos creado dos programas de Concertación específicos. Los Programas son:\n\n15422 Diseño de Agenda urbana 2030 para el desarrollo sostenible y el programa 15423 Asistencia técnica en la implementación inicial y consolidación de planes de acción de las agendas urbanas 2030\n\nLa intención es ampliar al conjunto de la provincia estos programas en el marco de la nueva concertación para el periodo 2022-2023. Incorporando al conjunto de los municipios, e incorporando dos Agendas urbanas importantes para el Conjunto de la Provincia; La Agenda Urbana del Área Metropolitana de Granada y la Agenda Urbana del conjunto de la Provincia como tal. Una agenda que tendrá la virtualidad de haberse construido de abajo arriba, e involucrando, haciendo participes a cientos de actores sociales y económicos que garantizan la calidad del proceso.\n\n- Diputación de Granada",
@@ -72,7 +80,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.transportes.gob.es/ferrocarriles/observatorios/observatorio-del-ferrocarril-en-espana"
+    "website": "https://www.transportes.gob.es/ferrocarriles/observatorios/observatorio-del-ferrocarril-en-espana",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Se <a href=\"https://www.omha.alcoi.org/wp-content/uploads/2022/03/TEXT-BOP-NUM-137-DE-220720-APROVACIO-DEFINITIVA.pdf\">constituye el 22-07-2020</a>, y a fecha de marzo de 2024 solo se ha reunido en <a href=\"https://www.omha.alcoi.org/es/actas/\">tres ocasiones</a>. Tras las elecciones municipales de 2023, parece que el OMHA no ha tenido ninguna actividad.",
@@ -257,7 +269,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://administracionelectronica.gob.es/pae_Home/pae_OBSAE.html"
+    "website": "https://administracionelectronica.gob.es/pae_Home/pae_OBSAE.html",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "docs": [
@@ -270,7 +286,11 @@
     "parents": ["Ministerio de Igualdad", "Instituto de las Mujeres"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.inmujeres.gob.es/observatorios/observIgualdad/home.htm"
+    "website": "https://www.inmujeres.gob.es/observatorios/observIgualdad/home.htm",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Pretende ser un órgano técnico de análisis y diagnóstico de la situación de los y las jóvenes en nuestro país y de apoyo a la formulación de iniciativas, programas y políticas de juventud. Sus fines principales son: servir de cauce de participación de los jóvenes que viven en España mediante la expresión de sus opiniones sobre aquellos aspectos que les afectan; estudiar la realidad juvenil y las transformaciones que se van produciendo en la población joven; contribuir a la orientación y a la actualización de las políticas de juventud y de las actuaciones que desde las administraciones públicas y desde la sociedad se llevan a cabo dirigidas a la juventud; y analizar la imagen de los jóvenes en los medios de comunicación proponiendo medidas para mejorarla.\n\nElabora y difunde regularmente datos estadísticos, encuestas de opinión, estudios e investigaciones sobre la juventud y mantiene un fondo documental especializado que puede ser consultado a través de esta web o en su biblioteca.\n\nAdemás, edita periódicamente la Revista de Estudios de Juventud, en formato digital y en papel, en la que se abordan en profundidad y de manera monográfica, por parte de distintos expertos, los temas más relevantes relacionados con el ámbito juvenil.",
@@ -293,14 +313,22 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.injuve.es/observatorio"
+    "website": "https://www.injuve.es/observatorio",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio de la Imagen de las Mujeres",
     "parents": ["Ministerio de Igualdad", "Instituto de las Mujeres"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.inmujeres.gob.es/observatorios/observImg/home.htm"
+    "website": "https://www.inmujeres.gob.es/observatorios/observImg/home.htm",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio de la Cadena Alimentaria",
@@ -310,7 +338,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.mapa.gob.es/es/alimentacion/temas/observatorio-cadena/organizacion-y-estructura/"
+    "website": "https://www.mapa.gob.es/es/alimentacion/temas/observatorio-cadena/organizacion-y-estructura/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Es un proyecto de la Fundación Ibercivis en colaboración con la FECYT, que se dedica a recopilar proyectos de ciencia ciudadana en el país para fomentar la difusión y la colaboración entre científicos, gestores, y comunicadores. Su meta es facilitar el conocimiento sobre la ciencia ciudadana, considerando que es un campo en constante evolución. El observatorio también destaca por organizar eventos y recolectar recursos, habiendo iniciado su labor en 2016.",
@@ -323,7 +355,11 @@
     ],
     "scope": "estatal",
     "type": "mixto",
-    "website": "https://ciencia-ciudadana.es"
+    "website": "https://ciencia-ciudadana.es",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio de la Gestión Empresarial en Biodiversidad"
@@ -413,7 +449,11 @@
         "name": "Los impactos de la minería en Andalucía Occidental"
       }
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio 2030",
@@ -434,7 +474,11 @@
         "name": "Ciudad y territorio en regeneración: Informe del Observatorio 2030 del CSCAE"
       }
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio de Infancia del País Vasco",
@@ -479,14 +523,22 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.cultura.gob.es/cultura/libro/observatorio-de-la-lectura-y-el-libro/que-es-el-observatorio.html"
+    "website": "https://www.cultura.gob.es/cultura/libro/observatorio-de-la-lectura-y-el-libro/que-es-el-observatorio.html",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "email": "observatorio.ocupacional@sepe.es",
     "name": "Observatorio de las Ocupaciones del Servicio Público de Empleo Estatal",
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.sepe.es/HomeSepe/que-es-el-sepe/comunicacion-institucional/publicaciones/publicaciones-oficiales/listado-pub-mercado-trabajo/observatorio-ocupaciones.html"
+    "website": "https://www.sepe.es/HomeSepe/que-es-el-sepe/comunicacion-institucional/publicaciones/publicaciones-oficiales/listado-pub-mercado-trabajo/observatorio-ocupaciones.html",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "email": "observatorio.museos@cultura.gob.es",
@@ -494,7 +546,11 @@
     "parents": ["Ministerio de Cultura"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.cultura.gob.es/observatorio-museos-espana/el-observatorio-de-museos-de-espana.html"
+    "website": "https://www.cultura.gob.es/observatorio-museos-espana/el-observatorio-de-museos-de-espana.html",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Publica informes de precios agrícolas y ganaderos.",
@@ -566,7 +622,11 @@
     ],
     "name": "Observatorio de Salud y Cambio Climático",
     "parents": ["Ministerio de Ciencia e Innovación"],
-    "scope": "estatal"
+    "scope": "estatal",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Para <q>conocer la realidad de la juventud aragonesa desde un enfoque integral, con el fin de orientar las políticas de juventud adecuándolas a sus necesidades reales, así como plantear actuaciones eficaces dirigidas a dicho colectivo, lo que implica obtener información relevante, sistemática y actualizada, sobre la situación actual de los jóvenes aragoneses, así como su evolución a lo largo del tiempo y los principales factores que inciden en la misma</q>.",
@@ -642,7 +702,11 @@
     "parents": [
       "Ministerio de Transportes, Movilidad y Agenda Urbana",
       "Secretaría General de Transportes y Movilidad"
-    ]
+    ],
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "docs": [
@@ -704,7 +768,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.rtve.es/observatorio-igualdad/"
+    "website": "https://www.rtve.es/observatorio-igualdad/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "email": "tenerife@oficinarenovables.es",
@@ -786,7 +854,11 @@
     "parents": ["Ministerio de Sanidad"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/home.htm"
+    "website": "https://pnsd.sanidad.gob.es/profesionales/sistemasInformacion/home.htm",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio Empresarial de Navarra - Nafarroako Enpresen Behatokia",
@@ -826,7 +898,11 @@
     "parents": ["Ministerio de Inclusión, Seguridad Social y Migraciones"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.inclusion.gob.es/oberaxe/"
+    "website": "https://www.inclusion.gob.es/oberaxe/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio Estatal de Condiciones de Trabajo",
@@ -845,7 +921,11 @@
   {
     "name": "Observatorio Estatal de la Convivencia Escolar",
     "scope": "estatal",
-    "website": "https://www.educacionyfp.gob.es/mc/sgctie/convivencia-escolar/observatorio.html"
+    "website": "https://www.educacionyfp.gob.es/mc/sgctie/convivencia-escolar/observatorio.html",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Nace con la finalidad de estructurar y desarrollar un dispositivo permanente de observación cooperativa y de evaluación participativa sobre la situación socio-económica del colectivo de las personas inmigrantes que residen en Asturias.",
@@ -1167,7 +1247,11 @@
     "is_active": "No",
     "name": "Observatorio Nacional 5G",
     "parents": ["Ministerio de Economía"],
-    "scope": "estatal"
+    "scope": "estatal",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Iniciativa del Ayuntamiento de Valderredible con el Gobierno de Cantabria, planteada en 2021 y 2022. A fecha de la primavera de 2024 no consta que se haya puesto en marcha.",
@@ -1428,7 +1512,11 @@
     "parents": ["Ministerio de Ciencia, Innovación y Universidades"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.ciencia.gob.es/Secc-Servicios/Igualdad/OMCI.html"
+    "website": "https://www.ciencia.gob.es/Secc-Servicios/Igualdad/OMCI.html",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "from_date": "Mayo 2024",
@@ -1504,7 +1592,11 @@
     "parents": ["Cortes Generales"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.observatoriodelavidamilitar.es/"
+    "website": "https://www.observatoriodelavidamilitar.es/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "A través del Observatorio pretendemos facilitar el acceso a la información y al conocimiento de todos los aspectos relacionados con el mundo de la vivienda, de manera que administraciones, empresas públicas y personales y cualquier interesado en este mundo estén en las mejores condiciones para adoptar decisiones eficaces y adaptadas a las necesidades del país. Del trabajo de unos y otros saldrá la información, estudios y trabajos que periódicamente verano a luz a través de esta web y de los boletines y publicaciones del Observatorio que estarán la disposición de los interesados en las diferentes secciones de este sitio.",
@@ -1617,7 +1709,11 @@
     "scope": "autonómico",
     "to_date": "Junio 2015",
     "type": "publico",
-    "website": "http://www.ideotalex.eu/"
+    "website": "http://www.ideotalex.eu/",
+    "coordinates": {
+      "lat": 39.1748426,
+      "lon": -6.1529891
+    }
   },
   {
     "name": "Observatorio de la Igualdad",
@@ -1741,7 +1837,11 @@
       "Ministerio de Trabajo y Economía Social",
       "Instituto Universitario de Economía Social, Cooperativismo y Emprendimiento (Universidad de Valencia)"
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio Canario del Empleo (OBECAN)",
@@ -2141,7 +2241,11 @@
     "name": "Observatorio de Accesibilidad Web",
     "scope": "estatal",
     "type": "publico",
-    "website": "https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Accesibilidad/pae_Observatorio_de_Accesibilidad.html"
+    "website": "https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Accesibilidad/pae_Observatorio_de_Accesibilidad.html",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio de la Movilidad Metropolitana (OMM)",
@@ -2151,7 +2255,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/movilidad/omm.html"
+    "website": "https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/movilidad/omm.html",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "docs": [
@@ -2181,7 +2289,11 @@
       "Consejo de Gobierno de la Comunidad Autónoma de La Rioja"
     ],
     "scope": "estatal",
-    "type": "publico"
+    "type": "publico",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio de la Economía Gallega",
@@ -2209,7 +2321,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.inclusion.gob.es/web/opi/estadisticas/observatorio_permanente_inmigracion"
+    "website": "https://www.inclusion.gob.es/web/opi/estadisticas/observatorio_permanente_inmigracion",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Observatorio impulsado por medio centenar de especialistas en ecología, con el objetivo de proporcionar nuevos datos y herramientas que ayuden a preservar la salud de los ríos y mitigar los efectos del cambio climático. Este observatorio constará de seis áreas de estudio que cubrirán las distintas zonas climáticas de la península ibérica –desde las zonas áridas del sur hasta la Cordillera Cantábrica-, en las cuales se hará un seguimiento anual para entender las dinámicas a largo plazo de los ecosistemas fluviales.\n\nCoordinado por la [Estación Biológica de Doñana (EBD)](https://ebd.csic.es/), perteneciente al Consejo Superior de Investigaciones Científicas (CSIC).",
@@ -2242,7 +2358,11 @@
       "Delegación del Gobierno contra la Violencia de Género"
     ],
     "scope": "estatal",
-    "website": "https://violenciagenero.igualdad.gob.es/instituciones/observatorioEstatal/home.htm"
+    "website": "https://violenciagenero.igualdad.gob.es/instituciones/observatorioEstatal/home.htm",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio de la Innovación del Patrimonio Cultural de Galicia",
@@ -2299,7 +2419,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.airef.es/es/buscador-hallazgos/"
+    "website": "https://www.airef.es/es/buscador-hallazgos/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "location": "Alcalá de Henares",
@@ -2371,7 +2495,11 @@
     "parents": ["Ministerio de Industria y Turismo"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.mintur.gob.es/es-es/gabineteprensa/notasprensa/2024/paginas/20240430-observatorio-morosidad-privada.aspx"
+    "website": "https://www.mintur.gob.es/es-es/gabineteprensa/notasprensa/2024/paginas/20240430-observatorio-morosidad-privada.aspx",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "name": "Observatorio Vasco de Vivienda",
@@ -2549,7 +2677,11 @@
     "from_date": "Septiembre de 2025",
     "to_date": "Se suprimió en 2014. En septiembre de 2025 se restableció.",
     "parents": ["Ministerio de Sanidad"],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "is_active": "Si",
@@ -2886,7 +3018,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.poderjudicial.es/cgpj/es/Temas/Violencia-domestica-y-de-genero/El-Observatorio-contra-la-violencia-domestica-y-de-genero/"
+    "website": "https://www.poderjudicial.es/cgpj/es/Temas/Violencia-domestica-y-de-genero/El-Observatorio-contra-la-violencia-domestica-y-de-genero/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Desde principios de 2014 comenzaron a evidenciarse en la Comunidad de Madrid las agresiones motivadas por LGTBIfobia. El Ministerio del Interior registró un aumento de más del 100% en este tipo de agresiones frente a las registradas en 2013. En dicho Informe se puso de manifiesto que los delitos de odio motivados por identidad de género y orientación sexual fueron los más numerosos, con un porcentaje del 40% sobre el total.\n\nExplicar las causas de la violencia motivada por LGTBIfobia es complicado y requiere un profundo análisis, pero uno de los principales factores es la mayor visibilidad en la sociedad de la diversidad sexual y de género. Leyes como la del Matrimonio Igualitario no sólo supusieron una concesión de derechos, sino que permitieron aspirar a la igualdad real como nunca antes, normalizando en las vidas cotidianas actitudes, expresiones de género o gestos de cariño que antes se evitaban en público. Desterrada la idea de «volver a los armarios», se debe continuar con la defensa de la visibilidad en todos y cada uno de los espacios en la calle y en todos y cada uno de los espacios públicos, hasta la completa desaparición de las actitudes discriminatorias y la violencia motivadas por LGTBIfobia.\n\nUn delito de odio por LGTBIfobia es una infracción penal en la que la víctima, el lugar o el objeto de la infracción se seleccionan por su conexión, relación, afiliación, apoyo o pertenencia real o supuesta a un grupo basado en la identidad de género y/o la orientación sexual. Como el resto de delitos de odio, reciben un tratamiento diferente a nivel legal ya que no sólo están motivados por un odio infundado hacia un grupo en sí sino que además busca crear una amenaza a todas las personas que pertenecen al grupo de la víctima y a su entorno. Una persona es la víctima, pero su entorno y las personas del grupo al que pertenece sufren una agresión en su conjunto.\n\nEl Observatorio Madrileño Contra la LGTBIfobia de Arcópoli, desde el inicio de su andadura en 2016, monitoriza, registra y denuncia los delitos de odio, las situaciones discriminatorias y cualquier otro incidente motivado por LGTBIfobia. Monitorizar y registrar es imprescindible para conocer la realidad a la que nos enfrentamos, ya que históricamente las personas LGTBI y las que han sido percibidas como tal han sufrido agresiones que caen en el olvido. Además, año tras año la Agencia Europea de Derechos Fundamentales mantiene el dato de que 9 de cada 10 víctimas no denuncian, por lo que es de vital importancia trabajar ese aspecto y ofrecer las herramientas y el acompañamiento necesario en la lucha contra todos esos casos en los que se ha atacado la dignidad de las personas.\n\nEl Observatorio Madrileño Contra la LGTBIfobia busca crear una red de trabajo efectivo en la lucha contra la LGTBIfobia en la Comunidad de Madrid y para ello cuenta con la inestimable colaboración de varias asociaciones e instituciones, así como de personas anónimas que de forma desinteresada ponen en nuestro conocimiento incidentes de los que tienen conocimiento, facilitando nuestra labor.",
@@ -2932,7 +3068,11 @@
     "parents": ["Puertos del Estado"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://observatorio.puertos.es/Paginas/Observatorio.aspx"
+    "website": "https://observatorio.puertos.es/Paginas/Observatorio.aspx",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Para <q>generar, analizar, reunir, organizar y comunicar información relevante y de calidad en el ámbito de la salud pública de Galicia, con el objetivo de proporcionar información basada en la evidencia científica, y ponerla a disposición de profesionales de la salud, de personal investigador, así como de la sociedad en general</q>.",
@@ -2960,7 +3100,11 @@
     "name": "Observatorio de la Sostenibilidad del Regadío",
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.mapa.gob.es/es/desarrollo-rural/temas/gestion-sostenible-regadios/regadio-espanya/default_1.2.2.aspx"
+    "website": "https://www.mapa.gob.es/es/desarrollo-rural/temas/gestion-sostenible-regadios/regadio-espanya/default_1.2.2.aspx",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Rellenando un cuestionario de materias de Gobierno Abierto de el % de cumplimiento respecto a cada uno de los bloques y tu la posición de un municipio respecto a la media\n\nDiputación de Alicante",
@@ -3211,7 +3355,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.observatoriomargenes.es/wme/es/"
+    "website": "https://www.observatoriomargenes.es/wme/es/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Profundizar <q>en el conocimiento sobre los sectores culturales y creativos, y sistematizar la información cuantitativa y cualitativa en el ámbito de la cultura y la creatividad en Navarra que ayude en la elaboración de las políticas culturales y la toma de decisiones, investigue en tendencias, conexiones con otros sectores, etc., identifique las buenas prácticas y experiencias que se desarrollan dentro y fuera de Navarra, y fomente el conocimiento de los públicos de la cultura y la creatividad</q>.",
@@ -3483,7 +3631,11 @@
       "- Comunidad de Madrid",
       "- Consejera de Familia, Juventud y Asuntos Sociales"
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 40.5248319,
+      "lon": -3.7715628
+    }
   },
   {
     "description": "Busca suministrar información de todos los aspectos relativos al suelo empresarial, con el objetivo de que administraciones, empresas públicas y privadas, y cualquier persona interesada en este ámbito se encuentren en las condiciones idóneas para adoptar decisiones eficaces y adaptadas a las necesidades del país.",
@@ -3673,7 +3825,11 @@
     ],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.observatorioreligion.es"
+    "website": "https://www.observatorioreligion.es",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "docs": [
@@ -3839,7 +3995,11 @@
     "parents": ["Ministerio de Transportes, Movilidad y Agenda Urbana"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://cibim.transportes.gob.es/observatorio-cibim"
+    "website": "https://cibim.transportes.gob.es/observatorio-cibim",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "El Observatorio de Contratación Pública es un lugar de encuentro para los profesionales de la materia desde el que proceder al debate y análisis de las novedades introducidas en su ordenación jurídica, así como para la realización de nuevas propuestas de actuación para la modernización de la contratación pública y materializar en la misma los principios de eficiencia, integridad y buena administración.",
@@ -3970,7 +4130,11 @@
       "Grupo Cooperativo Cajamar"
     ],
     "scope": "estatal",
-    "website": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-323"
+    "website": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-323",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "El objetivo es la recogida sistemática de datos por medio de estadísticas desagregadas por sexos con el fin de conocer objetivamente la realidad específica de la igualdad de oportunidades entre mujeres y hombres en la Comunidad Autónoma del Principado de Asturias.\n\nInstituto Asturiano de la Mujer",
@@ -4136,7 +4300,11 @@
     "parents": ["Ministerio de Derecho Sociales y Agenda 2030"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.observatorioemancipacion.org/la-emancipacion-juvenil-en-espana-datos-generales/"
+    "website": "https://www.observatorioemancipacion.org/la-emancipacion-juvenil-en-espana-datos-generales/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "docs": [
@@ -4240,7 +4408,11 @@
     "parents": ["Ministerio de Derechos Sociales Consumo y Agenda 2030"],
     "scope": "estatal",
     "type": "mixto",
-    "website": "https://minob.org/espanol/"
+    "website": "https://minob.org/espanol/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "OBAFI es un proyecto compartido entre la Dirección General de Juventud y Deportes de la JCCM y la UCLM, que pretende constituir una herramienta de utilidad pública para conocer los hábitos físico-deportivos y la condición física relacionada con la salud de los escolares castellano-manchegos.",
@@ -4800,7 +4972,11 @@
     "parents": [
       "Ministerio para la Transición Ecológica y el Reto Demográfico"
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "email": "movilidad@malaga.eu",
@@ -5308,7 +5484,11 @@
     "scope": "estatal",
     "from_date": "10 de agosto de 2024",
     "parents": ["Guardia Civil", "Ministerio del Interior"],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "email": "observatori@creama.org",
@@ -5336,7 +5516,11 @@
     "parents": [
       "Ministerio de Fomento (Dirección General de Transporte por Carretera)"
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Acción de divulgación, análisis y sensibilización dirigido a mejorar el conocimiento sobre las desigualdades de género que se producen en el ámbito de empleo y emprendimiento y las claves para superarlas desde la corresponsabilidad de los distintos agentes que operan en el ámbito laboral.",
@@ -5348,7 +5532,11 @@
     ],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://www.observatorioigualdadyempleo.es/"
+    "website": "https://www.observatorioigualdadyempleo.es/",
+    "coordinates": {
+      "lat": 39.4177902,
+      "lon": -2.6232332
+    }
   },
   {
     "is_active": "None",
@@ -5647,7 +5835,11 @@
         "name": "Informe 1: Detección de noticias a través de aplicaciones de inteligencia artificial"
       }
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "El Observatorio sobre Drogas para Asturias es un centro que tiene como objetivo fundamental recoger, analizar y difundir indicadores que permitan evaluar la situación del consumo de drogas, sus repercusiones médicas, sociales y judiciales y la utilización de los servicios ofertados en este campo en Asturias.\n\nObservatorio de Salud en Asturias.",
@@ -5705,7 +5897,11 @@
     "parents": ["Ministerio de Defensa"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.defensa.gob.es/ministerio/organigrama/subdef/omi/"
+    "website": "https://www.defensa.gob.es/ministerio/organigrama/subdef/omi/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "is_active": "None",
@@ -5713,7 +5909,11 @@
     "parents": ["Ministerio de Agricultura, Pesca y Alimentación"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.mapa.gob.es/es/alimentacion/servicios/observatorio-de-precios-de-los-alimentos/estudios-e-informes/default.aspx"
+    "website": "https://www.mapa.gob.es/es/alimentacion/servicios/observatorio-de-precios-de-los-alimentos/estudios-e-informes/default.aspx",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "is_active": "None",
@@ -5733,7 +5933,11 @@
     "parents": ["Ministerio de Sanidad"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.aemps.gob.es/medicamentos-de-uso-humano/observatorio-de-uso-de-medicamentos/"
+    "website": "https://www.aemps.gob.es/medicamentos-de-uso-humano/observatorio-de-uso-de-medicamentos/",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "is_active": "None",
@@ -5741,7 +5945,11 @@
     "parents": ["Ministerio de Derechos Sociales, Consumo y Agenda 2030"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.aesan.gob.es/AECOSAN/web/nutricion/seccion/observatorio.htm"
+    "website": "https://www.aesan.gob.es/AECOSAN/web/nutricion/seccion/observatorio.htm",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "email": "sgfomon.sscc@mincotur.es",
@@ -5750,7 +5958,11 @@
     "parents": ["Ministerio de Economía, Comercio y Empresa"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://comercio.gob.es/ComercioInterior/Observatorio/Paginas/default.aspx"
+    "website": "https://comercio.gob.es/ComercioInterior/Observatorio/Paginas/default.aspx",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "Aún no han creado su propia pagina pero su constitución aparece mencionada en varias páginas oficiales de la Junta de Andalucía, arriba uno de las noticias al respecto",
@@ -6565,7 +6777,11 @@
     "scope": "autonómico",
     "from_date": "2014. Creado por Decreto 132/2014 de la Junta de Andalucía",
     "parents": ["Junta de Andalucía"],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 37.3399964,
+      "lon": -4.5811614
+    }
   },
   {
     "is_active": "Si",
@@ -7536,7 +7752,11 @@
       {
         "name": "Acuerdo a favor de la Responsabilidad Social Empresarial en Galicia"
       }
-    ]
+    ],
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio Costeiro de la Xunta de Galicia",
