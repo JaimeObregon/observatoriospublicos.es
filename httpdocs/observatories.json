@@ -36,7 +36,11 @@
     "parents": ["Diputación de Granada"],
     "scope": "provincial",
     "type": "publico",
-    "website": "https://opaugranada.es/"
+    "website": "https://opaugranada.es/",
+    "coordinates": {
+      "lat": 37.1734995,
+      "lon": -3.5995337
+    }
   },
   {
     "docs": [
@@ -182,11 +186,19 @@
     "from_date": "25-01-2018",
     "name": "Observatorio Autonómico dos Ríos de Galicia",
     "scope": "galicia",
-    "type": "publico"
+    "type": "publico",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio da Sociedade da Información e a Modernización de Galicia",
-    "scope": "galicia"
+    "scope": "galicia",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio da Violencia no Contorno Laboral",
@@ -219,7 +231,11 @@
     ],
     "scope": "provincial",
     "type": "publico",
-    "website": "https://oteagranada.com/"
+    "website": "https://oteagranada.com/",
+    "coordinates": {
+      "lat": 37.1734995,
+      "lon": -3.5995337
+    }
   },
   {
     "description": "Es una entidad que supervisa y reporta el progreso y estado de la administración electrónica en España. Publica mensualmente un boletín con indicadores clave, recolectando datos propios y de terceros para ofrecer una visión completa del desarrollo y avance de la digitalización de los servicios administrativos en el país. Su función principal es proporcionar información actualizada y relevante que ayude en la transformación digital y mejora de la administración electrónica.",
@@ -318,7 +334,11 @@
     ],
     "scope": "local",
     "type": "publico",
-    "website": "https://observatoricullera.uv.es/"
+    "website": "https://observatoricullera.uv.es/",
+    "coordinates": {
+      "lat": 39.1647217,
+      "lon": -0.2542313
+    }
   },
   {
     "name": "Observatorio de la Infancia de España",
@@ -354,7 +374,11 @@
   },
   {
     "name": "Observatorio de la Infancia y la Adolescencia de Asturias",
-    "scope": "asturias"
+    "scope": "asturias",
+    "coordinates": {
+      "lat": 43.3133868,
+      "lon": -5.94192
+    }
   },
   {
     "name": "Observatorio de Políticas del Agua (OPPA)",
@@ -498,7 +522,11 @@
     ],
     "scope": "cantabria",
     "type": "publico",
-    "website": "https://fmvaldecilla.es/unidad/observatorio-de-salud-publica-de-cantabria/"
+    "website": "https://fmvaldecilla.es/unidad/observatorio-de-salud-publica-de-cantabria/",
+    "coordinates": {
+      "lat": 43.1595664,
+      "lon": -4.0878382
+    }
   },
   {
     "description": "Nace <q>como un órgano colegiado intersectorial para apoyar el análisis, diagnóstico, evaluación y seguimiento de los efectos de la emergencia climática en la salud, al tiempo que ofrece apoyo científico-técnico a las Administraciones públicas</q>.",
@@ -594,7 +622,11 @@
     "name": "Observatorio do Sector Lácteo de Galicia",
     "scope": "galicia",
     "type": "publico",
-    "website": "https://fogga.xunta.gal/es/sector_lacteo/observatorio_del_sector_lacteo"
+    "website": "https://fogga.xunta.gal/es/sector_lacteo/observatorio_del_sector_lacteo",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "docs": [
@@ -651,7 +683,11 @@
     ],
     "scope": "local",
     "type": "publico",
-    "website": "https://occet.es/"
+    "website": "https://occet.es/",
+    "coordinates": {
+      "lat": 28.2935785,
+      "lon": -16.6214471
+    }
   },
   {
     "name": "Observatorio Español contra la LGBTfobia"
@@ -795,7 +831,11 @@
     ],
     "scope": "autonómico",
     "type": "mixto",
-    "website": "https://www.odina.es"
+    "website": "https://www.odina.es",
+    "coordinates": {
+      "lat": 43.3133868,
+      "lon": -5.94192
+    }
   },
   {
     "name": "Observatorio Estatal de la Dependencia",
@@ -1085,7 +1125,11 @@
     "parents": ["Consejo Social UPM"],
     "scope": "estatal",
     "type": "publico",
-    "website": "https://www.upm.es/observatorio/vi/index.jsp"
+    "website": "https://www.upm.es/observatorio/vi/index.jsp",
+    "coordinates": {
+      "lat": 40.416782,
+      "lon": -3.703507
+    }
   },
   {
     "description": "El Observatorio para el Análisis y Visibilidad de la Exclusión Social , nace con el propósito de investigar situaciones, procesos y estructuras de exclusión social, darles visibilidad con campañas de comunicación y crear proyectos de intervención para colaborar en su erradicación. Se materializa así, como una manifestación más de la responsabilidad social universitaria, el firme compromiso de la Universidad Rey Juan Carlos en apostar por la igualdad de todas las personas, así como en la generación de oportunidades vitales para ellas. Este Observatorio está formado por un grupo interdisciplinar de PDIs, liderados desde la Sociología (investigación social) y el Trabajo Social (intervención social) de esta Universidad. Por su parte, el Grupo IDEX, líder en comunicación social, será el socio externo que implementaría la estrategia de difusión y sensibilización de la realidad investigada, financiándose a través de RSC de empresas. Se une la Universidad y la sociedad civil en la mejora de la calidad de vida de las personas más vulnerables.\n\nOBJETIVOS:\n\nInvestigar y analizar situaciones, procesos y estructuras de exclusión social.\r\nLanzar campañas mediáticas para sensibilizar a la sociedad en general, de las situaciones, procesos y estructuras de exclusión social previamente estudiadas.\r\nGenerar proyectos de intervención social para los fenómenos analizados.",
@@ -1221,7 +1265,11 @@
     "scope": "local",
     "to_date": "Continúa",
     "type": "publico",
-    "website": "https://www.alicante.es/es/gobierno-abierto/transparencia/conceptos/observatorio-calidad-servicios-municipales"
+    "website": "https://www.alicante.es/es/gobierno-abierto/transparencia/conceptos/observatorio-calidad-servicios-municipales",
+    "coordinates": {
+      "lat": 38.3436365,
+      "lon": -0.4881708
+    }
   },
   {
     "name": "Observatorio Tecnológico",
@@ -1243,7 +1291,11 @@
         "name": "Informe de Transformación Urbana de Sevilla 2022"
       }
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 37.3886303,
+      "lon": -5.9953403
+    }
   },
   {
     "name": "Observatorio Territorial de Andalucía",
@@ -1295,7 +1347,11 @@
     "parents": [
       "Consellería de presidencia, Xustiza e Deportes",
       "Xunta de Galicia"
-    ]
+    ],
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "description": "1. Este observatorio, para a consecución dos seus fins, exercerá as seguintes funcións:\n\na) Actuar como órgano de recompilación, análise e intercambio da información dispoñible en diferentes fontes autonómicas, estatais e internacionais sobre a familia e os nenos, nenas e adolescentes.\n\nb) Propoñer a realización de estudos, investigacións e informes técnicos que permitan un mellor coñecemento da situación da familia e da infancia en Galicia e a detección das súas necesidades e demandas sociais.\n\nc) Avaliar o impacto das políticas fiscais, laborais e sociais desenvolvidas polos distintos departamentos das administracións na situación das familias e da infancia galegas.\n\nd) Formular propostas e recomendacións sobre liñas estratéxicas e prioridades de actuación en materia de políticas familiares e de infancia no ámbito da Comunidade Autónoma Galega.\n\ne) Servir de canle para a actuación coordinada e harmónica entre os distintos departamentos das administracións públicas no ámbito da familia e a infancia.\n\nf) Canalizar as propostas das organizacións sociais que desenvolven as súas actividades no ámbito da familia e da infancia.\n\ng) Promover as actuacións necesarias para sensibilizar a toda a cidadanía no coñecemento e respecto dos dereitos da infancia en Galicia e no mundo.\n\nh) Promover a elaboración e desenvolvemento dos plans e estratexias de familia, de infancia e adolescencia e avaliar a súa execución.\n\ni) Elaborar informes e ditames por petición dos órganos competentes da Comunidade Autónoma sobre as materias da súa competencia.\n\nj) Impulsar a incorporación da perspectiva da familia e infancia no ordenamento xurídico galego, de xeito que se tomen en consideración as necesidades da infancia, da adolescencia e das familias galegas.\n\nk) Participar, elevar propostas e manter contactos con outros órganos de similar natureza, promovendo os encontros entre profesionais e persoas expertas, tanto no ámbito autonómico e estatal como internacional, para facilitar o intercambio de experiencias, investigacións e traballos nesta materia.\n\n2. No exercicio das funcións establecidas neste artigo terase en conta e integrarase de xeito transversal a perspectiva de xénero e a relación recíproca entre familia e infancia e igualdade de xénero.\n\ntitular da consellería competente en materia de familia\r\n titular da dirección xeral competente en materia de familia\r\n funcionaria da consellería competente en materia de familia\r\n persoa en representación do órgano competente en materia de estatística\r\npersoa en representación da Delegación do Goberno en Galicia\r\npersoa en representación da Federación Galega de Municipios e Provincias (Fegamp)\r\npersoa en representación de cada unha das tres universidades galegas\r\npersoa representante da Fiscalía da Comunidade Autónoma de Galicia\r\nUn número de persoas equivalente ao de representantes sindicais en representación da Confederación de Empresarios de Galicia (CEG)\r\npersoa en representación de cada unha das organizacións sindicais intersectoriais máis representativas de Galicia, así como das presentes na Mesa Xeral de Negociación das Administracións Públicas que non teñan a condición de máis representativas\r\npersoa representante da Plataforma de Organizacións da Infancia de Galicia (POI Galicia)\r\npersoa en representación da Fundación UNICEF-Comité Español",
@@ -1366,7 +1422,11 @@
     ],
     "scope": "galicia",
     "type": "publico",
-    "website": "https://www.observatoriodavivenda.gal"
+    "website": "https://www.observatoriodavivenda.gal",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio da Lingua Galega",
@@ -1570,7 +1630,11 @@
         "name": "La Diputación de Badajoz pone a disposición una plataforma online interactiva con datos socioeconómicos de la provincia",
         "url": "https://www.dip-badajoz.es/agenda/index.php?id=3&agenda=21524"
       }
-    ]
+    ],
+    "coordinates": {
+      "lat": 38.878187,
+      "lon": -6.9701115
+    }
   },
   {
     "name": "Observatorio Ocupacional y Empresarial de ILDEFE",
@@ -1677,7 +1741,11 @@
     "parents": ["Gobierno de la Región de Murcia"],
     "scope": "region_de_murcia",
     "type": "publico",
-    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=740&IDTIPO=140"
+    "website": "https://www.carm.es/web/pagina?IDCONTENIDO=740&IDTIPO=140",
+    "coordinates": {
+      "lat": 37.9923795,
+      "lon": -1.1305431
+    }
   },
   {
     "name": "Observatorio de Turismo de Extremadura",
@@ -1751,7 +1819,11 @@
         "name": "Orden de 1 de febrero de 2007 de la Consejería de Sanidad por el que se crea el Observatorio sobre Drogas de la Región de Murcia.",
         "url": "https://www.murciasalud.es/-/legislacion-97389"
       }
-    ]
+    ],
+    "coordinates": {
+      "lat": 37.9923795,
+      "lon": -1.1305431
+    }
   },
   {
     "name": "Observatori Balear de la Societat de la Informació (OBSI)",
@@ -1876,7 +1948,11 @@
     "parents": ["Universidad de Vigo"],
     "scope": "autonómico",
     "type": "mixto",
-    "website": "observatorio.eolico.uvigo.es"
+    "website": "observatorio.eolico.uvigo.es",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "location": "A Coruña",
@@ -2005,7 +2081,11 @@
     "parents": [
       "Consellería de Cultura, Lengua y Juventud de la Xunta de Galicia"
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "location": "Alcalá de Henares",
@@ -2250,7 +2330,11 @@
       {
         "name": "Encuesta continua del Observatorio Turístico de la Provincia de Sevilla"
       }
-    ]
+    ],
+    "coordinates": {
+      "lat": 37.3886303,
+      "lon": -5.9953403
+    }
   },
   {
     "name": "Observatorio para la Prevención del Tabaquismo",
@@ -2399,7 +2483,11 @@
     "scope": "region_de_murcia",
     "type": "publico",
     "website": "https://observatorioconvivencia.com/",
-    "description": "El Observatorio para la Convivencia Escolar es un órgano colegiado que sirve de instrumento a la comunidad educativa y a la sociedad para conocer, analizar y evaluar la convivencia en los centros docentes. Está adscrito a la Consejería de Educación y Cultura, a través de la Dirección General de Ordenación Académica. La finalidad del Observatorio será la de contribuir a la mejora del desarrollo de la actividad escolar en los centros docentes mediante la evaluación y el diagnóstico de la convivencia escolar, el análisis de los conflictos y la propuesta de medidas para la prevención de la violencia."
+    "description": "El Observatorio para la Convivencia Escolar es un órgano colegiado que sirve de instrumento a la comunidad educativa y a la sociedad para conocer, analizar y evaluar la convivencia en los centros docentes. Está adscrito a la Consejería de Educación y Cultura, a través de la Dirección General de Ordenación Académica. La finalidad del Observatorio será la de contribuir a la mejora del desarrollo de la actividad escolar en los centros docentes mediante la evaluación y el diagnóstico de la convivencia escolar, el análisis de los conflictos y la propuesta de medidas para la prevención de la violencia.",
+    "coordinates": {
+      "lat": 37.9923795,
+      "lon": -1.1305431
+    }
   },
   {
     "name": "Observatorio Regional de la Discapacidad",
@@ -2420,7 +2508,11 @@
     "parents": ["Consell de Mallorca"],
     "scope": "local",
     "type": "publico",
-    "website": "https://esports.conselldemallorca.es/observatori-esportiu-de-mallorca"
+    "website": "https://esports.conselldemallorca.es/observatori-esportiu-de-mallorca",
+    "coordinates": {
+      "lat": 39.613432,
+      "lon": 2.8829185
+    }
   },
   {
     "docs": [
@@ -2432,7 +2524,11 @@
     "name": "Observatorio de la Calidad de los Servicios de la Comunidad Autónoma de la Región de Murcia",
     "scope": "region_de_murcia",
     "type": "publico",
-    "website": "https://transparencia.carm.es/-/observatorio-de-la-calidad-de-los-servicios#gsc.tab=0"
+    "website": "https://transparencia.carm.es/-/observatorio-de-la-calidad-de-los-servicios#gsc.tab=0",
+    "coordinates": {
+      "lat": 37.9923795,
+      "lon": -1.1305431
+    }
   },
   {
     "name": "Observatorio de Igualdad",
@@ -2610,7 +2706,11 @@
     "parents": ["Dirección General de Salud Pública", "Xunta de Galicia"],
     "scope": "galicia",
     "type": "publico",
-    "website": "https://observatoriosaudepublica.sergas.gal/es"
+    "website": "https://observatoriosaudepublica.sergas.gal/es",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "description": "Para <q>informar sobre la evolución de los principales indicadores relativos a la sostenibilidad económica, social y medioambiental de la agricultura de regadío en España</q>.",
@@ -2639,7 +2739,11 @@
     "parents": ["Diputación de Alicante"],
     "scope": "provincial",
     "type": "publico",
-    "website": "http://dipalicante.gobiernoabierto.femp.es/es/municipios/municipios/inicio"
+    "website": "http://dipalicante.gobiernoabierto.femp.es/es/municipios/municipios/inicio",
+    "coordinates": {
+      "lat": 38.3436365,
+      "lon": -0.4881708
+    }
   },
   {
     "description": "El Observatorio Coruñés contra a LGTBIfobia es un servicio dedicado a la escucha, asesosamiento, registro y denuncia de los incidentes o delitos de odio con un componente LGTBIfobico.",
@@ -2976,7 +3080,11 @@
     "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
-    "website": "https://oic.itccanarias.org/"
+    "website": "https://oic.itccanarias.org/",
+    "coordinates": {
+      "lat": 28.2935785,
+      "lon": -16.6214471
+    }
   },
   {
     "is_active": "None",
@@ -2992,7 +3100,11 @@
     "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
-    "website": "https://www.gobiernodecanarias.org/turismo/estadisticas_y_estudios/"
+    "website": "https://www.gobiernodecanarias.org/turismo/estadisticas_y_estudios/",
+    "coordinates": {
+      "lat": 28.2935785,
+      "lon": -16.6214471
+    }
   },
   {
     "is_active": "None",
@@ -3008,7 +3120,11 @@
     "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
-    "website": "https://www3.gobiernodecanarias.org/ceic/energia/oecan/"
+    "website": "https://www3.gobiernodecanarias.org/ceic/energia/oecan/",
+    "coordinates": {
+      "lat": 28.2935785,
+      "lon": -16.6214471
+    }
   },
   {
     "is_active": "None",
@@ -3016,7 +3132,11 @@
     "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
-    "website": "https://www.obidic.es"
+    "website": "https://www.obidic.es",
+    "coordinates": {
+      "lat": 28.2935785,
+      "lon": -16.6214471
+    }
   },
   {
     "name": "Observatori agroalimentari, rural i ambiental",
@@ -3072,7 +3192,11 @@
     "parents": ["Instituto Galego da Vivenda e Solo", "Xunta de Galicia"],
     "scope": "galicia",
     "type": "publico",
-    "website": "https://www.observatoriodosoloempresarial.gal"
+    "website": "https://www.observatoriodosoloempresarial.gal",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "description": "Para promover la participación de la sociedad en la mejora y desarrollo de la actividad comercial en Galicia.",
@@ -3081,7 +3205,11 @@
     "name": "Observatorio do Comercio de Galicia",
     "parents": ["Dirección Xeral de Comercio", "Xunta de Galicia"],
     "scope": "galicia",
-    "type": "publico"
+    "type": "publico",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "email": "observatoriodelaguaemasesa@emasesa.com",
@@ -3101,7 +3229,11 @@
     "parents": ["Xunta de Galicia", "Instituto Enerxético de Galicia"],
     "scope": "galicia",
     "type": "publico",
-    "website": "https://www.inega.gal/es/inega/puntos-de-encuentro-energeticos/observatorios"
+    "website": "https://www.inega.gal/es/inega/puntos-de-encuentro-energeticos/observatorios",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "description": "El Observatorio de Gestión de EUSKALIT es un servicio cuyo objetivo es identificar, analizar y recopilar la información destacada de todo el mundo sobre la gestión avanzada y hacérsela llegar de forma accesible a las organizaciones y otros grupos de interés de Euskadi, para así ampliar su conocimiento en este ámbito.",
@@ -3235,7 +3367,11 @@
     "name": "Observatorio Económico de Melilla",
     "parents": ["Consejería de Presidencia"],
     "scope": "melilla",
-    "website": "https://elfarodemelilla.es/echa-a-andar-el-observatorio-economico-de-melilla/"
+    "website": "https://elfarodemelilla.es/echa-a-andar-el-observatorio-economico-de-melilla/",
+    "coordinates": {
+      "lat": 35.2929115,
+      "lon": -2.9507202
+    }
   },
   {
     "description": "El Observatorio de precios agrarios muestra semanalmente la evolución del precio que percibe el productor (origen) y el que paga el consumidor (destino). También incorpora costes de producción de diferentes cultivos y especies ganaderas que se irán completando semana a semana.",
@@ -3256,7 +3392,11 @@
     "name": "Banda Ancha de Navarra",
     "scope": "navarra",
     "type": "publico",
-    "website": "https://bandaancha.navarra.es/es/inicio"
+    "website": "https://bandaancha.navarra.es/es/inicio",
+    "coordinates": {
+      "lat": 42.7027944,
+      "lon": -1.7086231
+    }
   },
   {
     "description": "Facilita diversos estudios, directivas, información de y para operadores turísticos regionales",
@@ -3277,7 +3417,11 @@
     ],
     "scope": "navarra",
     "type": "publico",
-    "website": "https://turismoprofesional.navarra.es/es/observatorio-turistico"
+    "website": "https://turismoprofesional.navarra.es/es/observatorio-turistico",
+    "coordinates": {
+      "lat": 42.7027944,
+      "lon": -1.7086231
+    }
   },
   {
     "description": "Órgano encargado de analizar y estudiar la situación de la población joven de la Comunidad Foral de Navarra. El trabajo que realizamos desde el observatorio joven permite analizar y evaluar la situación, demandas y necesidades de la juventud Navarra, para, de esta manera, poder diseñar, elaborar y evaluar diferentes iniciativas, políticas y estrategias destinadas a mejorar las condiciones de vida del colectivo joven.",
@@ -3340,7 +3484,11 @@
     ],
     "scope": "navarra",
     "type": "publico",
-    "website": "https://www.nasuvinsa.es/es/servicios/lursarea/observatorio"
+    "website": "https://www.nasuvinsa.es/es/servicios/lursarea/observatorio",
+    "coordinates": {
+      "lat": 42.7027944,
+      "lon": -1.7086231
+    }
   },
   {
     "description": "El Observatorio CIBIM revisa periódicamente la publicación de licitaciones públicas en la Plataforma de Contratación del Sector Público y plataformas existentes en Comunidades Autónomas, para identificar la incorporación de requisitos BIM y llevar a cabo un análisis cuantitativo y cualitativo de licitaciones con BIM publicadas en España a lo largo de los últimos años, según distintas clasificaciones.",
@@ -3404,7 +3552,11 @@
     "scope": "provincial",
     "to_date": "sigue",
     "type": "publico",
-    "website": "https://www.puertoalicante.com/negocio/observatorio/"
+    "website": "https://www.puertoalicante.com/negocio/observatorio/",
+    "coordinates": {
+      "lat": 38.3436365,
+      "lon": -0.4881708
+    }
   },
   {
     "email": "observatorioinfancia.assda@juntadeandalucia.es",
@@ -3521,7 +3673,11 @@
     "name": "Observatori de l'economia local de Sabadell",
     "scope": "local",
     "type": "mixto",
-    "website": "https://www.vaporllonch.cat/observatori-economia-local"
+    "website": "https://www.vaporllonch.cat/observatori-economia-local",
+    "coordinates": {
+      "lat": 41.5421013,
+      "lon": 2.1138977
+    }
   },
   {
     "name": "Observatorio deTransformación Digital de Navarra - Nafarroako Eraldaketa Digitalaren Behatokia",
@@ -3637,7 +3793,11 @@
     ],
     "scope": "local",
     "type": "publico",
-    "website": "https://observatorisocial.tarragona.cat/"
+    "website": "https://observatorisocial.tarragona.cat/",
+    "coordinates": {
+      "lat": 41.1172364,
+      "lon": 1.2546057
+    }
   },
   {
     "description": "Para aportar información útil al agricultor como apoyo en sus procesos de toma de decisiones.",
@@ -4066,7 +4226,11 @@
     "website": "https://www.navarra.es/es/web/centro-documentacion-social",
     "type": "publico",
     "is_active": "Sí",
-    "email": "info.derechossociales@navarra.es"
+    "email": "info.derechossociales@navarra.es",
+    "coordinates": {
+      "lat": 42.7027944,
+      "lon": -1.7086231
+    }
   },
   {
     "description": "Como Observatorio la visión es poder tener varios objetivos fijados a largo plazo como concienciar la LGTBIfobia en la existente actual y erradicar contra la LGTBIfobia.",
@@ -4137,7 +4301,11 @@
     ],
     "scope": "canarias",
     "type": "publico",
-    "website": "https://contratacionresponsablecanarias.org"
+    "website": "https://contratacionresponsablecanarias.org",
+    "coordinates": {
+      "lat": 28.2935785,
+      "lon": -16.6214471
+    }
   },
   {
     "name": "Observatori de l'Administració Digital",
@@ -4216,7 +4384,11 @@
     ],
     "scope": "menorca",
     "type": "publico",
-    "website": "https://www.obsam.cat"
+    "website": "https://www.obsam.cat",
+    "coordinates": {
+      "lat": 39.9492572,
+      "lon": 4.0499642
+    }
   },
   {
     "name": "Observatorio de la gestión del agua en España",
@@ -4249,7 +4421,11 @@
     ],
     "scope": "local",
     "type": "publico",
-    "website": "https://diversidad-funcional.ayto-fuenlabrada.es/observatorio-municipal-de-la-dependencia.php"
+    "website": "https://diversidad-funcional.ayto-fuenlabrada.es/observatorio-municipal-de-la-dependencia.php",
+    "coordinates": {
+      "lat": 40.282476,
+      "lon": -3.7923422
+    }
   },
   {
     "name": "Observatorio Turístico de Alcobendas",
@@ -4274,7 +4450,11 @@
         "name": "Sumérgete en el Turismo Cultural de Alcobendas: ¡Un Destino Inolvidable!"
       }
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 40.5400082,
+      "lon": -3.6358494
+    }
   },
   {
     "description": "El objetivo de este informe estadístico, de carácter anual, es conocer de una forma completa e integrada las pautas de la visita y el perfil del visitante, tanto turistas como excursionistas, entre otros aspectos. Es decir, se trata de determinar los perfiles del visitante que llega a la ciudad de Málaga: cuáles son sus motivaciones iniciales, cómo organizan su viaje, qué tipo de actividades realizan durante su estancia, cómo valoran la oferta disponible y el viaje en función de sus expectativas iniciales, entre otros aspectos relevantes.",
@@ -4329,7 +4509,11 @@
       "Colegio de Sociología y Politología de Navarra"
     ],
     "scope": "navarra",
-    "website": "https://gobiernoabierto.navarra.es/es/participacion/enviar-aportacion/1587/observatorio-participacion-ciudadana-navarra"
+    "website": "https://gobiernoabierto.navarra.es/es/participacion/enviar-aportacion/1587/observatorio-participacion-ciudadana-navarra",
+    "coordinates": {
+      "lat": 42.7027944,
+      "lon": -1.7086231
+    }
   },
   {
     "description": "Es un órgano colegiado y consultivo que dependiendo de la Dirección General competente en materia de lucha contra la brecha digital trata de ser un foro de participación que permita el impulso compartido entre las administraciones públicas, los agentes económicos y sociales y la sociedad civil organizada en la lucha contra la brecha digital. Servirá de plataforma para planificar, estudiar y analizar el entorno y la realidad socioeconómica valenciana en materia de brecha digital.",
@@ -4375,7 +4559,11 @@
     "parents": ["Servicios sociales, empleo y vivienda", "Gobierno de Navarra"],
     "scope": "navarra",
     "type": "publico",
-    "website": "https://www.observatoriorealidadsocial.es"
+    "website": "https://www.observatoriorealidadsocial.es",
+    "coordinates": {
+      "lat": 42.7027944,
+      "lon": -1.7086231
+    }
   },
   {
     "description": "Es <q>una herramienta para centralizar la información sobre accesibilidad en el País Vasco y que esté a disposición de todas las personas interesadas</q>.",
@@ -4424,7 +4612,11 @@
     "from_date": "15/01/2012",
     "parents": [
       "Puede encontrarse el anuncio de su creación en [este artículo del BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2012-4187)."
-    ]
+    ],
+    "coordinates": {
+      "lat": 42.5941788,
+      "lon": -5.5704747
+    }
   },
   {
     "docs": [
@@ -4604,7 +4796,11 @@
         "name": "- Aforos y balances de cultivos (Anual)."
       }
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 37.9923795,
+      "lon": -1.1305431
+    }
   },
   {
     "name": "Observatorio Desca",
@@ -4954,7 +5150,11 @@
     ],
     "scope": "autonómico",
     "type": "publico",
-    "website": "https://www.astursalud.es/noticias/-/noticias/observatorio-sobre-drogas-y-adiccion-a-las-bebidas-alcoholicas-del-principado-de-asturias"
+    "website": "https://www.astursalud.es/noticias/-/noticias/observatorio-sobre-drogas-y-adiccion-a-las-bebidas-alcoholicas-del-principado-de-asturias",
+    "coordinates": {
+      "lat": 43.3133868,
+      "lon": -5.94192
+    }
   },
   {
     "is_active": "Sí",
