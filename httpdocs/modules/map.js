@@ -38,13 +38,12 @@ function buildPopup(observatories) {
     const o = observatories[0]
     const name = escapeHtml(o.name)
     const location = o.location ? escapeHtml(o.location) : null
-    const website = o.website ? escapeAttr(o.website) : null
+    const observatoryAttr = o.name ? escapeAttr(o.name) : ''
 
     return `
       <div class="map-popup">
-        <strong>${name}</strong>
+        <strong><a class="map-open-observatory" href="#" data-observatory="${observatoryAttr}">${name}</a></strong>
         ${location ? `<br /><small>${location}</small>` : ''}
-        ${website ? `<br /><a href="${website}">Sitio web</a>` : ''}
       </div>
     `
   }
@@ -59,8 +58,8 @@ function buildPopup(observatories) {
   const itemsHtml = list
     .map((o) => {
       const name = escapeHtml(o.name)
-      const website = o.website ? escapeAttr(o.website) : null
-      return `<li>${website ? `<a href="${website}">${name}</a>` : name}</li>`
+      const observatoryAttr = o.name ? escapeAttr(o.name) : ''
+      return `<li><a class="map-open-observatory" href="#" data-observatory="${observatoryAttr}">${name}</a></li>`
     })
     .join('')
 
@@ -196,6 +195,26 @@ export function initMap(observatories) {
   map = L.map(container, {
     scrollWheelZoom: true,
     touchZoom: true,
+  })
+
+  container.addEventListener('click', (event) => {
+    const target = event.target
+    const link =
+      target instanceof Element
+        ? target.closest('a.map-open-observatory')
+        : null
+    if (!link) return
+
+    event.preventDefault()
+    event.stopPropagation()
+
+    const name = link.dataset.observatory
+    if (!name) return
+
+    if (typeof window.openObservatoryModal === 'function') {
+      window.openObservatoryModal(name)
+      map.closePopup()
+    }
   })
 
   // Permite zoom por rueda/pinch solo cuando el usuario lo hace de forma intencional

@@ -152,4 +152,27 @@ const getScrollbarWidth = () => {
   return scrollbarWidth
 }
 
+// API global mínima para poder abrir el modal desde otros componentes (p.ej. mapa)
+window.openObservatoryModal = (name) => {
+  if (!name || !currentObservatories) return
+
+  const modal = document.getElementById('observatory')
+  if (!modal) return
+
+  const observatory = currentObservatories.find((o) => o.name === name)
+  if (!observatory) return
+
+  // Si ya está abierto, solo actualizamos el contenido (showModal() lanzaría error).
+  if (modal.open) {
+    visibleModal = modal
+    const div = modal.querySelector('#observatory-content')
+    const h3 = modal.querySelector('#observatory-title')
+    div.innerHTML = createObservatoryDetailsComponent(observatory)
+    h3.innerText = observatory.name
+    return
+  }
+
+  openModal(modal, { currentTarget: { dataset: { observatory: name } } })
+}
+
 main()
