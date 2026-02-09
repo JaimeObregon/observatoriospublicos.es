@@ -194,8 +194,22 @@ export function initMap(observatories) {
   const { L } = window
 
   map = L.map(container, {
-    scrollWheelZoom: false,
+    scrollWheelZoom: true,
+    touchZoom: true,
   })
+
+  // Permite zoom por rueda/pinch solo cuando el usuario lo hace de forma intencional
+  // (Ctrl/Cmd + scroll o pinch en trackpad, que suele marcar ctrlKey).
+  // Asi evitamos que el mapa "robe" el scroll normal de la pagina.
+  container.addEventListener(
+    'wheel',
+    (event) => {
+      if (!(event.ctrlKey || event.metaKey)) {
+        event.stopImmediatePropagation()
+      }
+    },
+    { capture: true },
+  )
 
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
