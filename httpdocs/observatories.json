@@ -6832,14 +6832,6 @@
     "website": "https://cabildo.grancanaria.com/pegip/seguimiento-y-evaluacion"
   },
   {
-    "name": "Observatorio de aves (Dunas de Maspalomas)",
-    "description": "Observatorio de aves en el ámbito de las Dunas de Maspalomas (espacio/instalación de observación). <a href=\"https://cabildo.grancanaria.com/dunas/observatorio-de-aves\">Sitio web</a>.",
-    "parents": ["Cabildo de Gran Canaria"],
-    "scope": "canarias",
-    "type": "publico",
-    "website": "https://cabildo.grancanaria.com/dunas/observatorio-de-aves"
-  },
-  {
     "name": "Fundación Canaria Observatorio de Temisas",
     "description": "Referencia a la Fundación Canaria Observatorio de Temisas en noticia de subvención del Cabildo (planetario). <a href=\"https://cabildo.grancanaria.com/w/la-vicepresidencia-del-cabildo-de-gran-canaria-concede-una-subvenci%C3%B3n-de-60.000-euros-a-la-fundaci%C3%B3n-canaria-observatorio-de-temisas-para-la-construcci%C3%B3n-del-planetario-pino-ojeda?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu_viewSingleAsset=true&redirect=%2Frss%2Fnoticias%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu_delta%3D50%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu_cur%3D26\">Fuente</a>.",
     "parents": [
