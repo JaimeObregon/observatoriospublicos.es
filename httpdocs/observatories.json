@@ -202,7 +202,11 @@
   },
   {
     "name": "Observatorio da Violencia no Contorno Laboral",
-    "scope": "galicia"
+    "scope": "galicia",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "description": "El Observatorio Territorial de Estudios y Análisis (OTEA) de Granada es una entidad esencial para el desarrollo y la planificación estratégica de la provincia. Su función es apoyar a las entidades locales en la promoción económica y el desarrollo sostenible, proporcionando estudios técnicos y asistencia en la modernización de servicios públicos. Además, OTEA juega un papel crucial en el seguimiento de la evolución del empleo y los sectores productivos, así como en la difusión de buenas prácticas que pueden ser aplicadas en diferentes contextos, fortaleciendo así la gestión territorial y la economía circular.\n\n- Diputación de Granada",
@@ -346,7 +350,11 @@
   },
   {
     "name": "Observatorio de la Infancia de Andalucía",
-    "scope": "andalucia"
+    "scope": "andalucia",
+    "coordinates": {
+      "lat": 37.3399964,
+      "lon": -4.5811614
+    }
   },
   {
     "description": "Tiene como principal cometido el análisis del mercado laboral en nuestro municipio, tanto en lo referente a los/as demandantes de empleo, como sobre las contrataciones realizadas en las empresas del municipio.\n\nLos objetivos del Observatorio Local de Empleo de Fuenlabrada son:\n\nProfundizar en el conocimiento del mercado de trabajo de Fuenlabrada, identificando las necesidades de las empresas.\n\nConocer las características del perfil general de las personas desempleadas: sexo, edad, niveles formativos, población más afectada, tiempo de permanencia en el desempleo, grupos profesionales, etc.\n\nConocer las características de las contrataciones realizadas en Fuenlabrada: nº contratos, características, ubicación por sectores de actividad, características de las personas contratadas, etc… También de las afiliaciones a la seguridad social\n\nDifundir los principales resultados y estadísticas, a través de Informes y Estudios:\n\nAyuntamiento de Fuenlabrada",
@@ -370,7 +378,11 @@
   },
   {
     "name": "Observatorio de la Infancia de Cataluña / Observatori dels Drets dels Infants",
-    "scope": "cataluna"
+    "scope": "cataluna",
+    "coordinates": {
+      "lat": 41.8523094,
+      "lon": 1.5745043
+    }
   },
   {
     "name": "Observatorio de la Infancia y la Adolescencia de Asturias",
@@ -426,15 +438,27 @@
   },
   {
     "name": "Observatorio de Infancia del País Vasco",
-    "scope": "pais_vasco"
+    "scope": "pais_vasco",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Observatorio de Infancia de Cantabria",
-    "scope": "cantabria"
+    "scope": "cantabria",
+    "coordinates": {
+      "lat": 43.1595664,
+      "lon": -4.0878382
+    }
   },
   {
     "name": "Observatorio de la Infancia y la Adolescencia de les Illes Balears",
-    "scope": "islas_baleares"
+    "scope": "islas_baleares",
+    "coordinates": {
+      "lat": 39.613432,
+      "lon": 2.8829185
+    }
   },
   {
     "description": "Para <q>analizar permanentemente la situación del libro, la lectura y las bibliotecas en su conjunto, tal y como se establece en la disposición adicional segunda de la Ley 10/2007, de 22 de junio, de la Lectura, el Libro y las Bibliotecas</q>.",
@@ -727,7 +751,11 @@
     "parents": ["Junta de Andalucía", "Consejería de Salud y Consumo"],
     "scope": "andalucia",
     "type": "publico",
-    "website": "https://www.osman.es"
+    "website": "https://www.osman.es",
+    "coordinates": {
+      "lat": 37.3399964,
+      "lon": -4.5811614
+    }
   },
   {
     "name": "Observatorio do xogo",
@@ -917,7 +945,11 @@
     "parents": ["Diputación Provincial de Cáceres"],
     "scope": "provincial",
     "type": "publico",
-    "website": "http://observatorio.dip-caceres.es/"
+    "website": "http://observatorio.dip-caceres.es/",
+    "coordinates": {
+      "lat": 39.4745175,
+      "lon": -6.3716761
+    }
   },
   {
     "name": "Observatorio de la Comunidad de Castilla y León. Sección de Género",
@@ -972,31 +1004,55 @@
     "name": "Observatorio TransfomAcción y ParticipAcción",
     "scope": "castilla_y_leon",
     "type": "publico",
-    "website": "https://www.observatoriotransformacion.com"
+    "website": "https://www.observatoriotransformacion.com",
+    "coordinates": {
+      "lat": 41.55005,
+      "lon": -5.1387401
+    }
   },
   {
     "name": "Observatorio Regional de la Sociedad de la Información de Castilla y León (ORSI)",
     "scope": "castilla_y_leon",
     "type": "publico",
-    "website": "https://www.aytoburgos.es/-/observatorio-regional-de-la-sociedad-de-la-informacion-de-castilla-y-leon-orsi-"
+    "website": "https://www.aytoburgos.es/-/observatorio-regional-de-la-sociedad-de-la-informacion-de-castilla-y-leon-orsi-",
+    "coordinates": {
+      "lat": 41.55005,
+      "lon": -5.1387401
+    }
   },
   {
     "name": "Observatorio de Agresiones",
     "scope": "castilla_y_leon",
     "type": "publico",
-    "website": "https://www.saludcastillayleon.es/profesionales/es/prevencion-riesgos-laborales/plan-integral-frente-agresiones/observatorio-agresiones"
+    "website": "https://www.saludcastillayleon.es/profesionales/es/prevencion-riesgos-laborales/plan-integral-frente-agresiones/observatorio-agresiones",
+    "coordinates": {
+      "lat": 41.55005,
+      "lon": -5.1387401
+    }
   },
   {
     "name": "Observatorio Galego Contra a Discriminación por Orientación Sexual e Identidade de Xénero",
-    "scope": "galicia"
+    "scope": "galicia",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio Galego da Biodiversidade",
-    "scope": "galicia"
+    "scope": "galicia",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio Galego da Violencia de Xénero",
-    "scope": "galicia"
+    "scope": "galicia",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "description": "1. conocer, la situación del precio del mercado de alquiler libre en la ciudad.\n\nAyuntamiento de Alicante\n\nLa tarea la hace una consultora externa ( Factoría, Gestión y Consultoría, s.l.)",
@@ -1016,7 +1072,11 @@
   },
   {
     "name": "Observatorio Galego de Acción Voluntaria",
-    "scope": "galicia"
+    "scope": "galicia",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "description": "El Observatorio de Datos Culturales de Barcelona es una iniciativa del Instituto de Cultura del Ayuntamiento de Barcelona que nació en 2015. La misión de este observatorio es elaborar y difundir datos, indicadores e informes sobre la realidad cultural de la ciudad, y poner toda la información al alcance de instituciones, agentes culturales, comunidad científica y público interesado de una manera ordenada y accesible, con el objetivo de ampliar y mejorar el conocimiento que tenemos sobre la vida cultural barcelonesa.",
@@ -1050,7 +1110,11 @@
   },
   {
     "name": "Observatorio Galego de Convivencia Escolar",
-    "scope": "galicia"
+    "scope": "galicia",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio Startup de la Comunidad Valenciana",
@@ -1085,11 +1149,19 @@
     ],
     "is_active": "Sí",
     "email": "No disponible. Ofrece formulario de contacto.",
-    "from_date": "2016"
+    "from_date": "2016",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio Galego de Educación Ambiental",
-    "scope": "galicia"
+    "scope": "galicia",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "is_active": "No",
@@ -1148,7 +1220,11 @@
     ],
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://www.euskadi.eus/observatorio-vasco-cultura/"
+    "website": "https://www.euskadi.eus/observatorio-vasco-cultura/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "description": "El Observatorio de I+d+I tiene como objetivo aunar toda la información de la actividad investigadora y de la innovación que se realiza en la universidad para que sea pública y accesible para la comunidad universitaria, el tejido empresarial y en general para cualquier usuario interesado en la producción científica que se realiza en la UPM y en los resultados generados.",
@@ -1335,7 +1411,11 @@
   },
   {
     "name": "Observatorio Territorial de Andalucía",
-    "scope": "andalucia"
+    "scope": "andalucia",
+    "coordinates": {
+      "lat": 37.3399964,
+      "lon": -4.5811614
+    }
   },
   {
     "name": "Observatorio para la Cibersociedad"
@@ -1368,11 +1448,19 @@
   },
   {
     "name": "Observatorio da Mobilidade de Terras de Galicia",
-    "scope": "galicia"
+    "scope": "galicia",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio Galego da Xuventude",
-    "scope": "galicia"
+    "scope": "galicia",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio de costes de transportes de mercancías por carretera de Galicia",
@@ -1397,7 +1485,11 @@
     "parents": ["Consellería competente en materia de familia"],
     "scope": "galicia",
     "type": "publico",
-    "website": "https://www.xunta.gal/dog/Publicados/2019/20190429/AnuncioG0425-150419-0001_gl.html"
+    "website": "https://www.xunta.gal/dog/Publicados/2019/20190429/AnuncioG0425-150419-0001_gl.html",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "description": "a) Efectuar análisis y propuestas de actuación sobre el ejercicio de los derechos fundamentales y libertades públicas por los miembros de las Fuerzas Armadas.\r\nb) Elaborar, de oficio o a petición de parte, informes y estudios sobre el régimen de personal y las condiciones de vida en las Fuerzas Armadas.\r\nc) Proponer medidas que ayuden a la conciliación de la vida profesional, personal y familiar de los militares.\r\nd) Promover la adaptación del régimen del personal militar a los cambios que se operen en la sociedad y en la función pública.\r\ne) Analizar los problemas que en el entorno familiar de los afectados se producen como consecuencia de su disponibilidad, movilidad geográfica y de su específico ejercicio profesional que conlleva la participación en operaciones en el exterior.\r\nf) Evaluar la aportación adicional de recursos humanos a las Fuerzas Armadas a través de las diferentes modalidades de reservistas.\r\ng) Velar por la aplicación a los militares retirados de la normativa que ampara sus derechos pasivos y asistenciales y, en su caso, efectuar propuestas de mejora sobre ésta.\n\nSe compone de nueve personalidades de reconocido prestigio en el ámbito de la Defensa, recursos humanos o en derechos fundamentales y libertades públicas, elegidos cinco por el Congreso y cuatro por el Senado para un mandato de cinco años.",
@@ -1557,7 +1649,11 @@
         "name": "Memoria Anual del Observatorio del Mercado de Trabajo 2023",
         "url": "https://inaem.aragon.es/documents/51284/2219399/MEMORIA+OBSERVATORIO+2023.pdf/f21a07bc-6ee5-de35-3ad0-7ea943f00089?version=1.0&t=1711103605824&download=true"
       }
-    ]
+    ],
+    "coordinates": {
+      "lat": 41.3787291,
+      "lon": -0.7639373
+    }
   },
   {
     "is_active": "Si",
@@ -1668,7 +1764,11 @@
         "name": "Decreto de creación (referencia normativa citada en OBECAN)",
         "url": "http://www.gobiernodecanarias.org/boc/1998/160/003.html"
       }
-    ]
+    ],
+    "coordinates": {
+      "lat": 28.2935785,
+      "lon": -16.6214471
+    }
   },
   {
     "name": "Observatorio Socioeconómico de la Provincia de Badajoz",
@@ -1830,7 +1930,11 @@
         "name": "Observatorio de la Cultura (AGCEX)",
         "url": "https://www.agcex.org/observatorio-de-la-cultura/"
       }
-    ]
+    ],
+    "coordinates": {
+      "lat": 39.1748426,
+      "lon": -6.1529891
+    }
   },
   {
     "name": "Observatori Ciutadà de la Biodiversitat",
@@ -1927,7 +2031,11 @@
         "name": "[1.La eInclusió a les Illes Balears, (2014).](https://www.fundaciobit.org/wp-content/uploads/2020/03/Informe-eInclusio-2014.pdf)"
       }
     ],
-    "is_active": "Si"
+    "is_active": "Si",
+    "coordinates": {
+      "lat": 39.613432,
+      "lon": 2.8829185
+    }
   },
   {
     "description": "La Xarxa d’Observatoris del Desenvolupament Econòmic Local (XODEL) és un espai on es\r\ngenera, es comparteix i es difon informació i on es fomenta el debat, la reflexió i l’intercanvi\r\nd’experiències entre els observatoris membres.\n\nLa Xarxa està composta de 21 observatoris i coordinada per l’Oficina Tècnica d’Estratègies per al\r\nDesenvolupament Econòmic de l’Àrea de Desenvolupament Econòmic i Turisme de la Diputació\r\nde Barcelona.\n\nLa Xarxa disposa d’una comunitat virtual (https://xodel.diba.cat), una eina de comunicació\r\nhoritzontal que permet al grup comunicar-se, treballar de manera col·laborativa i gestionar\r\nconeixement distribuït mitjançant diverses eines de participació.\n\nLa Xarxa està composta de 21 observatoris i coordinada per l’Oficina Tècnica d’Estratègies per al\r\nDesenvolupament Econòmic de l’Àrea de Desenvolupament Econòmic i Turisme de la Diputació\r\nde Barcelona\n\n**Observatoris**\n\n**_Observatoris municipals_**\n\n[Observatori de desenvolupament local de Badalona](http://www.badalona.cat/)\n\n[Observatori econòmic i social de Barberà del Vallès](https://www.bdv.cat/observatori-economic-i-social)\n\n[Departament d’estudis de la Gerència de política econòmica i desenvolupament local (Barcelona)](https://ajuntament.barcelona.cat/economiatreball/ca/documents)\n\n[Observatori socioeconòmic de l'Hospitalet de Llobregat](http://www.dinamitzaciolocallh.cat/)\n\n[Servei d’estratègia i governança (Mataró)](https://www.mataro.cat/ca/la-ciutat/observatori-de-ciutat)\n\n[Gabinet d’estudis i estadístiques (Rubí)](https://www.rubi.cat/ca/ajuntament/transparencia/observatoridelaciutat/gabinet-destudis-i-estadistiques)\n\n[Observatori de l’economia local (Sabadell)](http://www.vaporllonch.cat/observatori-economia-local)\n\n[Observatori socioeconòmic de Grameimpuls (Santa Coloma de Gramenet)](https://www.grameimpuls.cat/observatori/)\n\n[Servei d’estudis i Observatori de la ciutat (Terrassa) ](http://www.terrassa.cat/servei-estudis)\n\n**_Observatoris supramunicipals_**\n\n[Observatori del desenvolupament local de l'Alt Penedès i del Garraf](https://mancomunitat.cat/temes/banc-de-dades-socioeconomiques/)\n\n[Observatori socioeconòmic de l’Anoia](http://www.observatorianoia.cat/)\n\n[Observatori del Bages](https://www.manresa.cat/web/article/1006-informacio-socioeconomica)\n\n[Observatori comarcal del Baix Llobregat](http://www.elbaixllobregat.cat/observatori)\n\n[Observatori de desenvolupament local del Berguedà](http://www.adbergueda.cat/territori)\n\n[Observatori de desenvolupament local del Maresme](http://www.ccmaresme.cat/observatori)\n\n[Observatori Metropolità](https://agenciaeconomica.amb.cat/)\n\n[Observatori estratègic del Moianès](http://www.ccmoianes.cat/observatori/que-es-lobservatori-estrategic-del-moianes/)\n\n[Observatori socioeconòmic d’Osona](http://www.observatorisocioeconomicosona.cat/)\n\n[Observatori de la Riera de Caldes](http://www.rieradecaldes.com/observatori.html)\n\n[Observatori comarcal del Vallès Occidental](https://www.consellvallesoccidental.cat/observatori/)\n\n[L’Observatori – Centre d’estudis del Vallès Oriental](https://www.vallesoriental.cat/ambits/lobservatori-centre-destudis/)",
@@ -1960,7 +2068,11 @@
     ],
     "scope": "provincial",
     "type": "publico",
-    "website": "https://xodel.diba.cat"
+    "website": "https://xodel.diba.cat",
+    "coordinates": {
+      "lat": 41.3825802,
+      "lon": 2.177073
+    }
   },
   {
     "description": "El Observatorio es el grupo de trabajo de la Comunidad de Madrid para la evaluación, el seguimiento y la propuesta de las acciones a realizar en el marco del Plan de Capacitación Digital para los Ciudadanos de la Comunidad de Madrid 2022-2025.\n\nCompetencias\r\na) Definir y perfeccionar el sistema de indicadores del Plan, elaborando planes de seguimiento trimestrales que permitan evaluar el desarrollo, resultado e impacto del plan.\r\nb) Difundir en la sociedad los contenidos y objetivos del Plan de Capacitación Digital para los Ciudadanos de la Comunidad de Madrid 2022-2025, y recoger las propuestas e iniciativas sociales que surjan en su desarrollo.\r\nc) Detectar cualquier desviación operativa y trasladar la información al grupo operativo para permitir la toma de decisiones basadas en las evidencias encontradas en los distintos informes de seguimiento.\r\nd) Fomentar la cooperación y colaboración en las actuaciones de las distintas consejerías en materia de desarrollo de competencias digitales para evitar solapamientos y duplicidades, proponiendo una solución a las consejerías implicadas en caso de que se produjeran intersecciones entre los colectivos en riesgo de exclusión social, sin perjuicio de las competencias atribuidas a cada una de ellas.\r\ne) Identificar nuevas propuestas y casos de éxito que puedan ser replicados en el ámbito del Plan.",
@@ -2217,7 +2329,11 @@
     "name": "Observatorio de Comercio del Gobierno Vasco",
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://www.euskadi.eus/gobierno-vasco/observatorio-comercio"
+    "website": "https://www.euskadi.eus/gobierno-vasco/observatorio-comercio",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "description": "El OMAU desarrolla tres campos de trabajo. (1) Por una parte, realiza el seguimiento de indicadores medioambientales tanto de la ciudad de Málaga, como de las ciudades socias. En el caso de la Ciudad de Málaga los indicadores de seguimiento están directamente relacionados con la puesta en práctica en 2006 de la Agenda 21. Para el conjunto de los socios se emplea el Sistema Integrado de Indicadores Urbanos realizados junto a UN-HABITAT de Naciones Unidas, con un conjunto inicial de 37 indicadores.\n\nLos indicadores de seguimiento son un instrumento muy útil para confrontar situaciones ambientales urbanas en diferentes periodos de tiempo, para conocer y saber si avanzamos hacía los objetivos propuestos o tenemos problemas para alcanzar las metas establecidas en la Agenda 21. En algunos de los indicadores empleamos el soporte GIS para realizar el seguimiento periódico.\n\n(2) El OMAU es también un centro de intercambio de experiencias donde, de forma regular, se celebran conferencias o mesas redondas sobre temas de actualidad en el campo del Medio Ambiente Urbano. En 2004 y 2005 se celebraron los primeros cursos de formación, tanto presencial, como on line, que deben tener su continuidad anual, incorporando propuestas de trabajo o formatos novedosos que se realicen en otros ámbitos.\n\n(3) El Centro de Documentación del Programa URB-AL (CDPU) asienta su sede en el Observatorio, reforzando la biblioteca convencional y virtual que el OMAU dispone. El CDPU supone la concentración de toda la información desarrollada por el Programa URB-AL desde 1995, periodo en el que se desarrollaron 13 redes de ciudades que agruparon a 2.500 ciudades europeas y americanas. El CDPU ha recuperado los 192 proyectos URB-AL aprobados por la Comisión Europea, y que se desarrollaron entre 1998 y previsiblemente 2009. La Web del CDPU posibilita encontrar la documentación de los diferentes proyectos tanto a través de un buscador temático, como a través de su relación original con una determinada Red, funcionando a modo de biblioteca virtual de Buenas Practicas Urbanas.\n\nEn un principio es gestionado por dos funcionarios municipales, uno de ellos responsable del observatorio. Contrató 14 falsos autónomos cuyo despido fue anulado por el Tribunal Superior de Justicia y tuvieron que ser readmitidos.",
@@ -2242,7 +2358,11 @@
     "scope": "pais_vasco",
     "twitter": "@eeb_ove",
     "type": "publico",
-    "website": "https://eeb-ove.eus/inicio/"
+    "website": "https://eeb-ove.eus/inicio/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "from_date": "30 abril 2024",
@@ -2257,34 +2377,54 @@
     "name": "Observatorio Vasco de Vivienda",
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://www.euskadi.eus/observatoriovivienda/"
+    "website": "https://www.euskadi.eus/observatoriovivienda/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Observatorio Vasco del Juego",
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://www.euskadi.eus/gobierno-vasco/observatorio-vasco-juego/"
+    "website": "https://www.euskadi.eus/gobierno-vasco/observatorio-vasco-juego/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Observatorio de Periodismo Machista",
     "scope": "pais_vasco",
     "twitter": "@pemachista",
     "type": "publico",
-    "website": "https://periodismomachista.com/"
+    "website": "https://periodismomachista.com/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Observatorio Vasco sobre Acoso y Discriminación",
     "scope": "pais_vasco",
     "twitter": "@ObservVascoAcos",
     "type": "publico",
-    "website": "https://www.observatoriovascosobreacoso.com/"
+    "website": "https://www.observatoriovascosobreacoso.com/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Observatorio Vasco de la Juventud",
     "scope": "pais_vasco",
     "twitter": "@gaztebehatokia",
     "type": "publico",
-    "website": "https://www.gazteaukera.euskadi.eus/hasiera/"
+    "website": "https://www.gazteaukera.euskadi.eus/hasiera/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "OBITen",
@@ -2341,7 +2481,11 @@
     "name": "Observatorio de Coyuntura Industrial",
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://www.irekia.euskadi.eus/es/tags/observatoriodecoyunturaindustrial?uid=5196"
+    "website": "https://www.irekia.euskadi.eus/es/tags/observatoriodecoyunturaindustrial?uid=5196",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "name": "Observatorio Vasco de Inmigración (Ikuspegi)",
@@ -2467,7 +2611,11 @@
     "scope": "pais_vasco",
     "twitter": "@BehatokiaLGTBI",
     "type": "publico",
-    "website": "https://lgtbi-behatokia.eus/"
+    "website": "https://lgtbi-behatokia.eus/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "docs": [
@@ -2558,7 +2706,11 @@
     "scope": "region_de_murcia",
     "type": "publico",
     "website": "https://www.carm.es/web/pagina?IDCONTENIDO=5137&IDTIPO=11&RASTRO=c374$m5828",
-    "description": "La presente Orden tiene por objeto la creación del Observatorio Regional de la Discapacidad, cuya finalidad será la obtención y mantenimiento de la información necesaria para el conocimiento de las necesidades de las personas con discapacidad y el impacto de las actuaciones de los Sistemas de Protección Social sobre este colectivo. Asimismo, con este instrumento se pretende analizar y valorar la evolución de la discapacidad en la Región de Murcia, así como conocer los aspectos que se consideren importantes dentro de los citados Sistemas y la mejora de la calidad de vida de este colectivo"
+    "description": "La presente Orden tiene por objeto la creación del Observatorio Regional de la Discapacidad, cuya finalidad será la obtención y mantenimiento de la información necesaria para el conocimiento de las necesidades de las personas con discapacidad y el impacto de las actuaciones de los Sistemas de Protección Social sobre este colectivo. Asimismo, con este instrumento se pretende analizar y valorar la evolución de la discapacidad en la Región de Murcia, así como conocer los aspectos que se consideren importantes dentro de los citados Sistemas y la mejora de la calidad de vida de este colectivo",
+    "coordinates": {
+      "lat": 37.9166355,
+      "lon": -1.4779797
+    }
   },
   {
     "description": "El Observatorio Deportivo de Mallorca tiene el objetivo de fomentar una práctica deportiva responsable, unos hábitos saludables y la formación en torno a diferentes temas de actualidad deportiva.\n\nPlan de asesoramiento: formación y orientación dirigida a clubs, asociaciones de madres y padres de alumnos, federaciones deportivas, entrenadores...\r\nEls valors de l’esport: charlas impartidas por deportistas de alto nivel, que profundizan en los valores que aporta el ejercicio físico al desarrollo personal.",
@@ -2598,13 +2750,21 @@
     "name": "Observatorio de Igualdad",
     "scope": "region_de_murcia",
     "type": "publico",
-    "website": "https://transparencia.carm.es/-/observatorio-de-igualdad#gsc.tab=0"
+    "website": "https://transparencia.carm.es/-/observatorio-de-igualdad#gsc.tab=0",
+    "coordinates": {
+      "lat": 37.9166355,
+      "lon": -1.4779797
+    }
   },
   {
     "name": "Observatorio Regional contra la Discriminación por Orientación Sexual e Identidad de Género",
     "scope": "region_de_murcia",
     "type": "publico",
-    "website": "https://transparencia.carm.es/-/observatorio-regional-contra-la-discriminacion-por-orientacion-sexual-e-identidad-de-genero-en-la-comunidad-autonoma-de-la-region-de-murcia#gsc.tab=0"
+    "website": "https://transparencia.carm.es/-/observatorio-regional-contra-la-discriminacion-por-orientacion-sexual-e-identidad-de-genero-en-la-comunidad-autonoma-de-la-region-de-murcia#gsc.tab=0",
+    "coordinates": {
+      "lat": 37.9166355,
+      "lon": -1.4779797
+    }
   },
   {
     "name": "Observatorio Permanente Andaluz de las Migraciones (OPAM)",
@@ -2693,7 +2853,11 @@
     "parents": ["Generalitat de Catalunya"],
     "scope": "cataluna",
     "type": "publico",
-    "website": "https://agricultura.gencat.cat/ca/departament/estadistiques/observatori-agroalimentari-preus/"
+    "website": "https://agricultura.gencat.cat/ca/departament/estadistiques/observatori-agroalimentari-preus/",
+    "coordinates": {
+      "lat": 41.8523094,
+      "lon": 1.5745043
+    }
   },
   {
     "description": "Es <q>un instrumento de análisis y de actuación que, en el ámbito de la Administración de la Justicia, promueve iniciativas y medidas dirigidas a erradicar el problema social de la violencia doméstica y de género</q>.",
@@ -2888,7 +3052,11 @@
     "name": "Observatorio Ocupacional de la Universidad Miguel Hernández",
     "parents": ["Universidad Miguel Hernández"],
     "scope": "comunidad_valenciana",
-    "website": "https://observatorio.umh.es/"
+    "website": "https://observatorio.umh.es/",
+    "coordinates": {
+      "lat": 39.6819591,
+      "lon": -0.7654406
+    }
   },
   {
     "description": "Para <q>Constituir un instrumento de transparencia orientado a la investigación de la tributación local, la financiación a través de transferencias de otras administraciones, y en general, cualquier información de naturaleza económica con incidencia en el ámbito de la Administración Municipal</q>.",
@@ -2955,7 +3123,11 @@
     "parents": ["Xunta de Galicia"],
     "scope": "galicia",
     "type": "publico",
-    "website": "http://www.observatoriobiomasa.gal"
+    "website": "http://www.observatoriobiomasa.gal",
+    "coordinates": {
+      "lat": 42.61946,
+      "lon": -7.863112
+    }
   },
   {
     "name": "Observatorio de Precios de Canarias",
@@ -3052,7 +3224,11 @@
     ],
     "scope": "navarra",
     "type": "publico",
-    "website": "https://www.culturanavarra.es/es/presentacion-8"
+    "website": "https://www.culturanavarra.es/es/presentacion-8",
+    "coordinates": {
+      "lat": 42.7027944,
+      "lon": -1.7086231
+    }
   },
   {
     "description": "h) Publicar y difundir estudios, materiales y experiencias de educación para la convivencia y cultura de paz. i) Elaborar un informe anual sobre el estado de la convivencia y la conflictividad en los centros educativos, para lo que requerirá el apoyo informativo, documental y técnico de otras Administraciones Públicas con competencia en la materia y de los propios órganos y entidades de la Consejería competente en materia de educación, así como de entidades e instituciones privadas. j) Cualquier otra función de apoyo y asesoramiento vinculada a la recogida, análisis, difusión de la información y la investigación y la promoción de actuaciones en todas las materias relacionadas con la mejora de la convivencia en el ámbito de los centros educativos.",
@@ -3200,7 +3376,11 @@
     "parents": ["Gobierno de Canarias"],
     "scope": "canarias",
     "type": "publico",
-    "website": "https://www.octsi.es/"
+    "website": "https://www.octsi.es/",
+    "coordinates": {
+      "lat": 28.2935785,
+      "lon": -16.6214471
+    }
   },
   {
     "is_active": "None",
@@ -3361,7 +3541,11 @@
     "parents": ["EUSKALIT, Fundación Vasca para la Excelencia"],
     "scope": "pais_vasco",
     "type": "publico",
-    "website": "https://www.euskalit.net/observatorio/es/"
+    "website": "https://www.euskalit.net/observatorio/es/",
+    "coordinates": {
+      "lat": 42.9911816,
+      "lon": -2.5543023
+    }
   },
   {
     "description": "L'Observatori del Programa Ajuntament+Sostenible fa anualment un seguiment per valorar com evoluciona la consecució de les dues directrius estratègiques del programa:\n\n[Seguiment de la contractació](http://www.ajsosteniblebcn.cat/ca/seguiment-de-la-contractacio_99538): s'elabora un Informe de seguiment de les instruccions tècniques per a l’aplicació de criteris de sostenibilitat de l'Ajuntament de Barcelona que recull els indicadors de seguiment dels diferents grups de productes i serveis, els principals plecs ambientalitzats cada any, així com els principals reptes i objectius de futur.\n\n[Seguiment de l'ambientalització interna](http://www.ajsosteniblebcn.cat/ca/seguiment-de-l-ambientalitzacio-interna_99544): s'elabora un Informe de seguiment de l'ambientalització interna de l'Ajuntament de Barcelona que recull com s'han impulsat els compromisos prioritaris per avançar envers la sostenibilitat interna recollits en set àmbits de treball, així com un recull de les bones pràctiques que han dut a terme gerències i organismes municipals de forma descentralitzada.",
@@ -7467,7 +7651,11 @@
     "parents": ["Diputación Provincial de Huesca"],
     "scope": "provincial",
     "type": "publico",
-    "website": "https://www.dphuesca.es/observatorio-impulso-demografico"
+    "website": "https://www.dphuesca.es/observatorio-impulso-demografico",
+    "coordinates": {
+      "lat": 42.1360615,
+      "lon": -0.0298027
+    }
   },
   {
     "name": "Observatorio Provincial de Sostenibilidad de Albacete (OPSA)",
@@ -7669,7 +7857,11 @@
     "parents": ["Cabildo de Gran Canaria"],
     "scope": "canarias",
     "type": "publico",
-    "website": "https://cabildo.grancanaria.com/pegip/seguimiento-y-evaluacion"
+    "website": "https://cabildo.grancanaria.com/pegip/seguimiento-y-evaluacion",
+    "coordinates": {
+      "lat": 27.9580004,
+      "lon": -15.6062305
+    }
   },
   {
     "name": "Observatorio de aves (Dunas de Maspalomas)",
@@ -7677,7 +7869,11 @@
     "parents": ["Cabildo de Gran Canaria"],
     "scope": "canarias",
     "type": "publico",
-    "website": "https://cabildo.grancanaria.com/dunas/observatorio-de-aves"
+    "website": "https://cabildo.grancanaria.com/dunas/observatorio-de-aves",
+    "coordinates": {
+      "lat": 27.9580004,
+      "lon": -15.6062305
+    }
   },
   {
     "name": "Fundación Canaria Observatorio de Temisas",
@@ -7688,7 +7884,11 @@
     ],
     "scope": "canarias",
     "type": "mixto",
-    "website": "https://cabildo.grancanaria.com/w/la-vicepresidencia-del-cabildo-de-gran-canaria-concede-una-subvenci%C3%B3n-de-60.000-euros-a-la-fundaci%C3%B3n-canaria-observatorio-de-temisas-para-la-construcci%C3%B3n-del-planetario-pino-ojeda?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu_viewSingleAsset=true&redirect=%2Frss%2Fnoticias%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu_delta%3D50%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu_cur%3D26"
+    "website": "https://cabildo.grancanaria.com/w/la-vicepresidencia-del-cabildo-de-gran-canaria-concede-una-subvenci%C3%B3n-de-60.000-euros-a-la-fundaci%C3%B3n-canaria-observatorio-de-temisas-para-la-construcci%C3%B3n-del-planetario-pino-ojeda?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu_viewSingleAsset=true&redirect=%2Frss%2Fnoticias%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu_delta%3D50%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu_cur%3D26",
+    "coordinates": {
+      "lat": 27.9580004,
+      "lon": -15.6062305
+    }
   },
   {
     "name": "Observatorio de Datos Abiertos (Diputación de Castellón)",
