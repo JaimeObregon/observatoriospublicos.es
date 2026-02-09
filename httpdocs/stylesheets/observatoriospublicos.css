@@ -132,6 +132,42 @@ dialog h3 {
   font: inherit;
 }
 
+#observatories-map .leaflet-control-zoom a[role='button'] {
+  /* PicoCSS aplica estilos a [role=button] que rompen los controles +/-. */
+  padding: 0;
+  border: none;
+  box-shadow: none;
+  display: block;
+  width: 26px;
+  height: 26px;
+  line-height: 26px;
+}
+
+#observatories-map .leaflet-control-zoom-in[role='button'],
+#observatories-map .leaflet-control-zoom-out[role='button'] {
+  font:
+    bold 18px 'Lucida Console',
+    Monaco,
+    monospace;
+  text-indent: 1px;
+}
+
+#observatories-map .leaflet-touch .leaflet-control-zoom a[role='button'] {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+}
+
+#observatories-map .leaflet-touch .leaflet-control-zoom-in[role='button'],
+#observatories-map .leaflet-touch .leaflet-control-zoom-out[role='button'] {
+  font-size: 22px;
+}
+
+#observatories-map .leaflet-control-zoom a[role='button']:focus-visible {
+  outline: 2px solid var(--pico-primary-focus);
+  outline-offset: 1px;
+}
+
 #observatories-map .leaflet-popup-content ul {
   margin: 0.5em 0 0;
   padding-left: 1.25em;
