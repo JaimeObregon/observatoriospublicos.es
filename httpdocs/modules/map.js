@@ -66,7 +66,7 @@ function buildPopup(observatories) {
   return `
     <div class="map-popup">
       <strong>${observatories.length} observatorios</strong>
-      <ul>${itemsHtml}</ul>
+      <ul class="map-popup-list">${itemsHtml}</ul>
       ${remaining > 0 ? `<small>… y ${remaining} más.</small>` : ''}
     </div>
   `
@@ -217,17 +217,41 @@ export function initMap(observatories) {
     }
   })
 
-  // Permite zoom por rueda/pinch solo cuando el usuario lo hace de forma intencional
-  // (Ctrl/Cmd + scroll o pinch en trackpad, que suele marcar ctrlKey).
-  // Asi evitamos que el mapa "robe" el scroll normal de la pagina.
+  // Cuando el ratón está sobre el mapa, Leaflet captura la rueda para hacer zoom
+  // y así evitamos que el scroll afecte a la página.
+  // Excepción: si el scroll ocurre dentro de la lista del popup, hacemos scroll
+  // de la lista y evitamos que el evento llegue al mapa o "se escape" a la página.
   container.addEventListener(
     'wheel',
     (event) => {
-      if (!(event.ctrlKey || event.metaKey)) {
+      if (event.ctrlKey || event.metaKey) return
+
+      const target = event.target
+      const list =
+        target instanceof Element ? target.closest('.map-popup-list') : null
+
+      if (list) {
+        // Permitimos scroll dentro de la lista, pero evitamos:
+        // - que el mapa haga zoom
+        // - que el scroll continúe hacia la página al llegar al límite
+        const canScroll = list.scrollHeight > list.clientHeight
+        if (!canScroll) return
+        const isDown = event.deltaY > 0
+        const isUp = event.deltaY < 0
+        const atTop = list.scrollTop <= 0
+        const atBottom =
+          Math.ceil(list.scrollTop + list.clientHeight) >= list.scrollHeight
+
         event.stopImmediatePropagation()
+
+        if (!canScroll || (isUp && atTop) || (isDown && atBottom)) {
+          event.preventDefault()
+        }
+
+        return
       }
     },
-    { capture: true },
+    { capture: true, passive: false },
   )
 
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {

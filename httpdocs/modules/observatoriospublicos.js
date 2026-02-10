@@ -11,6 +11,7 @@ let visibleModal = null
 
 // Observatorios en ventana
 let currentObservatories = null
+let allObservatories = null
 
 /**
  * Genera la lista de observatorios en el HTML
@@ -52,6 +53,7 @@ export function updateObservatories(thisObservatories) {
 
 async function main() {
   const observatories = await fetch('/observatories.json').then((x) => x.json())
+  allObservatories = observatories.slice()
 
   const errors = [
     ...observatories
@@ -125,10 +127,12 @@ const openModal = (modal, event) => {
   const div = modal.querySelector('#observatory-content')
   const h3 = modal.querySelector('#observatory-title')
 
-  const observatory = currentObservatories.find(
-    ({ name }) => name === event.currentTarget.dataset.observatory,
-  )
-  const json = JSON.stringify(observatory, null, 2)
+  const observatoryName = event.currentTarget.dataset.observatory
+  const observatory =
+    (allObservatories || []).find(({ name }) => name === observatoryName) ||
+    (currentObservatories || []).find(({ name }) => name === observatoryName)
+  if (!observatory) return
+
   div.innerHTML = createObservatoryDetailsComponent(observatory)
   h3.innerText = observatory.name
 
@@ -154,12 +158,14 @@ const getScrollbarWidth = () => {
 
 // API global mínima para poder abrir el modal desde otros componentes (p.ej. mapa)
 window.openObservatoryModal = (name) => {
-  if (!name || !currentObservatories) return
+  if (!name) return
 
   const modal = document.getElementById('observatory')
   if (!modal) return
 
-  const observatory = currentObservatories.find((o) => o.name === name)
+  const observatory =
+    (allObservatories || []).find((o) => o.name === name) ||
+    (currentObservatories || []).find((o) => o.name === name)
   if (!observatory) return
 
   // Si ya está abierto, solo actualizamos el contenido (showModal() lanzaría error).

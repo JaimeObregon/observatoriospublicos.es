@@ -173,6 +173,13 @@ dialog h3 {
   padding-left: 1.25em;
 }
 
+#observatories-map .map-popup-list {
+  max-height: clamp(6rem, 25vh, 12rem);
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding-right: 0.25rem;
+}
+
 #observatories-map .map-pin-wrapper {
   background: transparent;
   border: 0;
