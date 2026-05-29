@@ -6652,5 +6652,392 @@
     "type": "mixto",
     "is_active": "No",
     "from_date": "Anunciado"
+  },
+  {
+    "name": "Observatorio para el Impulso Demográfico",
+    "description": "Observatorio/atlas de indicadores y mapas sobre demografía y territorio en la provincia de Huesca. <a href=\"https://www.dphuesca.es/observatorio-impulso-demografico\">Sitio web</a>.",
+    "parents": ["Diputación Provincial de Huesca"],
+    "scope": "provincial",
+    "type": "publico",
+    "website": "https://www.dphuesca.es/observatorio-impulso-demografico"
+  },
+  {
+    "name": "Observatorio Provincial de Sostenibilidad de Albacete (OPSA)",
+    "description": "Plataforma provincial de indicadores de sostenibilidad (OPSA). <a href=\"https://observatoriosostenibilidad.dipualba.es/\">Sitio web</a>.",
+    "parents": ["Diputación de Albacete"],
+    "scope": "provincial",
+    "type": "publico",
+    "website": "https://observatoriosostenibilidad.dipualba.es/"
+  },
+  {
+    "name": "Observatorio de la Agenda Rural Sostenible de la provincia de Segovia",
+    "description": "Web/observatorio para el seguimiento de la Agenda Rural Sostenible de la provincia (indicadores y plan de acción). <a href=\"https://www.dipsegovia.es/noticias/-/asset_publisher/1xkM/content/la-diputaci%25C3%25B3n-de-segovia-lanza-la-web-oficial-de-la-agenda-rural-sostenible-de-la-provincia\">Anuncio y enlace</a>.",
+    "parents": ["Diputación de Segovia"],
+    "scope": "provincial",
+    "type": "publico",
+    "website": "https://www.dipsegovia.es/noticias/-/asset_publisher/1xkM/content/la-diputaci%25C3%25B3n-de-segovia-lanza-la-web-oficial-de-la-agenda-rural-sostenible-de-la-provincia"
+  },
+  {
+    "name": "Observatori de la Qualitat de l'Aire del Camp de Tarragona (OQACT)",
+    "description": "Iniciativa/observatorio de calidad del aire en el Camp de Tarragona, con enfoque colaborativo y participación público-privada. <a href=\"https://www.icerda.org/observatori-aire-tarragona/presentacio-de-la-4a-edicio-de-lobservatori-de-la-qualitat-de-laire/\">Fuente</a>.",
+    "parents": ["Institut Cerdà", "Repsol", "AEQT"],
+    "scope": "cataluna",
+    "type": "mixto",
+    "website": "https://www.icerda.org/observatori-aire-tarragona/presentacio-de-la-4a-edicio-de-lobservatori-de-la-qualitat-de-laire/"
+  },
+  {
+    "name": "OTIGRAN (Observatorio Turístico de Gran Canaria)",
+    "description": "Observatorio de innovación en turismo sostenible de Gran Canaria, con informes e indicadores para la toma de decisiones. <a href=\"https://observatorioturisticograncanaria.com/\">Sitio web</a>.",
+    "parents": ["Cabildo de Gran Canaria", "Turismo de Gran Canaria"],
+    "scope": "canarias",
+    "type": "publico",
+    "website": "https://observatorioturisticograncanaria.com/"
+  },
+  {
+    "name": "Euskal Herriko Giza Eskubideen Behatokia (GEBEHATOKIA)",
+    "description": "Behatokia de derechos humanos (GEBEHATOKIA) publicado en el portal oficial del Gobierno Vasco. <a href=\"https://www.euskadi.eus/gobierno-vasco/-/asociacion/euskal-herriko-giza-eskubideen-behatokia-gebehatokia/\">Ficha</a>.",
+    "parents": ["Gobierno Vasco"],
+    "scope": "pais_vasco",
+    "type": "publico",
+    "website": "https://www.euskadi.eus/gobierno-vasco/-/asociacion/euskal-herriko-giza-eskubideen-behatokia-gebehatokia/"
+  },
+  {
+    "name": "Jokoaren Euskal Behatokia",
+    "description": "Observatorio vasco del juego/apuestas. <a href=\"https://www.euskadi.eus/eusko-jaurlaritza/jokoaren-euskal-behatokia/\">Sitio web</a>.",
+    "parents": ["Gobierno Vasco"],
+    "scope": "pais_vasco",
+    "type": "publico",
+    "website": "https://www.euskadi.eus/eusko-jaurlaritza/jokoaren-euskal-behatokia/"
+  },
+  {
+    "name": "Turismoaren Euskal Behatokia",
+    "description": "Observatorio vasco de turismo. <a href=\"https://www.euskadi.eus/eusko-jaurlaritza/turismo-euskal-behatokia/\">Sitio web</a>.",
+    "parents": ["Gobierno Vasco"],
+    "scope": "pais_vasco",
+    "type": "publico",
+    "website": "https://www.euskadi.eus/eusko-jaurlaritza/turismo-euskal-behatokia/"
+  },
+  {
+    "name": "Banda Zabal Ultralasterraren Euskal Behatokia",
+    "description": "Observatorio vasco de banda ancha ultrarrápida. <a href=\"https://www.euskadibandazabala.eus/index.php?idm=eu\">Sitio web</a>.",
+    "parents": ["Gobierno Vasco"],
+    "scope": "pais_vasco",
+    "type": "publico",
+    "website": "https://www.euskadibandazabala.eus/index.php?idm=eu"
+  },
+  {
+    "name": "Euskal Ekintzailetzaren Behatokia (Observatorio Vasco del Emprendimiento)",
+    "description": "Observatorio Vasco del Emprendimiento (Euskal Ekintzailetzaren Behatokia). <a href=\"https://eeb-ove.eus/observatorio/\">Sitio web</a>.",
+    "parents": ["Gobierno Vasco", "Universidad del País Vasco (UPV/EHU)"],
+    "scope": "pais_vasco",
+    "type": "publico",
+    "website": "https://eeb-ove.eus/observatorio/"
+  },
+  {
+    "name": "Behatokia (Gizarte Aurreikuspen Osagarria)",
+    "description": "Behatokia sobre previsión social complementaria (Gizarte Aurreikuspen Osagarria). <a href=\"https://www.euskadi.eus/zer-da/web01-a2opsc/eu/\">Sitio web</a>.",
+    "parents": ["Gobierno Vasco"],
+    "scope": "pais_vasco",
+    "type": "publico",
+    "website": "https://www.euskadi.eus/zer-da/web01-a2opsc/eu/"
+  },
+  {
+    "name": "Observatorio de la calidad del aire (Terrassa)",
+    "description": "Observatorio municipal vinculado al seguimiento del plan de mejora de la calidad del aire. <a href=\"https://www.terrassa.cat/es/observatori-de-la-qualitat-de-l-aire\">Sitio web</a>.",
+    "parents": ["Ajuntament de Terrassa"],
+    "scope": "municipal",
+    "type": "publico",
+    "location": "Terrassa (Barcelona)",
+    "website": "https://www.terrassa.cat/es/observatori-de-la-qualitat-de-l-aire"
+  },
+  {
+    "name": "Observatori de l'aigua (Terrassa)",
+    "description": "Mención al \"Observatori de l'aigua\" municipal en materiales/recursos educativos del Ayuntamiento. <a href=\"https://www.terrassa.cat/recursos-educatius\">Referencia</a>.",
+    "parents": ["Ajuntament de Terrassa"],
+    "scope": "municipal",
+    "type": "publico",
+    "location": "Terrassa (Barcelona)",
+    "website": "https://www.terrassa.cat/recursos-educatius"
+  },
+  {
+    "name": "Observatori ambiental Litoral-Besòs",
+    "description": "Referencia municipal a un observatorio ambiental Litoral-Besòs como recurso externo sobre calidad del aire. <a href=\"https://www.sant-adria.cat/sant-adria-per-temes/medi-ambient/qualitat-de-laire/dades-en-linia-de-la-qualitat-de-laire\">Enlace</a>.",
+    "scope": "cataluna",
+    "type": "publico",
+    "website": "https://www.sant-adria.cat/sant-adria-per-temes/medi-ambient/qualitat-de-laire/dades-en-linia-de-la-qualitat-de-laire"
+  },
+  {
+    "name": "Observatorio Valenciano de Salud",
+    "description": "Portal de indicadores de salud pública de la Generalitat Valenciana. <a href=\"https://www.san.gva.es/es/web/salut-publica/observatorio-valenciano-de-salud\">Sitio web</a>.",
+    "parents": ["Generalitat Valenciana"],
+    "scope": "comunidad_valenciana",
+    "type": "publico",
+    "website": "https://www.san.gva.es/es/web/salut-publica/observatorio-valenciano-de-salud"
+  },
+  {
+    "name": "Euskadiko Osasun Behatokia",
+    "description": "Observatorio de salud del País Vasco (Osasun behatokia). <a href=\"https://www.euskadi.eus/euskadiko-osasun-behatokia/\">Sitio web</a>.",
+    "parents": ["Gobierno Vasco"],
+    "scope": "pais_vasco",
+    "type": "publico",
+    "website": "https://www.euskadi.eus/euskadiko-osasun-behatokia/"
+  },
+  {
+    "name": "Observatorio Gallego de Salud Pública",
+    "description": "Observatorio de salud pública de Galicia (referencia en noticia sobre su lanzamiento). <a href=\"https://www.balidea.com/la-conselleria-de-sanidade-y-el-sergas-lanzan-el-observatorio-de-salud-publica-de-galicia-un-desarrollo-web-realizado-con-la-colaboracion-de-balidea/\">Fuente</a>.",
+    "parents": ["Xunta de Galicia", "Consellería de Sanidade", "SERGAS"],
+    "scope": "galicia",
+    "type": "publico",
+    "website": "https://www.balidea.com/la-conselleria-de-sanidade-y-el-sergas-lanzan-el-observatorio-de-salud-publica-de-galicia-un-desarrollo-web-realizado-con-la-colaboracion-de-balidea/"
+  },
+  {
+    "name": "Observatorio Metropolitano de Transporte de Granada",
+    "description": "Anunciado en septiembre de 2025 como observatorio metropolitano de transporte/movilidad sostenible. <a href=\"https://www.europapress.es/esandalucia/granada/noticia-nace-observatorio-metropolitano-transporte-granada-marco-apuesta-movilidad-sostenible-20250916144741.html\">Fuente</a>.",
+    "scope": "andalucia",
+    "type": "publico",
+    "website": "https://www.europapress.es/esandalucia/granada/noticia-nace-observatorio-metropolitano-transporte-granada-marco-apuesta-movilidad-sostenible-20250916144741.html"
+  },
+  {
+    "name": "Observatorio de la Movilidad Metropolitana del CTAZ-USJ",
+    "description": "Observatorio/cuadro de mandos asociado al Consorcio de Transportes del Área de Zaragoza (CTAZ) y la Universidad San Jorge (USJ). <a href=\"https://observatoriomovilidad.ctaz.usj.es/cuadro-de-mandos/\">Acceso</a>.",
+    "parents": [
+      "Consorcio de Transportes del Área de Zaragoza (CTAZ)",
+      "Universidad San Jorge (USJ)"
+    ],
+    "scope": "aragon",
+    "type": "mixto",
+    "website": "https://observatoriomovilidad.ctaz.usj.es/cuadro-de-mandos/"
+  },
+  {
+    "name": "Observatorio para la Accesibilidad de Gran Canaria",
+    "description": "Observatorio para el seguimiento/impulso de la accesibilidad en Gran Canaria. <a href=\"https://www.grancanariaaccesible.info/observatorio/\">Sitio web</a>.",
+    "scope": "canarias",
+    "type": "publico",
+    "website": "https://www.grancanariaaccesible.info/observatorio/"
+  },
+  {
+    "name": "Observatorio del Comercio de Gran Canaria",
+    "description": "Observatorio/barómetro del comercio en Gran Canaria. <a href=\"https://www.camaragrancanaria.org/comercio/observatorio-del-comercio/\">Sitio web</a>.",
+    "parents": ["Cámara de Comercio de Gran Canaria"],
+    "scope": "canarias",
+    "type": "mixto",
+    "website": "https://www.camaragrancanaria.org/comercio/observatorio-del-comercio/"
+  },
+  {
+    "name": "Observatorio de Prospectiva para la Gobernanza Insular",
+    "description": "Referencia a un observatorio de prospectiva para la gobernanza insular en documentación de seguimiento/evaluación del Cabildo. <a href=\"https://cabildo.grancanaria.com/pegip/seguimiento-y-evaluacion\">Fuente</a>.",
+    "parents": ["Cabildo de Gran Canaria"],
+    "scope": "canarias",
+    "type": "publico",
+    "website": "https://cabildo.grancanaria.com/pegip/seguimiento-y-evaluacion"
+  },
+  {
+    "name": "Fundación Canaria Observatorio de Temisas",
+    "description": "Referencia a la Fundación Canaria Observatorio de Temisas en noticia de subvención del Cabildo (planetario). <a href=\"https://cabildo.grancanaria.com/w/la-vicepresidencia-del-cabildo-de-gran-canaria-concede-una-subvenci%C3%B3n-de-60.000-euros-a-la-fundaci%C3%B3n-canaria-observatorio-de-temisas-para-la-construcci%C3%B3n-del-planetario-pino-ojeda?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu_viewSingleAsset=true&redirect=%2Frss%2Fnoticias%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu_delta%3D50%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu_cur%3D26\">Fuente</a>.",
+    "parents": [
+      "Fundación Canaria Observatorio de Temisas",
+      "Cabildo de Gran Canaria"
+    ],
+    "scope": "canarias",
+    "type": "mixto",
+    "website": "https://cabildo.grancanaria.com/w/la-vicepresidencia-del-cabildo-de-gran-canaria-concede-una-subvenci%C3%B3n-de-60.000-euros-a-la-fundaci%C3%B3n-canaria-observatorio-de-temisas-para-la-construcci%C3%B3n-del-planetario-pino-ojeda?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu_viewSingleAsset=true&redirect=%2Frss%2Fnoticias%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu_delta%3D50%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_kPMXGTcgkZuu_cur%3D26"
+  },
+  {
+    "name": "Observatorio de Datos Abiertos (Diputación de Castellón)",
+    "description": "Acción/entregable de Diputación de Castellón para la puesta en marcha de un Observatorio de Datos Abiertos. <a href=\"https://gobiernoabierto.dipcas.es/es/sheets/public?area=4&id_accion=59\">Fuente</a>.",
+    "parents": ["Diputación de Castellón"],
+    "scope": "provincial",
+    "type": "publico",
+    "website": "https://gobiernoabierto.dipcas.es/es/sheets/public?area=4&id_accion=59"
+  },
+  {
+    "name": "Observatorio Urbano de la Agenda Urbana de Valverde de Burguillos",
+    "description": "Observatorio urbano asociado a la Agenda Urbana local para seguimiento/indicadores. <a href=\"https://agendaurbanavalverdeburguillos2030.badajoz.es/\">Sitio web</a>.",
+    "parents": ["Ayuntamiento de Valverde de Burguillos"],
+    "scope": "municipal",
+    "type": "publico",
+    "location": "Valverde de Burguillos (Badajoz)",
+    "website": "https://agendaurbanavalverdeburguillos2030.badajoz.es/"
+  },
+  {
+    "name": "Observatorio ornitológico en Maderuelo",
+    "description": "Referencia a un observatorio ornitológico en el marco de actuaciones/planes provinciales. <a href=\"https://www.dipsegovia.es/la-institucion/servicios/plan-de-recuperaci%C3%B3n-transformaci%C3%B3n-y-resiliencia-fondos-next-generation/planes-de-sostenibilidad-tur%C3%8Dstica\">Fuente</a>.",
+    "parents": ["Diputación de Segovia"],
+    "scope": "provincial",
+    "type": "publico",
+    "website": "https://www.dipsegovia.es/la-institucion/servicios/plan-de-recuperaci%C3%B3n-transformaci%C3%B3n-y-resiliencia-fondos-next-generation/planes-de-sostenibilidad-tur%C3%8Dstica"
+  },
+  {
+    "name": "Observatorio Local de Sostenibilidad de Albacete (OLSA)",
+    "description": "Referencia al Observatorio Local de Sostenibilidad de Albacete (OLSA) en información del OPSA. <a href=\"https://observatoriosostenibilidad.dipualba.es/web/noticias/post/OPSA-OLSA-bj\">Fuente</a>.",
+    "scope": "municipal",
+    "type": "publico",
+    "location": "Albacete",
+    "website": "https://observatoriosostenibilidad.dipualba.es/web/noticias/post/OPSA-OLSA-bj"
+  },
+  {
+    "name": "Observatorio económico de la provincia de Sevilla",
+    "description": "Panel de indicadores económicos, desarrollado por el Colegio Profesional de Economistas de Sevilla con la colaboración/financiación de la Diputación de Sevilla y Prodetur. <a href=\"https://www.observatorioeconomicosevilla.com/\">Sitio web</a>.",
+    "parents": [
+      "Colegio Profesional de Economistas de Sevilla",
+      "Diputación de Sevilla",
+      "Prodetur"
+    ],
+    "scope": "provincial",
+    "type": "mixto",
+    "website": "https://www.observatorioeconomicosevilla.com/"
+  },
+  {
+    "name": "Indicadores de Administración Digital (Ayuntamiento de Madrid)",
+    "description": "Página municipal de indicadores de administración digital, presentada como instrumento de observación/seguimiento. <a href=\"https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Transformacion-Digital/Indicadores-de-Administracion-Digital/?vgnextchannel=98e57dae756be710VgnVCM2000001f4a900aRCRD&vgnextfmt=default\">Fuente</a>.",
+    "parents": ["Ayuntamiento de Madrid"],
+    "scope": "municipal",
+    "type": "publico",
+    "location": "Madrid",
+    "website": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Transformacion-Digital/Indicadores-de-Administracion-Digital/?vgnextchannel=98e57dae756be710VgnVCM2000001f4a900aRCRD&vgnextfmt=default"
+  },
+  {
+    "name": "Observatorio del Ruido (Algete)",
+    "description": "Referencia periodística a la reactivación del Observatorio del Ruido municipal. <a href=\"https://www.cronicanorte.es/el-psoe-de-algete-quiere-reactivar-el-observatorio-del-ruido/136624\">Fuente</a>.",
+    "parents": ["Ayuntamiento de Algete"],
+    "scope": "municipal",
+    "type": "publico",
+    "location": "Algete (Madrid)",
+    "website": "https://www.cronicanorte.es/el-psoe-de-algete-quiere-reactivar-el-observatorio-del-ruido/136624"
+  },
+  {
+    "name": "Observatorio de la Calidad del Aire (Algete)",
+    "description": "Referencia municipal a datos de un \"Observatorio de la Calidad del Aire\" en Algete. <a href=\"https://www.aytoalgete.es/index.php?Itemid=455&id=263%3Aalgete-reduce-contaminantes-atmosfericos-confinamiento&option=com_k2&view=item\">Fuente</a>.",
+    "parents": ["Ayuntamiento de Algete"],
+    "scope": "municipal",
+    "type": "publico",
+    "location": "Algete (Madrid)",
+    "website": "https://www.aytoalgete.es/index.php?Itemid=455&id=263%3Aalgete-reduce-contaminantes-atmosfericos-confinamiento&option=com_k2&view=item"
+  },
+  {
+    "name": "Observatorio Insular de Turismo de Fuerteventura (OITF)",
+    "location": "Puerto del Rosario, Fuerteventura (Las Palmas)",
+    "description": "Plataforma/observatorio turístico del Cabildo (Patronato de Turismo) para monitorizar tendencias y comportamiento de visitantes. <a href=\"https://www.cabildofuer.es/cabildo/el-patronato-muestra-al-sector-y-ayuntamientos-el-funcionamiento-del-observatorio-insular-de-turismo/\">Fuente</a>.",
+    "parents": [
+      "Cabildo de Fuerteventura",
+      "Patronato de Turismo de Fuerteventura"
+    ],
+    "scope": "canarias",
+    "type": "publico",
+    "website": "https://www.cabildofuer.es/cabildo/el-patronato-muestra-al-sector-y-ayuntamientos-el-funcionamiento-del-observatorio-insular-de-turismo/",
+    "coordinates": {
+      "lat": 28.4985221,
+      "lon": -13.8607685
+    }
+  },
+  {
+    "name": "Observatori / Observatorio contra la LGTBI-fòbia de Nules",
+    "location": "Nules (Castellón)",
+    "description": "Observatorio municipal contra la LGTBI-fobia promovido por el Ayuntamiento de Nules. <a href=\"https://nules.org/es/2024/04/15/nules-crea-el-primer-observatori-contra-la-lgtbi-fobia/\">Fuente</a>.",
+    "parents": ["Ayuntamiento de Nules"],
+    "scope": "municipal",
+    "type": "publico",
+    "website": "https://nules.org/es/2024/04/15/nules-crea-el-primer-observatori-contra-la-lgtbi-fobia/",
+    "coordinates": {
+      "lat": 39.8533759,
+      "lon": -0.1548132
+    }
+  },
+  {
+    "name": "Observatorio Meteorológico de Igueldo",
+    "location": "Monte Igueldo, Donostia/San Sebastián (Gipuzkoa)",
+    "description": "Reapertura y puesta en marcha del observatorio/estación meteorológica de Igeldo (Igueldo) en Donostia/San Sebastián. <a href=\"https://www.aemet.es/es/noticias/2021/12/reapertura_igueldo\">Fuente</a>.",
+    "parents": ["Agencia Estatal de Meteorología (AEMET)"],
+    "scope": "pais_vasco",
+    "type": "publico",
+    "website": "https://www.aemet.es/es/noticias/2021/12/reapertura_igueldo",
+    "coordinates": {
+      "lat": 43.3063889,
+      "lon": -2.0411111
+    }
+  },
+  {
+    "name": "Observatorio de Indicadores de la Agenda Urbana 2030 de Vitoria-Gasteiz",
+    "location": "Vitoria-Gasteiz (Álava)",
+    "description": "Observatorio/plataforma de indicadores de la Agenda Urbana 2030 de Vitoria-Gasteiz, con mejoras adicionales contratadas en 2025 (expediente 2025/CO_SSER/0076). <a href=\"https://www.euskadi.eus/anuncio_contratacion/mejoras-adicionales-para-el-desarrollo-del-observatorio-de-indicadores-de-la-agenda-urbana-2030-en-la-ciudad-de-vitoria-gasteiz/web01-s2ing/es/\">Fuente</a>.",
+    "parents": ["Ayuntamiento de Vitoria-Gasteiz"],
+    "scope": "municipal",
+    "type": "publico",
+    "website": "https://www.euskadi.eus/anuncio_contratacion/mejoras-adicionales-para-el-desarrollo-del-observatorio-de-indicadores-de-la-agenda-urbana-2030-en-la-ciudad-de-vitoria-gasteiz/web01-s2ing/es/",
+    "coordinates": {
+      "lat": 42.8468097,
+      "lon": -2.6723289
+    }
+  },
+  {
+    "name": "Observatorio de Sostenibilidad (Reserva de la Biosfera La Palma)",
+    "location": "Santa Cruz de La Palma (Santa Cruz de Tenerife)",
+    "description": "Observatorio de sostenibilidad de la Fundación Canaria Reserva Mundial de la Biosfera La Palma, orientado a la publicación de indicadores relevantes de la isla. <a href=\"https://lapalmabiosfera.es/la-fundacion-canaria-reserva-mundial-biosfera/observatorio-de-sostenibilidad/\">Fuente</a>.",
+    "parents": ["Fundación Canaria Reserva Mundial de la Biosfera La Palma"],
+    "scope": "canarias",
+    "type": "publico",
+    "website": "https://lapalmabiosfera.es/la-fundacion-canaria-reserva-mundial-biosfera/observatorio-de-sostenibilidad/",
+    "coordinates": {
+      "lat": 28.6832581,
+      "lon": -17.7661801
+    }
+  },
+  {
+    "name": "Observatorio de Empleo (Ayuntamiento de Cartagena)",
+    "location": "Cartagena (Región de Murcia)",
+    "description": "Observatorio municipal de empleo dentro del portal \"Cartagena en cifras\". <a href=\"https://www.adlecartagena.es/empleo/observatorio-municipal-de-empleo/\">Fuente</a>.",
+    "parents": ["Ayuntamiento de Cartagena"],
+    "scope": "municipal",
+    "type": "publico",
+    "website": "https://www.adlecartagena.es/empleo/observatorio-municipal-de-empleo/",
+    "coordinates": {
+      "lat": 37.6025445,
+      "lon": -0.9829459
+    }
+  },
+  {
+    "name": "Observatorio Turístico del Baix Empordà",
+    "location": "La Bisbal d'Empordà (Girona)",
+    "description": "Observatorio turístico comarcal del Baix Empordà, impulsado por el Consell Comarcal (con asesoramiento universitario). <a href=\"https://observatoriemporda.com/\">Fuente</a>.",
+    "parents": [
+      "Consell Comarcal del Baix Empordà",
+      "Universitat Autònoma de Barcelona (UAB)"
+    ],
+    "scope": "cataluna",
+    "type": "publico",
+    "website": "https://observatoriemporda.com/",
+    "coordinates": {
+      "lat": 41.958629,
+      "lon": 3.0392549
+    }
+  },
+  {
+    "name": "Observatorio Astronómico Hispano-Alemán de Calar Alto (CAHA)",
+    "location": "Sierra de los Filabres (Almería)",
+    "description": "Infraestructura científica (ICTS) de observación astronómica en Calar Alto. <a href=\"https://www.caha.es/\">Sitio web</a>. <a href=\"https://www.ciencia.gob.es/AreasTematicas/CienciaTecnologiaEInnovacion/ICTS/MapaICTS/Infraestructuras/observatorio-astronomico-hispano-aleman-de-calar-alto.html\">Referencia ICTS</a>.",
+    "parents": [
+      "Junta de Andalucía",
+      "Instituto de Astrofísica de Andalucía (IAA-CSIC)"
+    ],
+    "scope": "andalucia",
+    "type": "publico",
+    "website": "https://www.caha.es/",
+    "coordinates": {
+      "lat": 37.2236111,
+      "lon": -2.5461111
+    }
+  },
+  {
+    "name": "Observatorio Astrofísico de Javalambre (OAJ)",
+    "location": "Pico del Buitre, Sierra de Javalambre (Teruel)",
+    "description": "Infraestructura científica (ICTS) del Centro de Estudios de Física del Cosmos de Aragón (CEFCA). <a href=\"https://oaj.cefca.es/\">Sitio web</a>. <a href=\"https://www.ciencia.gob.es/AreasTematicas/CienciaTecnologiaEInnovacion/ICTS/MapaICTS/Infraestructuras/observatorio-astrofisico-de-javalambre.html\">Referencia ICTS</a>. <a href=\"https://www.cefca.es/cefca_en.php?id=12\">Coordenadas (CEFCA)</a>.",
+    "parents": ["Centro de Estudios de Física del Cosmos de Aragón (CEFCA)"],
+    "scope": "aragon",
+    "type": "publico",
+    "website": "https://oaj.cefca.es/",
+    "coordinates": {
+      "lat": 40.0418278,
+      "lon": -1.0162722
+    }
   }
 ]
