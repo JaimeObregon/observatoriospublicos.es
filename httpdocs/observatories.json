@@ -6509,6 +6509,17 @@
     "email": "No disponible"
   },
   {
+    "name": "Observatorio de Reto Demográfico de Canarias",
+    "type": "publico",
+    "website": "https://retodemograficogobcan.org/",
+    "email": "info@retodemograficogobcan.org",
+    "scope": "autonómico",
+    "from_date": "https://congresoretodemograficogobcan.org/el-gobierno-da-el-visto-bueno-a-la-estrategia-canaria-de-reto-demografico-y-cohesion-territorial/",
+    "parents": [
+      "Gobierno de Canarias"
+    ]
+  },
+  {
     "name": "Observatorio de Transición Justa de Asturias (OTJA)",
     "description": "Es una herramienta para la difusión, seguimiento y control de la evolución de las estrategias de Transición Justa en Asturias. Busca ser un espacio de diálogo y colaboración para abordar la transición energética desde una perspectiva socialmente justa y sostenible.",
     "parents": [
