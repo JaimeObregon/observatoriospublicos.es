@@ -6010,6 +6010,19 @@
     "website": "https://www.aragonhoy.es/vicepresidencia-segunda-economia-empleo-industria/gobierno-aragon-sella-ata-upta-acuerdo-desarrollar-programa-segunda-oportunidad-96693"
   },
   {
+    "name": "Observatorio Aragonés de la Actividad Física y el Deporte",
+    "type": "publico",
+    "website": "https://deporte.aragon.es/dgd/observatorio-aragones-de-la-actividad-fisica-y-el-deporte/id/2368",
+    "description": "para la consulta y asesoramiento en la elaboración y ejecución de políticas públicas en materia de actividad física y deporte de la Comunidad Autónoma de Aragón",
+    "scope": "autonómico",
+    "from_date": "2018, miembros nombrados en 2023 \nORDEN ECD/140/2023, de 8 de febrero, por la que se designan los miembros del Obser-\nvatorio Aragonés de la Actividad Física y el Deporte",
+    "parents": [
+      "Consejo Aragonés de la Actividad Física y el Deporte",
+      "Comunidad Autónoma de Aragón"
+    ],
+    "is_active": "Si"
+  },
+  {
     "description": "Iniciativa de la Dirección General de Protección de Consumidores y &nbsp;Usuarios y de la Universidad de Zaragoza para, en el marco de las líneas de investigación ya consolidadas, dar un nuevo paso en el servicio a los consumidores aragoneses, integrando la información existente en las bases de datos del Centro de Información y Documentación Aragonés de Consumo (CIDAC) —señaladamente la información de prensa y los estudios realizados por otras entidades— y el Sistema de Información de Consumo —fundamentalmente los datos sobre consultas, reclamaciones y denuncias, campañas y arbitraje—, y completándola con información procedente de forma directa del consumidor — mediante encuestas.",
     "name": "Observatorio Aragonés del Consumo",
     "parents": [
