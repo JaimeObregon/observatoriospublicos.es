@@ -1054,6 +1054,27 @@
     "from_date": "2016"
   },
   {
+    "name": "Observatorio Cultura Local en Andalucía",
+    "type": "publico",
+    "website": "https://www.famp.es/es/redes-observatorios/observatorio-cultura-local-en-andalucia/",
+    "email": "igualdad.redes@famp.es",
+    "description": "El Observatorio de la Cultura Local de Andalucía es una herramienta telemática entendida como un elemento conservador de la memoria cultural, que habrá de potenciar los elementos culturales comunes desde la diversidad, gracias a su capacidad de comunicación a través de las nuevas tecnologías en nuestra tarea de extender, al tiempo que, ampliar el concepto de patrimonio cultural local.\n\nDesde la convicción de la importancia de las nuevas tecnologías de la comunicación para la consideración, difusión y didáctica del patrimonio cultural en el seno de la denominada Sociedad de la Información y del Conocimiento, ello ha de permitir y potenciar el desarrollo local sostenible y, por tanto, la generación de empleo; asimismo, la comprensión del patrimonio cultural como vía de respeto muto entre la ciudadanía, destacando el valor histórico, ético y de convivencia ha de entrar a formar parte de una Red de Excelencia en Cultura Digital.",
+    "scope": "estatal",
+    "from_date": "05/01/2009",
+    "parents": [
+      "Federación Andaluza de Municipios y Provincias"
+    ],
+    "docs": [
+      {
+        "name": "Guía Municipal para el fomento de las Industrias Culturales de Andalucía. (2010)"
+      },
+      {
+        "url": "https://www.famp.es/export/sites/famp/.galleries/documentos-obs-cultura-local/boletin3.pdf"
+      }
+    ],
+    "is_active": "Si"
+  },
+  {
     "name": "Observatorio Galego de Educación Ambiental",
     "scope": "galicia"
   },
